@@ -259,6 +259,10 @@
 
 
 
+### [7.2.0-beta.20200708](https://github.com/stashed/elasticsearch/releases/tag/7.2.0-beta.20200708)
+
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
