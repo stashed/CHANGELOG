@@ -1,0 +1,184 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.07.08-beta.0",
+  "release_date": "2020-07-08T16:55:10.345614488Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.07.08-beta.0",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.10.0-beta.0",
+          "commits": [
+            {
+              "SHA": "843421e4",
+              "Subject": "Show AppsCode in copyright file header (#26)"
+            },
+            {
+              "SHA": "ad462cc4",
+              "Subject": "Update to Kubernetes v1.18.3 (#25)"
+            },
+            {
+              "SHA": "28d53699",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "34624044",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "5f5de63c",
+              "Subject": "Fix openapi path (#24)"
+            },
+            {
+              "SHA": "6e0ad5f8",
+              "Subject": "Add script to update release tracker on pr merge (#23)"
+            },
+            {
+              "SHA": "cbf9b376",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "d12b3d4b",
+              "Subject": "Update to Kubernetes v1.18.3 (#21)"
+            },
+            {
+              "SHA": "1956a312",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "c3966002",
+              "Subject": "Unwrap top level api folder (#20)"
+            },
+            {
+              "SHA": "5ba03fb5",
+              "Subject": "Update to Kubernetes v1.18.3 (#19)"
+            },
+            {
+              "SHA": "abeb620e",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "6fdf8a60",
+              "Subject": "Enable https://kodiakhq.com (#13)"
+            },
+            {
+              "SHA": "479258ed",
+              "Subject": "Update dev scripts (#12)"
+            },
+            {
+              "SHA": "a85ced99",
+              "Subject": "Merge pull request #11 from stashed/k8s-gomod-refresher-1591208266"
+            },
+            {
+              "SHA": "82df6f26",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "788f6921",
+              "Subject": "Add default annotation for Snapshotter (#9)"
+            },
+            {
+              "SHA": "d2f3f5d4",
+              "Subject": "Remove defaults from crd v1beta1 YAML (#8)"
+            },
+            {
+              "SHA": "1a09ffde",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "58525b4b",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "c34c2ec1",
+              "Subject": "Generate both v1beta1 and v1 CRD YAML (#7)"
+            },
+            {
+              "SHA": "e81205a3",
+              "Subject": "Bring back mistakenly removed SetRecoveryStats"
+            },
+            {
+              "SHA": "5f8cf3a6",
+              "Subject": "Merge pull request #6 from stashed/k-1.18.3"
+            },
+            {
+              "SHA": "723f4de9",
+              "Subject": "Add context to crd utils"
+            },
+            {
+              "SHA": "59478af4",
+              "Subject": "Update to Kubernetes 1.18.3"
+            },
+            {
+              "SHA": "e83b90a7",
+              "Subject": "Merge pull request #3 from stashed/wait-for-target"
+            },
+            {
+              "SHA": "a5b9a011",
+              "Subject": "Simplify targetMatched() function"
+            },
+            {
+              "SHA": "58948bd9",
+              "Subject": "Refactor"
+            },
+            {
+              "SHA": "5568cb90",
+              "Subject": "Add RestoreSession conditions"
+            },
+            {
+              "SHA": "906c5910",
+              "Subject": "Add TypeMeta to invoker"
+            },
+            {
+              "SHA": "22843fdb",
+              "Subject": "Use Go 1.14.3"
+            },
+            {
+              "SHA": "238d1bd0",
+              "Subject": "Add backup invoker condition transion reasons"
+            },
+            {
+              "SHA": "275965f9",
+              "Subject": "Introduce conditions for BackupConfiguration and BackupBatch"
+            },
+            {
+              "SHA": "35159c81",
+              "Subject": "Merge pull request #5 from stashed/fix-updatestatus"
+            },
+            {
+              "SHA": "f1d78326",
+              "Subject": "Fix helper methods"
+            },
+            {
+              "SHA": "dbb02873",
+              "Subject": "Fix UpdateStatus() function"
+            },
+            {
+              "SHA": "a7bd75ad",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "1d65a7d4",
+              "Subject": "Use recommended kubernetes app labels (#4)"
+            },
+            {
+              "SHA": "5b322e9f",
+              "Subject": "Add Enum markers to api types"
+            },
+            {
+              "SHA": "e6017151",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "54097441",
+              "Subject": "Use kubectl v1.17 (#1)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
