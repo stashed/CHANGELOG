@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.07.08-beta.0",
-  "release_date": "2020-07-08T19:39:26.782739321Z",
+  "release_date": "2020-07-08T19:39:32.958964972Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.07.08-beta.0",
   "kubernetes_version": "1.12+",
@@ -1614,6 +1614,10 @@
         },
         {
           "tag": "4.1.7-beta.20200708",
+          "commits": null
+        },
+        {
+          "tag": "4.2.3-beta.20200708",
           "commits": null
         }
       ]
