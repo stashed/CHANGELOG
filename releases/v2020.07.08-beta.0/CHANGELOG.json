@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.07.08-beta.0",
-  "release_date": "2020-07-08T19:54:26.12760237Z",
+  "release_date": "2020-07-08T19:54:32.333683299Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.07.08-beta.0",
   "kubernetes_version": "1.12+",
@@ -2261,6 +2261,10 @@
               "Subject": "Update user guide (#94)"
             }
           ]
+        },
+        {
+          "tag": "8.0.14-beta.20200708",
+          "commits": null
         }
       ]
     },
