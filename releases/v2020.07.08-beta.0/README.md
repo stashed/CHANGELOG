@@ -638,6 +638,10 @@
 - [60ed8f7](https://github.com/stashed/mysql/commit/60ed8f7) Update user guide (#94)
 
 
+### [8.0.3-beta.20200708](https://github.com/stashed/mysql/releases/tag/8.0.3-beta.20200708)
+
+
+
 ### [8.0.14-beta.20200708](https://github.com/stashed/mysql/releases/tag/8.0.14-beta.20200708)
 
 
