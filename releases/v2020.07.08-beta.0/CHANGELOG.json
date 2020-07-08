@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.07.08-beta.0",
-  "release_date": "2020-07-08T17:20:16.357896229Z",
+  "release_date": "2020-07-08T19:20:57.711713838Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.07.08-beta.0",
   "kubernetes_version": "1.12+",
@@ -265,6 +265,644 @@
             {
               "SHA": "3943575",
               "Subject": "Trigger the workflow on push or pull request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-beta.20200708",
+          "commits": [
+            {
+              "SHA": "7115da1",
+              "Subject": "Prepare for release 5.6.4-beta.20200708 (#87)"
+            },
+            {
+              "SHA": "f5ab33d",
+              "Subject": "[cherry-pick] Publish to testing dir for alpha/beta releases (#78) (#79)"
+            },
+            {
+              "SHA": "7d73d30",
+              "Subject": "[cherry-pick] Update License (#69) (#70)"
+            },
+            {
+              "SHA": "04e8a63",
+              "Subject": "Add commands to update chart version (#68)"
+            },
+            {
+              "SHA": "3a5cd78",
+              "Subject": "[cherry-pick] Update update-release-tracker.sh (#60)"
+            },
+            {
+              "SHA": "77bb76e",
+              "Subject": "[cherry-pick] Update update-release-tracker.sh (#52)"
+            },
+            {
+              "SHA": "3b47ba6",
+              "Subject": "[cherry-pick] Update release.yml (#43) (#44)"
+            },
+            {
+              "SHA": "444cb3b",
+              "Subject": "[cherry-pick] Add script to update release tracker on pr merge (#34) (#35)"
+            },
+            {
+              "SHA": "d349617",
+              "Subject": "[cherry-pick] Add workflow to cherry pick commits to master (#25) (#26)"
+            },
+            {
+              "SHA": "4038abd",
+              "Subject": "Fix chart release process (#24)"
+            },
+            {
+              "SHA": "895a73f",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "6b9451c",
+              "Subject": "Allow overwriting secret key via SecretTransformation (#23)"
+            },
+            {
+              "SHA": "0fcb64e",
+              "Subject": "Make waitTimeout Configurable through flag (#22)"
+            },
+            {
+              "SHA": "b3859b9",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "c0f3b97",
+              "Subject": "Update to Kubernetes v1.18.3 (#21)"
+            },
+            {
+              "SHA": "210dd08",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "5c74a42",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "76424d0",
+              "Subject": "Auto generate chart readme file"
+            },
+            {
+              "SHA": "fc144c2",
+              "Subject": "Correctly mark optional fields"
+            },
+            {
+              "SHA": "3559c2c",
+              "Subject": "Add openapi v3 schema for values file (#18)"
+            },
+            {
+              "SHA": "46b8654",
+              "Subject": "Update CI configuration"
+            },
+            {
+              "SHA": "5c15319",
+              "Subject": "Add support for providing s3 region (#17)"
+            },
+            {
+              "SHA": "c1b75a9",
+              "Subject": "Make output.json file writable to all users + Fix Flag types (#16)"
+            },
+            {
+              "SHA": "f6d9709",
+              "Subject": "Update hugo frontmatter for stash website"
+            },
+            {
+              "SHA": "5ef236a",
+              "Subject": "Enable race detector in e2e tests"
+            },
+            {
+              "SHA": "1980a77",
+              "Subject": "Test installers (#14)"
+            },
+            {
+              "SHA": "63a8396",
+              "Subject": "Fix broken link and add AppBinding scheme field (#15)"
+            },
+            {
+              "SHA": "82d3e7c",
+              "Subject": "Add license header to files (#13)"
+            },
+            {
+              "SHA": "c0241d4",
+              "Subject": "Enable make ci (#12)"
+            },
+            {
+              "SHA": "52f71de",
+              "Subject": "Fix BackupSession's Print Columns (#11)"
+            },
+            {
+              "SHA": "91964a5",
+              "Subject": "Enable make ci (#10)"
+            },
+            {
+              "SHA": "a804cb0",
+              "Subject": "Remove --enable-status-subresource flag (#9)"
+            },
+            {
+              "SHA": "57c4898",
+              "Subject": "Fix argument passing (#8)"
+            },
+            {
+              "SHA": "15b1b3c",
+              "Subject": "Add release pipeline (#7)"
+            },
+            {
+              "SHA": "b02e1ad",
+              "Subject": "Prepare for 5.6.4 release"
+            },
+            {
+              "SHA": "7161616",
+              "Subject": "Prepare for 5.6 release"
+            },
+            {
+              "SHA": "7baf065",
+              "Subject": "Update go.yml"
+            },
+            {
+              "SHA": "c8b18b0",
+              "Subject": "Fix typo (#6)"
+            },
+            {
+              "SHA": "32445a6",
+              "Subject": "Use InterimVolumeTemplate + Finalize doc template (#5)"
+            },
+            {
+              "SHA": "16d35ec",
+              "Subject": "Enable GitHub actions"
+            },
+            {
+              "SHA": "acfb971",
+              "Subject": "Improve error handling + remove metrics handling part (#4)"
+            },
+            {
+              "SHA": "7e94690",
+              "Subject": "Use docker buildx to build docker image"
+            },
+            {
+              "SHA": "6e388ff",
+              "Subject": "Use github.com/Azure/go-autorest/autorest@v0.7.0"
+            },
+            {
+              "SHA": "6a82a60",
+              "Subject": "Fix version suffix (#3)"
+            },
+            {
+              "SHA": "2136ee6",
+              "Subject": "Various fixes (#2)"
+            },
+            {
+              "SHA": "d98b25a",
+              "Subject": "Update Chart.yaml"
+            },
+            {
+              "SHA": "806bf8c",
+              "Subject": "Fixed elasticdump & added docs (#1)"
+            },
+            {
+              "SHA": "3c99f3c",
+              "Subject": "Reorganize repo"
+            },
+            {
+              "SHA": "1972a9a",
+              "Subject": "VolumeSnapshot (#787)"
+            },
+            {
+              "SHA": "3f1f4cf",
+              "Subject": "Remove importance of order of rule in RestoreSession (#795)"
+            },
+            {
+              "SHA": "86a4af0",
+              "Subject": "Skip BackupSession creation if target does not exist + use timestamp … (#797)"
+            },
+            {
+              "SHA": "3abe6f6",
+              "Subject": "Use restic 0.9.5 (#789)"
+            },
+            {
+              "SHA": "85b21bf",
+              "Subject": "Update concept doc (#739)"
+            },
+            {
+              "SHA": "ad5c8f2",
+              "Subject": "Add support for backup cluster resources YAML (#721)"
+            },
+            {
+              "SHA": "2bb8ec3",
+              "Subject": "Backup and restore Elasticsearch (#702)"
+            },
+            {
+              "SHA": "1f21268",
+              "Subject": "Update package path to stash.appscode.dev/stash (#776)"
+            },
+            {
+              "SHA": "e8fb571",
+              "Subject": "Update to k8s 1.14.0 client libraries using go.mod (#775)"
+            },
+            {
+              "SHA": "eab0f8e",
+              "Subject": "Remove --rbac flag (#761)"
+            },
+            {
+              "SHA": "4c3e7ea",
+              "Subject": "Skip creating/processing backup-session when backup-config is paused (#759)"
+            },
+            {
+              "SHA": "7905eff",
+              "Subject": "Stash v1beta1 E2E test for PVC (#753)"
+            },
+            {
+              "SHA": "2c44ee8",
+              "Subject": "Implement snapshots for v1beta1 api (#749)"
+            },
+            {
+              "SHA": "c88df7a",
+              "Subject": "Run restic commands using docker (#754)"
+            },
+            {
+              "SHA": "8e24d32",
+              "Subject": "Fixed scratch-dir, output-dir and hostname in functions/tasks yamls (#744)"
+            },
+            {
+              "SHA": "8d5944d",
+              "Subject": "Add Stash CLI (#734)"
+            },
+            {
+              "SHA": "550ab37",
+              "Subject": "Apply nice/ionice settings from env (#746)"
+            },
+            {
+              "SHA": "42ed76b",
+              "Subject": "Stash V1beta1 E2E test for Deployment (#710)"
+            },
+            {
+              "SHA": "d63f9e9",
+              "Subject": "Fix openapi path prefixes for validators and mutators (#732)"
+            },
+            {
+              "SHA": "c1347ed",
+              "Subject": "Add max-connections for GCS, Azure, B2 backend (#730)"
+            },
+            {
+              "SHA": "859c4ee",
+              "Subject": "Rename admission webhooks to avoid name collision (#725)"
+            },
+            {
+              "SHA": "d631bb9",
+              "Subject": "Apply EmptyDir settings to TmpDir (#719)"
+            },
+            {
+              "SHA": "cc70068",
+              "Subject": "Add support for rest backend (#713)"
+            },
+            {
+              "SHA": "e4db000",
+              "Subject": "Add support for OpenShift DeploymentConfig (#714)"
+            },
+            {
+              "SHA": "3fa7bdb",
+              "Subject": "Backup and restore Mongo DB (#699)"
+            },
+            {
+              "SHA": "4c39235",
+              "Subject": "Backup and restore MySQL DB (#696)"
+            },
+            {
+              "SHA": "3e89d32",
+              "Subject": "Backup and restore Postgres DB (#695)"
+            },
+            {
+              "SHA": "03b95f3",
+              "Subject": "Add BackupSession Controller for Sidecar (#701)"
+            },
+            {
+              "SHA": "cacbc7d",
+              "Subject": "Update workload controller for new design (#675)"
+            },
+            {
+              "SHA": "5c173e5",
+              "Subject": " Post backup/restore status update (#691)"
+            },
+            {
+              "SHA": "50bbb0a",
+              "Subject": "Backup and restore PVC (#676)"
+            },
+            {
+              "SHA": "d4a53e2",
+              "Subject": "Add BackupConfiguration Controller (#671)"
+            },
+            {
+              "SHA": "ef9a4ae",
+              "Subject": "Update Kubernetes client libraries to 1.13.0 (#687)"
+            },
+            {
+              "SHA": "c48dbfc",
+              "Subject": "Separate type definitions into individual files (#646)"
+            },
+            {
+              "SHA": "77f2113",
+              "Subject": "Use flags.DumpAll to dump flags (#624)"
+            },
+            {
+              "SHA": "cb54d8c",
+              "Subject": "Set periodic analytics (#623)"
+            },
+            {
+              "SHA": "248a53a",
+              "Subject": "Add validation webhook xray (#618)"
+            },
+            {
+              "SHA": "2029bf4",
+              "Subject": "Use dynamic pushgateway url (#614)"
+            },
+            {
+              "SHA": "bcf5926",
+              "Subject": "Fix offline backup (#537)"
+            },
+            {
+              "SHA": "5049a63",
+              "Subject": "Fix extended apiserver issues with Kubernetes 1.11 (#536)"
+            },
+            {
+              "SHA": "9d31255",
+              "Subject": "Update client-go to v8.0.0 (#528)"
+            },
+            {
+              "SHA": "d872b4c",
+              "Subject": "Enable status subresource for crds (#524)"
+            },
+            {
+              "SHA": "4795dba",
+              "Subject": "Remove ops-address port (#518)"
+            },
+            {
+              "SHA": "e95b151",
+              "Subject": "Add support for initial backoff to the apiserver call on recover (#476)"
+            },
+            {
+              "SHA": "120e5de",
+              "Subject": "Disable admission controllers for webhook server (#468)"
+            },
+            {
+              "SHA": "2f19545",
+              "Subject": "Update client-go to 7.0.0 (#463)"
+            },
+            {
+              "SHA": "e613ff5",
+              "Subject": "Fixes RBAC issue in test (#449)"
+            },
+            {
+              "SHA": "56a3a74",
+              "Subject": "Some cleanup (#446)"
+            },
+            {
+              "SHA": "02565bb",
+              "Subject": "Delete restic repository from backend if Repository CRD is deleted (#438)"
+            },
+            {
+              "SHA": "ea98067",
+              "Subject": "Fix go_vet error (#440)"
+            },
+            {
+              "SHA": "9d626eb",
+              "Subject": "Increase qps and burst limits (#435)"
+            },
+            {
+              "SHA": "5c6713f",
+              "Subject": "Show repository snapshot list (#417)"
+            },
+            {
+              "SHA": "6d8ef78",
+              "Subject": "Expose swagger.json (#420)"
+            },
+            {
+              "SHA": "8e04ca0",
+              "Subject": "Create repository crd for each Restic repository (#394)"
+            },
+            {
+              "SHA": "4c9a478",
+              "Subject": "Rename --analytics to --enable-analytics (#384)"
+            },
+            {
+              "SHA": "7ea2220",
+              "Subject": "Replace initializers with mutation webhook for workloads (#363)"
+            },
+            {
+              "SHA": "2770e6b",
+              "Subject": "Use admission hook helpers from kutil (#360)"
+            },
+            {
+              "SHA": "d3754d7",
+              "Subject": "Implement offline backup for multiple replica (#335)"
+            },
+            {
+              "SHA": "13a2d14",
+              "Subject": "Use official code generator scripts (#336)"
+            },
+            {
+              "SHA": "90642ce",
+              "Subject": "Fix e2e tests after webhook merger (#333)"
+            },
+            {
+              "SHA": "2fc3239",
+              "Subject": "Leave secure port unset"
+            },
+            {
+              "SHA": "7cb52b2",
+              "Subject": "Merge admission webhook and operator into one binary (#329)"
+            },
+            {
+              "SHA": "3306427",
+              "Subject": "Implement informer factory for backup scheduler (#325)"
+            },
+            {
+              "SHA": "7bb027b",
+              "Subject": "Cleanup apiserver"
+            },
+            {
+              "SHA": "fb8c1e4",
+              "Subject": "Copy generic-admission-server into pkg (#318)"
+            },
+            {
+              "SHA": "5a5093f",
+              "Subject": "Use shared infromer factory (#317)"
+            },
+            {
+              "SHA": "0ccb948",
+              "Subject": "Use GetBaseVersion method from kutil (#316)"
+            },
+            {
+              "SHA": "8c5e6ff",
+              "Subject": "Fix webhook command description (#314)"
+            },
+            {
+              "SHA": "775a2b6",
+              "Subject": "Merge webhook plugins into one. (#311)"
+            },
+            {
+              "SHA": "a8659fe",
+              "Subject": "Add ValidatingAdmissionWebhook for Stash CRDs (#299)"
+            },
+            {
+              "SHA": "c3e177c",
+              "Subject": "Added support for private docker registry (#300)"
+            },
+            {
+              "SHA": "62ec42e",
+              "Subject": "Update dependencies to Kubernetes 1.9 (#297)"
+            },
+            {
+              "SHA": "cf3ea7c",
+              "Subject": "Update appscode/go log wrapper (#287)"
+            },
+            {
+              "SHA": "470cc31",
+              "Subject": "Pass --pushgateway-url for injected containers. (#284)"
+            },
+            {
+              "SHA": "e2e79c6",
+              "Subject": "Fix kubectl version parsing generation in GKE (#267)"
+            },
+            {
+              "SHA": "326aea4",
+              "Subject": "Detect analytics client id using env vars (#265)"
+            },
+            {
+              "SHA": "4a5912c",
+              "Subject": "Prepare docs for 0.6.0 release (#264)"
+            },
+            {
+              "SHA": "f75d5df",
+              "Subject": "Remove restic-dependency from recovery (#258)"
+            },
+            {
+              "SHA": "86f01f3",
+              "Subject": "Log operator version on start (#253)"
+            },
+            {
+              "SHA": "4e29b70",
+              "Subject": "Simplify clientID generation for analytics (#247)"
+            },
+            {
+              "SHA": "a45937f",
+              "Subject": "Set analytics clientID (#246)"
+            },
+            {
+              "SHA": "ea53cea",
+              "Subject": "Enable Restic cahce-dir flag (#241)"
+            },
+            {
+              "SHA": "dc0030d",
+              "Subject": "Implement offline backup (#229)"
+            },
+            {
+              "SHA": "ae40f35",
+              "Subject": "Revendor kutil (#230)"
+            },
+            {
+              "SHA": "d68a34d",
+              "Subject": "Record recovery status for individual FileGroup (#222)"
+            },
+            {
+              "SHA": "15a24b7",
+              "Subject": "Leader election for deployment, replica set and rc (#206)"
+            },
+            {
+              "SHA": "4a75689",
+              "Subject": "Implement Recovery for Restic Backup (#202)"
+            },
+            {
+              "SHA": "78b3942",
+              "Subject": "Use typed versioned client for CRD"
+            },
+            {
+              "SHA": "b857b05",
+              "Subject": "Change `k8s.io/api/core/v1` pkg alias to core (#204)"
+            },
+            {
+              "SHA": "e52f848",
+              "Subject": "Use client-go 5.x"
+            },
+            {
+              "SHA": "4f376ad",
+              "Subject": "Set hostname based on resource type (#198)"
+            },
+            {
+              "SHA": "e530116",
+              "Subject": "Manage RoleBinding for rbac enabled cluster (#197)"
+            },
+            {
+              "SHA": "e28c13f",
+              "Subject": "Use workqueue for scheduler (#194)"
+            },
+            {
+              "SHA": "2719cbd",
+              "Subject": "Fix e2e tests (#183)"
+            },
+            {
+              "SHA": "9c1cc43",
+              "Subject": "Use workqueue (#182)"
+            },
+            {
+              "SHA": "b3ee076",
+              "Subject": "Only watch apps/v1beta1 Deployment (#178)"
+            },
+            {
+              "SHA": "4f92ca6",
+              "Subject": "Use Namespace() method from kutil."
+            },
+            {
+              "SHA": "78f1e7f",
+              "Subject": "Update kutil (#170)"
+            },
+            {
+              "SHA": "29a8a1f",
+              "Subject": "Use apis/v1alpha1 instead of internal version (#167)"
+            },
+            {
+              "SHA": "da3eb2e",
+              "Subject": "Use kubernetes/code-generator (#163)"
+            },
+            {
+              "SHA": "3b1d6bf",
+              "Subject": "Expose resync-period as flag"
+            },
+            {
+              "SHA": "35d8dc6",
+              "Subject": "Move analytics collector to root command (#164)"
+            },
+            {
+              "SHA": "6a55694",
+              "Subject": "Migrate TPR to CRD (#160)"
+            },
+            {
+              "SHA": "91f678f",
+              "Subject": "Rename RepositorySecretName to StorageSecretName (#135)"
+            },
+            {
+              "SHA": "d666c81",
+              "Subject": "Change mount path for labels to /etc/stash"
+            },
+            {
+              "SHA": "1177d60",
+              "Subject": "Part 6 - Update docs (#121)"
+            },
+            {
+              "SHA": "a15689d",
+              "Subject": "Various bug fixes (#118)"
+            },
+            {
+              "SHA": "d8a5771",
+              "Subject": "Set TMPDIR env var for restic (#115)"
+            },
+            {
+              "SHA": "60ed8f7",
+              "Subject": "Update user guide (#94)"
             }
           ]
         }
