@@ -49,6 +49,13 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2020.07.08-beta.0](https://github.com/stashed/catalog/releases/tag/v2020.07.08-beta.0)
+
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.10.0-beta.0](https://github.com/stashed/cli/releases/tag/v0.10.0-beta.0)
