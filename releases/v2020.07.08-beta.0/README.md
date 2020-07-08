@@ -433,6 +433,10 @@
 - [60ed8f7](https://github.com/stashed/mongodb/commit/60ed8f7) Update user guide (#94)
 
 
+### [3.4.2-beta.20200708](https://github.com/stashed/mongodb/releases/tag/3.4.2-beta.20200708)
+
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
