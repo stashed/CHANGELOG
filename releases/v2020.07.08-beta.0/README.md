@@ -465,6 +465,10 @@
 
 
 
+### [4.1.7-beta.20200708](https://github.com/stashed/mongodb/releases/tag/4.1.7-beta.20200708)
+
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
