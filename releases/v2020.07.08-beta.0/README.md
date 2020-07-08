@@ -90,4 +90,8 @@
 
 
 
+### [11.2-beta.20200708](https://github.com/stashed/postgres/releases/tag/11.2-beta.20200708)
+
+
+
 
