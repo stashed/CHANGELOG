@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.07.08-beta.0",
-  "release_date": "2020-07-08T16:55:10.345614488Z",
+  "release_date": "2020-07-08T17:01:10.720204535Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.07.08-beta.0",
   "kubernetes_version": "1.12+",
@@ -175,6 +175,96 @@
             {
               "SHA": "54097441",
               "Subject": "Use kubectl v1.17 (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.10.0-beta.0",
+          "commits": [
+            {
+              "SHA": "3728110",
+              "Subject": "Prepare for release v0.10.0-beta.0 (#26)"
+            },
+            {
+              "SHA": "e7111a5",
+              "Subject": "Update License"
+            },
+            {
+              "SHA": "7fe1e07",
+              "Subject": "Update to Kubernetes v1.18.3 (#25)"
+            },
+            {
+              "SHA": "66b3b46",
+              "Subject": "Shorten command name for cli (#24)"
+            },
+            {
+              "SHA": "b913cfc",
+              "Subject": "Add workflow to update docs (#23)"
+            },
+            {
+              "SHA": "1881c64",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "0548bdc",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "b1b28ff",
+              "Subject": "Use GITHUB_BASE_REF to detect target branch"
+            },
+            {
+              "SHA": "1e16b99",
+              "Subject": "Add script to update release tracker on pr merge (#21)"
+            },
+            {
+              "SHA": "f91bf33",
+              "Subject": "Make release non-draft"
+            },
+            {
+              "SHA": "d29bdb6",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "b727108",
+              "Subject": "Update to Kubernetes v1.18.3 (#20)"
+            },
+            {
+              "SHA": "f3f03aa",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "bcd7c5e",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "9882aa2",
+              "Subject": "Add blank line after license header (#19)"
+            },
+            {
+              "SHA": "7774218",
+              "Subject": "Update dev scripts (#18)"
+            },
+            {
+              "SHA": "38eb35c",
+              "Subject": "Run unit tests against SRC_PKGS"
+            },
+            {
+              "SHA": "526949c",
+              "Subject": "Update to Kubernetes v1.18.3 (#17)"
+            },
+            {
+              "SHA": "fc3e6c5",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "3943575",
+              "Subject": "Trigger the workflow on push or pull request"
             }
           ]
         }
