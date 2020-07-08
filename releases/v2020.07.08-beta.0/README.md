@@ -82,4 +82,8 @@
 
 
 
+### [10.6-beta.20200708](https://github.com/stashed/postgres/releases/tag/10.6-beta.20200708)
+
+
+
 
