@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.07.08-beta.0",
-  "release_date": "2020-07-08T17:01:10.720204535Z",
+  "release_date": "2020-07-08T17:19:49.328257379Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.07.08-beta.0",
   "kubernetes_version": "1.12+",
@@ -267,6 +267,15 @@
               "Subject": "Trigger the workflow on push or pull request"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "10.2-beta.20200708",
+          "commits": null
         }
       ]
     }

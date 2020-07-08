@@ -76,3 +76,10 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.2-beta.20200708](https://github.com/stashed/postgres/releases/tag/10.2-beta.20200708)
+
+
+
+
