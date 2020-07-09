@@ -8,6 +8,14 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2020.07.09-beta.0](https://github.com/stashed/catalog/releases/tag/v2020.07.09-beta.0)
+
+- [e822d2a](https://github.com/stashed/catalog/commit/e822d2a) Prepare for release v2020.07.09-beta.0 (#32)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.10.0-beta.1](https://github.com/stashed/cli/releases/tag/v0.10.0-beta.1)
