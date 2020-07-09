@@ -144,6 +144,12 @@
 - [e345110](https://github.com/stashed/mysql/commit/e345110) [cherry-pick] Build docker image in release workflow (#59) (#60)
 
 
+### [8.0.14-beta.20200709](https://github.com/stashed/mysql/releases/tag/8.0.14-beta.20200709)
+
+- [bf2dd2d](https://github.com/stashed/mysql/commit/bf2dd2d) Prepare for release 8.0.14-beta.20200709 (#64)
+- [226b3a9](https://github.com/stashed/mysql/commit/226b3a9) [cherry-pick] Build docker image in release workflow (#59) (#61)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
