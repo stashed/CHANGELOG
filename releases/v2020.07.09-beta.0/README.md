@@ -24,6 +24,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.07.09-beta.0](https://github.com/stashed/docs/releases/tag/v2020.07.09-beta.0)
+
+- [88e7c91](https://github.com/stashed/docs/commit/88e7c91) Prepare for release v2020.07.09-beta.0 (#77)
+- [0e8c71f](https://github.com/stashed/docs/commit/0e8c71f) Delete _index.md
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-beta.20200709](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-beta.20200709)
