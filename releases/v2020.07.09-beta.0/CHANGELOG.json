@@ -1,0 +1,496 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.07.09-beta.0",
+  "release_date": "2020-07-09T20:51:02.373843938Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.07.09-beta.0",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.10.0-beta.1",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2020.07.09-beta.0",
+          "commits": [
+            {
+              "SHA": "8d8c566",
+              "Subject": "Prepare for release v2020.07.09-beta.0 (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/catalog",
+      "releases": [
+        {
+          "tag": "v2020.07.09-beta.0",
+          "commits": [
+            {
+              "SHA": "e822d2a",
+              "Subject": "Prepare for release v2020.07.09-beta.0 (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.10.0-beta.1",
+          "commits": [
+            {
+              "SHA": "250372c",
+              "Subject": "Prepare for release v0.10.0-beta.1 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2020.07.09-beta.0",
+          "commits": [
+            {
+              "SHA": "88e7c91",
+              "Subject": "Prepare for release v2020.07.09-beta.0 (#77)"
+            },
+            {
+              "SHA": "0e8c71f",
+              "Subject": "Delete _index.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-beta.20200709",
+          "commits": [
+            {
+              "SHA": "4f6f04d",
+              "Subject": "Prepare for release 5.6.4-beta.20200709 (#105)"
+            },
+            {
+              "SHA": "c0b63a8",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#96) (#97)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-beta.20200709",
+          "commits": [
+            {
+              "SHA": "eb90a4d",
+              "Subject": "Prepare for release 6.2.4-beta.20200709 (#106)"
+            },
+            {
+              "SHA": "341d4ad",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#96) (#98)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-beta.20200709",
+          "commits": [
+            {
+              "SHA": "ba97538",
+              "Subject": "Prepare for release 6.3.0-beta.20200709 (#107)"
+            },
+            {
+              "SHA": "fe8fad4",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#96) (#99)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-beta.20200709",
+          "commits": [
+            {
+              "SHA": "223de60",
+              "Subject": "Prepare for release 6.4.0-beta.20200709 (#108)"
+            },
+            {
+              "SHA": "3eb01b0",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#96) (#100)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-beta.20200709",
+          "commits": [
+            {
+              "SHA": "27ca5d7",
+              "Subject": "Prepare for release 6.5.3-beta.20200709 (#109)"
+            },
+            {
+              "SHA": "cfc95c6",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#96) (#101)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-beta.20200709",
+          "commits": [
+            {
+              "SHA": "ebff50b",
+              "Subject": "Prepare for release 6.8.0-beta.20200709 (#110)"
+            },
+            {
+              "SHA": "c4322e7",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#96) (#102)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-beta.20200709",
+          "commits": [
+            {
+              "SHA": "bf94d4d",
+              "Subject": "Prepare for release 7.2.0-beta.20200709 (#111)"
+            },
+            {
+              "SHA": "d1cdabd",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#96) (#103)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-beta.20200709",
+          "commits": [
+            {
+              "SHA": "d0e8ff7",
+              "Subject": "Prepare for release 7.3.2-beta.20200709 (#112)"
+            },
+            {
+              "SHA": "0b0df2e",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#96) (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.10.0-beta.1",
+          "commits": [
+            {
+              "SHA": "bed8319",
+              "Subject": "Prepare for release v0.10.0-beta.1 (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.1-beta.20200709",
+          "commits": [
+            {
+              "SHA": "a354b6c",
+              "Subject": "Prepare for release 3.4.1-beta.20200709 (#114)"
+            },
+            {
+              "SHA": "2269fa6",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#103)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.2-beta.20200709",
+          "commits": [
+            {
+              "SHA": "735aea9",
+              "Subject": "Prepare for release 3.4.2-beta.20200709 (#115)"
+            },
+            {
+              "SHA": "b871884",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#104)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.1-beta.20200709",
+          "commits": [
+            {
+              "SHA": "38ec877",
+              "Subject": "Prepare for release 3.6.1-beta.20200709 (#116)"
+            },
+            {
+              "SHA": "6fd28b2",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#105)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-beta.20200709",
+          "commits": [
+            {
+              "SHA": "a95f051",
+              "Subject": "Prepare for release 3.6.8-beta.20200709 (#117)"
+            },
+            {
+              "SHA": "8f74e62",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#106)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.1-beta.20200709",
+          "commits": [
+            {
+              "SHA": "4168a4b",
+              "Subject": "Prepare for release 4.0.1-beta.20200709 (#118)"
+            },
+            {
+              "SHA": "90723f4",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#107)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-beta.20200709",
+          "commits": [
+            {
+              "SHA": "b7719bd",
+              "Subject": "Prepare for release 4.0.3-beta.20200709 (#119)"
+            },
+            {
+              "SHA": "7c9074d",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#108)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-beta.20200709",
+          "commits": [
+            {
+              "SHA": "78ab8d2",
+              "Subject": "Prepare for release 4.0.5-beta.20200709 (#120)"
+            },
+            {
+              "SHA": "12af669",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#109)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.1-beta.20200709",
+          "commits": [
+            {
+              "SHA": "923bd88",
+              "Subject": "Prepare for release 4.1.1-beta.20200709 (#121)"
+            },
+            {
+              "SHA": "2bae7f7",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#110)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-beta.20200709",
+          "commits": [
+            {
+              "SHA": "e3cd383",
+              "Subject": "Prepare for release 4.1.4-beta.20200709 (#122)"
+            },
+            {
+              "SHA": "a310c43",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#111)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-beta.20200709",
+          "commits": [
+            {
+              "SHA": "3eccd08",
+              "Subject": "Prepare for release 4.1.7-beta.20200709 (#123)"
+            },
+            {
+              "SHA": "6377c55",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#112)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-beta.20200709",
+          "commits": [
+            {
+              "SHA": "149e6ba",
+              "Subject": "Prepare for release 4.2.3-beta.20200709 (#124)"
+            },
+            {
+              "SHA": "47879da",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-beta.20200709",
+          "commits": [
+            {
+              "SHA": "422a411",
+              "Subject": "Prepare for release 5.7.25-beta.20200709 (#63)"
+            },
+            {
+              "SHA": "e345110",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#59) (#60)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-beta.20200709",
+          "commits": [
+            {
+              "SHA": "ced3feb",
+              "Subject": "Prepare for release 8.0.3-beta.20200709 (#65)"
+            },
+            {
+              "SHA": "8299693",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#59) (#62)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-beta.20200709",
+          "commits": [
+            {
+              "SHA": "bf2dd2d",
+              "Subject": "Prepare for release 8.0.14-beta.20200709 (#64)"
+            },
+            {
+              "SHA": "226b3a9",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#59) (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-beta.20200709",
+          "commits": [
+            {
+              "SHA": "7fc07cc",
+              "Subject": "Prepare for release 5.7-beta.20200709 (#38)"
+            },
+            {
+              "SHA": "ca32b31",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#36) (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6-beta.20200709",
+          "commits": [
+            {
+              "SHA": "5befa82",
+              "Subject": "Prepare for release 9.6-beta.20200709 (#100)"
+            },
+            {
+              "SHA": "52fab57",
+              "Subject": "[cherry-pick] Build docker images in release workflow (#90) (#95)"
+            }
+          ]
+        },
+        {
+          "tag": "10.2-beta.20200709",
+          "commits": [
+            {
+              "SHA": "d8a2be0",
+              "Subject": "Prepare for release 10.2-beta.20200709 (#96)"
+            },
+            {
+              "SHA": "0bba297",
+              "Subject": "[cherry-pick] Build docker images in release workflow (#90) (#91)"
+            }
+          ]
+        },
+        {
+          "tag": "10.6-beta.20200709",
+          "commits": [
+            {
+              "SHA": "78fdd94",
+              "Subject": "Prepare for release 10.6-beta.20200709 (#97)"
+            },
+            {
+              "SHA": "c70d2d9",
+              "Subject": "[cherry-pick] Build docker images in release workflow (#90) (#92)"
+            }
+          ]
+        },
+        {
+          "tag": "11.1-beta.20200709",
+          "commits": [
+            {
+              "SHA": "81b21f0",
+              "Subject": "Prepare for release 11.1-beta.20200709 (#98)"
+            },
+            {
+              "SHA": "4fc87ef",
+              "Subject": "[cherry-pick] Build docker images in release workflow (#90) (#93)"
+            }
+          ]
+        },
+        {
+          "tag": "11.2-beta.20200709",
+          "commits": [
+            {
+              "SHA": "a3efd1a",
+              "Subject": "Prepare for release 11.2-beta.20200709 (#99)"
+            },
+            {
+              "SHA": "c0a32e5",
+              "Subject": "[cherry-pick] Build docker images in release workflow (#90) (#94)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.10.0-beta.1",
+          "commits": [
+            {
+              "SHA": "3b717aac",
+              "Subject": "Prepare for release v0.10.0-beta.1 (#1146)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
