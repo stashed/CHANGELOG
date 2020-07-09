@@ -169,7 +169,7 @@
       }
     },
     {
-      "github.com/bytebuilders/bundles": {
+      "github.com/bytebuilders/bundle-registry": {
         "charts": [
           "github.com/stashed/bundles"
         ],
