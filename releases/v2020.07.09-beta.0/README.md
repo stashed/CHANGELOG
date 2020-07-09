@@ -8,3 +8,11 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.10.0-beta.1](https://github.com/stashed/stash/releases/tag/v0.10.0-beta.1)
+
+- [3b717aac](https://github.com/stashed/stash/commit/3b717aac) Prepare for release v0.10.0-beta.1 (#1146)
+
+
+
