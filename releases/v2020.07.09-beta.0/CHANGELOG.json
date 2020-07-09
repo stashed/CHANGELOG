@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.07.09-beta.0",
-  "release_date": "2020-07-09T18:08:29.1802084Z",
+  "release_date": "2020-07-09T18:08:35.519257259Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.07.09-beta.0",
   "kubernetes_version": "1.12+",
@@ -42,6 +42,19 @@
             {
               "SHA": "c0b63a8",
               "Subject": "[cherry-pick] Build docker image in release workflow (#96) (#97)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-beta.20200709",
+          "commits": [
+            {
+              "SHA": "eb90a4d",
+              "Subject": "Prepare for release 6.2.4-beta.20200709 (#106)"
+            },
+            {
+              "SHA": "341d4ad",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#96) (#98)"
             }
           ]
         }
