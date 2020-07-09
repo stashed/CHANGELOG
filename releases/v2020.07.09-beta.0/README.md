@@ -136,6 +136,15 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-beta.20200709](https://github.com/stashed/mysql/releases/tag/5.7.25-beta.20200709)
+
+- [422a411](https://github.com/stashed/mysql/commit/422a411) Prepare for release 5.7.25-beta.20200709 (#63)
+- [e345110](https://github.com/stashed/mysql/commit/e345110) [cherry-pick] Build docker image in release workflow (#59) (#60)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6-beta.20200709](https://github.com/stashed/postgres/releases/tag/9.6-beta.20200709)
