@@ -8,6 +8,14 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.10.0-beta.1](https://github.com/stashed/cli/releases/tag/v0.10.0-beta.1)
+
+- [250372c](https://github.com/stashed/cli/commit/250372c) Prepare for release v0.10.0-beta.1 (#27)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.10.0-beta.1](https://github.com/stashed/stash/releases/tag/v0.10.0-beta.1)
