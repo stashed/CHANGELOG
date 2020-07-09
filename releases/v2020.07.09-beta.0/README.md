@@ -8,6 +8,14 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2020.07.09-beta.0](https://github.com/stashed/bundles/releases/tag/v2020.07.09-beta.0)
+
+- [8d8c566](https://github.com/stashed/bundles/commit/8d8c566) Prepare for release v2020.07.09-beta.0 (#10)
+
+
+
 ## [stashed/catalog](https://github.com/stashed/catalog)
 
 ### [v2020.07.09-beta.0](https://github.com/stashed/catalog/releases/tag/v2020.07.09-beta.0)
