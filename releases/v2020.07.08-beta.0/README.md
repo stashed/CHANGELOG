@@ -1,4 +1,4 @@
-# Stash v2020.07.08-beta.0 (2020-07-08)
+# Stash v2020.07.08-beta.0 (2020-07-09)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
@@ -80,6 +80,30 @@
 - [526949c](https://github.com/stashed/cli/commit/526949c) Update to Kubernetes v1.18.3 (#17)
 - [fc3e6c5](https://github.com/stashed/cli/commit/fc3e6c5) Update crazy-max/ghaction-docker-buildx flag
 - [3943575](https://github.com/stashed/cli/commit/3943575) Trigger the workflow on push or pull request
+
+
+
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.07.08-beta.0](https://github.com/stashed/docs/releases/tag/v2020.07.08-beta.0)
+
+- [fdcb33a](https://github.com/stashed/docs/commit/fdcb33a) Prepare for release v2020.07.08-beta.0 (#76)
+- [1a9b601](https://github.com/stashed/docs/commit/1a9b601) Update License header
+- [9bb26a1](https://github.com/stashed/docs/commit/9bb26a1) Update docs for stashed/cli@66b3b46c (#75)
+- [d946567](https://github.com/stashed/docs/commit/d946567) Update docs for stashed/stash@9fa95666 (#74)
+- [35f42a1](https://github.com/stashed/docs/commit/35f42a1) Update docs for stashed/cli@b913cfc2 (#73)
+- [f4bdab7](https://github.com/stashed/docs/commit/f4bdab7) Use pre-built liche binary (#72)
+- [3ae8b1b](https://github.com/stashed/docs/commit/3ae8b1b) Add script to open pr
+- [100f5a8](https://github.com/stashed/docs/commit/100f5a8) Fix typo in mv commands (#70)
+- [0c32ebd](https://github.com/stashed/docs/commit/0c32ebd) Fix typos (#69)
+- [8daeec0](https://github.com/stashed/docs/commit/8daeec0) Update update-release-tracker.sh
+- [91cb412](https://github.com/stashed/docs/commit/91cb412) Update update-release-tracker.sh
+- [dbb2eb0](https://github.com/stashed/docs/commit/dbb2eb0) Add script to update release tracker on pr merge (#71)
+- [1f6a305](https://github.com/stashed/docs/commit/1f6a305) Create .kodiak.toml
+- [6c6d150](https://github.com/stashed/docs/commit/6c6d150) Trigger the workflow on push or pull request
+- [8a9a580](https://github.com/stashed/docs/commit/8a9a580) Remove outdated roadmap doc (#68)
+- [1b00a15](https://github.com/stashed/docs/commit/1b00a15) Update overview.md
+- [664884d](https://github.com/stashed/docs/commit/664884d) Update README.md
 
 
 

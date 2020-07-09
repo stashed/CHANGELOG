@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.07.08-beta.0",
-  "release_date": "2020-07-08T23:58:00.244963425Z",
+  "release_date": "2020-07-09T00:42:46.266819915Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.07.08-beta.0",
   "kubernetes_version": "1.12+",
@@ -274,6 +274,84 @@
             {
               "SHA": "3943575",
               "Subject": "Trigger the workflow on push or pull request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2020.07.08-beta.0",
+          "commits": [
+            {
+              "SHA": "fdcb33a",
+              "Subject": "Prepare for release v2020.07.08-beta.0 (#76)"
+            },
+            {
+              "SHA": "1a9b601",
+              "Subject": "Update License header"
+            },
+            {
+              "SHA": "9bb26a1",
+              "Subject": "Update docs for stashed/cli@66b3b46c (#75)"
+            },
+            {
+              "SHA": "d946567",
+              "Subject": "Update docs for stashed/stash@9fa95666 (#74)"
+            },
+            {
+              "SHA": "35f42a1",
+              "Subject": "Update docs for stashed/cli@b913cfc2 (#73)"
+            },
+            {
+              "SHA": "f4bdab7",
+              "Subject": "Use pre-built liche binary (#72)"
+            },
+            {
+              "SHA": "3ae8b1b",
+              "Subject": "Add script to open pr"
+            },
+            {
+              "SHA": "100f5a8",
+              "Subject": "Fix typo in mv commands (#70)"
+            },
+            {
+              "SHA": "0c32ebd",
+              "Subject": "Fix typos (#69)"
+            },
+            {
+              "SHA": "8daeec0",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "91cb412",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "dbb2eb0",
+              "Subject": "Add script to update release tracker on pr merge (#71)"
+            },
+            {
+              "SHA": "1f6a305",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "6c6d150",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "8a9a580",
+              "Subject": "Remove outdated roadmap doc (#68)"
+            },
+            {
+              "SHA": "1b00a15",
+              "Subject": "Update overview.md"
+            },
+            {
+              "SHA": "664884d",
+              "Subject": "Update README.md"
             }
           ]
         }
