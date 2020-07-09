@@ -24,6 +24,12 @@
 - [0bba297](https://github.com/stashed/postgres/commit/0bba297) [cherry-pick] Build docker images in release workflow (#90) (#91)
 
 
+### [10.6-beta.20200709](https://github.com/stashed/postgres/releases/tag/10.6-beta.20200709)
+
+- [78fdd94](https://github.com/stashed/postgres/commit/78fdd94) Prepare for release 10.6-beta.20200709 (#97)
+- [c70d2d9](https://github.com/stashed/postgres/commit/c70d2d9) [cherry-pick] Build docker images in release workflow (#90) (#92)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
