@@ -1,0 +1,229 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.07.08-beta.0",
+  "docs_url_template": "https://stash.run/docs/%s",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "github.com/stashed/apimachinery": {
+        "tag": "v0.10.0-beta.0"
+      }
+    },
+    {
+      "github.com/stashed/cli": {
+        "tag": "v0.10.0-beta.0"
+      }
+    },
+    {
+      "github.com/stashed/postgres": {
+        "key": "stash-postgres",
+        "tags": {
+          "10.2-beta.20200708": "release-10.2",
+          "10.6-beta.20200708": "release-10.6",
+          "11.1-beta.20200708": "release-11.1",
+          "11.2-beta.20200708": "release-11.2",
+          "9.6-beta.20200708": "release-9.6"
+        },
+        "commands": [
+          "make update-charts CHART_VERSION=${TAG}"
+        ]
+      }
+    },
+    {
+      "github.com/stashed/elasticsearch": {
+        "key": "stash-elasticsearch",
+        "tags": {
+          "5.6.4-beta.20200708": "release-5.6.4",
+          "6.2.4-beta.20200708": "release-6.2.4",
+          "6.3.0-beta.20200708": "release-6.3.0",
+          "6.4.0-beta.20200708": "release-6.4.0",
+          "6.5.3-beta.20200708": "release-6.5.3",
+          "6.8.0-beta.20200708": "release-6.8.0",
+          "7.2.0-beta.20200708": "release-7.2.0",
+          "7.3.2-beta.20200708": "release-7.3.2"
+        },
+        "commands": [
+          "make update-charts CHART_VERSION=${TAG}"
+        ]
+      }
+    },
+    {
+      "github.com/stashed/mongodb": {
+        "key": "stash-mongodb",
+        "tags": {
+          "3.4.1-beta.20200708": "release-3.4.17",
+          "3.4.2-beta.20200708": "release-3.4.22",
+          "3.6.1-beta.20200708": "release-3.6.13",
+          "3.6.8-beta.20200708": "release-3.6.8",
+          "4.0.1-beta.20200708": "release-4.0.11",
+          "4.0.3-beta.20200708": "release-4.0.3",
+          "4.0.5-beta.20200708": "release-4.0.5",
+          "4.1.1-beta.20200708": "release-4.1.13",
+          "4.1.4-beta.20200708": "release-4.1.4",
+          "4.1.7-beta.20200708": "release-4.1.7",
+          "4.2.3-beta.20200708": "release-4.2.3"
+        },
+        "commands": [
+          "make update-charts CHART_VERSION=${TAG}"
+        ]
+      }
+    },
+    {
+      "github.com/stashed/mysql": {
+        "key": "stash-mysql",
+        "tags": {
+          "5.7.25-beta.20200708": "release-5.7.25",
+          "8.0.14-beta.20200708": "release-8.0.14",
+          "8.0.3-beta.20200708": "release-8.0.3"
+        },
+        "commands": [
+          "make update-charts CHART_VERSION=${TAG}"
+        ]
+      }
+    },
+    {
+      "github.com/stashed/percona-xtradb": {
+        "key": "stash-percona-xtradb",
+        "tags": {
+          "5.7-beta.20200708": "release-5.7"
+        },
+        "commands": [
+          "make update-charts CHART_VERSION=${TAG}"
+        ]
+      }
+    },
+    {
+      "github.com/stashed/stash": {
+        "tag": "v0.10.0-beta.0"
+      }
+    },
+    {
+      "github.com/stashed/installer": {
+        "tag": "v0.10.0-beta.0",
+        "commands": [
+          "make chart-stash CHART_VERSION=${TAG}"
+        ]
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/stashed/postgres",
+          "github.com/stashed/elasticsearch",
+          "github.com/stashed/mongodb",
+          "github.com/stashed/mysql",
+          "github.com/stashed/percona-xtradb",
+          "github.com/stashed/installer"
+        ],
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/stashed/catalog": {
+        "key": "stash-catalog",
+        "tag": "v2020.07.08-beta.0",
+        "commands": [
+          "release-automaton stash gen-catalog --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --catalog-file=${WORKSPACE}/catalog.json",
+          "make gen fmt"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode/static-assets": {
+        "commands": [
+          "release-automaton update-assets --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE}"
+        ],
+        "changelog": "StandaloneWebsite"
+      }
+    },
+    {
+      "github.com/stashed/docs": {
+        "key": "stash",
+        "tag": "v2020.07.08-beta.0",
+        "commands": [
+          "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/CHANGELOG-${RELEASE}.md"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/stashed/website": {
+        "tag": "v2020.07.08-beta.0",
+        "commands": [
+          "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
+          "make docs",
+          "make set-version VERSION=${TAG}"
+        ],
+        "release_branch": "master",
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/stashed/bundles": {
+        "tag": "v2020.07.08-beta.0",
+        "commands": [
+          "release-automaton update-bundles --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE} --charts-dir=charts"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/bytebuilders/bundle-registry": {
+        "charts": [
+          "github.com/stashed/bundles"
+        ],
+        "changelog": "Skip"
+      }
+    }
+  ],
+  "external_projects": {
+    "github.com/kubedb/apimachinery": {},
+    "github.com/kubedb/bundles": {},
+    "github.com/kubedb/cli": {},
+    "github.com/kubedb/docs": {},
+    "github.com/kubedb/elasticsearch": {
+      "commands": [
+        "echo STASH_VERSION=${STASHED_STASH_TAG} > Makefile.env",
+        "echo STASH_CATALOG_VERSION=${STASH_CATALOG_VERSION} >> Makefile.env",
+        "make add-license fmt"
+      ]
+    },
+    "github.com/kubedb/installer": {},
+    "github.com/kubedb/memcached": {},
+    "github.com/kubedb/mongodb": {
+      "commands": [
+        "echo STASH_VERSION=${STASHED_STASH_TAG} > Makefile.env",
+        "echo STASH_CATALOG_VERSION=${STASH_CATALOG_VERSION} >> Makefile.env",
+        "make add-license fmt"
+      ]
+    },
+    "github.com/kubedb/mysql": {
+      "commands": [
+        "echo STASH_VERSION=${STASHED_STASH_TAG} > Makefile.env",
+        "echo STASH_CATALOG_VERSION=${STASH_CATALOG_VERSION} >> Makefile.env",
+        "make add-license fmt"
+      ]
+    },
+    "github.com/kubedb/operator": {},
+    "github.com/kubedb/percona-xtradb": {
+      "commands": [
+        "echo STASH_VERSION=${STASHED_STASH_TAG} > Makefile.env",
+        "echo STASH_CATALOG_VERSION=${STASH_CATALOG_VERSION} >> Makefile.env",
+        "make add-license fmt"
+      ]
+    },
+    "github.com/kubedb/pg-leader-election": {},
+    "github.com/kubedb/pgbouncer": {},
+    "github.com/kubedb/postgres": {
+      "commands": [
+        "echo STASH_VERSION=${STASHED_STASH_TAG} > Makefile.env",
+        "echo STASH_CATALOG_VERSION=${STASH_CATALOG_VERSION} >> Makefile.env",
+        "make add-license fmt"
+      ]
+    },
+    "github.com/kubedb/proxysql": {},
+    "github.com/kubedb/redis": {}
+  }
+}
+
