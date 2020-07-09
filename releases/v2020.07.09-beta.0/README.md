@@ -67,6 +67,14 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.10.0-beta.1](https://github.com/stashed/installer/releases/tag/v0.10.0-beta.1)
+
+- [bed8319](https://github.com/stashed/installer/commit/bed8319) Prepare for release v0.10.0-beta.1 (#76)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.1-beta.20200709](https://github.com/stashed/mongodb/releases/tag/3.4.1-beta.20200709)
