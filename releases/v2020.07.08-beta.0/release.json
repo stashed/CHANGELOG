@@ -10,11 +10,6 @@
       }
     },
     {
-      "github.com/stashed/cli": {
-        "tag": "v0.10.0-beta.0"
-      }
-    },
-    {
       "github.com/stashed/postgres": {
         "key": "stash-postgres",
         "tags": {
@@ -94,6 +89,12 @@
     },
     {
       "github.com/stashed/stash": {
+        "tag": "v0.10.0-beta.0"
+      }
+    },
+    {
+      "github.com/stashed/cli": {
+        "key": "stash-cli",
         "tag": "v0.10.0-beta.0"
       }
     },
