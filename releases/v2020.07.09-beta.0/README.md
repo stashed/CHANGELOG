@@ -81,6 +81,12 @@
 - [b871884](https://github.com/stashed/mongodb/commit/b871884) [cherry-pick] Build docker image in release workflow (#102) (#104)
 
 
+### [3.6.1-beta.20200709](https://github.com/stashed/mongodb/releases/tag/3.6.1-beta.20200709)
+
+- [38ec877](https://github.com/stashed/mongodb/commit/38ec877) Prepare for release 3.6.1-beta.20200709 (#116)
+- [6fd28b2](https://github.com/stashed/mongodb/commit/6fd28b2) [cherry-pick] Build docker image in release workflow (#102) (#105)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
