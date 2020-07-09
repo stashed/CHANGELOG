@@ -157,6 +157,15 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-beta.20200709](https://github.com/stashed/percona-xtradb/releases/tag/5.7-beta.20200709)
+
+- [7fc07cc](https://github.com/stashed/percona-xtradb/commit/7fc07cc) Prepare for release 5.7-beta.20200709 (#38)
+- [ca32b31](https://github.com/stashed/percona-xtradb/commit/ca32b31) [cherry-pick] Build docker image in release workflow (#36) (#37)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6-beta.20200709](https://github.com/stashed/postgres/releases/tag/9.6-beta.20200709)
