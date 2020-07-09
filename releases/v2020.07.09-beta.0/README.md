@@ -42,6 +42,12 @@
 - [3eb01b0](https://github.com/stashed/elasticsearch/commit/3eb01b0) [cherry-pick] Build docker image in release workflow (#96) (#100)
 
 
+### [6.5.3-beta.20200709](https://github.com/stashed/elasticsearch/releases/tag/6.5.3-beta.20200709)
+
+- [27ca5d7](https://github.com/stashed/elasticsearch/commit/27ca5d7) Prepare for release 6.5.3-beta.20200709 (#109)
+- [cfc95c6](https://github.com/stashed/elasticsearch/commit/cfc95c6) [cherry-pick] Build docker image in release workflow (#96) (#101)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
