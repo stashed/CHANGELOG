@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.07.09-beta.0",
-  "release_date": "2020-07-09T18:09:14.478667322Z",
+  "release_date": "2020-07-09T18:27:20.940902667Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.07.09-beta.0",
   "kubernetes_version": "1.12+",
@@ -133,6 +133,24 @@
             {
               "SHA": "0b0df2e",
               "Subject": "[cherry-pick] Build docker image in release workflow (#96) (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.1-beta.20200709",
+          "commits": [
+            {
+              "SHA": "a354b6c",
+              "Subject": "Prepare for release 3.4.1-beta.20200709 (#114)"
+            },
+            {
+              "SHA": "2269fa6",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#103)"
             }
           ]
         }
