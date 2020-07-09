@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.07.08-beta.0",
-  "release_date": "2020-07-09T00:42:46.266819915Z",
+  "release_date": "2020-07-09T00:49:17.052446047Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.07.08-beta.0",
   "kubernetes_version": "1.12+",
@@ -175,6 +175,56 @@
             {
               "SHA": "54097441",
               "Subject": "Use kubectl v1.17 (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2020.07.08-beta.0",
+          "commits": [
+            {
+              "SHA": "dd06bb5",
+              "Subject": "Prepare for release v2020.07.08-beta.0 (#9)"
+            },
+            {
+              "SHA": "7d57e98",
+              "Subject": "Publish to testing dir for alpha/beta releases (#8)"
+            },
+            {
+              "SHA": "ffc863f",
+              "Subject": "Update License (#7)"
+            },
+            {
+              "SHA": "b5a4190",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "e323ffb",
+              "Subject": "Remove non-patched version addons (#5)"
+            },
+            {
+              "SHA": "2f3d8b8",
+              "Subject": "Shorten bundle description (#3)"
+            },
+            {
+              "SHA": "15e83fc",
+              "Subject": "Shorten chart description (#2)"
+            },
+            {
+              "SHA": "f980df7",
+              "Subject": "Tag chart and app version as string for yq"
+            },
+            {
+              "SHA": "e29b80e",
+              "Subject": "Add commands to update chart version"
+            },
+            {
+              "SHA": "1d8197b",
+              "Subject": "Add Stash bundles (#1)"
             }
           ]
         }
