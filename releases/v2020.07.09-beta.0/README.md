@@ -105,6 +105,12 @@
 - [7c9074d](https://github.com/stashed/mongodb/commit/7c9074d) [cherry-pick] Build docker image in release workflow (#102) (#108)
 
 
+### [4.0.5-beta.20200709](https://github.com/stashed/mongodb/releases/tag/4.0.5-beta.20200709)
+
+- [78ab8d2](https://github.com/stashed/mongodb/commit/78ab8d2) Prepare for release 4.0.5-beta.20200709 (#120)
+- [12af669](https://github.com/stashed/mongodb/commit/12af669) [cherry-pick] Build docker image in release workflow (#102) (#109)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
