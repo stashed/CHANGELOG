@@ -9,3 +9,13 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.10.0-rc.1](https://github.com/stashed/stash/releases/tag/v0.10.0-rc.1)
+
+- [20d585f4](https://github.com/stashed/stash/commit/20d585f4) Prepare for release v0.10.0-rc.1 (#1180)
+- [76fe3ebd](https://github.com/stashed/stash/commit/76fe3ebd) Create GitHub release from release workflow
+- [f3e5cccc](https://github.com/stashed/stash/commit/f3e5cccc) Fix installation link
+
+
+

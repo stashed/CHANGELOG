@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.08.26-rc.1",
-  "release_date": "2020-08-26T22:06:51.847835818Z",
+  "release_date": "2020-08-26T22:17:35.703502409Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.08.26-rc.1",
   "kubernetes_version": "1.12+",
@@ -15,6 +15,28 @@
             {
               "SHA": "7dbdff5f",
               "Subject": "Update README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.1",
+          "commits": [
+            {
+              "SHA": "20d585f4",
+              "Subject": "Prepare for release v0.10.0-rc.1 (#1180)"
+            },
+            {
+              "SHA": "76fe3ebd",
+              "Subject": "Create GitHub release from release workflow"
+            },
+            {
+              "SHA": "f3e5cccc",
+              "Subject": "Fix installation link"
             }
           ]
         }
