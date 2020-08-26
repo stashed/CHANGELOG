@@ -140,6 +140,17 @@
 - [aca1577](https://github.com/stashed/postgres/commit/aca1577) [cherry-pick] Make chart registry configurable (#102) (#105)
 
 
+### [11.2-beta.20200826](https://github.com/stashed/postgres/releases/tag/11.2-beta.20200826)
+
+- [cf876d3](https://github.com/stashed/postgres/commit/cf876d3) Prepare for release 11.2-beta.20200826 (#140)
+- [22d4f2c](https://github.com/stashed/postgres/commit/22d4f2c) [cherry-pick] Update Stash installation link (#131) (#135)
+- [462bf9f](https://github.com/stashed/postgres/commit/462bf9f) [cherry-pick] Update twitter handle (#125) (#129)
+- [baa8b56](https://github.com/stashed/postgres/commit/baa8b56) [cherry-pick] Use image tag same as the $APP_VERSION (#114) (#123)
+- [b09b460](https://github.com/stashed/postgres/commit/b09b460) [cherry-pick] Fix output format + Add PreBackupActions logic (#113) (#118)
+- [08ea901](https://github.com/stashed/postgres/commit/08ea901) [cherry-pick] Update chart icon (#111)
+- [a6b8c9e](https://github.com/stashed/postgres/commit/a6b8c9e) [cherry-pick] Make chart registry configurable (#102) (#106)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
