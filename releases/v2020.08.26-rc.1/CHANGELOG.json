@@ -1,11 +1,29 @@
 {
   "product_line": "Stash",
   "release": "v2020.08.26-rc.1",
-  "release_date": "2020-08-26T22:17:35.703502409Z",
+  "release_date": "2020-08-26T22:22:17.559313533Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.08.26-rc.1",
   "kubernetes_version": "1.12+",
   "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.1",
+          "commits": [
+            {
+              "SHA": "dc0c6cf5",
+              "Subject": "Prepare for release v0.10.0-rc.1 (#19)"
+            },
+            {
+              "SHA": "4836ebc0",
+              "Subject": "Create GitHub release from release workflow"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/apimachinery",
       "releases": [
