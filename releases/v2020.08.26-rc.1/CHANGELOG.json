@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.08.26-rc.1",
-  "release_date": "2020-08-26T23:21:48.27683427Z",
+  "release_date": "2020-08-26T23:21:54.199009228Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.08.26-rc.1",
   "kubernetes_version": "1.12+",
@@ -1456,6 +1456,10 @@
         },
         {
           "tag": "3.6.8-rc.20200826",
+          "commits": null
+        },
+        {
+          "tag": "4.0.11-rc.20200826",
           "commits": null
         }
       ]
