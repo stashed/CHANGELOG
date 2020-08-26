@@ -65,6 +65,46 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.10.0-rc.0](https://github.com/stashed/cli/releases/tag/v0.10.0-rc.0)
+
+- [fdfe6b8](https://github.com/stashed/cli/commit/fdfe6b8) Prepare for release v0.10.0-rc.0 (#38)
+- [132ae15](https://github.com/stashed/cli/commit/132ae15) Fix build (#37)
+- [77a76a7](https://github.com/stashed/cli/commit/77a76a7) Update Kubernetes v1.18.3 dependencies (#36)
+- [efe0fc5](https://github.com/stashed/cli/commit/efe0fc5) Update Kubernetes v1.18.3 dependencies (#35)
+- [d39bd97](https://github.com/stashed/cli/commit/d39bd97) Update Kubernetes v1.18.3 dependencies (#34)
+- [3e074e7](https://github.com/stashed/cli/commit/3e074e7) Update Kubernetes v1.18.3 dependencies (#33)
+- [f020137](https://github.com/stashed/cli/commit/f020137) Update Kubernetes v1.18.3 dependencies (#32)
+- [99d27f0](https://github.com/stashed/cli/commit/99d27f0) Update Kubernetes v1.18.3 dependencies (#31)
+- [3c78ec5](https://github.com/stashed/cli/commit/3c78ec5) Use actions/upload-artifact@v2
+- [e416569](https://github.com/stashed/cli/commit/e416569) Update to Kubernetes v1.18.3 (#30)
+- [2baaae1](https://github.com/stashed/cli/commit/2baaae1) Update to Kubernetes v1.18.3 (#29)
+- [44a1514](https://github.com/stashed/cli/commit/44a1514) Update to Kubernetes v1.18.3 (#28)
+- [250372c](https://github.com/stashed/cli/commit/250372c) Prepare for release v0.10.0-beta.1 (#27)
+- [3728110](https://github.com/stashed/cli/commit/3728110) Prepare for release v0.10.0-beta.0 (#26)
+- [e7111a5](https://github.com/stashed/cli/commit/e7111a5) Update License
+- [7fe1e07](https://github.com/stashed/cli/commit/7fe1e07) Update to Kubernetes v1.18.3 (#25)
+- [66b3b46](https://github.com/stashed/cli/commit/66b3b46) Shorten command name for cli (#24)
+- [b913cfc](https://github.com/stashed/cli/commit/b913cfc) Add workflow to update docs (#23)
+- [1881c64](https://github.com/stashed/cli/commit/1881c64) Update update-release-tracker.sh
+- [0548bdc](https://github.com/stashed/cli/commit/0548bdc) Update update-release-tracker.sh
+- [b1b28ff](https://github.com/stashed/cli/commit/b1b28ff) Use GITHUB_BASE_REF to detect target branch
+- [1e16b99](https://github.com/stashed/cli/commit/1e16b99) Add script to update release tracker on pr merge (#21)
+- [f91bf33](https://github.com/stashed/cli/commit/f91bf33) Make release non-draft
+- [d29bdb6](https://github.com/stashed/cli/commit/d29bdb6) Update .kodiak.toml
+- [b727108](https://github.com/stashed/cli/commit/b727108) Update to Kubernetes v1.18.3 (#20)
+- [f3f03aa](https://github.com/stashed/cli/commit/f3f03aa) Update to Kubernetes v1.18.3
+- [bcd7c5e](https://github.com/stashed/cli/commit/bcd7c5e) Create .kodiak.toml
+- [9882aa2](https://github.com/stashed/cli/commit/9882aa2) Add blank line after license header (#19)
+- [7774218](https://github.com/stashed/cli/commit/7774218) Update dev scripts (#18)
+- [38eb35c](https://github.com/stashed/cli/commit/38eb35c) Run unit tests against SRC_PKGS
+- [526949c](https://github.com/stashed/cli/commit/526949c) Update to Kubernetes v1.18.3 (#17)
+- [fc3e6c5](https://github.com/stashed/cli/commit/fc3e6c5) Update crazy-max/ghaction-docker-buildx flag
+- [3943575](https://github.com/stashed/cli/commit/3943575) Trigger the workflow on push or pull request
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.10.0-rc.0](https://github.com/stashed/stash/releases/tag/v0.10.0-rc.0)
