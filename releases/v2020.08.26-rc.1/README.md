@@ -440,6 +440,10 @@
 
 
 
+### [4.2.3-rc.20200826](https://github.com/stashed/mongodb/releases/tag/4.2.3-rc.20200826)
+
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
