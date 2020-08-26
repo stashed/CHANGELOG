@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.08.26-rc.0",
-  "release_date": "2020-08-26T09:30:26.261585166Z",
+  "release_date": "2020-08-26T09:30:32.534699596Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.08.26-rc.0",
   "kubernetes_version": "1.12+",
@@ -855,6 +855,35 @@
             {
               "SHA": "628df7e",
               "Subject": "[cherry-pick] Make chart registry configurable (#126) (#134)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-beta.20200826",
+          "commits": [
+            {
+              "SHA": "c092f8a",
+              "Subject": "Prepare for release 4.1.4-beta.20200826 (#193)"
+            },
+            {
+              "SHA": "cbb683a",
+              "Subject": "[cherry-pick] Update Stash installation link (#173) (#182)"
+            },
+            {
+              "SHA": "f8b1f2c",
+              "Subject": "[cherry-pick] Fix output format + Add PreBackupActions logic (#149) (#170)"
+            },
+            {
+              "SHA": "b99744e",
+              "Subject": "[cherry-pick] Make image.tag in values.yaml same as $APP_VERSION (#150) (#159)"
+            },
+            {
+              "SHA": "9ee1654",
+              "Subject": "[cherry-pick] Update chart icon (#146)"
+            },
+            {
+              "SHA": "8604d7b",
+              "Subject": "[cherry-pick] Make chart registry configurable (#126) (#135)"
             }
           ]
         }
