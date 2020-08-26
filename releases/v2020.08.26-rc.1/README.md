@@ -212,6 +212,10 @@
 
 
 
+### [6.5.3-rc.20200826](https://github.com/stashed/elasticsearch/releases/tag/6.5.3-rc.20200826)
+
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
