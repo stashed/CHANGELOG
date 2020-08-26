@@ -301,6 +301,19 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-beta.20200826](https://github.com/stashed/mysql/releases/tag/5.7.25-beta.20200826)
+
+- [813ee01](https://github.com/stashed/mysql/commit/813ee01) Prepare for release 5.7.25-beta.20200826 (#85)
+- [e646be7](https://github.com/stashed/mysql/commit/e646be7) [cherry-pick] Update Stash installation link (#81) (#82)
+- [ecc7d0c](https://github.com/stashed/mysql/commit/ecc7d0c) [cherry-pick] Fix output format (#46) (#78)
+- [7fcbd24](https://github.com/stashed/mysql/commit/7fcbd24) [cherry-pick] Pass image tag in values.yaml file (#74) (#75)
+- [3188584](https://github.com/stashed/mysql/commit/3188584) [cherry-pick] Update chart icon (#71)
+- [9060c7a](https://github.com/stashed/mysql/commit/9060c7a) [cherry-pick] Make chart registry configurable (#67) (#68)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6-beta.20200826](https://github.com/stashed/postgres/releases/tag/9.6-beta.20200826)
