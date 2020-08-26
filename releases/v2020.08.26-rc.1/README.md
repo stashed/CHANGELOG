@@ -408,6 +408,10 @@
 
 
 
+### [3.6.1-rc.20200826](https://github.com/stashed/mongodb/releases/tag/3.6.1-rc.20200826)
+
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
