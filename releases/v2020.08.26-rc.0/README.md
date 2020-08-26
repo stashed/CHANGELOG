@@ -334,6 +334,19 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-beta.20200826](https://github.com/stashed/percona-xtradb/releases/tag/5.7-beta.20200826)
+
+- [10b9a66](https://github.com/stashed/percona-xtradb/commit/10b9a66) Prepare for release 5.7-beta.20200826 (#49)
+- [53f26da](https://github.com/stashed/percona-xtradb/commit/53f26da) [cherry-pick] Update Stash installation link (#47) (#48)
+- [3eae3d3](https://github.com/stashed/percona-xtradb/commit/3eae3d3) [cherry-pick] Fix output format + Add PreBackupActions logic (#43) (#46)
+- [0fa2765](https://github.com/stashed/percona-xtradb/commit/0fa2765) [cherry-pick] Make image.tag in values.yaml file as same as $APP_VERSION (#44) (#45)
+- [7ad46c0](https://github.com/stashed/percona-xtradb/commit/7ad46c0) [cherry-pick] Update chart icon (#42)
+- [97f7e6d](https://github.com/stashed/percona-xtradb/commit/97f7e6d) [cherry-pick] Make chart registry configurable (#40) (#41)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6-beta.20200826](https://github.com/stashed/postgres/releases/tag/9.6-beta.20200826)
