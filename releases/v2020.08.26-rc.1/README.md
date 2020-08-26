@@ -33,6 +33,10 @@
 
 
 
+### [10.6-rc.20200826](https://github.com/stashed/postgres/releases/tag/10.6-rc.20200826)
+
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
