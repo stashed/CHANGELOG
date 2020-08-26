@@ -200,6 +200,16 @@
 - [465f36c](https://github.com/stashed/mongodb/commit/465f36c) [cherry-pick] Make chart registry configurable (#126) (#127)
 
 
+### [3.4.2-beta.20200826](https://github.com/stashed/mongodb/releases/tag/3.4.2-beta.20200826)
+
+- [b9d6d4d](https://github.com/stashed/mongodb/commit/b9d6d4d) Prepare for release 3.4.2-beta.20200826 (#186)
+- [adf04e8](https://github.com/stashed/mongodb/commit/adf04e8) [cherry-pick] Update Stash installation link (#173) (#175)
+- [bdd4240](https://github.com/stashed/mongodb/commit/bdd4240) [cherry-pick] Fix output format + Add PreBackupActions logic (#149) (#163)
+- [2078ffb](https://github.com/stashed/mongodb/commit/2078ffb) [cherry-pick] Make image.tag in values.yaml same as $APP_VERSION (#150) (#152)
+- [848c360](https://github.com/stashed/mongodb/commit/848c360) [cherry-pick] Update chart icon (#139)
+- [20e0d4f](https://github.com/stashed/mongodb/commit/20e0d4f) [cherry-pick] Make chart registry configurable (#126) (#128)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
