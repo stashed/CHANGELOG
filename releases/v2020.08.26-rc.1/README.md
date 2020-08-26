@@ -18,6 +18,15 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.10.0-rc.1](https://github.com/stashed/cli/releases/tag/v0.10.0-rc.1)
+
+- [43e0370](https://github.com/stashed/cli/commit/43e0370) Prepare for release v0.10.0-rc.1 (#39)
+- [2c90092](https://github.com/stashed/cli/commit/2c90092) Update README.md
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.10.0-rc.1](https://github.com/stashed/stash/releases/tag/v0.10.0-rc.1)
