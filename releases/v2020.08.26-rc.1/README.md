@@ -27,6 +27,13 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.2-rc.20200826](https://github.com/stashed/postgres/releases/tag/10.2-rc.20200826)
+
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.10.0-rc.1](https://github.com/stashed/stash/releases/tag/v0.10.0-rc.1)
