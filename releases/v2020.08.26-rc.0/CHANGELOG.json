@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.08.26-rc.0",
-  "release_date": "2020-08-26T08:22:46.970193234Z",
+  "release_date": "2020-08-26T08:33:44.319389554Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.08.26-rc.0",
   "kubernetes_version": "1.12+",
@@ -239,6 +239,316 @@
             {
               "SHA": "54097441",
               "Subject": "Use kubectl v1.17 (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.0",
+          "commits": [
+            {
+              "SHA": "3ebb7788",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#1179)"
+            },
+            {
+              "SHA": "48e5c87e",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1178)"
+            },
+            {
+              "SHA": "c269c8ed",
+              "Subject": "Port changes from enterprise version (#1176)"
+            },
+            {
+              "SHA": "0fea720b",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1174)"
+            },
+            {
+              "SHA": "c4b6013f",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1173)"
+            },
+            {
+              "SHA": "77b3eab8",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1169)"
+            },
+            {
+              "SHA": "64f7c292",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1168)"
+            },
+            {
+              "SHA": "2d6fd7da",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1167)"
+            },
+            {
+              "SHA": "378de04d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1159)"
+            },
+            {
+              "SHA": "20decffa",
+              "Subject": "Build images in e2e workflow"
+            },
+            {
+              "SHA": "4919cb03",
+              "Subject": "Allow configuring k8s in e2e tests (#1155)"
+            },
+            {
+              "SHA": "6e71662a",
+              "Subject": "Update to Kubernetes v1.18.3 (#1154)"
+            },
+            {
+              "SHA": "a83021fd",
+              "Subject": "Trigger e2e tests on /ok-to-test command (#1150)"
+            },
+            {
+              "SHA": "6bf44ceb",
+              "Subject": "Update to Kubernetes v1.18.3 (#1149)"
+            },
+            {
+              "SHA": "bcbb3a98",
+              "Subject": "Update to Kubernetes v1.18.3 (#1148)"
+            },
+            {
+              "SHA": "3b717aac",
+              "Subject": "Prepare for release v0.10.0-beta.1 (#1146)"
+            },
+            {
+              "SHA": "c8b81cf7",
+              "Subject": "Prepare for release v0.10.0-beta.0 (#1145)"
+            },
+            {
+              "SHA": "2d145f47",
+              "Subject": "Clarify Docker images are dually licensed"
+            },
+            {
+              "SHA": "693ab7df",
+              "Subject": "Update License (#1144)"
+            },
+            {
+              "SHA": "e13d67eb",
+              "Subject": "Update to Kubernetes v1.18.3 (#1142)"
+            },
+            {
+              "SHA": "26ee605a",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "9fa95666",
+              "Subject": "Add workflow to update docs (#1136)"
+            },
+            {
+              "SHA": "95a62a95",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "379c90d5",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "cd0a70ee",
+              "Subject": "Use GITHUB_BASE_REF to detect target branch"
+            },
+            {
+              "SHA": "e27c5f66",
+              "Subject": "Add script to update release tracker on pr merge (#1132)"
+            },
+            {
+              "SHA": "b0dd5051",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "e87bad80",
+              "Subject": "Parameterize installer namespace"
+            },
+            {
+              "SHA": "da8d8956",
+              "Subject": "Format CI workflows"
+            },
+            {
+              "SHA": "bbde40a3",
+              "Subject": "Update to Kubernetes v1.18.3 (#1129)"
+            },
+            {
+              "SHA": "38eb3781",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "197aa7bd",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "181ca49e",
+              "Subject": "Update coverage script"
+            },
+            {
+              "SHA": "26602c96",
+              "Subject": "Merge pull request #1125 from stashed/fix-ci-tests"
+            },
+            {
+              "SHA": "54f87b78",
+              "Subject": "Increase wait timeout"
+            },
+            {
+              "SHA": "43428085",
+              "Subject": "Remove unnecessary test codes + run test in parallel"
+            },
+            {
+              "SHA": "8a780e0c",
+              "Subject": "Fix clone-pvc tests"
+            },
+            {
+              "SHA": "7027c0f6",
+              "Subject": "Fix E2E test"
+            },
+            {
+              "SHA": "31de588a",
+              "Subject": "Change GCS test bucket name to stash-ci (#1122)"
+            },
+            {
+              "SHA": "30a490a6",
+              "Subject": "Merge pull request #1121 from stashed/baseline-psp"
+            },
+            {
+              "SHA": "419a18e3",
+              "Subject": "Use StringSlice type flag"
+            },
+            {
+              "SHA": "9dd3804d",
+              "Subject": "Make PSP names configurable through flag"
+            },
+            {
+              "SHA": "e4edef44",
+              "Subject": "Always use baseline PSP"
+            },
+            {
+              "SHA": "cf1538a0",
+              "Subject": "Use filepath.Join to generate Repository prefix for BackupBatch (#1120)"
+            },
+            {
+              "SHA": "be189169",
+              "Subject": "Go back to using engineerd/setup-kind"
+            },
+            {
+              "SHA": "ae2d74fa",
+              "Subject": "Update dependencies (#1117)"
+            },
+            {
+              "SHA": "a93a5b4c",
+              "Subject": "Remove defaults from CRD v1beta1 (#1116)"
+            },
+            {
+              "SHA": "40e65761",
+              "Subject": "Use CRD v1 for Kubernetes >= 1.16 (#1115)"
+            },
+            {
+              "SHA": "7d851e53",
+              "Subject": "Merge pull request #1114 from stashed/x7"
+            },
+            {
+              "SHA": "352ddeed",
+              "Subject": "Use preinstalled kind"
+            },
+            {
+              "SHA": "11c9e422",
+              "Subject": "Pass context"
+            },
+            {
+              "SHA": "21053603",
+              "Subject": "Update to Kubernetes 1.18.3"
+            },
+            {
+              "SHA": "f450e9cc",
+              "Subject": "Add wait for target logic + add conditions for BackupConfiguration + BackupBatch + RestoreSession (#1108)"
+            },
+            {
+              "SHA": "8f8ff87e",
+              "Subject": "Fix volume snapshot job cleanup (#1090)"
+            },
+            {
+              "SHA": "a4a868b5",
+              "Subject": "Merge pull request #1111 from stashed/fix-interimVolume"
+            },
+            {
+              "SHA": "108d0252",
+              "Subject": "Set BackupSession as owner of the pvc created from interimVolumeTemplate"
+            },
+            {
+              "SHA": "fd136c53",
+              "Subject": "Use Go 1.14.3"
+            },
+            {
+              "SHA": "74c71d22",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "f783899b",
+              "Subject": "Trigger the workflow on push to master"
+            },
+            {
+              "SHA": "e7eceb30",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "fe479e8c",
+              "Subject": "Use kind v0.8.0"
+            },
+            {
+              "SHA": "9fc4665a",
+              "Subject": "Merge pull request #1093 from robotinfra/master"
+            },
+            {
+              "SHA": "ef2d57e3",
+              "Subject": "fix typo succesSfully"
+            },
+            {
+              "SHA": "d8d35c49",
+              "Subject": "fix event types mismatch"
+            },
+            {
+              "SHA": "53dfe8b0",
+              "Subject": "Update stash labels in Makefile"
+            },
+            {
+              "SHA": "c8081c1d",
+              "Subject": "Pass image pull secrets to helm chart"
+            },
+            {
+              "SHA": "37b9b312",
+              "Subject": "Use Go 1.14.2 (#1074)"
+            },
+            {
+              "SHA": "09621974",
+              "Subject": "Update K8s version 1.14.6 to 1.14.10 (#1084)"
+            },
+            {
+              "SHA": "8a1ab32c",
+              "Subject": "Give backup triggering CronJob all permissions for Stash crds (#1083)"
+            },
+            {
+              "SHA": "53b932b1",
+              "Subject": "Use kubectl 1.17 (#1082)"
+            },
+            {
+              "SHA": "5cdeebee",
+              "Subject": "Fix nil pointer exception during VolumeSnapshot (#1073)"
+            },
+            {
+              "SHA": "30630d60",
+              "Subject": "Assign returned error properly crateRestoreSessoin() (#1069)"
+            },
+            {
+              "SHA": "3fcbe1b7",
+              "Subject": "Update README.md to reflect Stash's capability properly (#1060)"
+            },
+            {
+              "SHA": "53513cfe",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "d615e2c0",
+              "Subject": "Add license scan report and status (#1031)"
             }
           ]
         }

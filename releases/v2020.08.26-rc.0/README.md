@@ -65,3 +65,85 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.10.0-rc.0](https://github.com/stashed/stash/releases/tag/v0.10.0-rc.0)
+
+- [3ebb7788](https://github.com/stashed/stash/commit/3ebb7788) Prepare for release v0.10.0-rc.0 (#1179)
+- [48e5c87e](https://github.com/stashed/stash/commit/48e5c87e) Update Kubernetes v1.18.3 dependencies (#1178)
+- [c269c8ed](https://github.com/stashed/stash/commit/c269c8ed) Port changes from enterprise version (#1176)
+- [0fea720b](https://github.com/stashed/stash/commit/0fea720b) Update Kubernetes v1.18.3 dependencies (#1174)
+- [c4b6013f](https://github.com/stashed/stash/commit/c4b6013f) Update Kubernetes v1.18.3 dependencies (#1173)
+- [77b3eab8](https://github.com/stashed/stash/commit/77b3eab8) Update Kubernetes v1.18.3 dependencies (#1169)
+- [64f7c292](https://github.com/stashed/stash/commit/64f7c292) Update Kubernetes v1.18.3 dependencies (#1168)
+- [2d6fd7da](https://github.com/stashed/stash/commit/2d6fd7da) Update Kubernetes v1.18.3 dependencies (#1167)
+- [378de04d](https://github.com/stashed/stash/commit/378de04d) Update Kubernetes v1.18.3 dependencies (#1159)
+- [20decffa](https://github.com/stashed/stash/commit/20decffa) Build images in e2e workflow
+- [4919cb03](https://github.com/stashed/stash/commit/4919cb03) Allow configuring k8s in e2e tests (#1155)
+- [6e71662a](https://github.com/stashed/stash/commit/6e71662a) Update to Kubernetes v1.18.3 (#1154)
+- [a83021fd](https://github.com/stashed/stash/commit/a83021fd) Trigger e2e tests on /ok-to-test command (#1150)
+- [6bf44ceb](https://github.com/stashed/stash/commit/6bf44ceb) Update to Kubernetes v1.18.3 (#1149)
+- [bcbb3a98](https://github.com/stashed/stash/commit/bcbb3a98) Update to Kubernetes v1.18.3 (#1148)
+- [3b717aac](https://github.com/stashed/stash/commit/3b717aac) Prepare for release v0.10.0-beta.1 (#1146)
+- [c8b81cf7](https://github.com/stashed/stash/commit/c8b81cf7) Prepare for release v0.10.0-beta.0 (#1145)
+- [2d145f47](https://github.com/stashed/stash/commit/2d145f47) Clarify Docker images are dually licensed
+- [693ab7df](https://github.com/stashed/stash/commit/693ab7df) Update License (#1144)
+- [e13d67eb](https://github.com/stashed/stash/commit/e13d67eb) Update to Kubernetes v1.18.3 (#1142)
+- [26ee605a](https://github.com/stashed/stash/commit/26ee605a) Update ci.yml
+- [9fa95666](https://github.com/stashed/stash/commit/9fa95666) Add workflow to update docs (#1136)
+- [95a62a95](https://github.com/stashed/stash/commit/95a62a95) Update update-release-tracker.sh
+- [379c90d5](https://github.com/stashed/stash/commit/379c90d5) Update update-release-tracker.sh
+- [cd0a70ee](https://github.com/stashed/stash/commit/cd0a70ee) Use GITHUB_BASE_REF to detect target branch
+- [e27c5f66](https://github.com/stashed/stash/commit/e27c5f66) Add script to update release tracker on pr merge (#1132)
+- [b0dd5051](https://github.com/stashed/stash/commit/b0dd5051) Update .kodiak.toml
+- [e87bad80](https://github.com/stashed/stash/commit/e87bad80) Parameterize installer namespace
+- [da8d8956](https://github.com/stashed/stash/commit/da8d8956) Format CI workflows
+- [bbde40a3](https://github.com/stashed/stash/commit/bbde40a3) Update to Kubernetes v1.18.3 (#1129)
+- [38eb3781](https://github.com/stashed/stash/commit/38eb3781) Update to Kubernetes v1.18.3
+- [197aa7bd](https://github.com/stashed/stash/commit/197aa7bd) Create .kodiak.toml
+- [181ca49e](https://github.com/stashed/stash/commit/181ca49e) Update coverage script
+- [26602c96](https://github.com/stashed/stash/commit/26602c96) Merge pull request #1125 from stashed/fix-ci-tests
+- [54f87b78](https://github.com/stashed/stash/commit/54f87b78) Increase wait timeout
+- [43428085](https://github.com/stashed/stash/commit/43428085) Remove unnecessary test codes + run test in parallel
+- [8a780e0c](https://github.com/stashed/stash/commit/8a780e0c) Fix clone-pvc tests
+- [7027c0f6](https://github.com/stashed/stash/commit/7027c0f6) Fix E2E test
+- [31de588a](https://github.com/stashed/stash/commit/31de588a) Change GCS test bucket name to stash-ci (#1122)
+- [30a490a6](https://github.com/stashed/stash/commit/30a490a6) Merge pull request #1121 from stashed/baseline-psp
+- [419a18e3](https://github.com/stashed/stash/commit/419a18e3) Use StringSlice type flag
+- [9dd3804d](https://github.com/stashed/stash/commit/9dd3804d) Make PSP names configurable through flag
+- [e4edef44](https://github.com/stashed/stash/commit/e4edef44) Always use baseline PSP
+- [cf1538a0](https://github.com/stashed/stash/commit/cf1538a0) Use filepath.Join to generate Repository prefix for BackupBatch (#1120)
+- [be189169](https://github.com/stashed/stash/commit/be189169) Go back to using engineerd/setup-kind
+- [ae2d74fa](https://github.com/stashed/stash/commit/ae2d74fa) Update dependencies (#1117)
+- [a93a5b4c](https://github.com/stashed/stash/commit/a93a5b4c) Remove defaults from CRD v1beta1 (#1116)
+- [40e65761](https://github.com/stashed/stash/commit/40e65761) Use CRD v1 for Kubernetes >= 1.16 (#1115)
+- [7d851e53](https://github.com/stashed/stash/commit/7d851e53) Merge pull request #1114 from stashed/x7
+- [352ddeed](https://github.com/stashed/stash/commit/352ddeed) Use preinstalled kind
+- [11c9e422](https://github.com/stashed/stash/commit/11c9e422) Pass context
+- [21053603](https://github.com/stashed/stash/commit/21053603) Update to Kubernetes 1.18.3
+- [f450e9cc](https://github.com/stashed/stash/commit/f450e9cc) Add wait for target logic + add conditions for BackupConfiguration + BackupBatch + RestoreSession (#1108)
+- [8f8ff87e](https://github.com/stashed/stash/commit/8f8ff87e) Fix volume snapshot job cleanup (#1090)
+- [a4a868b5](https://github.com/stashed/stash/commit/a4a868b5) Merge pull request #1111 from stashed/fix-interimVolume
+- [108d0252](https://github.com/stashed/stash/commit/108d0252) Set BackupSession as owner of the pvc created from interimVolumeTemplate
+- [fd136c53](https://github.com/stashed/stash/commit/fd136c53) Use Go 1.14.3
+- [74c71d22](https://github.com/stashed/stash/commit/74c71d22) Update crazy-max/ghaction-docker-buildx flag
+- [f783899b](https://github.com/stashed/stash/commit/f783899b) Trigger the workflow on push to master
+- [e7eceb30](https://github.com/stashed/stash/commit/e7eceb30) Trigger the workflow on push or pull request
+- [fe479e8c](https://github.com/stashed/stash/commit/fe479e8c) Use kind v0.8.0
+- [9fc4665a](https://github.com/stashed/stash/commit/9fc4665a) Merge pull request #1093 from robotinfra/master
+- [ef2d57e3](https://github.com/stashed/stash/commit/ef2d57e3) fix typo succesSfully
+- [d8d35c49](https://github.com/stashed/stash/commit/d8d35c49) fix event types mismatch
+- [53dfe8b0](https://github.com/stashed/stash/commit/53dfe8b0) Update stash labels in Makefile
+- [c8081c1d](https://github.com/stashed/stash/commit/c8081c1d) Pass image pull secrets to helm chart
+- [37b9b312](https://github.com/stashed/stash/commit/37b9b312) Use Go 1.14.2 (#1074)
+- [09621974](https://github.com/stashed/stash/commit/09621974) Update K8s version 1.14.6 to 1.14.10 (#1084)
+- [8a1ab32c](https://github.com/stashed/stash/commit/8a1ab32c) Give backup triggering CronJob all permissions for Stash crds (#1083)
+- [53b932b1](https://github.com/stashed/stash/commit/53b932b1) Use kubectl 1.17 (#1082)
+- [5cdeebee](https://github.com/stashed/stash/commit/5cdeebee) Fix nil pointer exception during VolumeSnapshot (#1073)
+- [30630d60](https://github.com/stashed/stash/commit/30630d60) Assign returned error properly crateRestoreSessoin() (#1069)
+- [3fcbe1b7](https://github.com/stashed/stash/commit/3fcbe1b7) Update README.md to reflect Stash's capability properly (#1060)
+- [53513cfe](https://github.com/stashed/stash/commit/53513cfe) Update README.md
+- [d615e2c0](https://github.com/stashed/stash/commit/d615e2c0) Add license scan report and status (#1031)
+
+
+
