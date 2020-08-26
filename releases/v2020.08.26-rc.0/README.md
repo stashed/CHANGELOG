@@ -157,6 +157,16 @@
 - [daec12d](https://github.com/stashed/elasticsearch/commit/daec12d) [cherry-pick] Make chart registry configurable (#114) (#119)
 
 
+### [6.8.0-beta.20200826](https://github.com/stashed/elasticsearch/releases/tag/6.8.0-beta.20200826)
+
+- [8811915](https://github.com/stashed/elasticsearch/commit/8811915) Prepare for release 6.8.0-beta.20200826 (#163)
+- [46e0b2a](https://github.com/stashed/elasticsearch/commit/46e0b2a) [cherry-pick] Update Stash installation link (#149) (#155)
+- [9a00bba](https://github.com/stashed/elasticsearch/commit/9a00bba) [cherry-pick] Make image.tag in values.yaml file same as the $APP_VERSION (#132) (#146)
+- [f0ae71f](https://github.com/stashed/elasticsearch/commit/f0ae71f) [cherry-pick] Fix output format + Add PreBackupActions logic (#131) (#138)
+- [9561dd8](https://github.com/stashed/elasticsearch/commit/9561dd8) [cherry-pick] Update chart icon (#128)
+- [bc40c89](https://github.com/stashed/elasticsearch/commit/bc40c89) [cherry-pick] Make chart registry configurable (#114) (#120)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
