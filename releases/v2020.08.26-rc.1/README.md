@@ -200,6 +200,10 @@
 - [60ed8f7](https://github.com/stashed/elasticsearch/commit/60ed8f7) Update user guide (#94)
 
 
+### [6.2.4-rc.20200826](https://github.com/stashed/elasticsearch/releases/tag/6.2.4-rc.20200826)
+
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
