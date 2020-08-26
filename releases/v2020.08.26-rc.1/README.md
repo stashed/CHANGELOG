@@ -420,6 +420,10 @@
 
 
 
+### [4.0.5-rc.20200826](https://github.com/stashed/mongodb/releases/tag/4.0.5-rc.20200826)
+
+
+
 ### [4.0.11-rc.20200826](https://github.com/stashed/mongodb/releases/tag/4.0.11-rc.20200826)
 
 
