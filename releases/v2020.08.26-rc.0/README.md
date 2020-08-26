@@ -112,6 +112,41 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.08.26-rc.0](https://github.com/stashed/docs/releases/tag/v2020.08.26-rc.0)
+
+- [0f0875e](https://github.com/stashed/docs/commit/0f0875e) Prepare for release v2020.08.26-rc.0 (#86)
+- [0328998](https://github.com/stashed/docs/commit/0328998) Update docs for stashed/cli@132ae15d (#85)
+- [d7ac475](https://github.com/stashed/docs/commit/d7ac475) Re-structure setup guides for enterprise version (#81)
+- [2958b8f](https://github.com/stashed/docs/commit/2958b8f) Use common warning message for enterprise features (#84)
+- [74dc27c](https://github.com/stashed/docs/commit/74dc27c) Add bash instead of console for better code highlight (#83)
+- [5639933](https://github.com/stashed/docs/commit/5639933) Update docs for RestoreBatch + Other improvements (#78)
+- [9d4b1b0](https://github.com/stashed/docs/commit/9d4b1b0) Update doc for parameter passing via annotations (#82)
+- [6605669](https://github.com/stashed/docs/commit/6605669) Add documentation of `schedule` and `params` auto-backup annotations (#79)
+- [d797c71](https://github.com/stashed/docs/commit/d797c71) Update docs for stashed/stash@c269c8ed (#80)
+- [88e7c91](https://github.com/stashed/docs/commit/88e7c91) Prepare for release v2020.07.09-beta.0 (#77)
+- [0e8c71f](https://github.com/stashed/docs/commit/0e8c71f) Delete _index.md
+- [fdcb33a](https://github.com/stashed/docs/commit/fdcb33a) Prepare for release v2020.07.08-beta.0 (#76)
+- [1a9b601](https://github.com/stashed/docs/commit/1a9b601) Update License header
+- [9bb26a1](https://github.com/stashed/docs/commit/9bb26a1) Update docs for stashed/cli@66b3b46c (#75)
+- [d946567](https://github.com/stashed/docs/commit/d946567) Update docs for stashed/stash@9fa95666 (#74)
+- [35f42a1](https://github.com/stashed/docs/commit/35f42a1) Update docs for stashed/cli@b913cfc2 (#73)
+- [f4bdab7](https://github.com/stashed/docs/commit/f4bdab7) Use pre-built liche binary (#72)
+- [3ae8b1b](https://github.com/stashed/docs/commit/3ae8b1b) Add script to open pr
+- [100f5a8](https://github.com/stashed/docs/commit/100f5a8) Fix typo in mv commands (#70)
+- [0c32ebd](https://github.com/stashed/docs/commit/0c32ebd) Fix typos (#69)
+- [8daeec0](https://github.com/stashed/docs/commit/8daeec0) Update update-release-tracker.sh
+- [91cb412](https://github.com/stashed/docs/commit/91cb412) Update update-release-tracker.sh
+- [dbb2eb0](https://github.com/stashed/docs/commit/dbb2eb0) Add script to update release tracker on pr merge (#71)
+- [1f6a305](https://github.com/stashed/docs/commit/1f6a305) Create .kodiak.toml
+- [6c6d150](https://github.com/stashed/docs/commit/6c6d150) Trigger the workflow on push or pull request
+- [8a9a580](https://github.com/stashed/docs/commit/8a9a580) Remove outdated roadmap doc (#68)
+- [1b00a15](https://github.com/stashed/docs/commit/1b00a15) Update overview.md
+- [664884d](https://github.com/stashed/docs/commit/664884d) Update README.md
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-beta.20200826](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-beta.20200826)
