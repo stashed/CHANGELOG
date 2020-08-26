@@ -313,6 +313,16 @@
 - [9060c7a](https://github.com/stashed/mysql/commit/9060c7a) [cherry-pick] Make chart registry configurable (#67) (#68)
 
 
+### [8.0.3-beta.20200826](https://github.com/stashed/mysql/releases/tag/8.0.3-beta.20200826)
+
+- [7326b37](https://github.com/stashed/mysql/commit/7326b37) Prepare for release 8.0.3-beta.20200826 (#87)
+- [72ba0ee](https://github.com/stashed/mysql/commit/72ba0ee) [cherry-pick] Update Stash installation link (#81) (#84)
+- [3e856a9](https://github.com/stashed/mysql/commit/3e856a9) [cherry-pick] Fix output format (#46) (#80)
+- [8621d51](https://github.com/stashed/mysql/commit/8621d51) [cherry-pick] Pass image tag in values.yaml file (#74) (#77)
+- [41702eb](https://github.com/stashed/mysql/commit/41702eb) [cherry-pick] Update chart icon (#73)
+- [31740f9](https://github.com/stashed/mysql/commit/31740f9) [cherry-pick] Make chart registry configurable (#67) (#70)
+
+
 ### [8.0.14-beta.20200826](https://github.com/stashed/mysql/releases/tag/8.0.14-beta.20200826)
 
 - [5816915](https://github.com/stashed/mysql/commit/5816915) Prepare for release 8.0.14-beta.20200826 (#86)
