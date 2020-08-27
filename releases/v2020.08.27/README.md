@@ -1946,6 +1946,47 @@
 - [5656c62](https://github.com/stashed/postgres/commit/5656c62) Add openapi v3 schema for values file (#27)
 
 
+### [11.2-v1](https://github.com/stashed/postgres/releases/tag/11.2-v1)
+
+- [e4e7c2c](https://github.com/stashed/postgres/commit/e4e7c2c) Prepare for release 11.2-v1 (#168)
+- [342b6bb](https://github.com/stashed/postgres/commit/342b6bb) Prepare for release 11.2-rc.20200827 (#162)
+- [4688cde](https://github.com/stashed/postgres/commit/4688cde) [cherry-pick] Upload charts without updating index (#157)
+- [a8f414d](https://github.com/stashed/postgres/commit/a8f414d) Prepare for release 11.2-rc.20200826 (#151)
+- [f9020fb](https://github.com/stashed/postgres/commit/f9020fb) [cherry-pick] Update README.md (#146)
+- [cf876d3](https://github.com/stashed/postgres/commit/cf876d3) Prepare for release 11.2-beta.20200826 (#140)
+- [22d4f2c](https://github.com/stashed/postgres/commit/22d4f2c) [cherry-pick] Update Stash installation link (#131) (#135)
+- [462bf9f](https://github.com/stashed/postgres/commit/462bf9f) [cherry-pick] Update twitter handle (#125) (#129)
+- [baa8b56](https://github.com/stashed/postgres/commit/baa8b56) [cherry-pick] Use image tag same as the $APP_VERSION (#114) (#123)
+- [b09b460](https://github.com/stashed/postgres/commit/b09b460) [cherry-pick] Fix output format + Add PreBackupActions logic (#113) (#118)
+- [08ea901](https://github.com/stashed/postgres/commit/08ea901) [cherry-pick] Update chart icon (#111)
+- [a6b8c9e](https://github.com/stashed/postgres/commit/a6b8c9e) [cherry-pick] Make chart registry configurable (#102) (#106)
+- [a3efd1a](https://github.com/stashed/postgres/commit/a3efd1a) Prepare for release 11.2-beta.20200709 (#99)
+- [c0a32e5](https://github.com/stashed/postgres/commit/c0a32e5) [cherry-pick] Build docker images in release workflow (#90) (#94)
+- [5c4b396](https://github.com/stashed/postgres/commit/5c4b396) Prepare for release 11.2-beta.20200708 (#87)
+- [00c2f4e](https://github.com/stashed/postgres/commit/00c2f4e) [cherry-pick] Publish to testing dir for alpha/beta releases (#78) (#82)
+- [5d795f9](https://github.com/stashed/postgres/commit/5d795f9) [cherry-pick] Update License (#72) (#76)
+- [03fd7d3](https://github.com/stashed/postgres/commit/03fd7d3) Add commands to update chart version (#71)
+- [a48d053](https://github.com/stashed/postgres/commit/a48d053) [cherry-pick] Update update-release-tracker.sh (#69)
+- [7ac5c11](https://github.com/stashed/postgres/commit/7ac5c11) [cherry-pick] Update update-release-tracker.sh (#64)
+- [ecf236a](https://github.com/stashed/postgres/commit/ecf236a) [cherry-pick] Update release.yml (#55) (#59)
+- [013242e](https://github.com/stashed/postgres/commit/013242e) [cherry-pick] Add script to update release tracker on pr merge (#49) (#53)
+- [c8b360b](https://github.com/stashed/postgres/commit/c8b360b) [cherry-pick] Remove /cherry-pick from cherry picked prs (#43) (#47)
+- [2503240](https://github.com/stashed/postgres/commit/2503240) [cherry-pick] Add workflow to cherry pick commits to master (#37) (#41)
+- [3f7525c](https://github.com/stashed/postgres/commit/3f7525c) Fix chart release process (#36)
+- [4afcc41](https://github.com/stashed/postgres/commit/4afcc41) Update .kodiak.toml
+- [861eaa3](https://github.com/stashed/postgres/commit/861eaa3) Fix waitForDBReady() logic + Make timeout configurable (#35)
+- [85ea8d6](https://github.com/stashed/postgres/commit/85ea8d6) Create .kodiak.toml
+- [f240c25](https://github.com/stashed/postgres/commit/f240c25) Merge pull request Allow overriding secret keys from AppBinding #33
+- [4e5898f](https://github.com/stashed/postgres/commit/4e5898f) Fix typos (#32)
+- [b4b61cf](https://github.com/stashed/postgres/commit/b4b61cf) Update to Kubernetes v1.18.3 (#34)
+- [62f2714](https://github.com/stashed/postgres/commit/62f2714) Update crazy-max/ghaction-docker-buildx flag
+- [962df30](https://github.com/stashed/postgres/commit/962df30) function-args: add pg-back-cmd option
+- [55e792e](https://github.com/stashed/postgres/commit/55e792e) Trigger the workflow on push or pull request
+- [66b4a51](https://github.com/stashed/postgres/commit/66b4a51) Auto generate chart readme file
+- [dd606bf](https://github.com/stashed/postgres/commit/dd606bf) Correctly mark optional fields
+- [efe4799](https://github.com/stashed/postgres/commit/efe4799) Add openapi v3 schema for values file (#27)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
