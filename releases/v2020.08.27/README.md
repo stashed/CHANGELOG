@@ -2302,6 +2302,10 @@
 
 
 
+### [3.6.1-v1](https://github.com/stashed/mongodb/releases/tag/3.6.1-v1)
+
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
