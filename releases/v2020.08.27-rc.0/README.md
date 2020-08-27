@@ -165,6 +165,15 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-rc.20200827](https://github.com/stashed/percona-xtradb/releases/tag/5.7-rc.20200827)
+
+- [c854199](https://github.com/stashed/percona-xtradb/commit/c854199) Prepare for release 5.7-rc.20200827 (#55)
+- [e798257](https://github.com/stashed/percona-xtradb/commit/e798257) [cherry-pick] Upload charts without updating index (#54)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6-rc.20200827](https://github.com/stashed/postgres/releases/tag/9.6-rc.20200827)
