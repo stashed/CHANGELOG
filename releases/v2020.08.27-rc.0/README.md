@@ -24,6 +24,15 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.2-rc.20200827](https://github.com/stashed/postgres/releases/tag/10.2-rc.20200827)
+
+- [fd9fc7a](https://github.com/stashed/postgres/commit/fd9fc7a) Prepare for release 10.2-rc.20200827 (#159)
+- [7d1033a](https://github.com/stashed/postgres/commit/7d1033a) [cherry-pick] Upload charts without updating index (#154)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.10.0-rc.2](https://github.com/stashed/stash/releases/tag/v0.10.0-rc.2)
