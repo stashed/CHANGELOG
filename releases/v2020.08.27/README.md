@@ -2120,6 +2120,185 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.1-v1](https://github.com/stashed/mongodb/releases/tag/3.4.1-v1)
+
+- [1ca3960](https://github.com/stashed/mongodb/commit/1ca3960) Prepare for release 3.4.1-v1 (#243)
+- [9890353](https://github.com/stashed/mongodb/commit/9890353) Prepare for release 3.4.1-rc.20200827 (#231)
+- [d941a98](https://github.com/stashed/mongodb/commit/d941a98) [cherry-pick] Upload charts without updating index (#220)
+- [1d2811c](https://github.com/stashed/mongodb/commit/1d2811c) Prepare for release 3.4.1-rc.20200826 (#208)
+- [b3501fb](https://github.com/stashed/mongodb/commit/b3501fb) [cherry-pick] Update README.md (#197)
+- [1c08dfd](https://github.com/stashed/mongodb/commit/1c08dfd) Prepare for release 3.4.1-beta.20200826 (#185)
+- [a4d2b49](https://github.com/stashed/mongodb/commit/a4d2b49) [cherry-pick] Update Stash installation link (#173) (#174)
+- [3ae949e](https://github.com/stashed/mongodb/commit/3ae949e) [cherry-pick] Fix output format + Add PreBackupActions logic (#149) (#162)
+- [75ebc36](https://github.com/stashed/mongodb/commit/75ebc36) [cherry-pick] Make image.tag in values.yaml same as $APP_VERSION (#150) (#151)
+- [c261899](https://github.com/stashed/mongodb/commit/c261899) [cherry-pick] Update chart icon (#138)
+- [465f36c](https://github.com/stashed/mongodb/commit/465f36c) [cherry-pick] Make chart registry configurable (#126) (#127)
+- [a354b6c](https://github.com/stashed/mongodb/commit/a354b6c) Prepare for release 3.4.1-beta.20200709 (#114)
+- [2269fa6](https://github.com/stashed/mongodb/commit/2269fa6) [cherry-pick] Build docker image in release workflow (#102) (#103)
+- [47b1d72](https://github.com/stashed/mongodb/commit/47b1d72) Prepare for release 3.4.1-beta.20200708 (#90)
+- [67b293a](https://github.com/stashed/mongodb/commit/67b293a) [cherry-pick] Publish to testing dir for alpha/beta releases (#78) (#79)
+- [d8c9489](https://github.com/stashed/mongodb/commit/d8c9489) [cherry-pick] Update License (#66) (#67)
+- [13f91cd](https://github.com/stashed/mongodb/commit/13f91cd) Add commands to update chart version (#65)
+- [5ec5c3c](https://github.com/stashed/mongodb/commit/5ec5c3c) [cherry-pick] Update update-release-tracker.sh (#54)
+- [409301c](https://github.com/stashed/mongodb/commit/409301c) Add script to update release tracker on pr merge (#41)
+- [deed415](https://github.com/stashed/mongodb/commit/deed415) [cherry-pick] Update release.yml (#42) (#43)
+- [7efcffb](https://github.com/stashed/mongodb/commit/7efcffb) [cherry-pick] Add workflow to cherry pick commits to master (#29) (#30)
+- [2ed8277](https://github.com/stashed/mongodb/commit/2ed8277) Fix chart release process (#28)
+- [b7b3bc6](https://github.com/stashed/mongodb/commit/b7b3bc6) Update .kodiak.toml
+- [33abf73](https://github.com/stashed/mongodb/commit/33abf73) Allow overwriting secret key via SecretTransformation (#27)
+- [ad30b7d](https://github.com/stashed/mongodb/commit/ad30b7d) Make waitTimeout configurable through flag (#26)
+- [80f62d1](https://github.com/stashed/mongodb/commit/80f62d1) Create .kodiak.toml
+- [d8e7b86](https://github.com/stashed/mongodb/commit/d8e7b86) Fix typos
+- [f5dfaea](https://github.com/stashed/mongodb/commit/f5dfaea) Update to Kubernetes v1.18.3 (#25)
+- [4a462cb](https://github.com/stashed/mongodb/commit/4a462cb) Update crazy-max/ghaction-docker-buildx flag
+- [961fad3](https://github.com/stashed/mongodb/commit/961fad3) Fix typos
+- [14024ab](https://github.com/stashed/mongodb/commit/14024ab) Trigger the workflow on push or pull request
+- [c80a723](https://github.com/stashed/mongodb/commit/c80a723) Auto generate chart readme file
+- [223dbfd](https://github.com/stashed/mongodb/commit/223dbfd) Correctly mark optional fields
+- [8b3b75d](https://github.com/stashed/mongodb/commit/8b3b75d) Add openapi v3 schema for values file (#21)
+- [6229815](https://github.com/stashed/mongodb/commit/6229815) Update CI configuration
+- [3f2f090](https://github.com/stashed/mongodb/commit/3f2f090) Add support for specifying S3 region (#20)
+- [55f007d](https://github.com/stashed/mongodb/commit/55f007d) Make output.json file writable to all users + Fix Flag types (#19)
+- [93643f3](https://github.com/stashed/mongodb/commit/93643f3) Fix with arguments to mongorestore (#14)
+- [0d9595c](https://github.com/stashed/mongodb/commit/0d9595c) Update hugo frontmatter for stash website
+- [cb27f47](https://github.com/stashed/mongodb/commit/cb27f47) Added --nsExclude=config.changelog to standalone
+- [a941eb0](https://github.com/stashed/mongodb/commit/a941eb0) Enable race detector in e2e tests
+- [2ed387f](https://github.com/stashed/mongodb/commit/2ed387f) Fix broken link and add AppBinding scheme field (#13)
+- [8dd0ea1](https://github.com/stashed/mongodb/commit/8dd0ea1) Test installers (#12)
+- [5199d20](https://github.com/stashed/mongodb/commit/5199d20) Add license header to files (#11)
+- [f89adec](https://github.com/stashed/mongodb/commit/f89adec) Split imports into 3 parts (#10)
+- [1c447f4](https://github.com/stashed/mongodb/commit/1c447f4) Fix BackupSession's Print Columns (#9)
+- [201a06e](https://github.com/stashed/mongodb/commit/201a06e) Enable make ci (#8)
+- [613feea](https://github.com/stashed/mongodb/commit/613feea) Remove --enable-status-subresource flag (#7)
+- [95c3974](https://github.com/stashed/mongodb/commit/95c3974) Update totalHosts from backup/restore process (#6)
+- [3097a67](https://github.com/stashed/mongodb/commit/3097a67) Fix argument passing (#5)
+- [ccdf81f](https://github.com/stashed/mongodb/commit/ccdf81f) Remove support for arm and arm64 architecture
+- [f0b8e87](https://github.com/stashed/mongodb/commit/f0b8e87) Prepare for 3.4.17 release
+- [16ad538](https://github.com/stashed/mongodb/commit/16ad538) Prepare for 3.4 release
+- [c4eb920](https://github.com/stashed/mongodb/commit/c4eb920) Add release pipeline (#4)
+- [02b9a9f](https://github.com/stashed/mongodb/commit/02b9a9f) Update go.yml
+- [7ede5fd](https://github.com/stashed/mongodb/commit/7ede5fd) Finalize doc template (#3)
+- [bb3b7fd](https://github.com/stashed/mongodb/commit/bb3b7fd) Enable GitHub actions
+- [6874298](https://github.com/stashed/mongodb/commit/6874298) Improve error handling + remove metrics handling part (#2)
+- [000f2c6](https://github.com/stashed/mongodb/commit/000f2c6) Use docker buildx to build docker image
+- [867a620](https://github.com/stashed/mongodb/commit/867a620) Use github.com/Azure/go-autorest/autorest@v0.7.0
+- [ecb6143](https://github.com/stashed/mongodb/commit/ecb6143) run `go fmt`
+- [618886d](https://github.com/stashed/mongodb/commit/618886d)  Improve Mongodump for sharded and replicaset cluster && Chart and documentation (#1)
+- [4a7d5c8](https://github.com/stashed/mongodb/commit/4a7d5c8) Reorganize repo
+- [1972a9a](https://github.com/stashed/mongodb/commit/1972a9a) VolumeSnapshot (#787)
+- [3f1f4cf](https://github.com/stashed/mongodb/commit/3f1f4cf) Remove importance of order of rule in RestoreSession (#795)
+- [86a4af0](https://github.com/stashed/mongodb/commit/86a4af0) Skip BackupSession creation if target does not exist + use timestamp … (#797)
+- [3abe6f6](https://github.com/stashed/mongodb/commit/3abe6f6) Use restic 0.9.5 (#789)
+- [85b21bf](https://github.com/stashed/mongodb/commit/85b21bf) Update concept doc (#739)
+- [ad5c8f2](https://github.com/stashed/mongodb/commit/ad5c8f2) Add support for backup cluster resources YAML (#721)
+- [2bb8ec3](https://github.com/stashed/mongodb/commit/2bb8ec3) Backup and restore Elasticsearch (#702)
+- [1f21268](https://github.com/stashed/mongodb/commit/1f21268) Update package path to stash.appscode.dev/stash (#776)
+- [e8fb571](https://github.com/stashed/mongodb/commit/e8fb571) Update to k8s 1.14.0 client libraries using go.mod (#775)
+- [eab0f8e](https://github.com/stashed/mongodb/commit/eab0f8e) Remove --rbac flag (#761)
+- [4c3e7ea](https://github.com/stashed/mongodb/commit/4c3e7ea) Skip creating/processing backup-session when backup-config is paused (#759)
+- [7905eff](https://github.com/stashed/mongodb/commit/7905eff) Stash v1beta1 E2E test for PVC (#753)
+- [2c44ee8](https://github.com/stashed/mongodb/commit/2c44ee8) Implement snapshots for v1beta1 api (#749)
+- [c88df7a](https://github.com/stashed/mongodb/commit/c88df7a) Run restic commands using docker (#754)
+- [8e24d32](https://github.com/stashed/mongodb/commit/8e24d32) Fixed scratch-dir, output-dir and hostname in functions/tasks yamls (#744)
+- [8d5944d](https://github.com/stashed/mongodb/commit/8d5944d) Add Stash CLI (#734)
+- [550ab37](https://github.com/stashed/mongodb/commit/550ab37) Apply nice/ionice settings from env (#746)
+- [42ed76b](https://github.com/stashed/mongodb/commit/42ed76b) Stash V1beta1 E2E test for Deployment (#710)
+- [d63f9e9](https://github.com/stashed/mongodb/commit/d63f9e9) Fix openapi path prefixes for validators and mutators (#732)
+- [c1347ed](https://github.com/stashed/mongodb/commit/c1347ed) Add max-connections for GCS, Azure, B2 backend (#730)
+- [859c4ee](https://github.com/stashed/mongodb/commit/859c4ee) Rename admission webhooks to avoid name collision (#725)
+- [d631bb9](https://github.com/stashed/mongodb/commit/d631bb9) Apply EmptyDir settings to TmpDir (#719)
+- [cc70068](https://github.com/stashed/mongodb/commit/cc70068) Add support for rest backend (#713)
+- [e4db000](https://github.com/stashed/mongodb/commit/e4db000) Add support for OpenShift DeploymentConfig (#714)
+- [3fa7bdb](https://github.com/stashed/mongodb/commit/3fa7bdb) Backup and restore Mongo DB (#699)
+- [4c39235](https://github.com/stashed/mongodb/commit/4c39235) Backup and restore MySQL DB (#696)
+- [3e89d32](https://github.com/stashed/mongodb/commit/3e89d32) Backup and restore Postgres DB (#695)
+- [03b95f3](https://github.com/stashed/mongodb/commit/03b95f3) Add BackupSession Controller for Sidecar (#701)
+- [cacbc7d](https://github.com/stashed/mongodb/commit/cacbc7d) Update workload controller for new design (#675)
+- [5c173e5](https://github.com/stashed/mongodb/commit/5c173e5)  Post backup/restore status update (#691)
+- [50bbb0a](https://github.com/stashed/mongodb/commit/50bbb0a) Backup and restore PVC (#676)
+- [d4a53e2](https://github.com/stashed/mongodb/commit/d4a53e2) Add BackupConfiguration Controller (#671)
+- [ef9a4ae](https://github.com/stashed/mongodb/commit/ef9a4ae) Update Kubernetes client libraries to 1.13.0 (#687)
+- [c48dbfc](https://github.com/stashed/mongodb/commit/c48dbfc) Separate type definitions into individual files (#646)
+- [77f2113](https://github.com/stashed/mongodb/commit/77f2113) Use flags.DumpAll to dump flags (#624)
+- [cb54d8c](https://github.com/stashed/mongodb/commit/cb54d8c) Set periodic analytics (#623)
+- [248a53a](https://github.com/stashed/mongodb/commit/248a53a) Add validation webhook xray (#618)
+- [2029bf4](https://github.com/stashed/mongodb/commit/2029bf4) Use dynamic pushgateway url (#614)
+- [bcf5926](https://github.com/stashed/mongodb/commit/bcf5926) Fix offline backup (#537)
+- [5049a63](https://github.com/stashed/mongodb/commit/5049a63) Fix extended apiserver issues with Kubernetes 1.11 (#536)
+- [9d31255](https://github.com/stashed/mongodb/commit/9d31255) Update client-go to v8.0.0 (#528)
+- [d872b4c](https://github.com/stashed/mongodb/commit/d872b4c) Enable status subresource for crds (#524)
+- [4795dba](https://github.com/stashed/mongodb/commit/4795dba) Remove ops-address port (#518)
+- [e95b151](https://github.com/stashed/mongodb/commit/e95b151) Add support for initial backoff to the apiserver call on recover (#476)
+- [120e5de](https://github.com/stashed/mongodb/commit/120e5de) Disable admission controllers for webhook server (#468)
+- [2f19545](https://github.com/stashed/mongodb/commit/2f19545) Update client-go to 7.0.0 (#463)
+- [e613ff5](https://github.com/stashed/mongodb/commit/e613ff5) Fixes RBAC issue in test (#449)
+- [56a3a74](https://github.com/stashed/mongodb/commit/56a3a74) Some cleanup (#446)
+- [02565bb](https://github.com/stashed/mongodb/commit/02565bb) Delete restic repository from backend if Repository CRD is deleted (#438)
+- [ea98067](https://github.com/stashed/mongodb/commit/ea98067) Fix go_vet error (#440)
+- [9d626eb](https://github.com/stashed/mongodb/commit/9d626eb) Increase qps and burst limits (#435)
+- [5c6713f](https://github.com/stashed/mongodb/commit/5c6713f) Show repository snapshot list (#417)
+- [6d8ef78](https://github.com/stashed/mongodb/commit/6d8ef78) Expose swagger.json (#420)
+- [8e04ca0](https://github.com/stashed/mongodb/commit/8e04ca0) Create repository crd for each Restic repository (#394)
+- [4c9a478](https://github.com/stashed/mongodb/commit/4c9a478) Rename --analytics to --enable-analytics (#384)
+- [7ea2220](https://github.com/stashed/mongodb/commit/7ea2220) Replace initializers with mutation webhook for workloads (#363)
+- [2770e6b](https://github.com/stashed/mongodb/commit/2770e6b) Use admission hook helpers from kutil (#360)
+- [d3754d7](https://github.com/stashed/mongodb/commit/d3754d7) Implement offline backup for multiple replica (#335)
+- [13a2d14](https://github.com/stashed/mongodb/commit/13a2d14) Use official code generator scripts (#336)
+- [90642ce](https://github.com/stashed/mongodb/commit/90642ce) Fix e2e tests after webhook merger (#333)
+- [2fc3239](https://github.com/stashed/mongodb/commit/2fc3239) Leave secure port unset
+- [7cb52b2](https://github.com/stashed/mongodb/commit/7cb52b2) Merge admission webhook and operator into one binary (#329)
+- [3306427](https://github.com/stashed/mongodb/commit/3306427) Implement informer factory for backup scheduler (#325)
+- [7bb027b](https://github.com/stashed/mongodb/commit/7bb027b) Cleanup apiserver
+- [fb8c1e4](https://github.com/stashed/mongodb/commit/fb8c1e4) Copy generic-admission-server into pkg (#318)
+- [5a5093f](https://github.com/stashed/mongodb/commit/5a5093f) Use shared infromer factory (#317)
+- [0ccb948](https://github.com/stashed/mongodb/commit/0ccb948) Use GetBaseVersion method from kutil (#316)
+- [8c5e6ff](https://github.com/stashed/mongodb/commit/8c5e6ff) Fix webhook command description (#314)
+- [775a2b6](https://github.com/stashed/mongodb/commit/775a2b6) Merge webhook plugins into one. (#311)
+- [a8659fe](https://github.com/stashed/mongodb/commit/a8659fe) Add ValidatingAdmissionWebhook for Stash CRDs (#299)
+- [c3e177c](https://github.com/stashed/mongodb/commit/c3e177c) Added support for private docker registry (#300)
+- [62ec42e](https://github.com/stashed/mongodb/commit/62ec42e) Update dependencies to Kubernetes 1.9 (#297)
+- [cf3ea7c](https://github.com/stashed/mongodb/commit/cf3ea7c) Update appscode/go log wrapper (#287)
+- [470cc31](https://github.com/stashed/mongodb/commit/470cc31) Pass --pushgateway-url for injected containers. (#284)
+- [e2e79c6](https://github.com/stashed/mongodb/commit/e2e79c6) Fix kubectl version parsing generation in GKE (#267)
+- [326aea4](https://github.com/stashed/mongodb/commit/326aea4) Detect analytics client id using env vars (#265)
+- [4a5912c](https://github.com/stashed/mongodb/commit/4a5912c) Prepare docs for 0.6.0 release (#264)
+- [f75d5df](https://github.com/stashed/mongodb/commit/f75d5df) Remove restic-dependency from recovery (#258)
+- [86f01f3](https://github.com/stashed/mongodb/commit/86f01f3) Log operator version on start (#253)
+- [4e29b70](https://github.com/stashed/mongodb/commit/4e29b70) Simplify clientID generation for analytics (#247)
+- [a45937f](https://github.com/stashed/mongodb/commit/a45937f) Set analytics clientID (#246)
+- [ea53cea](https://github.com/stashed/mongodb/commit/ea53cea) Enable Restic cahce-dir flag (#241)
+- [dc0030d](https://github.com/stashed/mongodb/commit/dc0030d) Implement offline backup (#229)
+- [ae40f35](https://github.com/stashed/mongodb/commit/ae40f35) Revendor kutil (#230)
+- [d68a34d](https://github.com/stashed/mongodb/commit/d68a34d) Record recovery status for individual FileGroup (#222)
+- [15a24b7](https://github.com/stashed/mongodb/commit/15a24b7) Leader election for deployment, replica set and rc (#206)
+- [4a75689](https://github.com/stashed/mongodb/commit/4a75689) Implement Recovery for Restic Backup (#202)
+- [78b3942](https://github.com/stashed/mongodb/commit/78b3942) Use typed versioned client for CRD
+- [b857b05](https://github.com/stashed/mongodb/commit/b857b05) Change `k8s.io/api/core/v1` pkg alias to core (#204)
+- [e52f848](https://github.com/stashed/mongodb/commit/e52f848) Use client-go 5.x
+- [4f376ad](https://github.com/stashed/mongodb/commit/4f376ad) Set hostname based on resource type (#198)
+- [e530116](https://github.com/stashed/mongodb/commit/e530116) Manage RoleBinding for rbac enabled cluster (#197)
+- [e28c13f](https://github.com/stashed/mongodb/commit/e28c13f) Use workqueue for scheduler (#194)
+- [2719cbd](https://github.com/stashed/mongodb/commit/2719cbd) Fix e2e tests (#183)
+- [9c1cc43](https://github.com/stashed/mongodb/commit/9c1cc43) Use workqueue (#182)
+- [b3ee076](https://github.com/stashed/mongodb/commit/b3ee076) Only watch apps/v1beta1 Deployment (#178)
+- [4f92ca6](https://github.com/stashed/mongodb/commit/4f92ca6) Use Namespace() method from kutil.
+- [78f1e7f](https://github.com/stashed/mongodb/commit/78f1e7f) Update kutil (#170)
+- [29a8a1f](https://github.com/stashed/mongodb/commit/29a8a1f) Use apis/v1alpha1 instead of internal version (#167)
+- [da3eb2e](https://github.com/stashed/mongodb/commit/da3eb2e) Use kubernetes/code-generator (#163)
+- [3b1d6bf](https://github.com/stashed/mongodb/commit/3b1d6bf) Expose resync-period as flag
+- [35d8dc6](https://github.com/stashed/mongodb/commit/35d8dc6) Move analytics collector to root command (#164)
+- [6a55694](https://github.com/stashed/mongodb/commit/6a55694) Migrate TPR to CRD (#160)
+- [91f678f](https://github.com/stashed/mongodb/commit/91f678f) Rename RepositorySecretName to StorageSecretName (#135)
+- [d666c81](https://github.com/stashed/mongodb/commit/d666c81) Change mount path for labels to /etc/stash
+- [1177d60](https://github.com/stashed/mongodb/commit/1177d60) Part 6 - Update docs (#121)
+- [a15689d](https://github.com/stashed/mongodb/commit/a15689d) Various bug fixes (#118)
+- [d8a5771](https://github.com/stashed/mongodb/commit/d8a5771) Set TMPDIR env var for restic (#115)
+- [60ed8f7](https://github.com/stashed/mongodb/commit/60ed8f7) Update user guide (#94)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6-v1](https://github.com/stashed/postgres/releases/tag/9.6-v1)
