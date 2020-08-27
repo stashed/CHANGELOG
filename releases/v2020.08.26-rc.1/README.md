@@ -18,6 +18,15 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2020.08.26-rc.1](https://github.com/stashed/catalog/releases/tag/v2020.08.26-rc.1)
+
+- [fe86886](https://github.com/stashed/catalog/commit/fe86886) Prepare for release v2020.08.26-rc.1 (#34)
+- [e7eb2e3](https://github.com/stashed/catalog/commit/e7eb2e3) Update issues link
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.10.0-rc.1](https://github.com/stashed/cli/releases/tag/v0.10.0-rc.1)
