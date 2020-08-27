@@ -137,6 +137,12 @@
 - [b22a028](https://github.com/stashed/mongodb/commit/b22a028) [cherry-pick] Upload charts without updating index (#229)
 
 
+### [4.2.3-rc.20200827](https://github.com/stashed/mongodb/releases/tag/4.2.3-rc.20200827)
+
+- [e4c8466](https://github.com/stashed/mongodb/commit/e4c8466) Prepare for release 4.2.3-rc.20200827 (#241)
+- [b45397b](https://github.com/stashed/mongodb/commit/b45397b) [cherry-pick] Upload charts without updating index (#230)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
