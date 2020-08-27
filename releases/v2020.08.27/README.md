@@ -1,0 +1,828 @@
+# Stash v2020.08.27 (2020-08-27)
+
+
+## [stashed/apimachinery](https://github.com/stashed/apimachinery)
+
+### [v0.10.0](https://github.com/stashed/apimachinery/releases/tag/v0.10.0)
+
+- [7dbdff5f](https://github.com/stashed/apimachinery/commit/7dbdff5f) Update README.md
+- [254ee64e](https://github.com/stashed/apimachinery/commit/254ee64e) Rename param annotation (#42)
+- [2210ed42](https://github.com/stashed/apimachinery/commit/2210ed42) Update Kubernetes v1.18.3 dependencies (#41)
+- [835c0358](https://github.com/stashed/apimachinery/commit/835c0358) Update Kubernetes v1.18.3 dependencies (#40)
+- [692909fe](https://github.com/stashed/apimachinery/commit/692909fe) Add params and schedule annotation (#38)
+- [b9ff4f14](https://github.com/stashed/apimachinery/commit/b9ff4f14) Update Kubernetes v1.18.3 dependencies (#37)
+- [c44c52c8](https://github.com/stashed/apimachinery/commit/c44c52c8) Update Kubernetes v1.18.3 dependencies (#36)
+- [073a93c8](https://github.com/stashed/apimachinery/commit/073a93c8) Rename StashLocalBackendAccessor to StashNetVolAccessor (#35)
+- [e29c2724](https://github.com/stashed/apimachinery/commit/e29c2724) Update Kubernetes v1.18.3 dependencies (#34)
+- [a4807149](https://github.com/stashed/apimachinery/commit/a4807149) Update Kubernetes v1.18.3 dependencies (#33)
+- [d6fcb2c6](https://github.com/stashed/apimachinery/commit/d6fcb2c6) Fix protobuf tags (#32)
+- [d255d800](https://github.com/stashed/apimachinery/commit/d255d800) Pass target reference for restore job condition (#31)
+- [a3ce1cee](https://github.com/stashed/apimachinery/commit/a3ce1cee) Add helper method for NFS backend (#30)
+- [a4be15a1](https://github.com/stashed/apimachinery/commit/a4be15a1) Introduce RestoreBatch CRD + Additional Improvements (#22)
+- [710228f4](https://github.com/stashed/apimachinery/commit/710228f4) Update to Kubernetes v1.18.3 (#29)
+- [0f69a3ab](https://github.com/stashed/apimachinery/commit/0f69a3ab) Update to Kubernetes v1.18.3 (#28)
+- [504a57e7](https://github.com/stashed/apimachinery/commit/504a57e7) Update to Kubernetes v1.18.3 (#27)
+- [843421e4](https://github.com/stashed/apimachinery/commit/843421e4) Show AppsCode in copyright file header (#26)
+- [ad462cc4](https://github.com/stashed/apimachinery/commit/ad462cc4) Update to Kubernetes v1.18.3 (#25)
+- [28d53699](https://github.com/stashed/apimachinery/commit/28d53699) Update update-release-tracker.sh
+- [34624044](https://github.com/stashed/apimachinery/commit/34624044) Update update-release-tracker.sh
+- [5f5de63c](https://github.com/stashed/apimachinery/commit/5f5de63c) Fix openapi path (#24)
+- [6e0ad5f8](https://github.com/stashed/apimachinery/commit/6e0ad5f8) Add script to update release tracker on pr merge (#23)
+- [cbf9b376](https://github.com/stashed/apimachinery/commit/cbf9b376) Update .kodiak.toml
+- [d12b3d4b](https://github.com/stashed/apimachinery/commit/d12b3d4b) Update to Kubernetes v1.18.3 (#21)
+- [1956a312](https://github.com/stashed/apimachinery/commit/1956a312) Update to Kubernetes v1.18.3
+- [c3966002](https://github.com/stashed/apimachinery/commit/c3966002) Unwrap top level api folder (#20)
+- [5ba03fb5](https://github.com/stashed/apimachinery/commit/5ba03fb5) Update to Kubernetes v1.18.3 (#19)
+- [abeb620e](https://github.com/stashed/apimachinery/commit/abeb620e) Update to Kubernetes v1.18.3
+- [6fdf8a60](https://github.com/stashed/apimachinery/commit/6fdf8a60) Enable https://kodiakhq.com (#13)
+- [479258ed](https://github.com/stashed/apimachinery/commit/479258ed) Update dev scripts (#12)
+- [a85ced99](https://github.com/stashed/apimachinery/commit/a85ced99) Merge pull request #11 from stashed/k8s-gomod-refresher-1591208266
+- [82df6f26](https://github.com/stashed/apimachinery/commit/82df6f26) Update to Kubernetes v1.18.3
+- [788f6921](https://github.com/stashed/apimachinery/commit/788f6921) Add default annotation for Snapshotter (#9)
+- [d2f3f5d4](https://github.com/stashed/apimachinery/commit/d2f3f5d4) Remove defaults from crd v1beta1 YAML (#8)
+- [1a09ffde](https://github.com/stashed/apimachinery/commit/1a09ffde) Update dependencies
+- [58525b4b](https://github.com/stashed/apimachinery/commit/58525b4b) Update dependencies
+- [c34c2ec1](https://github.com/stashed/apimachinery/commit/c34c2ec1) Generate both v1beta1 and v1 CRD YAML (#7)
+- [e81205a3](https://github.com/stashed/apimachinery/commit/e81205a3) Bring back mistakenly removed SetRecoveryStats
+- [5f8cf3a6](https://github.com/stashed/apimachinery/commit/5f8cf3a6) Merge pull request #6 from stashed/k-1.18.3
+- [723f4de9](https://github.com/stashed/apimachinery/commit/723f4de9) Add context to crd utils
+- [59478af4](https://github.com/stashed/apimachinery/commit/59478af4) Update to Kubernetes 1.18.3
+- [e83b90a7](https://github.com/stashed/apimachinery/commit/e83b90a7) Merge pull request #3 from stashed/wait-for-target
+- [a5b9a011](https://github.com/stashed/apimachinery/commit/a5b9a011) Simplify targetMatched() function
+- [58948bd9](https://github.com/stashed/apimachinery/commit/58948bd9) Refactor
+- [5568cb90](https://github.com/stashed/apimachinery/commit/5568cb90) Add RestoreSession conditions
+- [906c5910](https://github.com/stashed/apimachinery/commit/906c5910) Add TypeMeta to invoker
+- [22843fdb](https://github.com/stashed/apimachinery/commit/22843fdb) Use Go 1.14.3
+- [238d1bd0](https://github.com/stashed/apimachinery/commit/238d1bd0) Add backup invoker condition transion reasons
+- [275965f9](https://github.com/stashed/apimachinery/commit/275965f9) Introduce conditions for BackupConfiguration and BackupBatch
+- [35159c81](https://github.com/stashed/apimachinery/commit/35159c81) Merge pull request #5 from stashed/fix-updatestatus
+- [f1d78326](https://github.com/stashed/apimachinery/commit/f1d78326) Fix helper methods
+- [dbb02873](https://github.com/stashed/apimachinery/commit/dbb02873) Fix UpdateStatus() function
+- [a7bd75ad](https://github.com/stashed/apimachinery/commit/a7bd75ad) Update crazy-max/ghaction-docker-buildx flag
+- [1d65a7d4](https://github.com/stashed/apimachinery/commit/1d65a7d4) Use recommended kubernetes app labels (#4)
+- [5b322e9f](https://github.com/stashed/apimachinery/commit/5b322e9f) Add Enum markers to api types
+- [e6017151](https://github.com/stashed/apimachinery/commit/e6017151) Trigger the workflow on push or pull request
+- [54097441](https://github.com/stashed/apimachinery/commit/54097441) Use kubectl v1.17 (#1)
+- [43743e92](https://github.com/stashed/apimachinery/commit/43743e92) Update module path
+- [9c16896f](https://github.com/stashed/apimachinery/commit/9c16896f) Add support for specifying "region" for S3 backend (#1050)
+- [b8c83f74](https://github.com/stashed/apimachinery/commit/b8c83f74) Fix Repository CRDs print column (#1046)
+- [52367e1b](https://github.com/stashed/apimachinery/commit/52367e1b) Update README.md to v0.9.0-rc.4
+- [48dba9c9](https://github.com/stashed/apimachinery/commit/48dba9c9) Fix ServiceAccount name mitchmatch (#1025)
+- [a0fceff6](https://github.com/stashed/apimachinery/commit/a0fceff6) Suspend CronJob but keep instant backup working while backup is paused (#1024)
+- [3d591020](https://github.com/stashed/apimachinery/commit/3d591020) Add stash specific prefix to automatically created resources (#1023)
+- [b113839c](https://github.com/stashed/apimachinery/commit/b113839c) Use Go 1.13.6
+- [50071f71](https://github.com/stashed/apimachinery/commit/50071f71) Enable tests for K8s 1.11 (#1013)
+- [e1069c9a](https://github.com/stashed/apimachinery/commit/e1069c9a) Bring back support for k8s 1.11 (#1008)
+- [427a9c57](https://github.com/stashed/apimachinery/commit/427a9c57) Remove creationTimestamp from PartialObjectMeta (#1006)
+- [62ce8323](https://github.com/stashed/apimachinery/commit/62ce8323) Add BackupBatch support (#985)
+- [190e4cc3](https://github.com/stashed/apimachinery/commit/190e4cc3) Update twitter account (#1003)
+- [35e8db63](https://github.com/stashed/apimachinery/commit/35e8db63) Add Repository Validation for local backend `mountPath` (#947)
+- [f28abce2](https://github.com/stashed/apimachinery/commit/f28abce2) Add Backend e2e Test (#975)
+- [4283b841](https://github.com/stashed/apimachinery/commit/4283b841) Update client-go to kubernetes-1.16.3 (#987)
+- [999fc6e3](https://github.com/stashed/apimachinery/commit/999fc6e3) Use RWX for restic output.json (#1001)
+- [3bd3b357](https://github.com/stashed/apimachinery/commit/3bd3b357) Run `chmod` on `output.json` only by owner container + Improve… (#1000)
+- [fa597188](https://github.com/stashed/apimachinery/commit/fa597188) Add Backup and Restore hooks (#978)
+- [cc11d985](https://github.com/stashed/apimachinery/commit/cc11d985) Use helm chart instead of script to install operator (#999)
+- [7fa6e4c2](https://github.com/stashed/apimachinery/commit/7fa6e4c2) Update hack/fmt.sh script
+- [56ef2680](https://github.com/stashed/apimachinery/commit/56ef2680) Add helper library for CRDs (#977)
+- [1c1c41c2](https://github.com/stashed/apimachinery/commit/1c1c41c2) Use kubebuilder generated CRD yamls (#971)
+- [9c43c131](https://github.com/stashed/apimachinery/commit/9c43c131) Use controller-tools@v0.2.2 to generate structural schema (#974)
+- [7e1a1899](https://github.com/stashed/apimachinery/commit/7e1a1899) Generate protobuf files for api types (#967)
+- [a9e058d8](https://github.com/stashed/apimachinery/commit/a9e058d8) Fix Repository returned error message (#961)
+- [1bfbca9b](https://github.com/stashed/apimachinery/commit/1bfbca9b) Apply valid name functionality (#950)
+- [1cd02749](https://github.com/stashed/apimachinery/commit/1cd02749) Test installer against multiple k8s version (#953)
+- [a6808bfa](https://github.com/stashed/apimachinery/commit/a6808bfa) Format shell scripts (#952)
+- [1e513927](https://github.com/stashed/apimachinery/commit/1e513927) Add missing license header
+- [00596ec8](https://github.com/stashed/apimachinery/commit/00596ec8) Rename Dockerfiles (#946)
+- [b8eea322](https://github.com/stashed/apimachinery/commit/b8eea322) Add AutoBackup e2e test (#939)
+- [e469e86e](https://github.com/stashed/apimachinery/commit/e469e86e) Enable race detector (#944)
+- [81778745](https://github.com/stashed/apimachinery/commit/81778745) Add license header to files (#943)
+- [f5000aa5](https://github.com/stashed/apimachinery/commit/f5000aa5) Don't add AppBinding labels in metric when AppBinding is not available (#942)
+- [06537e5e](https://github.com/stashed/apimachinery/commit/06537e5e) Fix klog flag parsing
+- [926f960a](https://github.com/stashed/apimachinery/commit/926f960a) Revendor
+- [6ce2ee96](https://github.com/stashed/apimachinery/commit/6ce2ee96) Use crazy-max/ghaction-docker-buildx@v1
+- [5adb77e4](https://github.com/stashed/apimachinery/commit/5adb77e4) Show diff when files `make verify` fails (#937)
+- [86be7d3e](https://github.com/stashed/apimachinery/commit/86be7d3e) Update make fmt
+- [d3c773c2](https://github.com/stashed/apimachinery/commit/d3c773c2) Split imports into 3 blocks (#936)
+- [a1326209](https://github.com/stashed/apimachinery/commit/a1326209) Volume e2e test github action (#933)
+- [497a062a](https://github.com/stashed/apimachinery/commit/497a062a) Fix BackupSession additional print column (#932)
+- [ed8fc701](https://github.com/stashed/apimachinery/commit/ed8fc701) Remove spec.backupConfiguration from BackupSession (#931)
+- [5b202733](https://github.com/stashed/apimachinery/commit/5b202733) Update e2e tests to run on GitHub actions (#917)
+- [c35f0b5f](https://github.com/stashed/apimachinery/commit/c35f0b5f) Enable make ci (#928)
+- [18559697](https://github.com/stashed/apimachinery/commit/18559697) Don't restart workload on backup pause+Use ImagePullPolicy: "Always" for Function-Task model (#929)
+- [65095dfe](https://github.com/stashed/apimachinery/commit/65095dfe) Add status.observedGeneration (#927)
+- [f6181414](https://github.com/stashed/apimachinery/commit/f6181414) Implement RetentionPolicy for VolumeSnapshot (#926)
+- [e69a37ca](https://github.com/stashed/apimachinery/commit/e69a37ca) Verify generated files are up to date (#925)
+- [9514193d](https://github.com/stashed/apimachinery/commit/9514193d) Update and rename go.yml to ci.yml (#922)
+- [675769a7](https://github.com/stashed/apimachinery/commit/675769a7) Add probe and BackupBatch api (#890)
+- [149cf02d](https://github.com/stashed/apimachinery/commit/149cf02d) Use core package from k8s.io/api repo (#921)
+- [f5cf5adf](https://github.com/stashed/apimachinery/commit/f5cf5adf) Bring back dependency to github.com/golang/protobuf@v1.2.0 (#918)
+- [76e892de](https://github.com/stashed/apimachinery/commit/76e892de) Update tag pattern for release pipeline
+- [8329fa4f](https://github.com/stashed/apimachinery/commit/8329fa4f) Run e2e tests using GitHub actions (#909)
+- [11dabe80](https://github.com/stashed/apimachinery/commit/11dabe80) Add app=stash label to crd yamls
+- [b1c9e012](https://github.com/stashed/apimachinery/commit/b1c9e012) Generate swagger.json for v1beta1 (#916)
+- [538973b8](https://github.com/stashed/apimachinery/commit/538973b8) Add release pipeline (#915)
+- [eeb53e04](https://github.com/stashed/apimachinery/commit/eeb53e04) Fix VolumeSnapshot Issues (#912)
+- [d61e7bac](https://github.com/stashed/apimachinery/commit/d61e7bac) Add Kubebuilder annotations (#911)
+- [e190f29a](https://github.com/stashed/apimachinery/commit/e190f29a) Use kubebuilder to generate crd yamls (#843)
+- [bb4b5267](https://github.com/stashed/apimachinery/commit/bb4b5267) Update go.yml
+- [84fbd266](https://github.com/stashed/apimachinery/commit/84fbd266) Introduce InterimVolumeTemplate and BackupHistoryLimit field. (#907)
+- [4fda42c8](https://github.com/stashed/apimachinery/commit/4fda42c8) Make RetentionPolicy required in v1beta1 api (#905)
+- [75c2560e](https://github.com/stashed/apimachinery/commit/75c2560e) Enable GitHub actions (#903)
+- [326051df](https://github.com/stashed/apimachinery/commit/326051df) Fix snapshot listing for local backend (#902)
+- [3950661b](https://github.com/stashed/apimachinery/commit/3950661b) Improve Error Handling + Code refactor (#891)
+- [215680ee](https://github.com/stashed/apimachinery/commit/215680ee) Add `NICE` and `IONICE` into distroless image (#883)
+- [91ff6961](https://github.com/stashed/apimachinery/commit/91ff6961) Improve metrics handling + make update status uniform (#872)
+- [54acd006](https://github.com/stashed/apimachinery/commit/54acd006) Add DumpEnv func to Restic Config file (#870)
+- [02f7f1e5](https://github.com/stashed/apimachinery/commit/02f7f1e5) Allow to specify subPath in auto-backup annotation (#871)
+- [8a67406f](https://github.com/stashed/apimachinery/commit/8a67406f) Silence docker buildx command (#866)
+- [50110a2d](https://github.com/stashed/apimachinery/commit/50110a2d) Update README.md (#865)
+- [9dfef064](https://github.com/stashed/apimachinery/commit/9dfef064) Use docker buildx to build docker image (#864)
+- [67974206](https://github.com/stashed/apimachinery/commit/67974206) Update version in gendocs script
+- [d3613ff4](https://github.com/stashed/apimachinery/commit/d3613ff4) Use github.com/Azure/go-autorest/autorest@v0.7.0 (#862)
+- [da23461d](https://github.com/stashed/apimachinery/commit/da23461d) Remove the `bs` short name for BackupSession (#859)
+- [f4c425ec](https://github.com/stashed/apimachinery/commit/f4c425ec) Use github.com/golang/protobuf@v1.2.0 (#855)
+- [90a9cd35](https://github.com/stashed/apimachinery/commit/90a9cd35) New variable from type field of AppBinding + Fix RoleBinding nam… (#845)
+- [26a35938](https://github.com/stashed/apimachinery/commit/26a35938) Fix resolving Task if volumeClaimTemplate is set in RestoreSession(#852)
+- [f6de2e47](https://github.com/stashed/apimachinery/commit/f6de2e47) Rename BackupConfigurationTemplate to BackupBlueprint (#847)
+- [a18041a9](https://github.com/stashed/apimachinery/commit/a18041a9) Pass replicas from RestoreSession to Function (#848)
+- [e061c7df](https://github.com/stashed/apimachinery/commit/e061c7df) Use variable for version in BackupConfigurationTemplate name (#846)
+- [18ee8f1e](https://github.com/stashed/apimachinery/commit/18ee8f1e) Fix Platforms Issue (#844)
+- [a3e48977](https://github.com/stashed/apimachinery/commit/a3e48977) Add GetSnapshotSize() function (#839)
+- [a2563e2a](https://github.com/stashed/apimachinery/commit/a2563e2a) Fix travis build (#837)
+- [737a9f9f](https://github.com/stashed/apimachinery/commit/737a9f9f) Add support for parallel backup & restore (#833)
+- [ff29a86f](https://github.com/stashed/apimachinery/commit/ff29a86f) Use cron.ParseStandard helper
+- [60dfc70e](https://github.com/stashed/apimachinery/commit/60dfc70e) Update azure-sdk-for-go dependencies (#836)
+- [690424c6](https://github.com/stashed/apimachinery/commit/690424c6) Update github.com/appscode/go@master
+- [975b72f7](https://github.com/stashed/apimachinery/commit/975b72f7) Use robfig/cron@v3 (#834)
+- [db237826](https://github.com/stashed/apimachinery/commit/db237826) Remove unused code (#829)
+- [cf8d0316](https://github.com/stashed/apimachinery/commit/cf8d0316) Generate docs files inside docs repo (#828)
+- [0b7642b2](https://github.com/stashed/apimachinery/commit/0b7642b2) Add License notice to makefile (#825)
+- [7aeda1a7](https://github.com/stashed/apimachinery/commit/7aeda1a7) Always attempt to pull a newer image for `make container` (#818)
+- [2dd72ed0](https://github.com/stashed/apimachinery/commit/2dd72ed0) Update constants.go
+- [6b54344b](https://github.com/stashed/apimachinery/commit/6b54344b) Add PusgatewayURL input for Functions (#816)
+- [48f909ff](https://github.com/stashed/apimachinery/commit/48f909ff) Restore PVCs from templates using Restic (#809)
+- [9c01bc29](https://github.com/stashed/apimachinery/commit/9c01bc29) Add TARGET_RESOURCE  variable for BackupConfigurationTemplate (#814)
+- [f88e6ce6](https://github.com/stashed/apimachinery/commit/f88e6ce6) Add make install, uninstall, purge commands (#813)
+- [ecbe5573](https://github.com/stashed/apimachinery/commit/ecbe5573) Move chart & deploy scripts to github.com/stashed/installer (#811)
+- [41bb5197](https://github.com/stashed/apimachinery/commit/41bb5197) Use stashed/docs repo
+- [1348e419](https://github.com/stashed/apimachinery/commit/1348e419) Move docs to github.com/stashed/docs repo (#810)
+- [7ebb2319](https://github.com/stashed/apimachinery/commit/7ebb2319) Fix travis build (#804)
+- [06f0bf36](https://github.com/stashed/apimachinery/commit/06f0bf36) Pass labels to offshoot + add generic offshoot labels (#801)
+- [e66ed12a](https://github.com/stashed/apimachinery/commit/e66ed12a) Remove canary support (#805)
+- [7a2d937b](https://github.com/stashed/apimachinery/commit/7a2d937b) Update Version.go (#803)
+- [1f00c4e5](https://github.com/stashed/apimachinery/commit/1f00c4e5) Added ARM64 support to the install script and manifest (#802)
+- [b7582d56](https://github.com/stashed/apimachinery/commit/b7582d56) Load modules from vendor folder for linter
+- [3afc2b8c](https://github.com/stashed/apimachinery/commit/3afc2b8c) Add Makefile (#800)
+- [27d43b71](https://github.com/stashed/apimachinery/commit/27d43b71) VolumeSnapshot (#787)
+- [31d0538c](https://github.com/stashed/apimachinery/commit/31d0538c) Remove importance of order of rule in RestoreSession (#795)
+- [840611ac](https://github.com/stashed/apimachinery/commit/840611ac) Skip BackupSession creation if target does not exist + use timestamp … (#797)
+- [3d514977](https://github.com/stashed/apimachinery/commit/3d514977) Use absolute path as aliases for reference docs. (#796)
+- [c7cd13cd](https://github.com/stashed/apimachinery/commit/c7cd13cd) Support PSP enabled cluster (#729)
+- [74b90737](https://github.com/stashed/apimachinery/commit/74b90737) Use restic 0.9.5 (#789)
+- [7b52a1d9](https://github.com/stashed/apimachinery/commit/7b52a1d9) Fix: User and group creation of stash for mongodb and mysql (#786)
+- [42eb3082](https://github.com/stashed/apimachinery/commit/42eb3082) Update concept doc (#739)
+- [34516293](https://github.com/stashed/apimachinery/commit/34516293) Update backup manager (#782)
+- [d451c9e6](https://github.com/stashed/apimachinery/commit/d451c9e6) Configure Env variables for Functions (#780)
+- [3045aa70](https://github.com/stashed/apimachinery/commit/3045aa70) Add support for backup cluster resources YAML (#721)
+- [84be8e6f](https://github.com/stashed/apimachinery/commit/84be8e6f) Add "Supported Backends" doc to new guides (#756)
+- [43700290](https://github.com/stashed/apimachinery/commit/43700290) Fix rest backend for workloads + add more authentication method for swift backend (#778)
+- [c347fecc](https://github.com/stashed/apimachinery/commit/c347fecc) Backup and restore Elasticsearch (#702)
+- [1a90ede6](https://github.com/stashed/apimachinery/commit/1a90ede6) Add guides template for new design (#755)
+- [b784b8ee](https://github.com/stashed/apimachinery/commit/b784b8ee) Update package path to stash.appscode.dev/stash (#776)
+- [bd05d186](https://github.com/stashed/apimachinery/commit/bd05d186) Update to k8s 1.14.0 client libraries using go.mod (#775)
+- [eaa16de0](https://github.com/stashed/apimachinery/commit/eaa16de0) Introduce VolumeSnapshot APIs (#772)
+- [2265c79d](https://github.com/stashed/apimachinery/commit/2265c79d) Use osm pkg from kmodules/objectstore-api (#770)
+- [fc13863f](https://github.com/stashed/apimachinery/commit/fc13863f) Remove --rbac flag (#761)
+- [039d0fd7](https://github.com/stashed/apimachinery/commit/039d0fd7) Skip creating/processing backup-session when backup-config is paused (#759)
+- [2be48d23](https://github.com/stashed/apimachinery/commit/2be48d23) Stash v1beta1 E2E test for PVC (#753)
+- [8c1949c2](https://github.com/stashed/apimachinery/commit/8c1949c2) Update Kubernetes client libraries to 1.13.5 (#752)
+- [b40b5d72](https://github.com/stashed/apimachinery/commit/b40b5d72) Enable pipefail and update restore yamls (#750)
+- [ba94ee71](https://github.com/stashed/apimachinery/commit/ba94ee71) Fixed scratch-dir, output-dir and hostname in functions/tasks yamls (#744)
+- [a5d80180](https://github.com/stashed/apimachinery/commit/a5d80180) Add Stash CLI (#734)
+- [fdb56095](https://github.com/stashed/apimachinery/commit/fdb56095) Stash v1beta1 E2E test for DaemonSet (#741)
+- [04344b00](https://github.com/stashed/apimachinery/commit/04344b00) Apply nice/ionice settings from env (#746)
+- [7782f71b](https://github.com/stashed/apimachinery/commit/7782f71b) Stash V1beta1 E2E test for Deployment (#710)
+- [263f7f6e](https://github.com/stashed/apimachinery/commit/263f7f6e) Fix openapi path prefixes for validators and mutators (#732)
+- [fe9c3ecb](https://github.com/stashed/apimachinery/commit/fe9c3ecb) Add max-connections for GCS, Azure, B2 backend (#730)
+- [3af1ee29](https://github.com/stashed/apimachinery/commit/3af1ee29) Rename admission webhooks to avoid name collision (#725)
+- [b1f960cd](https://github.com/stashed/apimachinery/commit/b1f960cd) Apply EmptyDir settings to TmpDir (#719)
+- [a8749398](https://github.com/stashed/apimachinery/commit/a8749398) Use FailurePolicy ignore for K8s resource webhooks (#726)
+- [af242f16](https://github.com/stashed/apimachinery/commit/af242f16) Don't write secret data inside temp dir (#724)
+- [1ede0246](https://github.com/stashed/apimachinery/commit/1ede0246) Use ionice and nice with Restic CMD (#716)
+- [ccdd4294](https://github.com/stashed/apimachinery/commit/ccdd4294) Use cleanup-cache flag (#717)
+- [9e0bd095](https://github.com/stashed/apimachinery/commit/9e0bd095) Add TempDir and PSP settings for Function (#720)
+- [117e6f0b](https://github.com/stashed/apimachinery/commit/117e6f0b) Add support for rest backend (#713)
+- [f7d9de0f](https://github.com/stashed/apimachinery/commit/f7d9de0f) Add support for OpenShift DeploymentConfig (#714)
+- [94b53f5f](https://github.com/stashed/apimachinery/commit/94b53f5f) Backup and restore Mongo DB (#699)
+- [a505764b](https://github.com/stashed/apimachinery/commit/a505764b) Backup and restore MySQL DB (#696)
+- [260f79d5](https://github.com/stashed/apimachinery/commit/260f79d5) Backup and restore Postgres DB (#695)
+- [dc5d0ce4](https://github.com/stashed/apimachinery/commit/dc5d0ce4) Backup from stdin and dump to stdout (#694)
+- [b911253c](https://github.com/stashed/apimachinery/commit/b911253c) Add BackupSession Controller for Sidecar (#701)
+- [886adaa9](https://github.com/stashed/apimachinery/commit/886adaa9) Update workload controller for new design (#675)
+- [30e17229](https://github.com/stashed/apimachinery/commit/30e17229)  Post backup/restore status update (#691)
+- [ef3ca6ba](https://github.com/stashed/apimachinery/commit/ef3ca6ba) Backup and restore PVC (#676)
+- [e98d1357](https://github.com/stashed/apimachinery/commit/e98d1357) Resolve tasks for backup/restore sessions (#674)
+- [2d5e2a40](https://github.com/stashed/apimachinery/commit/2d5e2a40) Add restic wrapper library (#673)
+- [22ce2f85](https://github.com/stashed/apimachinery/commit/22ce2f85) Add BackupConfiguration Controller (#671)
+- [73478a31](https://github.com/stashed/apimachinery/commit/73478a31) Use ContainerRuntimeSettings in Function spec (#689)
+- [8daa144d](https://github.com/stashed/apimachinery/commit/8daa144d) Update Kubernetes client libraries to 1.13.0 (#687)
+- [ffe7eff3](https://github.com/stashed/apimachinery/commit/ffe7eff3) Fix v1beta1 api for BackupConfigurationTemplate (#688)
+- [6310146c](https://github.com/stashed/apimachinery/commit/6310146c) Introduce v1beta1 api (#647)
+- [a806c546](https://github.com/stashed/apimachinery/commit/a806c546) Prepare docs for 0.8.3 release (#683)
+- [c0a281a2](https://github.com/stashed/apimachinery/commit/c0a281a2) Update changelog for 0.8.3 (#682)
+- [057b41d4](https://github.com/stashed/apimachinery/commit/057b41d4) Update dependencies (#681)
+- [ccf44b55](https://github.com/stashed/apimachinery/commit/ccf44b55) Pass pod annotation to deployment (#679)
+- [322e9812](https://github.com/stashed/apimachinery/commit/322e9812) Fix the case for deploying using MINGW64 for windows (#678)
+- [c096b55a](https://github.com/stashed/apimachinery/commit/c096b55a) Use onessl 0.10.0 (#677)
+- [ffa27f22](https://github.com/stashed/apimachinery/commit/ffa27f22) Fix typo
+- [f4d6ecc1](https://github.com/stashed/apimachinery/commit/f4d6ecc1) s/rook/azure/ in possible copy/paste error. (#669)
+- [99f44fa1](https://github.com/stashed/apimachinery/commit/99f44fa1) Fix builtin monitoring doc (#668)
+- [747b7ba2](https://github.com/stashed/apimachinery/commit/747b7ba2) Update install.md
+- [85ecd963](https://github.com/stashed/apimachinery/commit/85ecd963) Don't use priority class when operator namespace is not kube-system (#666)
+- [78c88a52](https://github.com/stashed/apimachinery/commit/78c88a52) Separate type definitions into individual files (#646)
+- [760613d2](https://github.com/stashed/apimachinery/commit/760613d2) Update changelog for 0.8.2
+- [fe861de7](https://github.com/stashed/apimachinery/commit/fe861de7) Prepare docs for 0.8.2 release (#644)
+- [a9c7e3da](https://github.com/stashed/apimachinery/commit/a9c7e3da) Update copyright notice for 2019 (#643)
+- [5a9efe76](https://github.com/stashed/apimachinery/commit/5a9efe76) Use fullname to generate cleaner name in chart
+- [a876a9da](https://github.com/stashed/apimachinery/commit/a876a9da) apply stash.labels to operator pods
+- [09b83f2e](https://github.com/stashed/apimachinery/commit/09b83f2e) Use stash.labels template in chart (#642)
+- [70d2af23](https://github.com/stashed/apimachinery/commit/70d2af23) Fixed broken link for bakend (#641)
+- [21b91a96](https://github.com/stashed/apimachinery/commit/21b91a96) Only mount stash apiserver `tls.crt` into Prometheus (#639)
+- [d9c87802](https://github.com/stashed/apimachinery/commit/d9c87802) Fix typo in installer (#638)
+- [893b3a41](https://github.com/stashed/apimachinery/commit/893b3a41) Fix monitoring in helm + update doc to match with third-party-tools tutorial (#637)
+- [5fd484ba](https://github.com/stashed/apimachinery/commit/5fd484ba) Add certificate health checker (#636)
+- [ecbefd44](https://github.com/stashed/apimachinery/commit/ecbefd44) Update install.md
+- [5e8221d4](https://github.com/stashed/apimachinery/commit/5e8221d4) Update chart readme (#632)
+- [960dac71](https://github.com/stashed/apimachinery/commit/960dac71) Update webhook error message format for Kubernetes 1.13+ (#631)
+- [096afccb](https://github.com/stashed/apimachinery/commit/096afccb) Fix typos (#630)
+- [e2a7f03a](https://github.com/stashed/apimachinery/commit/e2a7f03a) Fix dependencies.
+- [591a7cec](https://github.com/stashed/apimachinery/commit/591a7cec) Update changelog
+- [248daebf](https://github.com/stashed/apimachinery/commit/248daebf) Prepare docs for 0.8.1 release (#629)
+- [7ce0d537](https://github.com/stashed/apimachinery/commit/7ce0d537) Add missing validator for respository resource in chart (#628)
+- [2114829d](https://github.com/stashed/apimachinery/commit/2114829d) Update version matrix
+- [18c29c62](https://github.com/stashed/apimachinery/commit/18c29c62) Prepare docs for 0.8.0 release (#626)
+- [b5779f22](https://github.com/stashed/apimachinery/commit/b5779f22) Update docs (Minio, Rook, NFS) (#625)
+- [fb104264](https://github.com/stashed/apimachinery/commit/fb104264) Use flags.DumpAll to dump flags (#624)
+- [7e11a97c](https://github.com/stashed/apimachinery/commit/7e11a97c) Merge commit '619323825a3fabc55ce2584dd63f8005fd3b78b3'
+- [8f32db19](https://github.com/stashed/apimachinery/commit/8f32db19) Set periodic analytics (#623)
+- [b8b20447](https://github.com/stashed/apimachinery/commit/b8b20447) Fix e2e test (#622)
+- [e4da720f](https://github.com/stashed/apimachinery/commit/e4da720f) Pass --enable-***-webhook flags to operator (#619)
+- [e5a91c47](https://github.com/stashed/apimachinery/commit/e5a91c47) Add validation webhook xray (#618)
+- [de6a6c03](https://github.com/stashed/apimachinery/commit/de6a6c03) Add docs for AKS and EKS (#609)
+- [2eb4e9df](https://github.com/stashed/apimachinery/commit/2eb4e9df) Improve monitoring facility (#606)
+- [6b1b8f3f](https://github.com/stashed/apimachinery/commit/6b1b8f3f) Use dynamic pushgateway url (#614)
+- [4f2aaca3](https://github.com/stashed/apimachinery/commit/4f2aaca3) Pass image pull secrets for cleaner job in chart (#598)
+- [5f59b5ba](https://github.com/stashed/apimachinery/commit/5f59b5ba) Update kubernetes client libraries to 1.12.0 (#597)
+- [9a9916ac](https://github.com/stashed/apimachinery/commit/9a9916ac) Support LogLevel in chart (#594)
+- [b7c9253a](https://github.com/stashed/apimachinery/commit/b7c9253a) Check if Kubernetes version is supported before running operator (#593)
+- [a3a0c8d2](https://github.com/stashed/apimachinery/commit/a3a0c8d2) Enable webhooks by default in chart (#591)
+- [d84b36ae](https://github.com/stashed/apimachinery/commit/d84b36ae) Update chart readme for cleaner values (#590)
+- [dde9fe0f](https://github.com/stashed/apimachinery/commit/dde9fe0f) Update values.yaml
+- [b401f6af](https://github.com/stashed/apimachinery/commit/b401f6af) Fix #583 and pushgateway version (#584)
+- [df29c67d](https://github.com/stashed/apimachinery/commit/df29c67d) Use --pull flag with docker build (#581)
+- [bab17f30](https://github.com/stashed/apimachinery/commit/bab17f30) Merge commit '593cbc0910006952073295cea802d37f30ab8e3f'
+- [36a54348](https://github.com/stashed/apimachinery/commit/36a54348) Use kubernetes-1.11.3 (#578)
+- [0f78cc59](https://github.com/stashed/apimachinery/commit/0f78cc59) Update CertStore (#576)
+- [b6ad4fd8](https://github.com/stashed/apimachinery/commit/b6ad4fd8) Use apps/v1 apigroup in installer scripts (#574)
+- [21a3a0fa](https://github.com/stashed/apimachinery/commit/21a3a0fa) Support pod annotations in chart (#573)
+- [f4188df6](https://github.com/stashed/apimachinery/commit/f4188df6) Set serviceAccount for clearner job (#572)
+- [71419568](https://github.com/stashed/apimachinery/commit/71419568) Cleanup webhooks when chart is deleted (#569)
+- [1afecd9c](https://github.com/stashed/apimachinery/commit/1afecd9c) Use IntHash as status.observedGeneration (#568)
+- [06fb96ef](https://github.com/stashed/apimachinery/commit/06fb96ef) Update pipeline (#565)
+- [a5c10e03](https://github.com/stashed/apimachinery/commit/a5c10e03) Merge commit 'dc51668e81aad9349769f0287cb885477836f2b1'
+- [f3e41a08](https://github.com/stashed/apimachinery/commit/f3e41a08) Add observedGenerationHash field (#564)
+- [a228cfd5](https://github.com/stashed/apimachinery/commit/a228cfd5) Merge commit 'c73f89c561b2e686d2898b0c8dea8c0bd327e6fd'
+- [b9c2405b](https://github.com/stashed/apimachinery/commit/b9c2405b) Fix uninstall for concourse (#563)
+- [9b494b4b](https://github.com/stashed/apimachinery/commit/9b494b4b) Fix chart values file (#562)
+- [dac75e67](https://github.com/stashed/apimachinery/commit/dac75e67) Improve Helm chart options (#561)
+- [fdcd84af](https://github.com/stashed/apimachinery/commit/fdcd84af) Use apps/v1 apigroup (#555)
+- [7a3d3a6d](https://github.com/stashed/apimachinery/commit/7a3d3a6d) Merge commit 'e0a3eef3ad5bb45a6967704531a303bc7ea7d865'
+- [7ecb7aa6](https://github.com/stashed/apimachinery/commit/7ecb7aa6) Refactor concourse scripts (#554)
+- [97675d40](https://github.com/stashed/apimachinery/commit/97675d40) Merge commit '2a5664a73d8d23ced4598e61327a3d7003db2e04'
+- [0dde94b8](https://github.com/stashed/apimachinery/commit/0dde94b8) Add AlreadyObserved methods (#553)
+- [1471ef4b](https://github.com/stashed/apimachinery/commit/1471ef4b) Add categories support to crds (#552)
+- [a49b2e35](https://github.com/stashed/apimachinery/commit/a49b2e35) Improve doc (#550)
+- [0f3876ce](https://github.com/stashed/apimachinery/commit/0f3876ce) Fix concourse test (#496)
+- [1c7af39a](https://github.com/stashed/apimachinery/commit/1c7af39a) Check for snapshot existence before delete (#548)
+- [a06e72b5](https://github.com/stashed/apimachinery/commit/a06e72b5) Fix offline backup (#537)
+- [dafa74fb](https://github.com/stashed/apimachinery/commit/dafa74fb) Enable status sub resource for crd yamls (#546)
+- [f2a91600](https://github.com/stashed/apimachinery/commit/f2a91600) Remove old UpdateRecoveryStatus
+- [6da21a36](https://github.com/stashed/apimachinery/commit/6da21a36) Retry UpdateStatus calls (#544)
+- [acfcf7a5](https://github.com/stashed/apimachinery/commit/acfcf7a5) Retry UpdateStatus calls (#543)
+- [e180ef6a](https://github.com/stashed/apimachinery/commit/e180ef6a) Revendor objectstore api (#542)
+- [71bb0853](https://github.com/stashed/apimachinery/commit/71bb0853) Use kmodules.xyz/objectstore-api (#541)
+- [dd3cf1ca](https://github.com/stashed/apimachinery/commit/dd3cf1ca) Merge commit 'da9eaba42e9b93d6975059b7f37c7863e54e1db1'
+- [e6370a8b](https://github.com/stashed/apimachinery/commit/e6370a8b) Update install.md
+- [676e1d02](https://github.com/stashed/apimachinery/commit/676e1d02) Fix extended apiserver issues with Kubernetes 1.11 (#536)
+- [e8249dde](https://github.com/stashed/apimachinery/commit/e8249dde) Correctly handle ignored openapi prefixes (#533)
+- [90f9a296](https://github.com/stashed/apimachinery/commit/90f9a296) Add rbac permissions for snapshots (#531)
+- [f7976e7e](https://github.com/stashed/apimachinery/commit/f7976e7e) Use version and additional columns for crds (#530)
+- [f3ec9a1e](https://github.com/stashed/apimachinery/commit/f3ec9a1e) Update client-go to v8.0.0 (#528)
+- [3321c0c0](https://github.com/stashed/apimachinery/commit/3321c0c0) Update chart installation instruction for Kubernetes 1.11 (#527)
+- [2bfa4a03](https://github.com/stashed/apimachinery/commit/2bfa4a03) Format shell scripts (#526)
+- [f83f57d5](https://github.com/stashed/apimachinery/commit/f83f57d5) Merge commit 'bcebfb5adef7b4de9d4da7e48d9ba50a66e75fd3'
+- [7a184805](https://github.com/stashed/apimachinery/commit/7a184805) Merge commit '2c8b49681a6875886b6be4d90c35908f12b73c65'
+- [ec81f6b9](https://github.com/stashed/apimachinery/commit/ec81f6b9) Enable status subresource for crds (#524)
+- [8a3a3bad](https://github.com/stashed/apimachinery/commit/8a3a3bad) Remove status from crd.yaml (#523)
+- [0ebf9294](https://github.com/stashed/apimachinery/commit/0ebf9294) Upgrade to restic 0.9.1 (#522)
+- [820a432c](https://github.com/stashed/apimachinery/commit/820a432c) Support node selector for recovery job (#516)
+- [7313940f](https://github.com/stashed/apimachinery/commit/7313940f) Upgrade to prom/pushgateway:v0.5.2 (#519)
+- [762193ce](https://github.com/stashed/apimachinery/commit/762193ce) Remove ops-address port (#518)
+- [a944b88a](https://github.com/stashed/apimachinery/commit/a944b88a) Set cpu limits to 100m (#517)
+- [02eca27a](https://github.com/stashed/apimachinery/commit/02eca27a) Update stash.sh
+- [63783cc8](https://github.com/stashed/apimachinery/commit/63783cc8) Add links to java client
+- [25005f65](https://github.com/stashed/apimachinery/commit/25005f65) Move openapi-spec to api folder (#513)
+- [02ac221a](https://github.com/stashed/apimachinery/commit/02ac221a) Deploy operator in kube-system namespace via Helm (#511)
+- [472d823a](https://github.com/stashed/apimachinery/commit/472d823a) Add togglable tabs for Installation: Script & Helm (#509)
+- [60d571e4](https://github.com/stashed/apimachinery/commit/60d571e4) Revendor dependencies (#508)
+- [5d56183b](https://github.com/stashed/apimachinery/commit/5d56183b) added front matter (#507)
+- [ec715ab3](https://github.com/stashed/apimachinery/commit/ec715ab3) Improve installer (#504)
+- [935db661](https://github.com/stashed/apimachinery/commit/935db661) Prepare docs for 0.7.0 release. (#502)
+- [ecd85f2a](https://github.com/stashed/apimachinery/commit/ecd85f2a) Prepare docs for 0.7.0-rc.5 (#498)
+- [6df2325b](https://github.com/stashed/apimachinery/commit/6df2325b) Fix storage implementation for snapshots (#497)
+- [d3fdad71](https://github.com/stashed/apimachinery/commit/d3fdad71) Update changelog (#495)
+- [794d4aca](https://github.com/stashed/apimachinery/commit/794d4aca) Delete user roles on purge. (#494)
+- [f8744a6f](https://github.com/stashed/apimachinery/commit/f8744a6f) Revert "Add app: stash label to user roles. (#493)"
+- [c506dc4c](https://github.com/stashed/apimachinery/commit/c506dc4c) Add app: stash label to user roles. (#493)
+- [e1b0d6c7](https://github.com/stashed/apimachinery/commit/e1b0d6c7) Use hooks for user roles and fix hook deletion policy
+- [bf59c614](https://github.com/stashed/apimachinery/commit/bf59c614) Use post-install hooks to install admission controller in chart (#492)
+- [b50824e2](https://github.com/stashed/apimachinery/commit/b50824e2) Revert "Remove stash crds before uninstalling operator (#458)"
+- [7b15b320](https://github.com/stashed/apimachinery/commit/7b15b320) Update changelog (#491)
+- [8ec73428](https://github.com/stashed/apimachinery/commit/8ec73428) Prepare docs for 0.7.0-rc.4 (#483)
+- [e1967d97](https://github.com/stashed/apimachinery/commit/e1967d97) Avoid creating apiservice when webhooks are not used. (#490)
+- [ee1ef7c1](https://github.com/stashed/apimachinery/commit/ee1ef7c1) Install correct version of stash chart (#489)
+- [5e5181fc](https://github.com/stashed/apimachinery/commit/5e5181fc) Concourse (#486)
+- [02366a87](https://github.com/stashed/apimachinery/commit/02366a87) Revendor (#481)
+- [b69f01df](https://github.com/stashed/apimachinery/commit/b69f01df) Support recovering from repository in different namespace (#474)
+- [42c42112](https://github.com/stashed/apimachinery/commit/42c42112) Add support for initial backoff to the apiserver call on recover (#476)
+- [b3ffb323](https://github.com/stashed/apimachinery/commit/b3ffb323) Typo (`Weclome` → `Welcome`) in page title (#479)
+- [c448e138](https://github.com/stashed/apimachinery/commit/c448e138) Update docs (run minio in v1.9.4+ cluster and add example yaml files in respective backends) (#473)
+- [6510947d](https://github.com/stashed/apimachinery/commit/6510947d) Fix a typo (#471)
+- [5ce9da2d](https://github.com/stashed/apimachinery/commit/5ce9da2d) Don't panic if admission options is nil (#469)
+- [7fdf126a](https://github.com/stashed/apimachinery/commit/7fdf126a) Disable admission controllers for webhook server (#468)
+- [89f5b0c8](https://github.com/stashed/apimachinery/commit/89f5b0c8) Added SSL support for deleting restic repository from Minio backend (#464)
+- [4e328d3e](https://github.com/stashed/apimachinery/commit/4e328d3e) Use new UpdateRecoveryStatus method (#466)
+- [166e9283](https://github.com/stashed/apimachinery/commit/166e9283) Add Update***Status helpers (#465)
+- [9a3c0b21](https://github.com/stashed/apimachinery/commit/9a3c0b21) Update client-go to 7.0.0 (#463)
+- [7f995931](https://github.com/stashed/apimachinery/commit/7f995931) Rename webhook files in chart (#460)
+- [2cf5cceb](https://github.com/stashed/apimachinery/commit/2cf5cceb) Update workload api (#459)
+- [eeca55cf](https://github.com/stashed/apimachinery/commit/eeca55cf) Remove stash crds before uninstalling operator (#458)
+- [b5319061](https://github.com/stashed/apimachinery/commit/b5319061) Export kube-ca only if required (#457)
+- [37510e21](https://github.com/stashed/apimachinery/commit/37510e21) Improve installer (#456)
+- [9b5fcbb2](https://github.com/stashed/apimachinery/commit/9b5fcbb2) Update changelog (#455)
+- [b17c2190](https://github.com/stashed/apimachinery/commit/b17c2190) Various installer fixes (#454)
+- [ca561960](https://github.com/stashed/apimachinery/commit/ca561960) Update workload client (#453)
+- [28298bd1](https://github.com/stashed/apimachinery/commit/28298bd1) Update workload client (#452)
+- [2d5b2882](https://github.com/stashed/apimachinery/commit/2d5b2882) Revendor workload client (#451)
+- [274410b9](https://github.com/stashed/apimachinery/commit/274410b9) Update workload api (#450)
+- [3899e0b7](https://github.com/stashed/apimachinery/commit/3899e0b7) Fixes RBAC issue in test (#449)
+- [5afb9c7f](https://github.com/stashed/apimachinery/commit/5afb9c7f) fixed wipeOut + fixed doc (#447)
+- [6565cb35](https://github.com/stashed/apimachinery/commit/6565cb35) Delete profile.out
+- [3f7945c2](https://github.com/stashed/apimachinery/commit/3f7945c2) Add docs for GKE and Rook (#430)
+- [d317210a](https://github.com/stashed/apimachinery/commit/d317210a) concourse configs (#429)
+- [ff9d8e99](https://github.com/stashed/apimachinery/commit/ff9d8e99) Delete restic repository from backend if Repository CRD is deleted (#438)
+- [2af3de25](https://github.com/stashed/apimachinery/commit/2af3de25) Use Repository data in Recovery CRD (#436)
+- [1f71dae1](https://github.com/stashed/apimachinery/commit/1f71dae1) Update StatefulSet doc (#445)
+- [d5a461b3](https://github.com/stashed/apimachinery/commit/d5a461b3) Move Stash swagger.json to top level folder (#441)
+- [2a2eb1dd](https://github.com/stashed/apimachinery/commit/2a2eb1dd) Fix go_vet error (#440)
+- [40a357e4](https://github.com/stashed/apimachinery/commit/40a357e4) Increase qps and burst limits (#435)
+- [ceb8d0fc](https://github.com/stashed/apimachinery/commit/ceb8d0fc) Permit stash operator to perform pods/exec (#433)
+- [0aaaf1bf](https://github.com/stashed/apimachinery/commit/0aaaf1bf) Add RBAC instructions for GKE cluster (#432)
+- [1c414b05](https://github.com/stashed/apimachinery/commit/1c414b05) Update charts location (#431)
+- [4a08b918](https://github.com/stashed/apimachinery/commit/4a08b918) Purge repository objects in installer (#427)
+- [a25ff455](https://github.com/stashed/apimachinery/commit/a25ff455) Add SCRIPT_LOCATION variable to installer (#426)
+- [4dcfe82f](https://github.com/stashed/apimachinery/commit/4dcfe82f) Show repository snapshot list (#417)
+- [d33ffd85](https://github.com/stashed/apimachinery/commit/d33ffd85) Fixed Repository YAML (#425)
+- [367009a4](https://github.com/stashed/apimachinery/commit/367009a4) Add delete method for snapshots to swagger.json (#424)
+- [84085086](https://github.com/stashed/apimachinery/commit/84085086) Generate swagger.json (#423)
+- [36cfec54](https://github.com/stashed/apimachinery/commit/36cfec54) Add install pkg for stash crds (#422)
+- [18dc29a5](https://github.com/stashed/apimachinery/commit/18dc29a5) Fix openapi spec for stash crds (#421)
+- [22256ccc](https://github.com/stashed/apimachinery/commit/22256ccc) Update README.md
+- [12a039f9](https://github.com/stashed/apimachinery/commit/12a039f9) Add registry skeleton for snapshots (#415)
+- [c18af633](https://github.com/stashed/apimachinery/commit/c18af633) Update chart readme (#413)
+- [5ef3ca58](https://github.com/stashed/apimachinery/commit/5ef3ca58) Add enableAnalytics to chart readme
+- [fd0ece69](https://github.com/stashed/apimachinery/commit/fd0ece69) Add frontmatter for repository crd (#412)
+- [af50930a](https://github.com/stashed/apimachinery/commit/af50930a) Use separate registry key for docker images (#410)
+- [c59e3fbb](https://github.com/stashed/apimachinery/commit/c59e3fbb) Prepare docs for 0.7.0-rc.3 (#411)
+- [159c2750](https://github.com/stashed/apimachinery/commit/159c2750) Add test for recovery (#409)
+- [aa36b115](https://github.com/stashed/apimachinery/commit/aa36b115) Skip setting ListKind (#407)
+- [964c6f35](https://github.com/stashed/apimachinery/commit/964c6f35) Add CRD Validation (#406)
+- [a7351a48](https://github.com/stashed/apimachinery/commit/a7351a48) Create repository crd for each Restic repository (#394)
+- [273794d8](https://github.com/stashed/apimachinery/commit/273794d8) Generate openapi spec for stash api (#405)
+- [9c2df315](https://github.com/stashed/apimachinery/commit/9c2df315) Fix install script for minikube 0.24.x (Kube 1.8.0) (#404)
+- [aca52873](https://github.com/stashed/apimachinery/commit/aca52873) Skip downloading onessl if already installed (#401)
+- [afb1746b](https://github.com/stashed/apimachinery/commit/afb1746b) Use Restic spec hash instead of resource version to restart pods (#399)
+- [44867248](https://github.com/stashed/apimachinery/commit/44867248) Revendor webhook util and jsonpatch fixes (#400)
+- [ce710f86](https://github.com/stashed/apimachinery/commit/ce710f86) Check for valid owner object (#397)
+- [7b7821da](https://github.com/stashed/apimachinery/commit/7b7821da) Revendor webhook library (#393)
+- [f763a5c1](https://github.com/stashed/apimachinery/commit/f763a5c1) Update changelog
+- [b9b409e0](https://github.com/stashed/apimachinery/commit/b9b409e0) Prepare docs for 0.7.0-rc.2 (#391)
+- [472e7cad](https://github.com/stashed/apimachinery/commit/472e7cad) Update chart version
+- [296a6b4d](https://github.com/stashed/apimachinery/commit/296a6b4d) Add variable for dockerRegistry (#390)
+- [2f29b8dd](https://github.com/stashed/apimachinery/commit/2f29b8dd) Reorg objects deleted in uninstall command (#389)
+- [8a44a744](https://github.com/stashed/apimachinery/commit/8a44a744) Fix --enable-analytics flag (#387)
+- [85c0a2a1](https://github.com/stashed/apimachinery/commit/85c0a2a1) Fix flag parsing in tests (#386)
+- [e1c1d543](https://github.com/stashed/apimachinery/commit/e1c1d543) Fix Statefulset Example (#385)
+- [d0b7eb1c](https://github.com/stashed/apimachinery/commit/d0b7eb1c) Rename --analytics to --enable-analytics (#384)
+- [44383721](https://github.com/stashed/apimachinery/commit/44383721) Use separated appscode/kubernetes-webhook-util package (#383)
+- [e5199369](https://github.com/stashed/apimachinery/commit/e5199369) Update the image tag in operator.yaml (#382)
+- [dd9f165d](https://github.com/stashed/apimachinery/commit/dd9f165d) Don't enable mutator for StatefulSet updates (#381)
+- [fe9fcda6](https://github.com/stashed/apimachinery/commit/fe9fcda6) Update docs to 0.7.0-rc.1 (#380)
+- [2e5d9bb5](https://github.com/stashed/apimachinery/commit/2e5d9bb5) Add types for Repository apigroup (#377)
+- [59f3eb1b](https://github.com/stashed/apimachinery/commit/59f3eb1b) Replace initializers with mutation webhook for workloads (#363)
+- [ef98338c](https://github.com/stashed/apimachinery/commit/ef98338c) Merge pull request #375 from galexrt/fix373
+- [37e6f8a8](https://github.com/stashed/apimachinery/commit/37e6f8a8) Add missing front matter (#376)
+- [293f27f7](https://github.com/stashed/apimachinery/commit/293f27f7) Update README.md
+- [3e1a16ae](https://github.com/stashed/apimachinery/commit/3e1a16ae) Fix buid
+- [7d300d87](https://github.com/stashed/apimachinery/commit/7d300d87) Add travis.yaml (#370)
+- [9f14db3b](https://github.com/stashed/apimachinery/commit/9f14db3b) Add --purge flag (#369)
+- [3e9ac0bc](https://github.com/stashed/apimachinery/commit/3e9ac0bc) Make it clear that installer is a single command (#365)
+- [f1f3228d](https://github.com/stashed/apimachinery/commit/f1f3228d) Update installer (#364)
+- [048e2f42](https://github.com/stashed/apimachinery/commit/048e2f42) Update chart to match RBAC best practices for charts (#362)
+- [b0a50b64](https://github.com/stashed/apimachinery/commit/b0a50b64) Add checks to installer script (#361)
+- [d96dd1c8](https://github.com/stashed/apimachinery/commit/d96dd1c8) Use admission hook helpers from kutil (#360)
+- [18501324](https://github.com/stashed/apimachinery/commit/18501324) Fix admission webhook flag (#359)
+- [731c6e1b](https://github.com/stashed/apimachinery/commit/731c6e1b) Support --enable-admission-webhook=false (#358)
+- [41a93897](https://github.com/stashed/apimachinery/commit/41a93897) Sync chart to stable charts repo (#356)
+- [f2cb99dd](https://github.com/stashed/apimachinery/commit/f2cb99dd) Use restic 0.8.3 (#355)
+- [ce618fd3](https://github.com/stashed/apimachinery/commit/ce618fd3) Update README.md (#352)
+- [9b82c516](https://github.com/stashed/apimachinery/commit/9b82c516) Document user roles (#348)
+- [ab638a29](https://github.com/stashed/apimachinery/commit/ab638a29) Add upgrade instructions.
+- [9369e1bb](https://github.com/stashed/apimachinery/commit/9369e1bb) Add changelog for 0.7.0-rc.0 (#347)
+- [03bd2d5f](https://github.com/stashed/apimachinery/commit/03bd2d5f) Implement offline backup for multiple replica (#335)
+- [628b1713](https://github.com/stashed/apimachinery/commit/628b1713) Update readme to point to 0.6.4 (#345)
+- [68f09062](https://github.com/stashed/apimachinery/commit/68f09062) Don't block deletion of owner by default (#342)
+- [7a8f7e29](https://github.com/stashed/apimachinery/commit/7a8f7e29) Skip generating UpdateStatus method (#341)
+- [ffd0701b](https://github.com/stashed/apimachinery/commit/ffd0701b) Remove internal types (#340)
+- [9b497a83](https://github.com/stashed/apimachinery/commit/9b497a83) Use rbac/v1 apis (#339)
+- [5f1a8d58](https://github.com/stashed/apimachinery/commit/5f1a8d58) Add user roles (#338)
+- [e909732f](https://github.com/stashed/apimachinery/commit/e909732f) Use restic 0.8.2 (#337)
+- [f811c096](https://github.com/stashed/apimachinery/commit/f811c096) Use official code generator scripts (#336)
+- [45fe6695](https://github.com/stashed/apimachinery/commit/45fe6695) Update rbac-list.yaml
+- [4bab2035](https://github.com/stashed/apimachinery/commit/4bab2035) Update charts to support api registration (#334)
+- [e882132d](https://github.com/stashed/apimachinery/commit/e882132d) Fix e2e tests after webhook merger (#333)
+- [327dc4d6](https://github.com/stashed/apimachinery/commit/327dc4d6) Ensure stash can be run locally (#332)
+- [8b69538e](https://github.com/stashed/apimachinery/commit/8b69538e) Label all stash installer resources
+- [201a9e23](https://github.com/stashed/apimachinery/commit/201a9e23) Update Grafana dashboard (#330)
+- [ab583820](https://github.com/stashed/apimachinery/commit/ab583820) Delete all stash installer resources
+- [f933585b](https://github.com/stashed/apimachinery/commit/f933585b) Use binary operator for checking stauts of semver command
+- [3e9418ab](https://github.com/stashed/apimachinery/commit/3e9418ab) Leave secure port unset
+- [fedfa749](https://github.com/stashed/apimachinery/commit/fedfa749) Use ${} form for onessl envsubst
+- [a6a0a3ec](https://github.com/stashed/apimachinery/commit/a6a0a3ec) Vendor client-go auth pkg (#331)
+- [f6f821f3](https://github.com/stashed/apimachinery/commit/f6f821f3) Merge admission webhook and operator into one binary (#329)
+- [adf04545](https://github.com/stashed/apimachinery/commit/adf04545) Use envsubst from onessl
+- [f90dc3c1](https://github.com/stashed/apimachinery/commit/f90dc3c1) Install admission webhook for Kubernetes >=1.9.0
+- [d4ff727c](https://github.com/stashed/apimachinery/commit/d4ff727c) Merge uninstall script into the stash.sh script (#328)
+- [98e2b892](https://github.com/stashed/apimachinery/commit/98e2b892) Implement Pause Restic (#315)
+- [f2d86207](https://github.com/stashed/apimachinery/commit/f2d86207) Copy generic-admission-server into pkg (#318)
+- [2381c8bc](https://github.com/stashed/apimachinery/commit/2381c8bc) Use shared infromer factory (#317)
+- [da343f4e](https://github.com/stashed/apimachinery/commit/da343f4e) Support self-signed ca cert for backends (#294)
+- [e3ef7e8e](https://github.com/stashed/apimachinery/commit/e3ef7e8e) Use GetBaseVersion method from kutil (#316)
+- [0c3b7cc6](https://github.com/stashed/apimachinery/commit/0c3b7cc6) Update install.md
+- [e3e52e79](https://github.com/stashed/apimachinery/commit/e3e52e79) Remove system prefix from admission server rbac
+- [373f7a1f](https://github.com/stashed/apimachinery/commit/373f7a1f) Fix webhook command description (#314)
+- [57ddc07c](https://github.com/stashed/apimachinery/commit/57ddc07c) Use rbac/v1beta1 api. (#313)
+- [5a58a810](https://github.com/stashed/apimachinery/commit/5a58a810) Reduce log level for admission webhook
+- [0dee8016](https://github.com/stashed/apimachinery/commit/0dee8016) Support Create & Update operations in admission webhook (#312)
+- [2af05ccb](https://github.com/stashed/apimachinery/commit/2af05ccb) Merge webhook plugins into one. (#311)
+- [326a2151](https://github.com/stashed/apimachinery/commit/326a2151) Fix installer script
+- [f13b1a52](https://github.com/stashed/apimachinery/commit/f13b1a52) Support private docker registry in installer (#310)
+- [bb97b9f2](https://github.com/stashed/apimachinery/commit/bb97b9f2) Add ValidatingAdmissionWebhook for Stash CRDs (#299)
+- [5d6fe487](https://github.com/stashed/apimachinery/commit/5d6fe487) Compress go binaries (#309)
+- [be4c3242](https://github.com/stashed/apimachinery/commit/be4c3242) Merge commit 'dd01a18d6821b218669437b491e71eff9cf82c89'
+- [a7add4ea](https://github.com/stashed/apimachinery/commit/a7add4ea) Merge commit '6cd6efaa2491aea24a0f7f588c86b0ff5ff03283'
+- [02c433af](https://github.com/stashed/apimachinery/commit/02c433af) Rename --initializer flag to --enable-initializer (#308)
+- [d711439e](https://github.com/stashed/apimachinery/commit/d711439e) Remove STASH_ROLE_TYPE from installer scripts (#307)
+- [b607b2ab](https://github.com/stashed/apimachinery/commit/b607b2ab) Use rbac/v1 api (#306)
+- [eb4e3fac](https://github.com/stashed/apimachinery/commit/eb4e3fac) Use kubectl auth reconcile (#305)
+- [c90dd8e1](https://github.com/stashed/apimachinery/commit/c90dd8e1) Added support for private docker registry (#300)
+- [6a624c75](https://github.com/stashed/apimachinery/commit/6a624c75) Add --initializer flag to installer (#304)
+- [89115fb2](https://github.com/stashed/apimachinery/commit/89115fb2) Prepare docs for 0.7.0-alpha.0 (#302)
+- [9b0130f4](https://github.com/stashed/apimachinery/commit/9b0130f4) Change installer script (#301)
+- [e9233056](https://github.com/stashed/apimachinery/commit/e9233056) Merge commit '5e307d69dbf7e02331cc5bc60154e79a52285060'
+- [6fda8eb8](https://github.com/stashed/apimachinery/commit/6fda8eb8) Remove TPR to CRD migrator (#298)
+- [7216f7b7](https://github.com/stashed/apimachinery/commit/7216f7b7) Update dependencies to Kubernetes 1.9 (#297)
+- [f43201d5](https://github.com/stashed/apimachinery/commit/f43201d5) Prepare docs for 0.6.3
+- [ef1196ba](https://github.com/stashed/apimachinery/commit/ef1196ba) Fixed parsing argument error (#291)
+- [d88d57cc](https://github.com/stashed/apimachinery/commit/d88d57cc) Update reference docs
+- [7398bce7](https://github.com/stashed/apimachinery/commit/7398bce7) Update appscode/go log wrapper (#287)
+- [85deef48](https://github.com/stashed/apimachinery/commit/85deef48) Fix inline volumeSource marshalling for LocalSpec (#289)
+- [d62b7a77](https://github.com/stashed/apimachinery/commit/d62b7a77) Fix roadmap link
+- [96211379](https://github.com/stashed/apimachinery/commit/96211379) Added Grafana Stash overview dashboard (#286)
+- [76878d55](https://github.com/stashed/apimachinery/commit/76878d55) Prepare docs for 0.6.2 release (#278)
+- [976257be](https://github.com/stashed/apimachinery/commit/976257be) Merge pull request #277 from whereisaaron/master
+- [0d5b2f92](https://github.com/stashed/apimachinery/commit/0d5b2f92) Update Helm chart to use newer 'fullname' template that avoid duplicate (e.g. 'stash-stash-...') resource names
+- [f1c7ab64](https://github.com/stashed/apimachinery/commit/f1c7ab64) Fix RBAC roles in chart (#276)
+- [8f13869d](https://github.com/stashed/apimachinery/commit/8f13869d) Update initializer.md
+- [43c1a121](https://github.com/stashed/apimachinery/commit/43c1a121) Update initializer.md
+- [3031ea25](https://github.com/stashed/apimachinery/commit/3031ea25) Fix new restic format in upgrade docs (#274)
+- [d8bdd9ed](https://github.com/stashed/apimachinery/commit/d8bdd9ed) Reduce operator permissions for service accounts (#270)
+- [33e15c12](https://github.com/stashed/apimachinery/commit/33e15c12) Fix formatting of uninstall.md (#269)
+- [ac0bcc4e](https://github.com/stashed/apimachinery/commit/ac0bcc4e) Prepare docs for 0.6.1 (#268)
+- [bf7406f9](https://github.com/stashed/apimachinery/commit/bf7406f9) Fix upgrade instructions.
+- [d1814caa](https://github.com/stashed/apimachinery/commit/d1814caa) Detect analytics client id using env vars (#265)
+- [0a320152](https://github.com/stashed/apimachinery/commit/0a320152) Cleanup release script
+- [197c7f90](https://github.com/stashed/apimachinery/commit/197c7f90) Prepare docs for 0.6.0 release (#264)
+- [68fa5fd3](https://github.com/stashed/apimachinery/commit/68fa5fd3) Reorganize docs (#263)
+- [8a189576](https://github.com/stashed/apimachinery/commit/8a189576) Add support for B2 (#262)
+- [7dabc027](https://github.com/stashed/apimachinery/commit/7dabc027) Update restic website link (#261)
+- [450ed8a7](https://github.com/stashed/apimachinery/commit/450ed8a7) Revendor kutil
+- [1411550c](https://github.com/stashed/apimachinery/commit/1411550c) Fix doc
+- [c751baa0](https://github.com/stashed/apimachinery/commit/c751baa0) Update docs for unified LocalSpec (#260)
+- [d614bdb6](https://github.com/stashed/apimachinery/commit/d614bdb6) Unify LocalSpec and RecoveredVolume (#259)
+- [7a8cfd9f](https://github.com/stashed/apimachinery/commit/7a8cfd9f) Remove restic-dependency from recovery (#258)
+- [a24707a0](https://github.com/stashed/apimachinery/commit/a24707a0) Update restic version to 0.8.1 (#257)
+- [61e86c73](https://github.com/stashed/apimachinery/commit/61e86c73) Use cmp methods from kutil (#255)
+- [2677c1d5](https://github.com/stashed/apimachinery/commit/2677c1d5) Remove TryPatch methods (#254)
+- [7706452d](https://github.com/stashed/apimachinery/commit/7706452d) Use verb type for mutation (#251)
+- [2b3eff73](https://github.com/stashed/apimachinery/commit/2b3eff73) Use CreateOrPatchCronJob from kutil (#250)
+- [d86c9ddb](https://github.com/stashed/apimachinery/commit/d86c9ddb) Indicate mutation in PATCH helper method return (#249)
+- [98f87c60](https://github.com/stashed/apimachinery/commit/98f87c60) Update RBAC for analytics
+- [b1a6b198](https://github.com/stashed/apimachinery/commit/b1a6b198) Simplify clientID generation for analytics (#247)
+- [dfbd6691](https://github.com/stashed/apimachinery/commit/dfbd6691) Set analytics clientID (#246)
+- [266190d0](https://github.com/stashed/apimachinery/commit/266190d0) Update README.md
+- [6e56e5d4](https://github.com/stashed/apimachinery/commit/6e56e5d4) Cleanup docs
+- [d7fd65de](https://github.com/stashed/apimachinery/commit/d7fd65de) Reorganize docs (#245)
+- [e314b186](https://github.com/stashed/apimachinery/commit/e314b186) Upgrade procedure for 0.5.1 to 0.6.0 (#243)
+- [dfc5eeba](https://github.com/stashed/apimachinery/commit/dfc5eeba) Update docs (#236)
+- [e30693ac](https://github.com/stashed/apimachinery/commit/e30693ac) Fix retentionPolicyName not found error (#242)
+- [d9d63b9f](https://github.com/stashed/apimachinery/commit/d9d63b9f) Lower case workload.kind in prefix (#240)
+- [e9796acc](https://github.com/stashed/apimachinery/commit/e9796acc) Use RegisterCRDs helper (#239)
+- [a347ce80](https://github.com/stashed/apimachinery/commit/a347ce80) Change left_menu -> menu_name (#235)
+- [f5a15dd4](https://github.com/stashed/apimachinery/commit/f5a15dd4) Revendor dependencies (#234)
+- [3a63651b](https://github.com/stashed/apimachinery/commit/3a63651b) Implement offline backup (#229)
+- [fd5b997c](https://github.com/stashed/apimachinery/commit/fd5b997c) Add aliases for README file (#233)
+- [9fa96d42](https://github.com/stashed/apimachinery/commit/9fa96d42) Add Docs Front Matter for 0.5.1 (#231)
+- [20f207ea](https://github.com/stashed/apimachinery/commit/20f207ea) Update bundles restic to 0.8.0 (#232)
+- [46b995a0](https://github.com/stashed/apimachinery/commit/46b995a0) Revendor kutil (#230)
+- [06f4dade](https://github.com/stashed/apimachinery/commit/06f4dade) Run `restic check` once every 3 days (#223)
+- [88d0679a](https://github.com/stashed/apimachinery/commit/88d0679a) Record recovery status for individual FileGroup (#222)
+- [5bbeab6c](https://github.com/stashed/apimachinery/commit/5bbeab6c) PollInfinitely for recovery job to succeed
+- [d18c00b9](https://github.com/stashed/apimachinery/commit/d18c00b9) Dynamically create stash-sidecar ClusterRole in operator (#221)
+- [51530bed](https://github.com/stashed/apimachinery/commit/51530bed) Implement workload initializer in stash operator (#207)
+- [2739bf10](https://github.com/stashed/apimachinery/commit/2739bf10) Leader election for deployment, replica set and rc (#206)
+- [836f8395](https://github.com/stashed/apimachinery/commit/836f8395) Generate docs
+- [fd5261e5](https://github.com/stashed/apimachinery/commit/fd5261e5) Implement Recovery for Restic Backup (#202)
+- [44062f68](https://github.com/stashed/apimachinery/commit/44062f68) Update install.md
+- [1fc29cbf](https://github.com/stashed/apimachinery/commit/1fc29cbf) Update install.md
+- [3bf7fb00](https://github.com/stashed/apimachinery/commit/3bf7fb00) Update install.md
+- [14ad778f](https://github.com/stashed/apimachinery/commit/14ad778f) Update chart
+- [5b35477e](https://github.com/stashed/apimachinery/commit/5b35477e) Update install.md
+- [59f2943c](https://github.com/stashed/apimachinery/commit/59f2943c) Update _helpers.tpl
+- [a80b1f9d](https://github.com/stashed/apimachinery/commit/a80b1f9d) Support imagePullSecrets in chart
+- [dee95f21](https://github.com/stashed/apimachinery/commit/dee95f21) Update _helpers.tpl
+- [1fd9876f](https://github.com/stashed/apimachinery/commit/1fd9876f) Make stash chart namespaced (#210)
+- [ea616292](https://github.com/stashed/apimachinery/commit/ea616292) Update docs to point to 0.4.2 release
+- [1458c97a](https://github.com/stashed/apimachinery/commit/1458c97a) Update codegen.sh
+- [8e1ca40b](https://github.com/stashed/apimachinery/commit/8e1ca40b) Use typed versioned client for CRD
+- [ed12717a](https://github.com/stashed/apimachinery/commit/ed12717a) Change `k8s.io/api/core/v1` pkg alias to core (#204)
+- [d938ead0](https://github.com/stashed/apimachinery/commit/d938ead0) Use client-go 5.x
+- [499b759a](https://github.com/stashed/apimachinery/commit/499b759a) Update rbac.md
+- [da60e496](https://github.com/stashed/apimachinery/commit/da60e496) Add recovery CRD (#201)
+- [9b5b6ba9](https://github.com/stashed/apimachinery/commit/9b5b6ba9) Merge commit 'bf3f3307acbd69e5147db8abdb75b1529147f0c5'
+- [acd149eb](https://github.com/stashed/apimachinery/commit/acd149eb) Clarify support for DO
+- [9d65b92b](https://github.com/stashed/apimachinery/commit/9d65b92b) Prepare docs for 0.5.1
+- [8eedf90f](https://github.com/stashed/apimachinery/commit/8eedf90f) Update RBAC permissions
+- [041e109b](https://github.com/stashed/apimachinery/commit/041e109b) Add label to installer objects in rbac mode
+- [fad14779](https://github.com/stashed/apimachinery/commit/fad14779) Clarify that --tag foo,tag bar style tags are not supported. (#199)
+- [0da46f7d](https://github.com/stashed/apimachinery/commit/0da46f7d) Set hostname based on resource type (#198)
+- [d04f26f3](https://github.com/stashed/apimachinery/commit/d04f26f3) Manage RoleBinding for rbac enabled cluster (#197)
+- [44b9ea19](https://github.com/stashed/apimachinery/commit/44b9ea19) Update install.md
+- [1c098d38](https://github.com/stashed/apimachinery/commit/1c098d38) Update install.md
+- [002ee683](https://github.com/stashed/apimachinery/commit/002ee683) Document how to detect operator version (#196)
+- [a7fd4940](https://github.com/stashed/apimachinery/commit/a7fd4940) Prepare docs for 0.5.0 release
+- [a0cea425](https://github.com/stashed/apimachinery/commit/a0cea425) Rename Scheduler to Controller
+- [c094e627](https://github.com/stashed/apimachinery/commit/c094e627) Stop dumping env vars
+- [43881e0b](https://github.com/stashed/apimachinery/commit/43881e0b) Prepare docs for 0.5.0-beta.3 release
+- [d1654675](https://github.com/stashed/apimachinery/commit/d1654675) Use workqueue for scheduler (#194)
+- [7d27c516](https://github.com/stashed/apimachinery/commit/7d27c516) Revise RBAC permissions
+- [d53e59a8](https://github.com/stashed/apimachinery/commit/d53e59a8) Prepare docs for 0.5.0-beta.2
+- [fb496b89](https://github.com/stashed/apimachinery/commit/fb496b89) Update tutorial.md (#186)
+- [717ee431](https://github.com/stashed/apimachinery/commit/717ee431) Add tests for DO (#193)
+- [0306530e](https://github.com/stashed/apimachinery/commit/0306530e) Use object reference to write events
+- [dc1fe141](https://github.com/stashed/apimachinery/commit/dc1fe141) Prepare docs for 0.5.0-beta.1
+- [b0f94976](https://github.com/stashed/apimachinery/commit/b0f94976) Fix prometheus metrics collection (#192)
+- [060a4748](https://github.com/stashed/apimachinery/commit/060a4748) Replace reflect.Equal with github.com/google/go-cmp (#188)
+- [0002e64c](https://github.com/stashed/apimachinery/commit/0002e64c) Skip ReplicaSet owned by Deployments (#187)
+- [daf989e6](https://github.com/stashed/apimachinery/commit/daf989e6) Merge commit '32217c844015816b86c46a8d74a175c42f0e307a'
+- [cfea8b51](https://github.com/stashed/apimachinery/commit/cfea8b51) Prepare docs for 5.0.0-beta.0 (#185)
+- [8cac1df7](https://github.com/stashed/apimachinery/commit/8cac1df7) Rename LastAppliedConfiguration
+- [d8ed50dc](https://github.com/stashed/apimachinery/commit/d8ed50dc) Fix e2e tests (#183)
+- [9dcef9ef](https://github.com/stashed/apimachinery/commit/9dcef9ef) Use workqueue (#182)
+- [c37c155b](https://github.com/stashed/apimachinery/commit/c37c155b) Use Deployment from apps/v1beta1 (#181)
+- [7f4653e9](https://github.com/stashed/apimachinery/commit/7f4653e9) Delete *.generated.go files for ugorji (#180)
+- [f98e1f7e](https://github.com/stashed/apimachinery/commit/f98e1f7e) Use WaitForCRDReady from kutil (#179)
+- [003980d8](https://github.com/stashed/apimachinery/commit/003980d8) Only watch apps/v1beta1 Deployment (#178)
+- [1e5eb1ba](https://github.com/stashed/apimachinery/commit/1e5eb1ba) Move kutil to client package (#177)
+- [87b78d76](https://github.com/stashed/apimachinery/commit/87b78d76) Generate ugorji stuff (#176)
+- [a92313c0](https://github.com/stashed/apimachinery/commit/a92313c0) Remove kubernetes/code-generator from builddeps
+- [e74eeb0e](https://github.com/stashed/apimachinery/commit/e74eeb0e) Prepare docs for 0.5.0 (#174)
+- [02cd8fe9](https://github.com/stashed/apimachinery/commit/02cd8fe9) Install stash as a critical addon (#173)
+- [f1b74850](https://github.com/stashed/apimachinery/commit/f1b74850) Update chart to add roles for CRD
+- [5f3061a2](https://github.com/stashed/apimachinery/commit/5f3061a2) Use Namespace() method from kutil.
+- [16eaf13c](https://github.com/stashed/apimachinery/commit/16eaf13c) Add release script.
+- [2f9775fd](https://github.com/stashed/apimachinery/commit/2f9775fd) Prepare docs for 0.5.0-rc.0
+- [60949d9f](https://github.com/stashed/apimachinery/commit/60949d9f) Revendor kutil.
+- [6c3f64fa](https://github.com/stashed/apimachinery/commit/6c3f64fa) Set RESTIC_VER to 0.7.3 (#172)
+- [0676e71f](https://github.com/stashed/apimachinery/commit/0676e71f) Refresh charts to match recent convention (#171)
+- [ceb87bf7](https://github.com/stashed/apimachinery/commit/ceb87bf7) Fix deployment name in tutorial (#169)
+- [081e1fe1](https://github.com/stashed/apimachinery/commit/081e1fe1) Update kutil (#170)
+- [5cfd7024](https://github.com/stashed/apimachinery/commit/5cfd7024) Set RESTIC_VER to 0.7.2
+- [7ed720e6](https://github.com/stashed/apimachinery/commit/7ed720e6) Use object ref for Restic
+- [e391de24](https://github.com/stashed/apimachinery/commit/e391de24) Fix command in Developer-guide (#168)
+- [4fc51330](https://github.com/stashed/apimachinery/commit/4fc51330) Set root scope kinds
+- [25b61d96](https://github.com/stashed/apimachinery/commit/25b61d96) Use apis/v1alpha1 instead of internal version (#167)
+- [51d82b9b](https://github.com/stashed/apimachinery/commit/51d82b9b) Remove resource:path (#166)
+- [fc386932](https://github.com/stashed/apimachinery/commit/fc386932) Use kubernetes/code-generator (#163)
+- [0e086fec](https://github.com/stashed/apimachinery/commit/0e086fec) Update kutil
+- [819b0364](https://github.com/stashed/apimachinery/commit/819b0364) Expose resync-period as flag
+- [ffdecbc7](https://github.com/stashed/apimachinery/commit/ffdecbc7) Remove pkg/analytics
+- [4a448fbd](https://github.com/stashed/apimachinery/commit/4a448fbd) Move analytics collector to root command (#164)
+- [378e869a](https://github.com/stashed/apimachinery/commit/378e869a) Revendor k8s.io/apiextensions-apiserver (#162)
+- [a9b2bb4a](https://github.com/stashed/apimachinery/commit/a9b2bb4a) Migrate TPR to CRD (#160)
+- [42e52e41](https://github.com/stashed/apimachinery/commit/42e52e41) Fix Restic (#159)
+- [9f04a977](https://github.com/stashed/apimachinery/commit/9f04a977) Update kutil dependency (#158)
+- [772866f7](https://github.com/stashed/apimachinery/commit/772866f7) Use CheckAPIVersion() (#157)
+- [35bd52a0](https://github.com/stashed/apimachinery/commit/35bd52a0) Use PATCH api instead of UPDATE (#156)
+- [0c4d7901](https://github.com/stashed/apimachinery/commit/0c4d7901) Check version using semver library (#152)
+- [dee5c57d](https://github.com/stashed/apimachinery/commit/dee5c57d) Update client-go to 4.0.0 (#150)
+- [b351150d](https://github.com/stashed/apimachinery/commit/b351150d) Update build commands for restic. (#149)
+- [1f3b2d7c](https://github.com/stashed/apimachinery/commit/1f3b2d7c) Update client-go to 3.0.0 from 3.0.0-beta (#148)
+- [59e7171e](https://github.com/stashed/apimachinery/commit/59e7171e) Add DCO
+- [22ed31d1](https://github.com/stashed/apimachinery/commit/22ed31d1) Fix typos of tutorial.md file (#138)
+- [757186ec](https://github.com/stashed/apimachinery/commit/757186ec) Add uninstall.sh script (#144)
+- [d3328e52](https://github.com/stashed/apimachinery/commit/d3328e52) Use console type instead of sh
+- [1d3c6c27](https://github.com/stashed/apimachinery/commit/1d3c6c27) Prepare docs for 0.4.1 release
+- [c1906d66](https://github.com/stashed/apimachinery/commit/c1906d66) Build binary inside Docker image
+- [7c528e4a](https://github.com/stashed/apimachinery/commit/7c528e4a) Merge commit 'b8c45d0d4379587a31302b834334047cc77e59db'
+- [ad005cab](https://github.com/stashed/apimachinery/commit/ad005cab) Revendor forked robfig/cron (#139)
+- [46720dff](https://github.com/stashed/apimachinery/commit/46720dff) Update stash-without-rbac.yaml
+- [244f7ca8](https://github.com/stashed/apimachinery/commit/244f7ca8) Add omitempty for Local storage
+- [8f479b3c](https://github.com/stashed/apimachinery/commit/8f479b3c) Move resource consts to api pkg
+- [ace063eb](https://github.com/stashed/apimachinery/commit/ace063eb) Fix Fake restic resource Url (#137)
+- [7ec252b1](https://github.com/stashed/apimachinery/commit/7ec252b1) Clarify bucket location
+- [6d31b48b](https://github.com/stashed/apimachinery/commit/6d31b48b) Update gcs-restic.yaml
+- [bc394d4a](https://github.com/stashed/apimachinery/commit/bc394d4a) Update backends.md
+- [98d90308](https://github.com/stashed/apimachinery/commit/98d90308) Update tutorial.md
+- [9a6ea80f](https://github.com/stashed/apimachinery/commit/9a6ea80f) Update backends.md
+- [191dd168](https://github.com/stashed/apimachinery/commit/191dd168) Update docs to 0.4.0 release.
+- [0ebf939c](https://github.com/stashed/apimachinery/commit/0ebf939c) Update docs to remove setting name for local.VolumeSource
+- [7369ffde](https://github.com/stashed/apimachinery/commit/7369ffde) Support selecting restic branch
+- [b038ac58](https://github.com/stashed/apimachinery/commit/b038ac58) Prepare docs for 0.4.0 release.
+- [df04e61f](https://github.com/stashed/apimachinery/commit/df04e61f) Update concept.md
+- [168b1d51](https://github.com/stashed/apimachinery/commit/168b1d51) Rename RepositorySecretName to StorageSecretName (#135)
+- [b783c47b](https://github.com/stashed/apimachinery/commit/b783c47b) Rename Volume to VolumeSource (#134)
+- [40340c60](https://github.com/stashed/apimachinery/commit/40340c60) Update charts
+- [b2e9e439](https://github.com/stashed/apimachinery/commit/b2e9e439) Use VolumeSource instead of Volume for Local backend. (#132)
+- [c1a10199](https://github.com/stashed/apimachinery/commit/c1a10199) Update concept.md
+- [522e057b](https://github.com/stashed/apimachinery/commit/522e057b) Fix linting issues in chart
+- [335b721c](https://github.com/stashed/apimachinery/commit/335b721c) Add String() method to PrefixType.
+- [158bdabd](https://github.com/stashed/apimachinery/commit/158bdabd) Remove unused type Source
+- [ebee1005](https://github.com/stashed/apimachinery/commit/ebee1005) Update readme
+- [13ebd392](https://github.com/stashed/apimachinery/commit/13ebd392) Various corrections to chart based on code review.
+- [a96ddcda](https://github.com/stashed/apimachinery/commit/a96ddcda) Prepare docs for 0.3.1 release.
+- [dcf34f1c](https://github.com/stashed/apimachinery/commit/dcf34f1c) Support setting compute resources for sidecar (#129)
+- [ef468bc0](https://github.com/stashed/apimachinery/commit/ef468bc0) Update chart with rbac
+- [fd9d6c02](https://github.com/stashed/apimachinery/commit/fd9d6c02) Update rbac.md
+- [f743cb66](https://github.com/stashed/apimachinery/commit/f743cb66) Fix RBAC docs (#127)
+- [3cd9c508](https://github.com/stashed/apimachinery/commit/3cd9c508) Update release.md
+- [6ff18600](https://github.com/stashed/apimachinery/commit/6ff18600) Merge commit 'fba07b3994b0e1fd3a95c91d890353aa23a0f3c1'
+- [0fe79c4b](https://github.com/stashed/apimachinery/commit/0fe79c4b) Print commit timestamp with version command
+- [7379cec6](https://github.com/stashed/apimachinery/commit/7379cec6) Prepare docs for 0.3.0 release
+- [8632871c](https://github.com/stashed/apimachinery/commit/8632871c) Document RBAC
+- [703edc49](https://github.com/stashed/apimachinery/commit/703edc49) Document behavior in case of multiple Restic
+- [0282621a](https://github.com/stashed/apimachinery/commit/0282621a) Document e2e test setup
+- [8f320ccc](https://github.com/stashed/apimachinery/commit/8f320ccc) Document swift (#124)
+- [b6068d83](https://github.com/stashed/apimachinery/commit/b6068d83) Remove support for B2 & Rest server for now.
+- [f3f02ecb](https://github.com/stashed/apimachinery/commit/f3f02ecb) Remove Location choice for GCS
+- [2ad0c18c](https://github.com/stashed/apimachinery/commit/2ad0c18c) Fix spelling
+- [a56137ea](https://github.com/stashed/apimachinery/commit/a56137ea) Update backends.md
+- [a0e3f118](https://github.com/stashed/apimachinery/commit/a0e3f118) Update uninstall.md
+- [0c270985](https://github.com/stashed/apimachinery/commit/0c270985) Update uninstall.md
+- [bca4db3f](https://github.com/stashed/apimachinery/commit/bca4db3f) Use TPR labels to verify installation
+- [6cdbd8f5](https://github.com/stashed/apimachinery/commit/6cdbd8f5) Don't fail scheduler if bad credetials are given
+- [a61a45eb](https://github.com/stashed/apimachinery/commit/a61a45eb) Change mount path for labels to /etc/stash
+- [84c1149a](https://github.com/stashed/apimachinery/commit/84c1149a) Fix remote backend repository format
+- [58eeed1c](https://github.com/stashed/apimachinery/commit/58eeed1c) Part 6 - Update docs (#121)
+- [21034ebe](https://github.com/stashed/apimachinery/commit/21034ebe) Update docs (#120)
+- [f24a1f03](https://github.com/stashed/apimachinery/commit/f24a1f03) Update docs for 0.2.0 release
+- [9478e1d6](https://github.com/stashed/apimachinery/commit/9478e1d6) Various bug fixes (#118)
+- [ee8fca49](https://github.com/stashed/apimachinery/commit/ee8fca49) Mention swift in readme
+- [1b5dd702](https://github.com/stashed/apimachinery/commit/1b5dd702) Update pitch (#117)
+- [f6153296](https://github.com/stashed/apimachinery/commit/f6153296) Various changes to RetentionPolicy	 (#116)
+- [943cf880](https://github.com/stashed/apimachinery/commit/943cf880) Update ROADMAP.md
+- [5b1bf69e](https://github.com/stashed/apimachinery/commit/5b1bf69e) Update tutorial.md
+- [46047d57](https://github.com/stashed/apimachinery/commit/46047d57) Update ROADMAP.md
+- [91fc8541](https://github.com/stashed/apimachinery/commit/91fc8541) Update workloads.md
+- [6e004526](https://github.com/stashed/apimachinery/commit/6e004526) Part 5 - User Guide (#114)
+- [a1d825b5](https://github.com/stashed/apimachinery/commit/a1d825b5) Update ROADMAP.md
+- [f8c093a4](https://github.com/stashed/apimachinery/commit/f8c093a4) Part 4- User Guide (#113)
+- [735536c4](https://github.com/stashed/apimachinery/commit/735536c4) Part 3 - User Guide (#110)
+- [53c775b3](https://github.com/stashed/apimachinery/commit/53c775b3) Part - 2 of User guide (#99)
+- [b9d61921](https://github.com/stashed/apimachinery/commit/b9d61921) Update user guide (#94)
+- [38612df3](https://github.com/stashed/apimachinery/commit/38612df3) Update release.md
+- [612a019b](https://github.com/stashed/apimachinery/commit/612a019b) Update Prometheus job name to use restic ns & name (#93)
+- [47b3b9fe](https://github.com/stashed/apimachinery/commit/47b3b9fe) Update README.md
+- [6c186ba0](https://github.com/stashed/apimachinery/commit/6c186ba0) Use app & release name labels together in chart
+- [b5ed18bc](https://github.com/stashed/apimachinery/commit/b5ed18bc) Update chart readme
+- [09c69811](https://github.com/stashed/apimachinery/commit/09c69811) Update Stash chart (#89)
+- [a3d0ca9a](https://github.com/stashed/apimachinery/commit/a3d0ca9a) Update CONTRIBUTING.md
+- [be57d29e](https://github.com/stashed/apimachinery/commit/be57d29e) Update contribution guide
+- [d7cc52af](https://github.com/stashed/apimachinery/commit/d7cc52af) Fix dev guide (#88)
+- [b51e6516](https://github.com/stashed/apimachinery/commit/b51e6516) Add docs for commands (#90)
+- [c7cac80e](https://github.com/stashed/apimachinery/commit/c7cac80e) Update stash.yaml
+- [b6108163](https://github.com/stashed/apimachinery/commit/b6108163) Update stash.yaml
+- [0d6b20fc](https://github.com/stashed/apimachinery/commit/0d6b20fc) Change stash version to 0.1.0
+- [aede78dd](https://github.com/stashed/apimachinery/commit/aede78dd) Cleanup test commands
+- [272cd162](https://github.com/stashed/apimachinery/commit/272cd162) Add e2e tests for major cloud providers (#84)
+- [75c10a5c](https://github.com/stashed/apimachinery/commit/75c10a5c) Add node selector for DaemonSet e2e test
+- [51052056](https://github.com/stashed/apimachinery/commit/51052056) Check for successful backup events
+- [a22f6c68](https://github.com/stashed/apimachinery/commit/a22f6c68) Fix e2e tests (#83)
+- [b4a8af40](https://github.com/stashed/apimachinery/commit/b4a8af40) Add /snapshots endpoint in operator (#82)
+- [a6571440](https://github.com/stashed/apimachinery/commit/a6571440) Mount scratchDir with operator (#80)
+- [27e45297](https://github.com/stashed/apimachinery/commit/27e45297) Fix scheduler  (#79)
+- [5617d2ef](https://github.com/stashed/apimachinery/commit/5617d2ef) Test e2e tests (#76)
+- [343b29e2](https://github.com/stashed/apimachinery/commit/343b29e2) Remove restic source downloaded for building binary
+- [d66b5f7e](https://github.com/stashed/apimachinery/commit/d66b5f7e) Review analytics events.
+- [d6c926e3](https://github.com/stashed/apimachinery/commit/d6c926e3) Remove unused and/or duplicate constants
+- [97c801aa](https://github.com/stashed/apimachinery/commit/97c801aa) Add ginkgo based e2e tests (#70)
+- [a636d882](https://github.com/stashed/apimachinery/commit/a636d882) Create a cli wrapper for restic (#74)
+- [365f7478](https://github.com/stashed/apimachinery/commit/365f7478) Revise EnsureXXXSidecar methods (#73)
+- [3c0ed950](https://github.com/stashed/apimachinery/commit/3c0ed950) Avoid pushing metrics if missing gateway URL
+- [663a7f47](https://github.com/stashed/apimachinery/commit/663a7f47) Fix pushgateway --web.listen-address flag
+- [6c120054](https://github.com/stashed/apimachinery/commit/6c120054) Use service account with operator pods
+- [7b908422](https://github.com/stashed/apimachinery/commit/7b908422) Create RBAC objects for operator (#69)
+- [b29d5e3a](https://github.com/stashed/apimachinery/commit/b29d5e3a) Push metrics to Prometheus push gateway (#67)
+- [472a3396](https://github.com/stashed/apimachinery/commit/472a3396) Vendor go-sh dependency (#65)
+- [90140fbe](https://github.com/stashed/apimachinery/commit/90140fbe) Use go-sh to execute restic commands (#63)
+- [f8173749](https://github.com/stashed/apimachinery/commit/f8173749) Add scratchPad Dir & prefixHostname flags (#62)
+- [25d006a7](https://github.com/stashed/apimachinery/commit/25d006a7) Support remote backends (#58)
+- [6e13780f](https://github.com/stashed/apimachinery/commit/6e13780f) Expose metrics port from Docker
+- [4ce7c500](https://github.com/stashed/apimachinery/commit/4ce7c500) Rename cron pkg to scheduler.
+- [94e8dacc](https://github.com/stashed/apimachinery/commit/94e8dacc) Organize backup code. (#54)
+- [72992971](https://github.com/stashed/apimachinery/commit/72992971) Synchronize scheduler reconfiguration (#53)
+- [23a65283](https://github.com/stashed/apimachinery/commit/23a65283) Build master branch of restic
+- [db3db58e](https://github.com/stashed/apimachinery/commit/db3db58e) Fix tag detection from Version
+- [8ed3b177](https://github.com/stashed/apimachinery/commit/8ed3b177) Fix unit tests (#51)
+- [b4c1e981](https://github.com/stashed/apimachinery/commit/b4c1e981) Update README.md
+- [cf75d645](https://github.com/stashed/apimachinery/commit/cf75d645) Run watchers for preferred api group version kind (#50)
+- [1d8ffe81](https://github.com/stashed/apimachinery/commit/1d8ffe81) Build restic from source by default (#49)
+- [2ceb34ce](https://github.com/stashed/apimachinery/commit/2ceb34ce) Use updated docker build script format
+- [1a5464f3](https://github.com/stashed/apimachinery/commit/1a5464f3) Merge commit '6d30c353f174f641159a88f6280f6be163a44cb4'
+- [84da3fea](https://github.com/stashed/apimachinery/commit/84da3fea) Watch individual object types. (#48)
+- [7e496f22](https://github.com/stashed/apimachinery/commit/7e496f22) Various code cleanup (#47)
+- [7a3e1fc6](https://github.com/stashed/apimachinery/commit/7a3e1fc6) Reorganize cron controller (#46)
+- [4a85189c](https://github.com/stashed/apimachinery/commit/4a85189c) Check docker image tag before starting operator (#45)
+- [3c6c7cd6](https://github.com/stashed/apimachinery/commit/3c6c7cd6) Expose metrics from operator (#44)
+- [4a3e8bc3](https://github.com/stashed/apimachinery/commit/4a3e8bc3) Run push gateway as a side-car for restik operator. (#43)
+- [51509a81](https://github.com/stashed/apimachinery/commit/51509a81) Pre-install ca-certificates.
+- [10fc9162](https://github.com/stashed/apimachinery/commit/10fc9162) Send analytics for start & stop events.
+- [1bb9c517](https://github.com/stashed/apimachinery/commit/1bb9c517) Move all commands to root folder.
+- [92778ce7](https://github.com/stashed/apimachinery/commit/92778ce7) Remove all reference to k8s.io/kubernetes repo.
+- [e010916a](https://github.com/stashed/apimachinery/commit/e010916a) Move main.go to root folder.
+- [ab5c7220](https://github.com/stashed/apimachinery/commit/ab5c7220) Merge commit 'e6c0614c629d719cc9300e71a668a43f42b37f68'
+- [f86c51e0](https://github.com/stashed/apimachinery/commit/f86c51e0) Point to client-go in versioning policy.
+- [28fc893b](https://github.com/stashed/apimachinery/commit/28fc893b) Update README.md
+- [8b71920b](https://github.com/stashed/apimachinery/commit/8b71920b) Add analytics (#41)
+- [e9dfb675](https://github.com/stashed/apimachinery/commit/e9dfb675) Use V1alpha1SchemeGroupVersion for Restik (#40)
+- [cf30acfd](https://github.com/stashed/apimachinery/commit/cf30acfd) Fix registration of wrong group (#39)
+- [33174390](https://github.com/stashed/apimachinery/commit/33174390) Upgrade restic version to 0.6.1 (#37)
+- [d36ac63b](https://github.com/stashed/apimachinery/commit/d36ac63b) Use client-go (#36)
+- [00673a90](https://github.com/stashed/apimachinery/commit/00673a90) Merge commit '4a5c3083fd86cbe409e8a0f8db02ebc92b403cdc'
+- [6aa832cf](https://github.com/stashed/apimachinery/commit/6aa832cf) Create conversion_v1alpha1.go
+- [792dd3cb](https://github.com/stashed/apimachinery/commit/792dd3cb) Create register_v1alpha1.go
+- [5168d87f](https://github.com/stashed/apimachinery/commit/5168d87f) fmt api & client pkg-es
+- [63bd2a07](https://github.com/stashed/apimachinery/commit/63bd2a07) Add version policy & analytics collection to readme
+- [0d32a717](https://github.com/stashed/apimachinery/commit/0d32a717) Change api version to v1alpha1 (#30)
+- [476b4e24](https://github.com/stashed/apimachinery/commit/476b4e24) Merge commit '7ade13456a688a54292abaf589c2e9f1804f7d8b'
+- [11e8a6b0](https://github.com/stashed/apimachinery/commit/11e8a6b0) Rename clientset
+- [352bce7f](https://github.com/stashed/apimachinery/commit/352bce7f) Rename function and structure (#29)
+- [d9f6f85d](https://github.com/stashed/apimachinery/commit/d9f6f85d) Rename Backup into Restik (#28)
+- [4bdd455c](https://github.com/stashed/apimachinery/commit/4bdd455c) Move api from k8s-addons (#27)
+- [9fb9a1ea](https://github.com/stashed/apimachinery/commit/9fb9a1ea) Add Restik chart (#20)
+- [ffd4e2f9](https://github.com/stashed/apimachinery/commit/ffd4e2f9) Bubble up errors to caller (#26)
+- [f6e1f093](https://github.com/stashed/apimachinery/commit/f6e1f093) Update README.md
+- [15723957](https://github.com/stashed/apimachinery/commit/15723957) Merge commit '958f7da4904598c85aabadf104c687e321eacb33'
+- [3409789a](https://github.com/stashed/apimachinery/commit/3409789a) Use unversioned time (#23)
+- [8e932b24](https://github.com/stashed/apimachinery/commit/8e932b24) Update design.md
+- [4dff3b04](https://github.com/stashed/apimachinery/commit/4dff3b04) Update design.md
+- [bf01be6f](https://github.com/stashed/apimachinery/commit/bf01be6f) example added (#19)
+- [6c3712fd](https://github.com/stashed/apimachinery/commit/6c3712fd) Use restik api and client from k8s-addons (#18)
+- [70b9e4ad](https://github.com/stashed/apimachinery/commit/70b9e4ad) Error print fix (#17)
+- [c1cfa79d](https://github.com/stashed/apimachinery/commit/c1cfa79d) Check group registration Before Register Groups (#16)
+- [16640d0c](https://github.com/stashed/apimachinery/commit/16640d0c) Add Restik docs (#15)
+- [caf774ce](https://github.com/stashed/apimachinery/commit/caf774ce) Restik unit test, e2e test (#14)
+- [36909bf0](https://github.com/stashed/apimachinery/commit/36909bf0) Restik create delete initial implementation (#12)
+- [183b9a7b](https://github.com/stashed/apimachinery/commit/183b9a7b) Update restic to 0.5.0
+- [850131ea](https://github.com/stashed/apimachinery/commit/850131ea) Don't allow push with tags.
+- [2111829a](https://github.com/stashed/apimachinery/commit/2111829a) Unify restic and restik docker images.
+- [7d93e330](https://github.com/stashed/apimachinery/commit/7d93e330) Make restic executable.
+- [ab14ac0b](https://github.com/stashed/apimachinery/commit/ab14ac0b) Build docker image (#11)
+- [bc29563f](https://github.com/stashed/apimachinery/commit/bc29563f) Add links to proposal in readme
+- [cafc63fb](https://github.com/stashed/apimachinery/commit/cafc63fb) Use cobra to structure restik commands.
+- [8c6425b6](https://github.com/stashed/apimachinery/commit/8c6425b6) Clone skeleton from appscode/k3pc (#10)
+- [ba60c6d4](https://github.com/stashed/apimachinery/commit/ba60c6d4) Merge commit 'a3e8a4a46d31a8c6e9fcceda85d3a55f36293f67' as 'hack/libbuild'
+
+
+
