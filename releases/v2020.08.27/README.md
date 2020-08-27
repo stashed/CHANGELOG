@@ -2298,6 +2298,10 @@
 - [60ed8f7](https://github.com/stashed/mongodb/commit/60ed8f7) Update user guide (#94)
 
 
+### [3.4.2-v1](https://github.com/stashed/mongodb/releases/tag/3.4.2-v1)
+
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
