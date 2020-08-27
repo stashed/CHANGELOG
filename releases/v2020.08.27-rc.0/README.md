@@ -144,6 +144,15 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-rc.20200827](https://github.com/stashed/mysql/releases/tag/5.7.25-rc.20200827)
+
+- [263f795](https://github.com/stashed/mysql/commit/263f795) Prepare for release 5.7.25-rc.20200827 (#99)
+- [96023d1](https://github.com/stashed/mysql/commit/96023d1) [cherry-pick] Upload charts without updating index (#96)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6-rc.20200827](https://github.com/stashed/postgres/releases/tag/9.6-rc.20200827)
