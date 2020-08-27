@@ -2344,6 +2344,44 @@
 - [9d9fc23](https://github.com/stashed/mongodb/commit/9d9fc23) Add openapi v3 schema for values file (#21)
 
 
+### [4.0.3-v1](https://github.com/stashed/mongodb/releases/tag/4.0.3-v1)
+
+- [fa38022](https://github.com/stashed/mongodb/commit/fa38022) Prepare for release 4.0.3-v1 (#248)
+- [e6669a9](https://github.com/stashed/mongodb/commit/e6669a9) Prepare for release 4.0.3-rc.20200827 (#236)
+- [7a1efc6](https://github.com/stashed/mongodb/commit/7a1efc6) [cherry-pick] Upload charts without updating index (#225)
+- [0166946](https://github.com/stashed/mongodb/commit/0166946) Prepare for release 4.0.3-rc.20200826 (#213)
+- [0d636e1](https://github.com/stashed/mongodb/commit/0d636e1) [cherry-pick] Update README.md (#202)
+- [fd4d40e](https://github.com/stashed/mongodb/commit/fd4d40e) Prepare for release 4.0.3-beta.20200826 (#190)
+- [3b2f40b](https://github.com/stashed/mongodb/commit/3b2f40b) [cherry-pick] Update Stash installation link (#173) (#179)
+- [5ba31a4](https://github.com/stashed/mongodb/commit/5ba31a4) [cherry-pick] Fix output format + Add PreBackupActions logic (#149) (#167)
+- [349f6c0](https://github.com/stashed/mongodb/commit/349f6c0) [cherry-pick] Make image.tag in values.yaml same as $APP_VERSION (#150) (#156)
+- [eb32485](https://github.com/stashed/mongodb/commit/eb32485) [cherry-pick] Update chart icon (#143)
+- [e2b05d8](https://github.com/stashed/mongodb/commit/e2b05d8) [cherry-pick] Make chart registry configurable (#126) (#132)
+- [b7719bd](https://github.com/stashed/mongodb/commit/b7719bd) Prepare for release 4.0.3-beta.20200709 (#119)
+- [7c9074d](https://github.com/stashed/mongodb/commit/7c9074d) [cherry-pick] Build docker image in release workflow (#102) (#108)
+- [974b230](https://github.com/stashed/mongodb/commit/974b230) Prepare for release 4.0.3-beta.20200708 (#95)
+- [70d290e](https://github.com/stashed/mongodb/commit/70d290e) [cherry-pick] Publish to testing dir for alpha/beta releases (#78) (#84)
+- [ffb3cc5](https://github.com/stashed/mongodb/commit/ffb3cc5) [cherry-pick] Update License (#66) (#72)
+- [42c182f](https://github.com/stashed/mongodb/commit/42c182f) Add commands to update chart version (#65)
+- [602e631](https://github.com/stashed/mongodb/commit/602e631) [cherry-pick] Update update-release-tracker.sh (#59)
+- [f2c40c3](https://github.com/stashed/mongodb/commit/f2c40c3) Add script to update release tracker on pr merge (#41)
+- [f2fe3de](https://github.com/stashed/mongodb/commit/f2fe3de) [cherry-pick] Update release.yml (#42) (#48)
+- [69e0816](https://github.com/stashed/mongodb/commit/69e0816) [cherry-pick] Add workflow to cherry pick commits to master (#29) (#35)
+- [5d3ebfa](https://github.com/stashed/mongodb/commit/5d3ebfa) Fix chart release process (#28)
+- [6c1edad](https://github.com/stashed/mongodb/commit/6c1edad) Update .kodiak.toml
+- [6ec1e40](https://github.com/stashed/mongodb/commit/6ec1e40) Allow overwriting secret key via SecretTransformation (#27)
+- [8ec94bf](https://github.com/stashed/mongodb/commit/8ec94bf) Make waitTimeout configurable through flag (#26)
+- [ebd3f81](https://github.com/stashed/mongodb/commit/ebd3f81) Create .kodiak.toml
+- [ade156f](https://github.com/stashed/mongodb/commit/ade156f) Fix typos
+- [b5e7b0f](https://github.com/stashed/mongodb/commit/b5e7b0f) Update to Kubernetes v1.18.3 (#25)
+- [41fa9af](https://github.com/stashed/mongodb/commit/41fa9af) Update crazy-max/ghaction-docker-buildx flag
+- [55eb7fe](https://github.com/stashed/mongodb/commit/55eb7fe) Fix typos
+- [a94509b](https://github.com/stashed/mongodb/commit/a94509b) Trigger the workflow on push or pull request
+- [d00083a](https://github.com/stashed/mongodb/commit/d00083a) Auto generate chart readme file
+- [2347473](https://github.com/stashed/mongodb/commit/2347473) Correctly mark optional fields
+- [22c33b8](https://github.com/stashed/mongodb/commit/22c33b8) Add openapi v3 schema for values file (#21)
+
+
 ### [4.0.11-v1](https://github.com/stashed/mongodb/releases/tag/4.0.11-v1)
 
 - [bc7a353](https://github.com/stashed/mongodb/commit/bc7a353) Prepare for release 4.0.11-v1 (#247)
