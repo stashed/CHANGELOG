@@ -1777,6 +1777,13 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2020.08.27](https://github.com/stashed/catalog/releases/tag/v2020.08.27)
+
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.10.0](https://github.com/stashed/cli/releases/tag/v0.10.0)

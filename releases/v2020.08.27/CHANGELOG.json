@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.08.27",
-  "release_date": "2020-08-27T19:23:56.344838918Z",
+  "release_date": "2020-08-27T19:51:35.260756842Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.08.27",
   "kubernetes_version": "1.12+",
@@ -7071,6 +7071,15 @@
               "Subject": "Merge commit 'a3e8a4a46d31a8c6e9fcceda85d3a55f36293f67' as 'hack/libbuild'"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/catalog",
+      "releases": [
+        {
+          "tag": "v2020.08.27",
+          "commits": null
         }
       ]
     },
