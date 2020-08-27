@@ -32,6 +32,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.08.27-rc.0](https://github.com/stashed/docs/releases/tag/v2020.08.27-rc.0)
+
+- [7c7478e](https://github.com/stashed/docs/commit/7c7478e) Prepare for release v2020.08.27-rc.0 (#89)
+- [243e9a5](https://github.com/stashed/docs/commit/243e9a5) Replace "info.version" of setup guides with respective operator versions (#88)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-rc.20200827](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-rc.20200827)
