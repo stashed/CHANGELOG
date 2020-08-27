@@ -50,6 +50,12 @@
 - [6a44a65](https://github.com/stashed/elasticsearch/commit/6a44a65) [cherry-pick] Upload charts without updating index (#187)
 
 
+### [6.5.3-rc.20200827](https://github.com/stashed/elasticsearch/releases/tag/6.5.3-rc.20200827)
+
+- [68b5356](https://github.com/stashed/elasticsearch/commit/68b5356) Prepare for release 6.5.3-rc.20200827 (#196)
+- [babe6ed](https://github.com/stashed/elasticsearch/commit/babe6ed) [cherry-pick] Upload charts without updating index (#188)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
