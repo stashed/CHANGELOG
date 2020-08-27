@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.08.26-rc.1",
-  "release_date": "2020-08-27T08:42:21.655338655Z",
+  "release_date": "2020-08-27T08:55:21.957415692Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.08.26-rc.1",
   "kubernetes_version": "1.12+",
@@ -69,6 +69,28 @@
             {
               "SHA": "2c90092",
               "Subject": "Update README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2020.08.26-rc.1",
+          "commits": [
+            {
+              "SHA": "6600687",
+              "Subject": "Prepare for release v2020.08.26-rc.1 (#87)"
+            },
+            {
+              "SHA": "845a444",
+              "Subject": "Fix frontmatter"
+            },
+            {
+              "SHA": "7674506",
+              "Subject": "Clarify that trial license is for 14 days"
             }
           ]
         }

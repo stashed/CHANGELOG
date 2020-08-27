@@ -36,6 +36,16 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.08.26-rc.1](https://github.com/stashed/docs/releases/tag/v2020.08.26-rc.1)
+
+- [6600687](https://github.com/stashed/docs/commit/6600687) Prepare for release v2020.08.26-rc.1 (#87)
+- [845a444](https://github.com/stashed/docs/commit/845a444) Fix frontmatter
+- [7674506](https://github.com/stashed/docs/commit/7674506) Clarify that trial license is for 14 days
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-rc.20200826](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-rc.20200826)
