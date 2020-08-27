@@ -152,6 +152,12 @@
 - [96023d1](https://github.com/stashed/mysql/commit/96023d1) [cherry-pick] Upload charts without updating index (#96)
 
 
+### [8.0.3-rc.20200827](https://github.com/stashed/mysql/releases/tag/8.0.3-rc.20200827)
+
+- [7d02720](https://github.com/stashed/mysql/commit/7d02720) Prepare for release 8.0.3-rc.20200827 (#101)
+- [dc8e2b5](https://github.com/stashed/mysql/commit/dc8e2b5) [cherry-pick] Upload charts without updating index (#98)
+
+
 ### [8.0.14-rc.20200827](https://github.com/stashed/mysql/releases/tag/8.0.14-rc.20200827)
 
 - [720aa02](https://github.com/stashed/mysql/commit/720aa02) Prepare for release 8.0.14-rc.20200827 (#100)
