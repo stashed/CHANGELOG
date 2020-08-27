@@ -16,6 +16,14 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2020.08.27-rc.0](https://github.com/stashed/bundles/releases/tag/v2020.08.27-rc.0)
+
+- [62bc0cc](https://github.com/stashed/bundles/commit/62bc0cc) Prepare for release v2020.08.27-rc.0 (#13)
+
+
+
 ## [stashed/catalog](https://github.com/stashed/catalog)
 
 ### [v2020.08.27-rc.0](https://github.com/stashed/catalog/releases/tag/v2020.08.27-rc.0)
