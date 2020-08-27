@@ -1777,6 +1777,30 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2020.08.27](https://github.com/stashed/bundles/releases/tag/v2020.08.27)
+
+- [eb015cf](https://github.com/stashed/bundles/commit/eb015cf) Prepare for release v2020.08.27 (#14)
+- [62bc0cc](https://github.com/stashed/bundles/commit/62bc0cc) Prepare for release v2020.08.27-rc.0 (#13)
+- [fecedca](https://github.com/stashed/bundles/commit/fecedca) Prepare for release v2020.08.26-rc.1 (#12)
+- [c6e2d91](https://github.com/stashed/bundles/commit/c6e2d91) Update README.md
+- [d0e34a9](https://github.com/stashed/bundles/commit/d0e34a9) Prepare for release v2020.08.26-rc.0 (#11)
+- [66e9d1e](https://github.com/stashed/bundles/commit/66e9d1e) Update bundle chart versions
+- [8d8c566](https://github.com/stashed/bundles/commit/8d8c566) Prepare for release v2020.07.09-beta.0 (#10)
+- [dd06bb5](https://github.com/stashed/bundles/commit/dd06bb5) Prepare for release v2020.07.08-beta.0 (#9)
+- [7d57e98](https://github.com/stashed/bundles/commit/7d57e98) Publish to testing dir for alpha/beta releases (#8)
+- [ffc863f](https://github.com/stashed/bundles/commit/ffc863f) Update License (#7)
+- [b5a4190](https://github.com/stashed/bundles/commit/b5a4190) Update ci.yml
+- [e323ffb](https://github.com/stashed/bundles/commit/e323ffb) Remove non-patched version addons (#5)
+- [2f3d8b8](https://github.com/stashed/bundles/commit/2f3d8b8) Shorten bundle description (#3)
+- [15e83fc](https://github.com/stashed/bundles/commit/15e83fc) Shorten chart description (#2)
+- [f980df7](https://github.com/stashed/bundles/commit/f980df7) Tag chart and app version as string for yq
+- [e29b80e](https://github.com/stashed/bundles/commit/e29b80e) Add commands to update chart version
+- [1d8197b](https://github.com/stashed/bundles/commit/1d8197b) Add Stash bundles (#1)
+
+
+
 ## [stashed/catalog](https://github.com/stashed/catalog)
 
 ### [v2020.08.27](https://github.com/stashed/catalog/releases/tag/v2020.08.27)
