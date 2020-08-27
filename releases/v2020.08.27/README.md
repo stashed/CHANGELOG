@@ -2577,6 +2577,49 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v1](https://github.com/stashed/mysql/releases/tag/5.7.25-v1)
+
+- [87d41e0](https://github.com/stashed/mysql/commit/87d41e0) Prepare for release 5.7.25-v1 (#103)
+- [263f795](https://github.com/stashed/mysql/commit/263f795) Prepare for release 5.7.25-rc.20200827 (#99)
+- [96023d1](https://github.com/stashed/mysql/commit/96023d1) [cherry-pick] Upload charts without updating index (#96)
+- [3cb98d3](https://github.com/stashed/mysql/commit/3cb98d3) Prepare for release 5.7.25-rc.20200826 (#92)
+- [d5b1978](https://github.com/stashed/mysql/commit/d5b1978) [cherry-pick] Update README.md (#89)
+- [813ee01](https://github.com/stashed/mysql/commit/813ee01) Prepare for release 5.7.25-beta.20200826 (#85)
+- [e646be7](https://github.com/stashed/mysql/commit/e646be7) [cherry-pick] Update Stash installation link (#81) (#82)
+- [ecc7d0c](https://github.com/stashed/mysql/commit/ecc7d0c) [cherry-pick] Fix output format (#46) (#78)
+- [7fcbd24](https://github.com/stashed/mysql/commit/7fcbd24) [cherry-pick] Pass image tag in values.yaml file (#74) (#75)
+- [3188584](https://github.com/stashed/mysql/commit/3188584) [cherry-pick] Update chart icon (#71)
+- [9060c7a](https://github.com/stashed/mysql/commit/9060c7a) [cherry-pick] Make chart registry configurable (#67) (#68)
+- [422a411](https://github.com/stashed/mysql/commit/422a411) Prepare for release 5.7.25-beta.20200709 (#63)
+- [e345110](https://github.com/stashed/mysql/commit/e345110) [cherry-pick] Build docker image in release workflow (#59) (#60)
+- [3a44b41](https://github.com/stashed/mysql/commit/3a44b41) Prepare for release 5.7.25-beta.20200708 (#55)
+- [7e2984b](https://github.com/stashed/mysql/commit/7e2984b) [cherry-pick] Publish to testing dir for alpha/beta releases (#51) (#52)
+- [aa1eac2](https://github.com/stashed/mysql/commit/aa1eac2) [cherry-pick] Update License (#47) (#48)
+- [d4370c9](https://github.com/stashed/mysql/commit/d4370c9) Add commands to update chart version (#45)
+- [38fb308](https://github.com/stashed/mysql/commit/38fb308) [cherry-pick] Update update-release-tracker.sh (#42)
+- [f3bfd48](https://github.com/stashed/mysql/commit/f3bfd48) [cherry-pick] Update update-release-tracker.sh (#39)
+- [56e92c4](https://github.com/stashed/mysql/commit/56e92c4) [cherry-pick] Update release.yml (#36)
+- [be341e7](https://github.com/stashed/mysql/commit/be341e7) [cherry-pick] Add script to update release tracker on pr merge (#32) (#33)
+- [96504a7](https://github.com/stashed/mysql/commit/96504a7) [cherry-pick] Add workflow to cherry pick commits to master (#28) (#29)
+- [fcbe891](https://github.com/stashed/mysql/commit/fcbe891) Fix chart release process (#27)
+- [c012edf](https://github.com/stashed/mysql/commit/c012edf) Update .kodiak.toml
+- [0d22657](https://github.com/stashed/mysql/commit/0d22657) Allow overwriting secret key via SecretTransformation (#26)
+- [f717a19](https://github.com/stashed/mysql/commit/f717a19) Fix unit tests (#25)
+- [d4f5c4c](https://github.com/stashed/mysql/commit/d4f5c4c) Create .kodiak.toml
+- [2bfa098](https://github.com/stashed/mysql/commit/2bfa098) Fix typos
+- [5c1a53d](https://github.com/stashed/mysql/commit/5c1a53d) mend
+- [9eb402f](https://github.com/stashed/mysql/commit/9eb402f) Update to Kubernetes v1.18.3 (#24)
+- [4d4afa2](https://github.com/stashed/mysql/commit/4d4afa2) Fix waitForDBReady() logic + Make timeout configurable (#23)
+- [4548802](https://github.com/stashed/mysql/commit/4548802) Update crazy-max/ghaction-docker-buildx flag
+- [ce1fa72](https://github.com/stashed/mysql/commit/ce1fa72) Trigger the workflow on push or pull request
+- [dad10df](https://github.com/stashed/mysql/commit/dad10df) Auto generate chart readme file
+- [462eecf](https://github.com/stashed/mysql/commit/462eecf) Correctly mark optional fields
+- [424ec5a](https://github.com/stashed/mysql/commit/424ec5a) Add openapi v3 schema for values file (#20)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6-v1](https://github.com/stashed/postgres/releases/tag/9.6-v1)
