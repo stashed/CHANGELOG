@@ -2458,6 +2458,10 @@
 - [3e35f9b](https://github.com/stashed/mongodb/commit/3e35f9b) Add openapi v3 schema for values file (#21)
 
 
+### [4.1.1-v1](https://github.com/stashed/mongodb/releases/tag/4.1.1-v1)
+
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 

@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.08.27",
-  "release_date": "2020-08-27T18:37:42.960090399Z",
+  "release_date": "2020-08-27T18:37:48.722348182Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.08.27",
   "kubernetes_version": "1.12+",
@@ -9600,6 +9600,10 @@
               "Subject": "Add openapi v3 schema for values file (#21)"
             }
           ]
+        },
+        {
+          "tag": "4.1.1-v1",
+          "commits": null
         }
       ]
     },
