@@ -2619,6 +2619,46 @@
 - [424ec5a](https://github.com/stashed/mysql/commit/424ec5a) Add openapi v3 schema for values file (#20)
 
 
+### [8.0.14-v1](https://github.com/stashed/mysql/releases/tag/8.0.14-v1)
+
+- [ced706b](https://github.com/stashed/mysql/commit/ced706b) Prepare for release 8.0.14-v1 (#104)
+- [720aa02](https://github.com/stashed/mysql/commit/720aa02) Prepare for release 8.0.14-rc.20200827 (#100)
+- [7019c00](https://github.com/stashed/mysql/commit/7019c00) [cherry-pick] Upload charts without updating index (#97)
+- [0b6f158](https://github.com/stashed/mysql/commit/0b6f158) Prepare for release 8.0.14-rc.20200826 (#93)
+- [e4c86da](https://github.com/stashed/mysql/commit/e4c86da) [cherry-pick] Update README.md (#90)
+- [5816915](https://github.com/stashed/mysql/commit/5816915) Prepare for release 8.0.14-beta.20200826 (#86)
+- [96b78ca](https://github.com/stashed/mysql/commit/96b78ca) [cherry-pick] Update Stash installation link (#81) (#83)
+- [4f6c15b](https://github.com/stashed/mysql/commit/4f6c15b) [cherry-pick] Fix output format (#46) (#79)
+- [9da1616](https://github.com/stashed/mysql/commit/9da1616) [cherry-pick] Pass image tag in values.yaml file (#74) (#76)
+- [72edf00](https://github.com/stashed/mysql/commit/72edf00) [cherry-pick] Update chart icon (#72)
+- [9f253db](https://github.com/stashed/mysql/commit/9f253db) [cherry-pick] Make chart registry configurable (#67) (#69)
+- [bf2dd2d](https://github.com/stashed/mysql/commit/bf2dd2d) Prepare for release 8.0.14-beta.20200709 (#64)
+- [226b3a9](https://github.com/stashed/mysql/commit/226b3a9) [cherry-pick] Build docker image in release workflow (#59) (#61)
+- [5a303f2](https://github.com/stashed/mysql/commit/5a303f2) Prepare for release 8.0.14-beta.20200708 (#56)
+- [840101a](https://github.com/stashed/mysql/commit/840101a) [cherry-pick] Publish to testing dir for alpha/beta releases (#51) (#53)
+- [9cf212d](https://github.com/stashed/mysql/commit/9cf212d) [cherry-pick] Update License (#47) (#49)
+- [4d460b1](https://github.com/stashed/mysql/commit/4d460b1) Add commands to update chart version (#45)
+- [ad14dcd](https://github.com/stashed/mysql/commit/ad14dcd) [cherry-pick] Update update-release-tracker.sh (#43)
+- [7612f08](https://github.com/stashed/mysql/commit/7612f08) [cherry-pick] Update update-release-tracker.sh (#40)
+- [bb67fea](https://github.com/stashed/mysql/commit/bb67fea) [cherry-pick] Update release.yml (#37)
+- [5551469](https://github.com/stashed/mysql/commit/5551469) [cherry-pick] Add script to update release tracker on pr merge (#32) (#34)
+- [cf2d0a5](https://github.com/stashed/mysql/commit/cf2d0a5) [cherry-pick] Add workflow to cherry pick commits to master (#28) (#30)
+- [b983837](https://github.com/stashed/mysql/commit/b983837) Fix chart release process (#27)
+- [e2d3718](https://github.com/stashed/mysql/commit/e2d3718) Update .kodiak.toml
+- [1779968](https://github.com/stashed/mysql/commit/1779968) Allow overwriting secret key via SecretTransformation (#26)
+- [1ff9fa6](https://github.com/stashed/mysql/commit/1ff9fa6) Fix unit tests (#25)
+- [8c86606](https://github.com/stashed/mysql/commit/8c86606) Create .kodiak.toml
+- [d6cfde9](https://github.com/stashed/mysql/commit/d6cfde9) Fix typos
+- [065eb14](https://github.com/stashed/mysql/commit/065eb14) mend
+- [43335f5](https://github.com/stashed/mysql/commit/43335f5) Update to Kubernetes v1.18.3 (#24)
+- [9d5a550](https://github.com/stashed/mysql/commit/9d5a550) Fix waitForDBReady() logic + Make timeout configurable (#23)
+- [1ce533a](https://github.com/stashed/mysql/commit/1ce533a) Update crazy-max/ghaction-docker-buildx flag
+- [4daf2f0](https://github.com/stashed/mysql/commit/4daf2f0) Trigger the workflow on push or pull request
+- [dee1282](https://github.com/stashed/mysql/commit/dee1282) Auto generate chart readme file
+- [857d7dc](https://github.com/stashed/mysql/commit/857d7dc) Correctly mark optional fields
+- [915ff47](https://github.com/stashed/mysql/commit/915ff47) Add openapi v3 schema for values file (#20)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
