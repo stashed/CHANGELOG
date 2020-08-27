@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.08.27-rc.0",
-  "release_date": "2020-08-27T11:24:20.690424989Z",
+  "release_date": "2020-08-27T11:24:26.801111635Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.08.27-rc.0",
   "kubernetes_version": "1.12+",
@@ -121,6 +121,19 @@
             {
               "SHA": "a836713",
               "Subject": "[cherry-pick] Upload charts without updating index (#189)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-rc.20200827",
+          "commits": [
+            {
+              "SHA": "036e850",
+              "Subject": "Prepare for release 7.2.0-rc.20200827 (#198)"
+            },
+            {
+              "SHA": "54fd94d",
+              "Subject": "[cherry-pick] Upload charts without updating index (#190)"
             }
           ]
         }
