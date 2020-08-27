@@ -1,6 +1,957 @@
 # Stash v2020.08.27 (2020-08-27)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.10.0](https://github.com/appscode/stash-enterprise/releases/tag/v0.10.0)
+
+- [113f8111](https://github.com/appscode/stash-enterprise/commit/113f8111) Prepare for release v0.10.0 (#21)
+- [be8d7f35](https://github.com/appscode/stash-enterprise/commit/be8d7f35) Prepare for release v0.10.0-rc.2 (#20)
+- [dc0c6cf5](https://github.com/appscode/stash-enterprise/commit/dc0c6cf5) Prepare for release v0.10.0-rc.1 (#19)
+- [4836ebc0](https://github.com/appscode/stash-enterprise/commit/4836ebc0) Create GitHub release from release workflow
+- [58833f91](https://github.com/appscode/stash-enterprise/commit/58833f91) Prepare for release v0.10.0-rc.0 (#18)
+- [5a3d33e1](https://github.com/appscode/stash-enterprise/commit/5a3d33e1) Update README.md
+- [cbd97623](https://github.com/appscode/stash-enterprise/commit/cbd97623) Use Docker hub for release images (#17)
+- [d997d3e7](https://github.com/appscode/stash-enterprise/commit/d997d3e7) Refactor parameter passing via annotations (#16)
+- [5300842d](https://github.com/appscode/stash-enterprise/commit/5300842d) Update feature table in README.md (#15)
+- [695b2993](https://github.com/appscode/stash-enterprise/commit/695b2993) Fix update status section + fix tests (#14)
+- [60f3fecd](https://github.com/appscode/stash-enterprise/commit/60f3fecd) Use license-verifier v0.2.2 (#13)
+- [53acec48](https://github.com/appscode/stash-enterprise/commit/53acec48) Add ENFORCE_LICENSE override for licence enforcer (#11)
+- [bd0912d3](https://github.com/appscode/stash-enterprise/commit/bd0912d3) Add offline license verification (#10)
+- [33444a3a](https://github.com/appscode/stash-enterprise/commit/33444a3a) Add license verifier info to build process (#9)
+- [0d8c7294](https://github.com/appscode/stash-enterprise/commit/0d8c7294) Fix restore init-container order (#8)
+- [733d9d47](https://github.com/appscode/stash-enterprise/commit/733d9d47) Pass offshoot labels to backup & restore job's pods (#7)
+- [357341a9](https://github.com/appscode/stash-enterprise/commit/357341a9) Add params and schedule annotation for auto-backup (#6)
+- [aa862d01](https://github.com/appscode/stash-enterprise/commit/aa862d01) Support Snapshot listing for NFS backend without workload running (#5)
+- [6ffc7392](https://github.com/appscode/stash-enterprise/commit/6ffc7392) Introduce RestoreBatch CRD + Additional Improvements (#2)
+- [f3fb0f15](https://github.com/appscode/stash-enterprise/commit/f3fb0f15) Disable e2e tests (#4)
+- [a00abcbb](https://github.com/appscode/stash-enterprise/commit/a00abcbb) Update ci.yml
+- [fb1e1fee](https://github.com/appscode/stash-enterprise/commit/fb1e1fee) Update .kodiak.toml
+- [5d2f056f](https://github.com/appscode/stash-enterprise/commit/5d2f056f) Update update-release-tracker.sh
+- [5160b7a6](https://github.com/appscode/stash-enterprise/commit/5160b7a6) Update update-release-tracker.sh
+- [530542b5](https://github.com/appscode/stash-enterprise/commit/530542b5) Add script to update release tracker on pr merge (#3)
+- [c1e2163f](https://github.com/appscode/stash-enterprise/commit/c1e2163f) Update .kodiak.toml
+- [dd1d1c16](https://github.com/appscode/stash-enterprise/commit/dd1d1c16) Use GCR for enterprise images (#1)
+- [bbde40a3](https://github.com/appscode/stash-enterprise/commit/bbde40a3) Update to Kubernetes v1.18.3 (#1129)
+- [38eb3781](https://github.com/appscode/stash-enterprise/commit/38eb3781) Update to Kubernetes v1.18.3
+- [197aa7bd](https://github.com/appscode/stash-enterprise/commit/197aa7bd) Create .kodiak.toml
+- [181ca49e](https://github.com/appscode/stash-enterprise/commit/181ca49e) Update coverage script
+- [26602c96](https://github.com/appscode/stash-enterprise/commit/26602c96) Merge pull request #1125 from stashed/fix-ci-tests
+- [54f87b78](https://github.com/appscode/stash-enterprise/commit/54f87b78) Increase wait timeout
+- [43428085](https://github.com/appscode/stash-enterprise/commit/43428085) Remove unnecessary test codes + run test in parallel
+- [8a780e0c](https://github.com/appscode/stash-enterprise/commit/8a780e0c) Fix clone-pvc tests
+- [7027c0f6](https://github.com/appscode/stash-enterprise/commit/7027c0f6) Fix E2E test
+- [31de588a](https://github.com/appscode/stash-enterprise/commit/31de588a) Change GCS test bucket name to stash-ci (#1122)
+- [30a490a6](https://github.com/appscode/stash-enterprise/commit/30a490a6) Merge pull request #1121 from stashed/baseline-psp
+- [419a18e3](https://github.com/appscode/stash-enterprise/commit/419a18e3) Use StringSlice type flag
+- [9dd3804d](https://github.com/appscode/stash-enterprise/commit/9dd3804d) Make PSP names configurable through flag
+- [e4edef44](https://github.com/appscode/stash-enterprise/commit/e4edef44) Always use baseline PSP
+- [cf1538a0](https://github.com/appscode/stash-enterprise/commit/cf1538a0) Use filepath.Join to generate Repository prefix for BackupBatch (#1120)
+- [be189169](https://github.com/appscode/stash-enterprise/commit/be189169) Go back to using engineerd/setup-kind
+- [ae2d74fa](https://github.com/appscode/stash-enterprise/commit/ae2d74fa) Update dependencies (#1117)
+- [a93a5b4c](https://github.com/appscode/stash-enterprise/commit/a93a5b4c) Remove defaults from CRD v1beta1 (#1116)
+- [40e65761](https://github.com/appscode/stash-enterprise/commit/40e65761) Use CRD v1 for Kubernetes >= 1.16 (#1115)
+- [7d851e53](https://github.com/appscode/stash-enterprise/commit/7d851e53) Merge pull request #1114 from stashed/x7
+- [352ddeed](https://github.com/appscode/stash-enterprise/commit/352ddeed) Use preinstalled kind
+- [11c9e422](https://github.com/appscode/stash-enterprise/commit/11c9e422) Pass context
+- [21053603](https://github.com/appscode/stash-enterprise/commit/21053603) Update to Kubernetes 1.18.3
+- [f450e9cc](https://github.com/appscode/stash-enterprise/commit/f450e9cc) Add wait for target logic + add conditions for BackupConfiguration + BackupBatch + RestoreSession (#1108)
+- [8f8ff87e](https://github.com/appscode/stash-enterprise/commit/8f8ff87e) Fix volume snapshot job cleanup (#1090)
+- [a4a868b5](https://github.com/appscode/stash-enterprise/commit/a4a868b5) Merge pull request #1111 from stashed/fix-interimVolume
+- [108d0252](https://github.com/appscode/stash-enterprise/commit/108d0252) Set BackupSession as owner of the pvc created from interimVolumeTemplate
+- [fd136c53](https://github.com/appscode/stash-enterprise/commit/fd136c53) Use Go 1.14.3
+- [74c71d22](https://github.com/appscode/stash-enterprise/commit/74c71d22) Update crazy-max/ghaction-docker-buildx flag
+- [f783899b](https://github.com/appscode/stash-enterprise/commit/f783899b) Trigger the workflow on push to master
+- [e7eceb30](https://github.com/appscode/stash-enterprise/commit/e7eceb30) Trigger the workflow on push or pull request
+- [fe479e8c](https://github.com/appscode/stash-enterprise/commit/fe479e8c) Use kind v0.8.0
+- [9fc4665a](https://github.com/appscode/stash-enterprise/commit/9fc4665a) Merge pull request #1093 from robotinfra/master
+- [ef2d57e3](https://github.com/appscode/stash-enterprise/commit/ef2d57e3) fix typo succesSfully
+- [d8d35c49](https://github.com/appscode/stash-enterprise/commit/d8d35c49) fix event types mismatch
+- [53dfe8b0](https://github.com/appscode/stash-enterprise/commit/53dfe8b0) Update stash labels in Makefile
+- [c8081c1d](https://github.com/appscode/stash-enterprise/commit/c8081c1d) Pass image pull secrets to helm chart
+- [37b9b312](https://github.com/appscode/stash-enterprise/commit/37b9b312) Use Go 1.14.2 (#1074)
+- [09621974](https://github.com/appscode/stash-enterprise/commit/09621974) Update K8s version 1.14.6 to 1.14.10 (#1084)
+- [8a1ab32c](https://github.com/appscode/stash-enterprise/commit/8a1ab32c) Give backup triggering CronJob all permissions for Stash crds (#1083)
+- [53b932b1](https://github.com/appscode/stash-enterprise/commit/53b932b1) Use kubectl 1.17 (#1082)
+- [5cdeebee](https://github.com/appscode/stash-enterprise/commit/5cdeebee) Fix nil pointer exception during VolumeSnapshot (#1073)
+- [30630d60](https://github.com/appscode/stash-enterprise/commit/30630d60) Assign returned error properly crateRestoreSessoin() (#1069)
+- [3fcbe1b7](https://github.com/appscode/stash-enterprise/commit/3fcbe1b7) Update README.md to reflect Stash's capability properly (#1060)
+- [53513cfe](https://github.com/appscode/stash-enterprise/commit/53513cfe) Update README.md
+- [d615e2c0](https://github.com/appscode/stash-enterprise/commit/d615e2c0) Add license scan report and status (#1031)
+- [473dab81](https://github.com/appscode/stash-enterprise/commit/473dab81) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6
+- [81be166a](https://github.com/appscode/stash-enterprise/commit/81be166a) Use stash.appscode.dev/apimachinery (#1051)
+- [99dcf0a5](https://github.com/appscode/stash-enterprise/commit/99dcf0a5) Add support for specifying "region" for S3 backend (#1050)
+- [deeaaafe](https://github.com/appscode/stash-enterprise/commit/deeaaafe) Fix event message (#1048)
+- [7bb2ae55](https://github.com/appscode/stash-enterprise/commit/7bb2ae55) Merge pull request #1047 from stashed/rm-fsgroup
+- [a7c3a60b](https://github.com/appscode/stash-enterprise/commit/a7c3a60b) Remove defaulting FSGroup
+- [49bf689d](https://github.com/appscode/stash-enterprise/commit/49bf689d) Fix Repository CRDs print column (#1046)
+- [feb204be](https://github.com/appscode/stash-enterprise/commit/feb204be) Update README.md to v0.9.0-rc.4
+- [ba1733eb](https://github.com/appscode/stash-enterprise/commit/ba1733eb) Don't check if target exist from BackupSession creating CronJob (#1028)
+- [ddc65ceb](https://github.com/appscode/stash-enterprise/commit/ddc65ceb) Fix ServiceAccount name mitchmatch (#1025)
+- [013e5254](https://github.com/appscode/stash-enterprise/commit/013e5254) Suspend CronJob but keep instant backup working while backup is paused (#1024)
+- [64f75bb7](https://github.com/appscode/stash-enterprise/commit/64f75bb7) Add stash specific prefix to automatically created resources (#1023)
+- [d44e0ae2](https://github.com/appscode/stash-enterprise/commit/d44e0ae2) Fix CronJob creation failure handling (#1021)
+- [b2640d36](https://github.com/appscode/stash-enterprise/commit/b2640d36) Use Go 1.13.6
+- [1eb8da6e](https://github.com/appscode/stash-enterprise/commit/1eb8da6e) Update gendocs command (#1016)
+- [6f7c8191](https://github.com/appscode/stash-enterprise/commit/6f7c8191) Add hook tests for BackupBatch (#1014)
+- [84272af9](https://github.com/appscode/stash-enterprise/commit/84272af9) check nil pointer error (#1015)
+- [36ef1d2b](https://github.com/appscode/stash-enterprise/commit/36ef1d2b) Enable tests for K8s 1.11 (#1013)
+- [7c774d77](https://github.com/appscode/stash-enterprise/commit/7c774d77) Fix backup-batch issues (#1004)
+- [5bf1e2c2](https://github.com/appscode/stash-enterprise/commit/5bf1e2c2) Bring back support for k8s 1.11 (#1008)
+- [d6e0fe4b](https://github.com/appscode/stash-enterprise/commit/d6e0fe4b) Remove creationTimestamp from PartialObjectMeta (#1006)
+- [6ae79134](https://github.com/appscode/stash-enterprise/commit/6ae79134) Add BackupBatch support (#985)
+- [ed42b159](https://github.com/appscode/stash-enterprise/commit/ed42b159) Update twitter account (#1003)
+- [c8513185](https://github.com/appscode/stash-enterprise/commit/c8513185) Add Repository Validation for local backend `mountPath` (#947)
+- [11f4c5e2](https://github.com/appscode/stash-enterprise/commit/11f4c5e2) Fix invalid flag name for PVC restorer job (#960)
+- [93358115](https://github.com/appscode/stash-enterprise/commit/93358115) Add Backend e2e Test (#975)
+- [ca688540](https://github.com/appscode/stash-enterprise/commit/ca688540) Update client-go to kubernetes-1.16.3 (#987)
+- [e18f30dd](https://github.com/appscode/stash-enterprise/commit/e18f30dd) Use RWX for restic output.json (#1001)
+- [4d9cdbc8](https://github.com/appscode/stash-enterprise/commit/4d9cdbc8) Run `chmod` on `output.json` only by owner container + Improve… (#1000)
+- [8378f141](https://github.com/appscode/stash-enterprise/commit/8378f141) Add Backup and Restore hooks (#978)
+- [a4dd1a1d](https://github.com/appscode/stash-enterprise/commit/a4dd1a1d) Use helm chart instead of script to install operator (#999)
+- [ec5c9efd](https://github.com/appscode/stash-enterprise/commit/ec5c9efd) Update hack/fmt.sh script
+- [54dbef4c](https://github.com/appscode/stash-enterprise/commit/54dbef4c) Add helper library for CRDs (#977)
+- [16483ce1](https://github.com/appscode/stash-enterprise/commit/16483ce1) Use kubebuilder generated CRD yamls (#971)
+- [eacba300](https://github.com/appscode/stash-enterprise/commit/eacba300) Fix typo (#976)
+- [dd500b08](https://github.com/appscode/stash-enterprise/commit/dd500b08) Use controller-tools@v0.2.2 to generate structural schema (#974)
+- [53331837](https://github.com/appscode/stash-enterprise/commit/53331837) Migrate Repository status.size, Recovery status.observedGeneration (#969)
+- [69ef388b](https://github.com/appscode/stash-enterprise/commit/69ef388b) Generate protobuf files for api types (#967)
+- [decea34f](https://github.com/appscode/stash-enterprise/commit/decea34f) Fix Repository returned error message (#961)
+- [5a9e0356](https://github.com/appscode/stash-enterprise/commit/5a9e0356) Apply valid name functionality (#950)
+- [122ed35f](https://github.com/appscode/stash-enterprise/commit/122ed35f) Test installer against multiple k8s version (#953)
+- [63cfc0f9](https://github.com/appscode/stash-enterprise/commit/63cfc0f9) Format shell scripts (#952)
+- [c77dfcd4](https://github.com/appscode/stash-enterprise/commit/c77dfcd4) Add missing license header
+- [780fd2cb](https://github.com/appscode/stash-enterprise/commit/780fd2cb) Rename Dockerfiles (#946)
+- [dc34560a](https://github.com/appscode/stash-enterprise/commit/dc34560a) Add AutoBackup e2e test (#939)
+- [6979ff8b](https://github.com/appscode/stash-enterprise/commit/6979ff8b) Enable race detector (#944)
+- [69acf528](https://github.com/appscode/stash-enterprise/commit/69acf528) Add license header to files (#943)
+- [b2636f8b](https://github.com/appscode/stash-enterprise/commit/b2636f8b) Don't add AppBinding labels in metric when AppBinding is not available (#942)
+- [18e1ab7e](https://github.com/appscode/stash-enterprise/commit/18e1ab7e) Fix BackupSession creation for ReplicaSet (#940)
+- [8ce4ab86](https://github.com/appscode/stash-enterprise/commit/8ce4ab86) Fix klog flag parsing
+- [efd614f9](https://github.com/appscode/stash-enterprise/commit/efd614f9) Revendor
+- [f3fa386f](https://github.com/appscode/stash-enterprise/commit/f3fa386f) Use crazy-max/ghaction-docker-buildx@v1
+- [5cc99c53](https://github.com/appscode/stash-enterprise/commit/5cc99c53) Show diff when files `make verify` fails (#937)
+- [d20892dd](https://github.com/appscode/stash-enterprise/commit/d20892dd) Update make fmt
+- [fc827b84](https://github.com/appscode/stash-enterprise/commit/fc827b84) Split imports into 3 blocks (#936)
+- [269527cf](https://github.com/appscode/stash-enterprise/commit/269527cf) Volume e2e test github action (#933)
+- [926dcd20](https://github.com/appscode/stash-enterprise/commit/926dcd20) Fix BackupSession additional print column (#932)
+- [f052f7a2](https://github.com/appscode/stash-enterprise/commit/f052f7a2) Remove spec.backupConfiguration from BackupSession (#931)
+- [d378ef2d](https://github.com/appscode/stash-enterprise/commit/d378ef2d) Update e2e tests to run on GitHub actions (#917)
+- [bc27645c](https://github.com/appscode/stash-enterprise/commit/bc27645c) Enable make ci (#928)
+- [9ef3cfeb](https://github.com/appscode/stash-enterprise/commit/9ef3cfeb) Don't restart workload on backup pause+Use ImagePullPolicy: "Always" for Function-Task model (#929)
+- [a5f00836](https://github.com/appscode/stash-enterprise/commit/a5f00836) Add status.observedGeneration (#927)
+- [57eadd03](https://github.com/appscode/stash-enterprise/commit/57eadd03) Implement RetentionPolicy for VolumeSnapshot (#926)
+- [db709fdc](https://github.com/appscode/stash-enterprise/commit/db709fdc) Verify generated files are up to date (#925)
+- [5fb54194](https://github.com/appscode/stash-enterprise/commit/5fb54194) Update and rename go.yml to ci.yml (#922)
+- [0be34c5e](https://github.com/appscode/stash-enterprise/commit/0be34c5e) Add probe and BackupBatch api (#890)
+- [a55b6e84](https://github.com/appscode/stash-enterprise/commit/a55b6e84) Use core package from k8s.io/api repo (#921)
+- [f5a271be](https://github.com/appscode/stash-enterprise/commit/f5a271be) Bring back dependency to github.com/golang/protobuf@v1.2.0 (#918)
+- [5dfeecbc](https://github.com/appscode/stash-enterprise/commit/5dfeecbc) Update tag pattern for release pipeline
+- [e31f5e9a](https://github.com/appscode/stash-enterprise/commit/e31f5e9a) Run e2e tests using GitHub actions (#909)
+- [8bb3ef36](https://github.com/appscode/stash-enterprise/commit/8bb3ef36) Add app=stash label to crd yamls
+- [b50b47c9](https://github.com/appscode/stash-enterprise/commit/b50b47c9) Generate swagger.json for v1beta1 (#916)
+- [095a4a6c](https://github.com/appscode/stash-enterprise/commit/095a4a6c) Add release pipeline (#915)
+- [66926055](https://github.com/appscode/stash-enterprise/commit/66926055) Fix Restore PVC using Task Function method (#897)
+- [404840e4](https://github.com/appscode/stash-enterprise/commit/404840e4) Fix VolumeSnapshot Issues (#912)
+- [7f3b2250](https://github.com/appscode/stash-enterprise/commit/7f3b2250) Add Kubebuilder annotations (#911)
+- [0a499f13](https://github.com/appscode/stash-enterprise/commit/0a499f13) Use kubebuilder to generate crd yamls (#843)
+- [4903508f](https://github.com/appscode/stash-enterprise/commit/4903508f) Update go.yml
+- [23c44bc0](https://github.com/appscode/stash-enterprise/commit/23c44bc0) Introduce InterimVolumeTemplate and BackupHistoryLimit field. (#907)
+- [4ee56d63](https://github.com/appscode/stash-enterprise/commit/4ee56d63) Make RetentionPolicy required in v1beta1 api (#905)
+- [5476cd7a](https://github.com/appscode/stash-enterprise/commit/5476cd7a) Enable GitHub actions (#903)
+- [fe87b789](https://github.com/appscode/stash-enterprise/commit/fe87b789) Fix snapshot listing for local backend (#902)
+- [5f49f5d2](https://github.com/appscode/stash-enterprise/commit/5f49f5d2) Improve Error Handling + Code refactor (#891)
+- [88c84275](https://github.com/appscode/stash-enterprise/commit/88c84275) Add `NICE` and `IONICE` into distroless image (#883)
+- [f63d5c1a](https://github.com/appscode/stash-enterprise/commit/f63d5c1a) Improve metrics handling + make update status uniform (#872)
+- [ea68de24](https://github.com/appscode/stash-enterprise/commit/ea68de24) Use default fsGroup: 65535 (#874)
+- [9bbcabab](https://github.com/appscode/stash-enterprise/commit/9bbcabab) Add DumpEnv func to Restic Config file (#870)
+- [ebde15db](https://github.com/appscode/stash-enterprise/commit/ebde15db) Allow to specify subPath in auto-backup annotation (#871)
+- [6c127323](https://github.com/appscode/stash-enterprise/commit/6c127323) Silence docker buildx command (#866)
+- [5c47abc3](https://github.com/appscode/stash-enterprise/commit/5c47abc3) Update README.md (#865)
+- [50f69ffe](https://github.com/appscode/stash-enterprise/commit/50f69ffe) Use docker buildx to build docker image (#864)
+- [d8c0b1d8](https://github.com/appscode/stash-enterprise/commit/d8c0b1d8) Update version in gendocs script
+- [cb972a98](https://github.com/appscode/stash-enterprise/commit/cb972a98) Use github.com/Azure/go-autorest/autorest@v0.7.0 (#862)
+- [ae5c1325](https://github.com/appscode/stash-enterprise/commit/ae5c1325) Remove the `bs` short name for BackupSession (#859)
+- [1c01d69d](https://github.com/appscode/stash-enterprise/commit/1c01d69d) Use github.com/golang/protobuf@v1.2.0 (#855)
+- [998fac02](https://github.com/appscode/stash-enterprise/commit/998fac02) New variable from type field of AppBinding + Fix RoleBinding nam… (#845)
+- [b97b7622](https://github.com/appscode/stash-enterprise/commit/b97b7622) Fix resolving Task if volumeClaimTemplate is set in RestoreSession(#852)
+- [4ec6caf8](https://github.com/appscode/stash-enterprise/commit/4ec6caf8) Rename BackupConfigurationTemplate to BackupBlueprint (#847)
+- [d8efb120](https://github.com/appscode/stash-enterprise/commit/d8efb120) Use POD_ORDINAL env var to restore using PVC template (#849)
+- [8df5be99](https://github.com/appscode/stash-enterprise/commit/8df5be99) Pass replicas from RestoreSession to Function (#848)
+- [ae5eabd4](https://github.com/appscode/stash-enterprise/commit/ae5eabd4) Use variable for version in BackupConfigurationTemplate name (#846)
+- [fe5b2049](https://github.com/appscode/stash-enterprise/commit/fe5b2049) Fix Platforms Issue (#844)
+- [33fc37cd](https://github.com/appscode/stash-enterprise/commit/33fc37cd) Add support to restore using volumeClaimTemplate in Function-Task model (#841)
+- [3de534ba](https://github.com/appscode/stash-enterprise/commit/3de534ba) Add GetSnapshotSize() function (#839)
+- [6bc80ce2](https://github.com/appscode/stash-enterprise/commit/6bc80ce2) Fix travis build (#837)
+- [1c51a7c5](https://github.com/appscode/stash-enterprise/commit/1c51a7c5) Add support for parallel backup & restore (#833)
+- [e250bb62](https://github.com/appscode/stash-enterprise/commit/e250bb62) Fix RestoreSession replicas logic (#835)
+- [37618091](https://github.com/appscode/stash-enterprise/commit/37618091) Use cron.ParseStandard helper
+- [5015a60d](https://github.com/appscode/stash-enterprise/commit/5015a60d) Update azure-sdk-for-go dependencies (#836)
+- [920dfaea](https://github.com/appscode/stash-enterprise/commit/920dfaea) Update github.com/appscode/go@master
+- [ca2fad07](https://github.com/appscode/stash-enterprise/commit/ca2fad07) Use robfig/cron@v3 (#834)
+- [95728126](https://github.com/appscode/stash-enterprise/commit/95728126) Fix restore Job parallel execution (#832)
+- [94cbae13](https://github.com/appscode/stash-enterprise/commit/94cbae13) Remove unused code (#829)
+- [4dc11263](https://github.com/appscode/stash-enterprise/commit/4dc11263) Generate docs files inside docs repo (#828)
+- [6fb5bc7f](https://github.com/appscode/stash-enterprise/commit/6fb5bc7f) Create default Functions and Tasks from operator (#824)
+- [bb675f67](https://github.com/appscode/stash-enterprise/commit/bb675f67) Fix restore job RBAC (#821)
+- [f96852fc](https://github.com/appscode/stash-enterprise/commit/f96852fc) Fixed volumeSnapshot Error Issue (#819)
+- [08b0f50f](https://github.com/appscode/stash-enterprise/commit/08b0f50f) fix default securityContext passing to restore init-container/job + fix container name (#823)
+- [4aa94675](https://github.com/appscode/stash-enterprise/commit/4aa94675) Add License notice to makefile (#825)
+- [955b1adb](https://github.com/appscode/stash-enterprise/commit/955b1adb) Make --image-tag a required flag. (#817)
+- [9ca08aa6](https://github.com/appscode/stash-enterprise/commit/9ca08aa6) Always attempt to pull a newer image for `make container` (#818)
+- [b88cb9dc](https://github.com/appscode/stash-enterprise/commit/b88cb9dc) Update constants.go
+- [aa0c41f4](https://github.com/appscode/stash-enterprise/commit/aa0c41f4) Add PusgatewayURL input for Functions (#816)
+- [0a45b44a](https://github.com/appscode/stash-enterprise/commit/0a45b44a) Restore PVCs from templates using Restic (#809)
+- [0729ab19](https://github.com/appscode/stash-enterprise/commit/0729ab19) Add TARGET_RESOURCE  variable for BackupConfigurationTemplate (#814)
+- [bab795c2](https://github.com/appscode/stash-enterprise/commit/bab795c2) Add make install, uninstall, purge commands (#813)
+- [604af0d5](https://github.com/appscode/stash-enterprise/commit/604af0d5) Move chart & deploy scripts to github.com/stashed/installer (#811)
+- [521f441b](https://github.com/appscode/stash-enterprise/commit/521f441b) Use stashed/docs repo
+- [4c89667d](https://github.com/appscode/stash-enterprise/commit/4c89667d) Move docs to github.com/stashed/docs repo (#810)
+- [e6614482](https://github.com/appscode/stash-enterprise/commit/e6614482) Fix travis build (#804)
+- [d8f565f4](https://github.com/appscode/stash-enterprise/commit/d8f565f4) Pass labels to offshoot + add generic offshoot labels (#801)
+- [eadca45d](https://github.com/appscode/stash-enterprise/commit/eadca45d) Move HandleResticError to util package (#806)
+- [df42b83f](https://github.com/appscode/stash-enterprise/commit/df42b83f) Remove canary support (#805)
+- [82614d32](https://github.com/appscode/stash-enterprise/commit/82614d32) Update Version.go (#803)
+- [74453ad8](https://github.com/appscode/stash-enterprise/commit/74453ad8) Added ARM64 support to the install script and manifest (#802)
+- [24ece6cc](https://github.com/appscode/stash-enterprise/commit/24ece6cc) Load modules from vendor folder for linter
+- [2672ee05](https://github.com/appscode/stash-enterprise/commit/2672ee05) Add Makefile (#800)
+- [ac829f30](https://github.com/appscode/stash-enterprise/commit/ac829f30) VolumeSnapshot (#787)
+- [a8f3172f](https://github.com/appscode/stash-enterprise/commit/a8f3172f) Remove importance of order of rule in RestoreSession (#795)
+- [886649ed](https://github.com/appscode/stash-enterprise/commit/886649ed) Skip BackupSession creation if target does not exist + use timestamp … (#797)
+- [f038d86e](https://github.com/appscode/stash-enterprise/commit/f038d86e) Use absolute path as aliases for reference docs. (#796)
+- [b9100307](https://github.com/appscode/stash-enterprise/commit/b9100307) Support PSP enabled cluster (#729)
+- [e94399dc](https://github.com/appscode/stash-enterprise/commit/e94399dc) Use restic 0.9.5 (#789)
+- [e962a1c4](https://github.com/appscode/stash-enterprise/commit/e962a1c4) Fix: User and group creation of stash for mongodb and mysql (#786)
+- [228df5a3](https://github.com/appscode/stash-enterprise/commit/228df5a3) Update concept doc (#739)
+- [de9536cd](https://github.com/appscode/stash-enterprise/commit/de9536cd) Update backup manager (#782)
+- [739273a5](https://github.com/appscode/stash-enterprise/commit/739273a5) Configure Env variables for Functions (#780)
+- [c49b24f6](https://github.com/appscode/stash-enterprise/commit/c49b24f6) Add support for backup cluster resources YAML (#721)
+- [91bce2fd](https://github.com/appscode/stash-enterprise/commit/91bce2fd) Add "Supported Backends" doc to new guides (#756)
+- [a8ef2d36](https://github.com/appscode/stash-enterprise/commit/a8ef2d36) Fix rest backend for workloads + add more authentication method for swift backend (#778)
+- [775b6660](https://github.com/appscode/stash-enterprise/commit/775b6660) Backup and restore Elasticsearch (#702)
+- [0fbb9c75](https://github.com/appscode/stash-enterprise/commit/0fbb9c75) Add guides template for new design (#755)
+- [03689414](https://github.com/appscode/stash-enterprise/commit/03689414) Update package path to stash.appscode.dev/stash (#776)
+- [639d499f](https://github.com/appscode/stash-enterprise/commit/639d499f) Update to k8s 1.14.0 client libraries using go.mod (#775)
+- [9ba906d8](https://github.com/appscode/stash-enterprise/commit/9ba906d8) MutatingWebhooks must be without side-effect (#773)
+- [937012d5](https://github.com/appscode/stash-enterprise/commit/937012d5) Introduce VolumeSnapshot APIs (#772)
+- [2b0f0560](https://github.com/appscode/stash-enterprise/commit/2b0f0560) Use osm pkg from kmodules/objectstore-api (#770)
+- [cd9f6ad6](https://github.com/appscode/stash-enterprise/commit/cd9f6ad6) Remove --rbac flag (#761)
+- [09af5d31](https://github.com/appscode/stash-enterprise/commit/09af5d31) Skip creating/processing backup-session when backup-config is paused (#759)
+- [99753f73](https://github.com/appscode/stash-enterprise/commit/99753f73) Fix go fmt
+- [64bb9bdd](https://github.com/appscode/stash-enterprise/commit/64bb9bdd) Stash v1beta1 E2E test for PVC (#753)
+- [bcf8b90d](https://github.com/appscode/stash-enterprise/commit/bcf8b90d) Implement snapshots for v1beta1 api (#749)
+- [3f0ae2d4](https://github.com/appscode/stash-enterprise/commit/3f0ae2d4) Run restic commands using docker (#754)
+- [17feb41c](https://github.com/appscode/stash-enterprise/commit/17feb41c) Update Kubernetes client libraries to 1.13.5 (#752)
+- [2d413ee0](https://github.com/appscode/stash-enterprise/commit/2d413ee0) Stash v1beta1 E2E test for ReplicaSet  (#747)
+- [80b2b3d9](https://github.com/appscode/stash-enterprise/commit/80b2b3d9) Enable pipefail and update restore yamls (#750)
+- [c908df9f](https://github.com/appscode/stash-enterprise/commit/c908df9f) Stash v1beta1 E2E test for ReplicationController (#742)
+- [82c17eaf](https://github.com/appscode/stash-enterprise/commit/82c17eaf) Fixed scratch-dir, output-dir and hostname in functions/tasks yamls (#744)
+- [d113b24f](https://github.com/appscode/stash-enterprise/commit/d113b24f) Add Stash CLI (#734)
+- [286792a6](https://github.com/appscode/stash-enterprise/commit/286792a6) Stash v1beta1 E2E test for DaemonSet (#741)
+- [62960e5b](https://github.com/appscode/stash-enterprise/commit/62960e5b) Apply nice/ionice settings from env (#746)
+- [a2534c97](https://github.com/appscode/stash-enterprise/commit/a2534c97) Stash V1beta1 E2E test for StatefulSet (#737)
+- [37087b38](https://github.com/appscode/stash-enterprise/commit/37087b38) Stash V1beta1 E2E test for Deployment (#710)
+- [c08f04e4](https://github.com/appscode/stash-enterprise/commit/c08f04e4) Attach local backend (#736)
+- [7a282d91](https://github.com/appscode/stash-enterprise/commit/7a282d91) Fix openapi path prefixes for validators and mutators (#732)
+- [a8aef590](https://github.com/appscode/stash-enterprise/commit/a8aef590) Add max-connections for GCS, Azure, B2 backend (#730)
+- [dd3f459c](https://github.com/appscode/stash-enterprise/commit/dd3f459c) Rename admission webhooks to avoid name collision (#725)
+- [a32ceff5](https://github.com/appscode/stash-enterprise/commit/a32ceff5) Apply EmptyDir settings to TmpDir (#719)
+- [36fdb9ae](https://github.com/appscode/stash-enterprise/commit/36fdb9ae) Use FailurePolicy ignore for K8s resource webhooks (#726)
+- [4cab69a0](https://github.com/appscode/stash-enterprise/commit/4cab69a0) Don't write secret data inside temp dir (#724)
+- [e2bcc4a8](https://github.com/appscode/stash-enterprise/commit/e2bcc4a8) Use ionice and nice with Restic CMD (#716)
+- [bf91db4e](https://github.com/appscode/stash-enterprise/commit/bf91db4e) Use cleanup-cache flag (#717)
+- [f2669f17](https://github.com/appscode/stash-enterprise/commit/f2669f17) Add TempDir and PSP settings for Function (#720)
+- [dfc3fbd6](https://github.com/appscode/stash-enterprise/commit/dfc3fbd6) Add support for rest backend (#713)
+- [47cf2dd4](https://github.com/appscode/stash-enterprise/commit/47cf2dd4) Add support for OpenShift DeploymentConfig (#714)
+- [8c2b81b0](https://github.com/appscode/stash-enterprise/commit/8c2b81b0) Backup and restore Mongo DB (#699)
+- [2849319a](https://github.com/appscode/stash-enterprise/commit/2849319a) Backup and restore MySQL DB (#696)
+- [49fe8404](https://github.com/appscode/stash-enterprise/commit/49fe8404) Backup and restore Postgres DB (#695)
+- [dbff05f6](https://github.com/appscode/stash-enterprise/commit/dbff05f6) Backup from stdin and dump to stdout (#694)
+- [08ff2fa5](https://github.com/appscode/stash-enterprise/commit/08ff2fa5) Add BackupSession Controller for Sidecar (#701)
+- [83f1c6e5](https://github.com/appscode/stash-enterprise/commit/83f1c6e5) Update workload controller for new design (#675)
+- [13fb68bd](https://github.com/appscode/stash-enterprise/commit/13fb68bd)  Post backup/restore status update (#691)
+- [30993c08](https://github.com/appscode/stash-enterprise/commit/30993c08) Backup and restore PVC (#676)
+- [7bdf0752](https://github.com/appscode/stash-enterprise/commit/7bdf0752) Resolve tasks for backup/restore sessions (#674)
+- [6a74602a](https://github.com/appscode/stash-enterprise/commit/6a74602a) Add restic wrapper library (#673)
+- [7b8309a5](https://github.com/appscode/stash-enterprise/commit/7b8309a5) Add BackupConfiguration Controller (#671)
+- [6f6c25d1](https://github.com/appscode/stash-enterprise/commit/6f6c25d1) Use ContainerRuntimeSettings in Function spec (#689)
+- [4d80cf6b](https://github.com/appscode/stash-enterprise/commit/4d80cf6b) Update Kubernetes client libraries to 1.13.0 (#687)
+- [361d4ad3](https://github.com/appscode/stash-enterprise/commit/361d4ad3) Fix v1beta1 api for BackupConfigurationTemplate (#688)
+- [302311af](https://github.com/appscode/stash-enterprise/commit/302311af) Introduce v1beta1 api (#647)
+- [ccf4469b](https://github.com/appscode/stash-enterprise/commit/ccf4469b) Prepare docs for 0.8.3 release (#683)
+- [54fb4998](https://github.com/appscode/stash-enterprise/commit/54fb4998) Update changelog for 0.8.3 (#682)
+- [277ef3b7](https://github.com/appscode/stash-enterprise/commit/277ef3b7) Update dependencies (#681)
+- [80d55446](https://github.com/appscode/stash-enterprise/commit/80d55446) Don't add hostname label to Prometheus metrics. (#680)
+- [e5b7f32c](https://github.com/appscode/stash-enterprise/commit/e5b7f32c) Pass pod annotation to deployment (#679)
+- [b342a954](https://github.com/appscode/stash-enterprise/commit/b342a954) Fix the case for deploying using MINGW64 for windows (#678)
+- [4cdc5596](https://github.com/appscode/stash-enterprise/commit/4cdc5596) Use onessl 0.10.0 (#677)
+- [296712f0](https://github.com/appscode/stash-enterprise/commit/296712f0) Fix typo
+- [fbb98590](https://github.com/appscode/stash-enterprise/commit/fbb98590) s/rook/azure/ in possible copy/paste error. (#669)
+- [29e7b6ce](https://github.com/appscode/stash-enterprise/commit/29e7b6ce) Fix builtin monitoring doc (#668)
+- [4b7fe1e4](https://github.com/appscode/stash-enterprise/commit/4b7fe1e4) Update install.md
+- [8a3b2ee6](https://github.com/appscode/stash-enterprise/commit/8a3b2ee6) Don't use priority class when operator namespace is not kube-system (#666)
+- [5bf48b1b](https://github.com/appscode/stash-enterprise/commit/5bf48b1b) Separate type definitions into individual files (#646)
+- [80f21a0d](https://github.com/appscode/stash-enterprise/commit/80f21a0d) Update changelog for 0.8.2
+- [ed5c6b86](https://github.com/appscode/stash-enterprise/commit/ed5c6b86) Prepare docs for 0.8.2 release (#644)
+- [a56261b0](https://github.com/appscode/stash-enterprise/commit/a56261b0) Update copyright notice for 2019 (#643)
+- [812f13e1](https://github.com/appscode/stash-enterprise/commit/812f13e1) Use fullname to generate cleaner name in chart
+- [9daa8a0e](https://github.com/appscode/stash-enterprise/commit/9daa8a0e) apply stash.labels to operator pods
+- [c36875f0](https://github.com/appscode/stash-enterprise/commit/c36875f0) Use stash.labels template in chart (#642)
+- [946df536](https://github.com/appscode/stash-enterprise/commit/946df536) Fixed broken link for bakend (#641)
+- [38d3c734](https://github.com/appscode/stash-enterprise/commit/38d3c734) Only mount stash apiserver `tls.crt` into Prometheus (#639)
+- [9e6a6604](https://github.com/appscode/stash-enterprise/commit/9e6a6604) Fix typo in installer (#638)
+- [0a4488cf](https://github.com/appscode/stash-enterprise/commit/0a4488cf) Fix monitoring in helm + update doc to match with third-party-tools tutorial (#637)
+- [903d9649](https://github.com/appscode/stash-enterprise/commit/903d9649) Add certificate health checker (#636)
+- [a931bbd9](https://github.com/appscode/stash-enterprise/commit/a931bbd9) Update install.md
+- [99e6afba](https://github.com/appscode/stash-enterprise/commit/99e6afba) Update chart readme (#632)
+- [d19ae9fa](https://github.com/appscode/stash-enterprise/commit/d19ae9fa) Update webhook error message format for Kubernetes 1.13+ (#631)
+- [cd9b42df](https://github.com/appscode/stash-enterprise/commit/cd9b42df) Fix typos (#630)
+- [ce1e0d98](https://github.com/appscode/stash-enterprise/commit/ce1e0d98) Fix dependencies.
+- [c2e41214](https://github.com/appscode/stash-enterprise/commit/c2e41214) Update changelog
+- [55233451](https://github.com/appscode/stash-enterprise/commit/55233451) Prepare docs for 0.8.1 release (#629)
+- [d5086aa6](https://github.com/appscode/stash-enterprise/commit/d5086aa6) Add missing validator for respository resource in chart (#628)
+- [d9d7f1d4](https://github.com/appscode/stash-enterprise/commit/d9d7f1d4) Update version matrix
+- [7af5e82c](https://github.com/appscode/stash-enterprise/commit/7af5e82c) Prepare docs for 0.8.0 release (#626)
+- [a1e250f6](https://github.com/appscode/stash-enterprise/commit/a1e250f6) Update docs (Minio, Rook, NFS) (#625)
+- [92779d6c](https://github.com/appscode/stash-enterprise/commit/92779d6c) Use flags.DumpAll to dump flags (#624)
+- [affdebf6](https://github.com/appscode/stash-enterprise/commit/affdebf6) Merge commit '619323825a3fabc55ce2584dd63f8005fd3b78b3'
+- [dddb09f8](https://github.com/appscode/stash-enterprise/commit/dddb09f8) Set periodic analytics (#623)
+- [f054ecf7](https://github.com/appscode/stash-enterprise/commit/f054ecf7) Fix e2e test (#622)
+- [92bcb0e9](https://github.com/appscode/stash-enterprise/commit/92bcb0e9) Recovery Job: Use nodeName for DaemonSet and nodeSelector for other workloads (#620)
+- [3dc6fc5d](https://github.com/appscode/stash-enterprise/commit/3dc6fc5d) Pass --enable-***-webhook flags to operator (#619)
+- [257b33e0](https://github.com/appscode/stash-enterprise/commit/257b33e0) Add validation webhook xray (#618)
+- [fcb6cfdf](https://github.com/appscode/stash-enterprise/commit/fcb6cfdf) Add docs for AKS and EKS (#609)
+- [d1594955](https://github.com/appscode/stash-enterprise/commit/d1594955) Improve monitoring facility (#606)
+- [f484b196](https://github.com/appscode/stash-enterprise/commit/f484b196) Use dynamic pushgateway url (#614)
+- [78b288d3](https://github.com/appscode/stash-enterprise/commit/78b288d3) Pass image pull secrets for cleaner job in chart (#598)
+- [773bd24c](https://github.com/appscode/stash-enterprise/commit/773bd24c) Update kubernetes client libraries to 1.12.0 (#597)
+- [2ff8cb30](https://github.com/appscode/stash-enterprise/commit/2ff8cb30) Support LogLevel in chart (#594)
+- [c71b4cdf](https://github.com/appscode/stash-enterprise/commit/c71b4cdf) Check if Kubernetes version is supported before running operator (#593)
+- [3b443c68](https://github.com/appscode/stash-enterprise/commit/3b443c68) Enable webhooks by default in chart (#591)
+- [9b28c755](https://github.com/appscode/stash-enterprise/commit/9b28c755) Update chart readme for cleaner values (#590)
+- [0da860c2](https://github.com/appscode/stash-enterprise/commit/0da860c2) Update values.yaml
+- [ef90bd48](https://github.com/appscode/stash-enterprise/commit/ef90bd48) Fix #583 and pushgateway version (#584)
+- [fbbaf380](https://github.com/appscode/stash-enterprise/commit/fbbaf380) Use --pull flag with docker build (#581)
+- [0cc79ee4](https://github.com/appscode/stash-enterprise/commit/0cc79ee4) Merge commit '593cbc0910006952073295cea802d37f30ab8e3f'
+- [8a7e068d](https://github.com/appscode/stash-enterprise/commit/8a7e068d) Use kubernetes-1.11.3 (#578)
+- [bd5e17b7](https://github.com/appscode/stash-enterprise/commit/bd5e17b7) Update CertStore (#576)
+- [ea4b0243](https://github.com/appscode/stash-enterprise/commit/ea4b0243) Use apps/v1 apigroup in installer scripts (#574)
+- [fc043125](https://github.com/appscode/stash-enterprise/commit/fc043125) Support pod annotations in chart (#573)
+- [8c840810](https://github.com/appscode/stash-enterprise/commit/8c840810) Set serviceAccount for clearner job (#572)
+- [4506adea](https://github.com/appscode/stash-enterprise/commit/4506adea) Set SecurityContext for stash sidecar (#570)
+- [82416111](https://github.com/appscode/stash-enterprise/commit/82416111) Cleanup webhooks when chart is deleted (#569)
+- [5e466ace](https://github.com/appscode/stash-enterprise/commit/5e466ace) fix success list (#567)
+- [e65fcbf0](https://github.com/appscode/stash-enterprise/commit/e65fcbf0) Use IntHash as status.observedGeneration (#568)
+- [3848ad8d](https://github.com/appscode/stash-enterprise/commit/3848ad8d) Update pipeline (#565)
+- [dcf5c40b](https://github.com/appscode/stash-enterprise/commit/dcf5c40b) Merge commit 'dc51668e81aad9349769f0287cb885477836f2b1'
+- [14797878](https://github.com/appscode/stash-enterprise/commit/14797878) Add observedGenerationHash field (#564)
+- [83ceccc2](https://github.com/appscode/stash-enterprise/commit/83ceccc2) Merge commit 'c73f89c561b2e686d2898b0c8dea8c0bd327e6fd'
+- [af105158](https://github.com/appscode/stash-enterprise/commit/af105158) Fix uninstall for concourse (#563)
+- [41bb7c71](https://github.com/appscode/stash-enterprise/commit/41bb7c71) Fix chart values file (#562)
+- [761d2af9](https://github.com/appscode/stash-enterprise/commit/761d2af9) Improve Helm chart options (#561)
+- [7c69854a](https://github.com/appscode/stash-enterprise/commit/7c69854a) Use apps/v1 apigroup (#555)
+- [067fd837](https://github.com/appscode/stash-enterprise/commit/067fd837) Merge commit 'e0a3eef3ad5bb45a6967704531a303bc7ea7d865'
+- [b93bdb20](https://github.com/appscode/stash-enterprise/commit/b93bdb20) Refactor concourse scripts (#554)
+- [6ba7fc6c](https://github.com/appscode/stash-enterprise/commit/6ba7fc6c) Merge commit '2a5664a73d8d23ced4598e61327a3d7003db2e04'
+- [5f769633](https://github.com/appscode/stash-enterprise/commit/5f769633) Add AlreadyObserved methods (#553)
+- [98998f2c](https://github.com/appscode/stash-enterprise/commit/98998f2c) Add categories support to crds (#552)
+- [cc46dc11](https://github.com/appscode/stash-enterprise/commit/cc46dc11) Improve doc (#550)
+- [59a763c5](https://github.com/appscode/stash-enterprise/commit/59a763c5) Fix concourse test (#496)
+- [7a7145da](https://github.com/appscode/stash-enterprise/commit/7a7145da) Check for snapshot existence before delete (#548)
+- [a3a91ebc](https://github.com/appscode/stash-enterprise/commit/a3a91ebc) Improve logging (#551)
+- [9bb3bbfd](https://github.com/appscode/stash-enterprise/commit/9bb3bbfd) Fix offline backup (#537)
+- [cb676e37](https://github.com/appscode/stash-enterprise/commit/cb676e37) Enable status sub resource for crd yamls (#546)
+- [4f1e66a4](https://github.com/appscode/stash-enterprise/commit/4f1e66a4) Remove old UpdateRecoveryStatus
+- [6d6d5dcf](https://github.com/appscode/stash-enterprise/commit/6d6d5dcf) Retry UpdateStatus calls (#544)
+- [3d191095](https://github.com/appscode/stash-enterprise/commit/3d191095) Retry UpdateStatus calls (#543)
+- [38401b36](https://github.com/appscode/stash-enterprise/commit/38401b36) Revendor objectstore api (#542)
+- [8dc3b6a2](https://github.com/appscode/stash-enterprise/commit/8dc3b6a2) Use kmodules.xyz/objectstore-api (#541)
+- [1d3b1ea1](https://github.com/appscode/stash-enterprise/commit/1d3b1ea1) Merge commit 'da9eaba42e9b93d6975059b7f37c7863e54e1db1'
+- [cee03417](https://github.com/appscode/stash-enterprise/commit/cee03417) Update install.md
+- [e0a00726](https://github.com/appscode/stash-enterprise/commit/e0a00726) Fix extended apiserver issues with Kubernetes 1.11 (#536)
+- [4ee36486](https://github.com/appscode/stash-enterprise/commit/4ee36486) Correctly handle ignored openapi prefixes (#533)
+- [ee3945c4](https://github.com/appscode/stash-enterprise/commit/ee3945c4) Rename dev script (#532)
+- [1bbc5632](https://github.com/appscode/stash-enterprise/commit/1bbc5632) Add rbac permissions for snapshots (#531)
+- [0de9fa5f](https://github.com/appscode/stash-enterprise/commit/0de9fa5f) Use version and additional columns for crds (#530)
+- [dde60d6b](https://github.com/appscode/stash-enterprise/commit/dde60d6b) Don't add admission/v1beta1 group as a prioritized version (#529)
+- [6913f840](https://github.com/appscode/stash-enterprise/commit/6913f840) Update client-go to v8.0.0 (#528)
+- [160b1162](https://github.com/appscode/stash-enterprise/commit/160b1162) Update chart installation instruction for Kubernetes 1.11 (#527)
+- [8cce9279](https://github.com/appscode/stash-enterprise/commit/8cce9279) Format shell scripts (#526)
+- [07a44f72](https://github.com/appscode/stash-enterprise/commit/07a44f72) Merge commit 'bcebfb5adef7b4de9d4da7e48d9ba50a66e75fd3'
+- [e14f357b](https://github.com/appscode/stash-enterprise/commit/e14f357b) Merge commit '2c8b49681a6875886b6be4d90c35908f12b73c65'
+- [0c019e96](https://github.com/appscode/stash-enterprise/commit/0c019e96) Enable status subresource for crds (#524)
+- [54270853](https://github.com/appscode/stash-enterprise/commit/54270853) Remove status from crd.yaml (#523)
+- [97e97d1f](https://github.com/appscode/stash-enterprise/commit/97e97d1f) Upgrade to restic 0.9.1 (#522)
+- [f7910af6](https://github.com/appscode/stash-enterprise/commit/f7910af6) Support node selector for recovery job (#516)
+- [5b4981a1](https://github.com/appscode/stash-enterprise/commit/5b4981a1) Upgrade to prom/pushgateway:v0.5.2 (#519)
+- [05ead203](https://github.com/appscode/stash-enterprise/commit/05ead203) Remove ops-address port (#518)
+- [ceb699f4](https://github.com/appscode/stash-enterprise/commit/ceb699f4) Set cpu limits to 100m (#517)
+- [e426c6cb](https://github.com/appscode/stash-enterprise/commit/e426c6cb) Update stash.sh
+- [97a7d622](https://github.com/appscode/stash-enterprise/commit/97a7d622) Add links to java client
+- [9f6b9a17](https://github.com/appscode/stash-enterprise/commit/9f6b9a17) Move openapi-spec to api folder (#513)
+- [1a2a1af1](https://github.com/appscode/stash-enterprise/commit/1a2a1af1) Deploy operator in kube-system namespace via Helm (#511)
+- [3476b49f](https://github.com/appscode/stash-enterprise/commit/3476b49f) Add togglable tabs for Installation: Script & Helm (#509)
+- [b386851d](https://github.com/appscode/stash-enterprise/commit/b386851d) Revendor dependencies (#508)
+- [0c5d5a41](https://github.com/appscode/stash-enterprise/commit/0c5d5a41) added front matter (#507)
+- [42b26588](https://github.com/appscode/stash-enterprise/commit/42b26588) Improve installer (#504)
+- [705ecd09](https://github.com/appscode/stash-enterprise/commit/705ecd09) Prepare docs for 0.7.0 release. (#502)
+- [72c9e20e](https://github.com/appscode/stash-enterprise/commit/72c9e20e) Prepare docs for 0.7.0-rc.5 (#498)
+- [0da98a7b](https://github.com/appscode/stash-enterprise/commit/0da98a7b) Fix storage implementation for snapshots (#497)
+- [247c0168](https://github.com/appscode/stash-enterprise/commit/247c0168) Update changelog (#495)
+- [8181d490](https://github.com/appscode/stash-enterprise/commit/8181d490) Delete user roles on purge. (#494)
+- [b2f4ab9e](https://github.com/appscode/stash-enterprise/commit/b2f4ab9e) Revert "Add app: stash label to user roles. (#493)"
+- [c7ae0d44](https://github.com/appscode/stash-enterprise/commit/c7ae0d44) Add app: stash label to user roles. (#493)
+- [5ee7ff1d](https://github.com/appscode/stash-enterprise/commit/5ee7ff1d) Use hooks for user roles and fix hook deletion policy
+- [872450a3](https://github.com/appscode/stash-enterprise/commit/872450a3) Use post-install hooks to install admission controller in chart (#492)
+- [5448cd43](https://github.com/appscode/stash-enterprise/commit/5448cd43) Revert "Remove stash crds before uninstalling operator (#458)"
+- [a1d73a47](https://github.com/appscode/stash-enterprise/commit/a1d73a47) Update changelog (#491)
+- [100dd7e4](https://github.com/appscode/stash-enterprise/commit/100dd7e4) Prepare docs for 0.7.0-rc.4 (#483)
+- [7f2665dd](https://github.com/appscode/stash-enterprise/commit/7f2665dd) Avoid creating apiservice when webhooks are not used. (#490)
+- [ff32a4aa](https://github.com/appscode/stash-enterprise/commit/ff32a4aa) Install correct version of stash chart (#489)
+- [74e6f4aa](https://github.com/appscode/stash-enterprise/commit/74e6f4aa) Concourse (#486)
+- [cd2cf249](https://github.com/appscode/stash-enterprise/commit/cd2cf249) Use wait-until instead of fixed delay (#488)
+- [9f023116](https://github.com/appscode/stash-enterprise/commit/9f023116) Removed owner reference from repo-reader role-binding (#484)
+- [d2d3d49f](https://github.com/appscode/stash-enterprise/commit/d2d3d49f) Revendor (#481)
+- [5dc386d6](https://github.com/appscode/stash-enterprise/commit/5dc386d6) Support recovering from repository in different namespace (#474)
+- [b694835b](https://github.com/appscode/stash-enterprise/commit/b694835b) Add support for initial backoff to the apiserver call on recover (#476)
+- [b921d4ed](https://github.com/appscode/stash-enterprise/commit/b921d4ed) Fix enableRBAC  flag for sidecar (#480)
+- [c8c18fb5](https://github.com/appscode/stash-enterprise/commit/c8c18fb5) Typo (`Weclome` → `Welcome`) in page title (#479)
+- [4bddc2e1](https://github.com/appscode/stash-enterprise/commit/4bddc2e1) Update docs (run minio in v1.9.4+ cluster and add example yaml files in respective backends) (#473)
+- [fd676b12](https://github.com/appscode/stash-enterprise/commit/fd676b12) Limit the GCS file permissions to owner only (#472)
+- [0dc74e93](https://github.com/appscode/stash-enterprise/commit/0dc74e93) Fix a typo (#471)
+- [3ca33f76](https://github.com/appscode/stash-enterprise/commit/3ca33f76) Don't panic if admission options is nil (#469)
+- [bc889236](https://github.com/appscode/stash-enterprise/commit/bc889236) Disable admission controllers for webhook server (#468)
+- [4b5ac49d](https://github.com/appscode/stash-enterprise/commit/4b5ac49d) Added SSL support for deleting restic repository from Minio backend (#464)
+- [c8d023a8](https://github.com/appscode/stash-enterprise/commit/c8d023a8) Use new UpdateRecoveryStatus method (#466)
+- [6c0166e2](https://github.com/appscode/stash-enterprise/commit/6c0166e2) Add Update***Status helpers (#465)
+- [5c5ff150](https://github.com/appscode/stash-enterprise/commit/5c5ff150) Update client-go to 7.0.0 (#463)
+- [476a9a88](https://github.com/appscode/stash-enterprise/commit/476a9a88) Rename webhook files in chart (#460)
+- [3e828ad4](https://github.com/appscode/stash-enterprise/commit/3e828ad4) Update workload api (#459)
+- [d3d766d9](https://github.com/appscode/stash-enterprise/commit/d3d766d9) Remove stash crds before uninstalling operator (#458)
+- [8fa3ef63](https://github.com/appscode/stash-enterprise/commit/8fa3ef63) Export kube-ca only if required (#457)
+- [6a294acc](https://github.com/appscode/stash-enterprise/commit/6a294acc) Improve installer (#456)
+- [5c0b35fa](https://github.com/appscode/stash-enterprise/commit/5c0b35fa) Update changelog (#455)
+- [bd9b4b50](https://github.com/appscode/stash-enterprise/commit/bd9b4b50) Various installer fixes (#454)
+- [6f2d013f](https://github.com/appscode/stash-enterprise/commit/6f2d013f) Update workload client (#453)
+- [5d4faa22](https://github.com/appscode/stash-enterprise/commit/5d4faa22) Update workload client (#452)
+- [cbea156f](https://github.com/appscode/stash-enterprise/commit/cbea156f) Revendor workload client (#451)
+- [81a18190](https://github.com/appscode/stash-enterprise/commit/81a18190) Update workload api (#450)
+- [468e6489](https://github.com/appscode/stash-enterprise/commit/468e6489) Fixes RBAC issue in test (#449)
+- [4ba3af7b](https://github.com/appscode/stash-enterprise/commit/4ba3af7b) fixed wipeOut + fixed doc (#447)
+- [3940c79c](https://github.com/appscode/stash-enterprise/commit/3940c79c) Some cleanup (#446)
+- [45f070ff](https://github.com/appscode/stash-enterprise/commit/45f070ff) Delete profile.out
+- [3af16023](https://github.com/appscode/stash-enterprise/commit/3af16023) Add docs for GKE and Rook (#430)
+- [db31cbeb](https://github.com/appscode/stash-enterprise/commit/db31cbeb) concourse configs (#429)
+- [5f288cbc](https://github.com/appscode/stash-enterprise/commit/5f288cbc) Delete restic repository from backend if Repository CRD is deleted (#438)
+- [9940d367](https://github.com/appscode/stash-enterprise/commit/9940d367) Recover specific snapshot (#437)
+- [26571992](https://github.com/appscode/stash-enterprise/commit/26571992) Use Repository data in Recovery CRD (#436)
+- [e1d44499](https://github.com/appscode/stash-enterprise/commit/e1d44499) Update StatefulSet doc (#445)
+- [c6e62f34](https://github.com/appscode/stash-enterprise/commit/c6e62f34) pkg/util: fix error found by vet (#442)
+- [d5b93f8a](https://github.com/appscode/stash-enterprise/commit/d5b93f8a) Move Stash swagger.json to top level folder (#441)
+- [c7753f9b](https://github.com/appscode/stash-enterprise/commit/c7753f9b) Fix go_vet error (#440)
+- [564e63ad](https://github.com/appscode/stash-enterprise/commit/564e63ad) Increase qps and burst limits (#435)
+- [442bfb40](https://github.com/appscode/stash-enterprise/commit/442bfb40) Permit stash operator to perform pods/exec (#433)
+- [4243e931](https://github.com/appscode/stash-enterprise/commit/4243e931) Add RBAC instructions for GKE cluster (#432)
+- [6df2f677](https://github.com/appscode/stash-enterprise/commit/6df2f677) Update charts location (#431)
+- [a980a2c2](https://github.com/appscode/stash-enterprise/commit/a980a2c2) Skip lock while listing snapshots (#428)
+- [a74e2637](https://github.com/appscode/stash-enterprise/commit/a74e2637) Purge repository objects in installer (#427)
+- [435359e0](https://github.com/appscode/stash-enterprise/commit/435359e0) Add SCRIPT_LOCATION variable to installer (#426)
+- [4d6f7eac](https://github.com/appscode/stash-enterprise/commit/4d6f7eac) Show repository snapshot list (#417)
+- [733ec93d](https://github.com/appscode/stash-enterprise/commit/733ec93d) Fixed Repository YAML (#425)
+- [6f50f168](https://github.com/appscode/stash-enterprise/commit/6f50f168) Add delete method for snapshots to swagger.json (#424)
+- [d43b4890](https://github.com/appscode/stash-enterprise/commit/d43b4890) Generate swagger.json (#423)
+- [9ad3d098](https://github.com/appscode/stash-enterprise/commit/9ad3d098) Add install pkg for stash crds (#422)
+- [6ff11a1c](https://github.com/appscode/stash-enterprise/commit/6ff11a1c) Fix openapi spec for stash crds (#421)
+- [a76f6ac5](https://github.com/appscode/stash-enterprise/commit/a76f6ac5) Expose swagger.json (#420)
+- [3f62a44d](https://github.com/appscode/stash-enterprise/commit/3f62a44d) Add missing batch jobs get RBAC permission (#419)
+- [3775b7f9](https://github.com/appscode/stash-enterprise/commit/3775b7f9) Update README.md
+- [8ed47d37](https://github.com/appscode/stash-enterprise/commit/8ed47d37) Add registry skeleton for snapshots (#415)
+- [9d95f38f](https://github.com/appscode/stash-enterprise/commit/9d95f38f) Update chart readme (#413)
+- [429afdaa](https://github.com/appscode/stash-enterprise/commit/429afdaa) Add enableAnalytics to chart readme
+- [b0a197df](https://github.com/appscode/stash-enterprise/commit/b0a197df) Add frontmatter for repository crd (#412)
+- [0dac6862](https://github.com/appscode/stash-enterprise/commit/0dac6862) Use separate registry key for docker images (#410)
+- [b09d7bf9](https://github.com/appscode/stash-enterprise/commit/b09d7bf9) Prepare docs for 0.7.0-rc.3 (#411)
+- [fce51b73](https://github.com/appscode/stash-enterprise/commit/fce51b73) Add test for recovery (#409)
+- [a7dae2e7](https://github.com/appscode/stash-enterprise/commit/a7dae2e7) Skip setting ListKind (#407)
+- [9ecb57c1](https://github.com/appscode/stash-enterprise/commit/9ecb57c1) Add CRD Validation (#406)
+- [7568e62e](https://github.com/appscode/stash-enterprise/commit/7568e62e) Create repository crd for each Restic repository (#394)
+- [f2e78da4](https://github.com/appscode/stash-enterprise/commit/f2e78da4) Generate openapi spec for stash api (#405)
+- [3ef2eed4](https://github.com/appscode/stash-enterprise/commit/3ef2eed4) Fix install script for minikube 0.24.x (Kube 1.8.0) (#404)
+- [301fb68c](https://github.com/appscode/stash-enterprise/commit/301fb68c) Skip downloading onessl if already installed (#401)
+- [9f389a13](https://github.com/appscode/stash-enterprise/commit/9f389a13) Use Restic spec hash instead of resource version to restart pods (#399)
+- [ee28df02](https://github.com/appscode/stash-enterprise/commit/ee28df02) Revendor webhook util and jsonpatch fixes (#400)
+- [716a3548](https://github.com/appscode/stash-enterprise/commit/716a3548) Check for valid owner object (#397)
+- [3b340c16](https://github.com/appscode/stash-enterprise/commit/3b340c16) Revendor webhook library (#393)
+- [cd3c0005](https://github.com/appscode/stash-enterprise/commit/cd3c0005) Update changelog
+- [c556745f](https://github.com/appscode/stash-enterprise/commit/c556745f) Prepare docs for 0.7.0-rc.2 (#391)
+- [e5aee757](https://github.com/appscode/stash-enterprise/commit/e5aee757) Update chart version
+- [270a4983](https://github.com/appscode/stash-enterprise/commit/270a4983) Add variable for dockerRegistry (#390)
+- [c694593b](https://github.com/appscode/stash-enterprise/commit/c694593b) Reorg objects deleted in uninstall command (#389)
+- [d29aa374](https://github.com/appscode/stash-enterprise/commit/d29aa374) Fix --enable-analytics flag (#387)
+- [798253c1](https://github.com/appscode/stash-enterprise/commit/798253c1) Fix flag parsing in tests (#386)
+- [7834ce77](https://github.com/appscode/stash-enterprise/commit/7834ce77) Fix Statefulset Example (#385)
+- [d53219d0](https://github.com/appscode/stash-enterprise/commit/d53219d0) Rename --analytics to --enable-analytics (#384)
+- [0c9daeb1](https://github.com/appscode/stash-enterprise/commit/0c9daeb1) Use separated appscode/kubernetes-webhook-util package (#383)
+- [05686c2a](https://github.com/appscode/stash-enterprise/commit/05686c2a) Update the image tag in operator.yaml (#382)
+- [7e52922b](https://github.com/appscode/stash-enterprise/commit/7e52922b) Don't enable mutator for StatefulSet updates (#381)
+- [6f5cc417](https://github.com/appscode/stash-enterprise/commit/6f5cc417) Update docs to 0.7.0-rc.1 (#380)
+- [208f89b7](https://github.com/appscode/stash-enterprise/commit/208f89b7) Stop using field selectors for CRDs (#379)
+- [da0362b5](https://github.com/appscode/stash-enterprise/commit/da0362b5) Add types for Repository apigroup (#377)
+- [f1b12fea](https://github.com/appscode/stash-enterprise/commit/f1b12fea) Replace initializers with mutation webhook for workloads (#363)
+- [55309b0f](https://github.com/appscode/stash-enterprise/commit/55309b0f) Merge pull request #375 from galexrt/fix373
+- [6acc5711](https://github.com/appscode/stash-enterprise/commit/6acc5711) Add missing front matter (#376)
+- [17254282](https://github.com/appscode/stash-enterprise/commit/17254282) Added error log on restic command error
+- [1685f179](https://github.com/appscode/stash-enterprise/commit/1685f179) Don't fail if check Job already exists
+- [224a1713](https://github.com/appscode/stash-enterprise/commit/224a1713) Update README.md
+- [3992df7d](https://github.com/appscode/stash-enterprise/commit/3992df7d) Fix buid
+- [98eae3a0](https://github.com/appscode/stash-enterprise/commit/98eae3a0) Add travis.yaml (#370)
+- [fc14b6d2](https://github.com/appscode/stash-enterprise/commit/fc14b6d2) Add --purge flag (#369)
+- [c3c18ebe](https://github.com/appscode/stash-enterprise/commit/c3c18ebe) Make it clear that installer is a single command (#365)
+- [182cc702](https://github.com/appscode/stash-enterprise/commit/182cc702) Update installer (#364)
+- [cb573593](https://github.com/appscode/stash-enterprise/commit/cb573593) Update chart to match RBAC best practices for charts (#362)
+- [248bba94](https://github.com/appscode/stash-enterprise/commit/248bba94) Add checks to installer script (#361)
+- [41df1df4](https://github.com/appscode/stash-enterprise/commit/41df1df4) Use admission hook helpers from kutil (#360)
+- [b90a4564](https://github.com/appscode/stash-enterprise/commit/b90a4564) Fix admission webhook flag (#359)
+- [201c871d](https://github.com/appscode/stash-enterprise/commit/201c871d) Support --enable-admission-webhook=false (#358)
+- [d70fc0b2](https://github.com/appscode/stash-enterprise/commit/d70fc0b2) Support multiple webhooks of same apiversion (#357)
+- [da965aee](https://github.com/appscode/stash-enterprise/commit/da965aee) Sync chart to stable charts repo (#356)
+- [34f364f3](https://github.com/appscode/stash-enterprise/commit/34f364f3) Use restic 0.8.3 (#355)
+- [0b0e2cd2](https://github.com/appscode/stash-enterprise/commit/0b0e2cd2) Update README.md (#352)
+- [0d781b4b](https://github.com/appscode/stash-enterprise/commit/0d781b4b) Set RollingUpdate for DaemonSet (#349)
+- [25b60645](https://github.com/appscode/stash-enterprise/commit/25b60645) Document user roles (#348)
+- [a1796d2e](https://github.com/appscode/stash-enterprise/commit/a1796d2e) Add upgrade instructions.
+- [2616f6f7](https://github.com/appscode/stash-enterprise/commit/2616f6f7) Add changelog for 0.7.0-rc.0 (#347)
+- [6f3e7883](https://github.com/appscode/stash-enterprise/commit/6f3e7883) Implement offline backup for multiple replica (#335)
+- [3140f3ab](https://github.com/appscode/stash-enterprise/commit/3140f3ab) Update readme to point to 0.6.4 (#345)
+- [5a2e635a](https://github.com/appscode/stash-enterprise/commit/5a2e635a) Don't block deletion of owner by default (#342)
+- [e6cb9a31](https://github.com/appscode/stash-enterprise/commit/e6cb9a31) Skip generating UpdateStatus method (#341)
+- [9d93b3ed](https://github.com/appscode/stash-enterprise/commit/9d93b3ed) Remove internal types (#340)
+- [59ccb497](https://github.com/appscode/stash-enterprise/commit/59ccb497) Use rbac/v1 apis (#339)
+- [1a532f9b](https://github.com/appscode/stash-enterprise/commit/1a532f9b) Add user roles (#338)
+- [76f18553](https://github.com/appscode/stash-enterprise/commit/76f18553) Use restic 0.8.2 (#337)
+- [fb47ea99](https://github.com/appscode/stash-enterprise/commit/fb47ea99) Use official code generator scripts (#336)
+- [4367fe03](https://github.com/appscode/stash-enterprise/commit/4367fe03) Update rbac-list.yaml
+- [8bcff71f](https://github.com/appscode/stash-enterprise/commit/8bcff71f) Rename appendGroupVersion to appendUniqueGroupVersion
+- [050c9991](https://github.com/appscode/stash-enterprise/commit/050c9991) Update charts to support api registration (#334)
+- [dd82aec9](https://github.com/appscode/stash-enterprise/commit/dd82aec9) Fix e2e tests after webhook merger (#333)
+- [1df3e40a](https://github.com/appscode/stash-enterprise/commit/1df3e40a) Ensure stash can be run locally (#332)
+- [9d8ff669](https://github.com/appscode/stash-enterprise/commit/9d8ff669) Label all stash installer resources
+- [da602cf3](https://github.com/appscode/stash-enterprise/commit/da602cf3) Update Grafana dashboard (#330)
+- [2127401f](https://github.com/appscode/stash-enterprise/commit/2127401f) Delete all stash installer resources
+- [29a51e21](https://github.com/appscode/stash-enterprise/commit/29a51e21) Use binary operator for checking stauts of semver command
+- [5d726907](https://github.com/appscode/stash-enterprise/commit/5d726907) Leave secure port unset
+- [5cba3d0f](https://github.com/appscode/stash-enterprise/commit/5cba3d0f) Use ${} form for onessl envsubst
+- [0b4aa075](https://github.com/appscode/stash-enterprise/commit/0b4aa075) Vendor client-go auth pkg (#331)
+- [4b702a47](https://github.com/appscode/stash-enterprise/commit/4b702a47) Don't append duplicate group versions
+- [ccffa360](https://github.com/appscode/stash-enterprise/commit/ccffa360) Merge admission webhook and operator into one binary (#329)
+- [c3e76f96](https://github.com/appscode/stash-enterprise/commit/c3e76f96) Use envsubst from onessl
+- [639e3fec](https://github.com/appscode/stash-enterprise/commit/639e3fec) Install admission webhook for Kubernetes >=1.9.0
+- [85562989](https://github.com/appscode/stash-enterprise/commit/85562989) Merge uninstall script into the stash.sh script (#328)
+- [cb11fca0](https://github.com/appscode/stash-enterprise/commit/cb11fca0) Implement informer factory for backup scheduler (#325)
+- [29c489e5](https://github.com/appscode/stash-enterprise/commit/29c489e5) Fixed abnormal pod recreation when Restic is deleted (#322)
+- [4238fabc](https://github.com/appscode/stash-enterprise/commit/4238fabc) Implement Pause Restic (#315)
+- [f96cff24](https://github.com/appscode/stash-enterprise/commit/f96cff24) Cleanup apiserver
+- [c13df9c6](https://github.com/appscode/stash-enterprise/commit/c13df9c6) Copy generic-admission-server into pkg (#318)
+- [2b0cf064](https://github.com/appscode/stash-enterprise/commit/2b0cf064) Use shared infromer factory (#317)
+- [b5d67a67](https://github.com/appscode/stash-enterprise/commit/b5d67a67) Support self-signed ca cert for backends (#294)
+- [50639b72](https://github.com/appscode/stash-enterprise/commit/50639b72) Use GetBaseVersion method from kutil (#316)
+- [603c42a1](https://github.com/appscode/stash-enterprise/commit/603c42a1) Update install.md
+- [b1b72d4b](https://github.com/appscode/stash-enterprise/commit/b1b72d4b) Remove system prefix from admission server rbac
+- [1666bc34](https://github.com/appscode/stash-enterprise/commit/1666bc34) Fix webhook command description (#314)
+- [b44f26b2](https://github.com/appscode/stash-enterprise/commit/b44f26b2) Use rbac/v1beta1 api. (#313)
+- [c77b2ccd](https://github.com/appscode/stash-enterprise/commit/c77b2ccd) Reduce log level for admission webhook
+- [147c0788](https://github.com/appscode/stash-enterprise/commit/147c0788) Support Create & Update operations in admission webhook (#312)
+- [45ee2879](https://github.com/appscode/stash-enterprise/commit/45ee2879) Merge webhook plugins into one. (#311)
+- [4403d50c](https://github.com/appscode/stash-enterprise/commit/4403d50c) Fix installer script
+- [2c9166fc](https://github.com/appscode/stash-enterprise/commit/2c9166fc) Support private docker registry in installer (#310)
+- [cfe79458](https://github.com/appscode/stash-enterprise/commit/cfe79458) Add ValidatingAdmissionWebhook for Stash CRDs (#299)
+- [5a93ff74](https://github.com/appscode/stash-enterprise/commit/5a93ff74) Compress go binaries (#309)
+- [24307b0f](https://github.com/appscode/stash-enterprise/commit/24307b0f) Merge commit 'dd01a18d6821b218669437b491e71eff9cf82c89'
+- [75be0ffe](https://github.com/appscode/stash-enterprise/commit/75be0ffe) Merge commit '6cd6efaa2491aea24a0f7f588c86b0ff5ff03283'
+- [6dc58fe7](https://github.com/appscode/stash-enterprise/commit/6dc58fe7) Rename --initializer flag to --enable-initializer (#308)
+- [976e674a](https://github.com/appscode/stash-enterprise/commit/976e674a) Remove STASH_ROLE_TYPE from installer scripts (#307)
+- [310f7395](https://github.com/appscode/stash-enterprise/commit/310f7395) Use rbac/v1 api (#306)
+- [d6be7daf](https://github.com/appscode/stash-enterprise/commit/d6be7daf) Use kubectl auth reconcile (#305)
+- [8a420951](https://github.com/appscode/stash-enterprise/commit/8a420951) Fixed backup count (#295)
+- [38282b43](https://github.com/appscode/stash-enterprise/commit/38282b43) Write restic stderror in error events (#296)
+- [c71ac206](https://github.com/appscode/stash-enterprise/commit/c71ac206) Added support for private docker registry (#300)
+- [1a190437](https://github.com/appscode/stash-enterprise/commit/1a190437) Add --initializer flag to installer (#304)
+- [da0ad798](https://github.com/appscode/stash-enterprise/commit/da0ad798) Prepare docs for 0.7.0-alpha.0 (#302)
+- [3faece70](https://github.com/appscode/stash-enterprise/commit/3faece70) Change installer script (#301)
+- [654bc988](https://github.com/appscode/stash-enterprise/commit/654bc988) Merge commit '5e307d69dbf7e02331cc5bc60154e79a52285060'
+- [0e9ebfc6](https://github.com/appscode/stash-enterprise/commit/0e9ebfc6) Remove TPR to CRD migrator (#298)
+- [b6086636](https://github.com/appscode/stash-enterprise/commit/b6086636) Update dependencies to Kubernetes 1.9 (#297)
+- [4b00589b](https://github.com/appscode/stash-enterprise/commit/4b00589b) Cleanup headless service (#292)
+- [58da0f35](https://github.com/appscode/stash-enterprise/commit/58da0f35) Prepare docs for 0.6.3
+- [fb1629fb](https://github.com/appscode/stash-enterprise/commit/fb1629fb) Fixed parsing argument error (#291)
+- [edd09058](https://github.com/appscode/stash-enterprise/commit/edd09058) Update reference docs
+- [27948f53](https://github.com/appscode/stash-enterprise/commit/27948f53) Update appscode/go log wrapper (#287)
+- [b9526600](https://github.com/appscode/stash-enterprise/commit/b9526600) Fix inline volumeSource marshalling for LocalSpec (#289)
+- [1fe92cef](https://github.com/appscode/stash-enterprise/commit/1fe92cef) Fix roadmap link
+- [f8c6641e](https://github.com/appscode/stash-enterprise/commit/f8c6641e) Added Grafana Stash overview dashboard (#286)
+- [12916afc](https://github.com/appscode/stash-enterprise/commit/12916afc) Pass --pushgateway-url for injected containers. (#284)
+- [321d7414](https://github.com/appscode/stash-enterprise/commit/321d7414) Prepare docs for 0.6.2 release (#278)
+- [001d1592](https://github.com/appscode/stash-enterprise/commit/001d1592) Merge pull request #277 from whereisaaron/master
+- [ae8e801a](https://github.com/appscode/stash-enterprise/commit/ae8e801a) Update Helm chart to use newer 'fullname' template that avoid duplicate (e.g. 'stash-stash-...') resource names
+- [fac516a2](https://github.com/appscode/stash-enterprise/commit/fac516a2) Fix RBAC roles in chart (#276)
+- [6f10418a](https://github.com/appscode/stash-enterprise/commit/6f10418a) Garbage collect service-accounts and role-bindings for jobs (#275)
+- [a021b63f](https://github.com/appscode/stash-enterprise/commit/a021b63f) Update initializer.md
+- [bc24ae45](https://github.com/appscode/stash-enterprise/commit/bc24ae45) Update initializer.md
+- [b1573eba](https://github.com/appscode/stash-enterprise/commit/b1573eba) Fix new restic format in upgrade docs (#274)
+- [c1f54279](https://github.com/appscode/stash-enterprise/commit/c1f54279) Add statefulsets to stash-sidecar ClusterRole creation (#273)
+- [1bc0a02a](https://github.com/appscode/stash-enterprise/commit/1bc0a02a) Reduce operator permissions for service accounts (#270)
+- [d2502bbe](https://github.com/appscode/stash-enterprise/commit/d2502bbe) Fix formatting of uninstall.md (#269)
+- [1341a5fd](https://github.com/appscode/stash-enterprise/commit/1341a5fd) Prepare docs for 0.6.1 (#268)
+- [ac4e8c93](https://github.com/appscode/stash-enterprise/commit/ac4e8c93) Fix kubectl version parsing generation in GKE (#267)
+- [588a2947](https://github.com/appscode/stash-enterprise/commit/588a2947) Fix upgrade instructions.
+- [ea46d9a9](https://github.com/appscode/stash-enterprise/commit/ea46d9a9) Detect analytics client id using env vars (#265)
+- [078f5cfb](https://github.com/appscode/stash-enterprise/commit/078f5cfb) Cleanup release script
+- [937b682c](https://github.com/appscode/stash-enterprise/commit/937b682c) Prepare docs for 0.6.0 release (#264)
+- [ee6e1068](https://github.com/appscode/stash-enterprise/commit/ee6e1068) Reorganize docs (#263)
+- [721dace8](https://github.com/appscode/stash-enterprise/commit/721dace8) Add support for B2 (#262)
+- [39405c0c](https://github.com/appscode/stash-enterprise/commit/39405c0c) Update restic website link (#261)
+- [9058a9bc](https://github.com/appscode/stash-enterprise/commit/9058a9bc) Revendor kutil
+- [f472517e](https://github.com/appscode/stash-enterprise/commit/f472517e) Fix doc
+- [915c53ff](https://github.com/appscode/stash-enterprise/commit/915c53ff) Update docs for unified LocalSpec (#260)
+- [e2bd7c1b](https://github.com/appscode/stash-enterprise/commit/e2bd7c1b) Unify LocalSpec and RecoveredVolume (#259)
+- [cde4f137](https://github.com/appscode/stash-enterprise/commit/cde4f137) Remove restic-dependency from recovery (#258)
+- [6e599853](https://github.com/appscode/stash-enterprise/commit/6e599853) Update restic version to 0.8.1 (#257)
+- [d66a53df](https://github.com/appscode/stash-enterprise/commit/d66a53df) Use cmp methods from kutil (#255)
+- [da8f2331](https://github.com/appscode/stash-enterprise/commit/da8f2331) Remove TryPatch methods (#254)
+- [41e1ff43](https://github.com/appscode/stash-enterprise/commit/41e1ff43) Use log.LEVEL() instead of fmt.Printf() (#252)
+- [aa91dadd](https://github.com/appscode/stash-enterprise/commit/aa91dadd) Log operator version on start (#253)
+- [8b36f5d1](https://github.com/appscode/stash-enterprise/commit/8b36f5d1) Use verb type for mutation (#251)
+- [4a3afb07](https://github.com/appscode/stash-enterprise/commit/4a3afb07) Use CreateOrPatchCronJob from kutil (#250)
+- [fad6e8bb](https://github.com/appscode/stash-enterprise/commit/fad6e8bb) Indicate mutation in PATCH helper method return (#249)
+- [7bd56db6](https://github.com/appscode/stash-enterprise/commit/7bd56db6) Update RBAC for analytics
+- [afa4f8fa](https://github.com/appscode/stash-enterprise/commit/afa4f8fa) Simplify clientID generation for analytics (#247)
+- [fb31ed72](https://github.com/appscode/stash-enterprise/commit/fb31ed72) Set analytics clientID (#246)
+- [29812d44](https://github.com/appscode/stash-enterprise/commit/29812d44) Update README.md
+- [8dd9bb20](https://github.com/appscode/stash-enterprise/commit/8dd9bb20) Cleanup docs
+- [cebe13bf](https://github.com/appscode/stash-enterprise/commit/cebe13bf) Reorganize docs (#245)
+- [4987b08a](https://github.com/appscode/stash-enterprise/commit/4987b08a) Upgrade procedure for 0.5.1 to 0.6.0 (#243)
+- [7997564b](https://github.com/appscode/stash-enterprise/commit/7997564b) Update docs (#236)
+- [8d614880](https://github.com/appscode/stash-enterprise/commit/8d614880) Enable Restic cahce-dir flag (#241)
+- [780754d9](https://github.com/appscode/stash-enterprise/commit/780754d9) Fix retentionPolicyName not found error (#242)
+- [4d291178](https://github.com/appscode/stash-enterprise/commit/4d291178) Lower case workload.kind in prefix (#240)
+- [eaaae57f](https://github.com/appscode/stash-enterprise/commit/eaaae57f) Use RegisterCRDs helper (#239)
+- [2becb354](https://github.com/appscode/stash-enterprise/commit/2becb354) Change left_menu -> menu_name (#235)
+- [a1e2f14d](https://github.com/appscode/stash-enterprise/commit/a1e2f14d) Revendor dependencies (#234)
+- [7241c6dd](https://github.com/appscode/stash-enterprise/commit/7241c6dd) Implement offline backup (#229)
+- [03318f1a](https://github.com/appscode/stash-enterprise/commit/03318f1a) Add aliases for README file (#233)
+- [a560bcb0](https://github.com/appscode/stash-enterprise/commit/a560bcb0) Add Docs Front Matter for 0.5.1 (#231)
+- [a8ff09c0](https://github.com/appscode/stash-enterprise/commit/a8ff09c0) Update bundles restic to 0.8.0 (#232)
+- [84238d2c](https://github.com/appscode/stash-enterprise/commit/84238d2c) Revendor kutil (#230)
+- [0cfe9187](https://github.com/appscode/stash-enterprise/commit/0cfe9187) Fix configmap-lock-name (#228)
+- [cd3c9e36](https://github.com/appscode/stash-enterprise/commit/cd3c9e36) Minor fixes
+- [86157814](https://github.com/appscode/stash-enterprise/commit/86157814) Run `restic check` once every 3 days (#223)
+- [1161ff0b](https://github.com/appscode/stash-enterprise/commit/1161ff0b) Record recovery status for individual FileGroup (#222)
+- [9aeba2e6](https://github.com/appscode/stash-enterprise/commit/9aeba2e6) PollInfinitely for recovery job to succeed
+- [aa3459e6](https://github.com/appscode/stash-enterprise/commit/aa3459e6) Dynamically create stash-sidecar ClusterRole in operator (#221)
+- [6ae7222c](https://github.com/appscode/stash-enterprise/commit/6ae7222c) Implement workload initializer in stash operator (#207)
+- [ef10c66e](https://github.com/appscode/stash-enterprise/commit/ef10c66e) Leader election for deployment, replica set and rc (#206)
+- [106d049d](https://github.com/appscode/stash-enterprise/commit/106d049d) Generate docs
+- [f476f444](https://github.com/appscode/stash-enterprise/commit/f476f444) Implement Recovery for Restic Backup (#202)
+- [d56e913c](https://github.com/appscode/stash-enterprise/commit/d56e913c) Update install.md
+- [7bbe582d](https://github.com/appscode/stash-enterprise/commit/7bbe582d) Update install.md
+- [aa8aaa48](https://github.com/appscode/stash-enterprise/commit/aa8aaa48) Update install.md
+- [b97ebbaf](https://github.com/appscode/stash-enterprise/commit/b97ebbaf) Update chart
+- [0751780f](https://github.com/appscode/stash-enterprise/commit/0751780f) Update install.md
+- [edcab803](https://github.com/appscode/stash-enterprise/commit/edcab803) Update _helpers.tpl
+- [565ae057](https://github.com/appscode/stash-enterprise/commit/565ae057) Support imagePullSecrets in chart
+- [8ae6dc7e](https://github.com/appscode/stash-enterprise/commit/8ae6dc7e) Update _helpers.tpl
+- [2085d5b5](https://github.com/appscode/stash-enterprise/commit/2085d5b5) Make stash chart namespaced (#210)
+- [88e512f5](https://github.com/appscode/stash-enterprise/commit/88e512f5) Update docs to point to 0.4.2 release
+- [88885373](https://github.com/appscode/stash-enterprise/commit/88885373) Update codegen.sh
+- [39108498](https://github.com/appscode/stash-enterprise/commit/39108498) Use typed versioned client for CRD
+- [484df692](https://github.com/appscode/stash-enterprise/commit/484df692) Change `k8s.io/api/core/v1` pkg alias to core (#204)
+- [b854e1cb](https://github.com/appscode/stash-enterprise/commit/b854e1cb) Use client-go 5.x
+- [e2488aa5](https://github.com/appscode/stash-enterprise/commit/e2488aa5) Update rbac.md
+- [8b51195d](https://github.com/appscode/stash-enterprise/commit/8b51195d) Add recovery CRD (#201)
+- [779c373f](https://github.com/appscode/stash-enterprise/commit/779c373f) Merge commit 'bf3f3307acbd69e5147db8abdb75b1529147f0c5'
+- [ad5d6c98](https://github.com/appscode/stash-enterprise/commit/ad5d6c98) Clarify support for DO
+- [f87995af](https://github.com/appscode/stash-enterprise/commit/f87995af) Prepare docs for 0.5.1
+- [cb99e324](https://github.com/appscode/stash-enterprise/commit/cb99e324) Update RBAC permissions
+- [4656ba57](https://github.com/appscode/stash-enterprise/commit/4656ba57) Correctly detect "default" service account (#200)
+- [3e4af9b2](https://github.com/appscode/stash-enterprise/commit/3e4af9b2) Add label to installer objects in rbac mode
+- [1057d95e](https://github.com/appscode/stash-enterprise/commit/1057d95e) Clarify that --tag foo,tag bar style tags are not supported. (#199)
+- [9b6bb88e](https://github.com/appscode/stash-enterprise/commit/9b6bb88e) Set hostname based on resource type (#198)
+- [d2cd1c2d](https://github.com/appscode/stash-enterprise/commit/d2cd1c2d) Manage RoleBinding for rbac enabled cluster (#197)
+- [3b2a281d](https://github.com/appscode/stash-enterprise/commit/3b2a281d) Update install.md
+- [2a550c40](https://github.com/appscode/stash-enterprise/commit/2a550c40) Update install.md
+- [c3ca4669](https://github.com/appscode/stash-enterprise/commit/c3ca4669) Document how to detect operator version (#196)
+- [85b0f16a](https://github.com/appscode/stash-enterprise/commit/85b0f16a) Prepare docs for 0.5.0 release
+- [3003c01a](https://github.com/appscode/stash-enterprise/commit/3003c01a) Rename Scheduler to Controller
+- [e69ec81d](https://github.com/appscode/stash-enterprise/commit/e69ec81d) Stop dumping env vars
+- [657fa06a](https://github.com/appscode/stash-enterprise/commit/657fa06a) Prepare docs for 0.5.0-beta.3 release
+- [a6a98e51](https://github.com/appscode/stash-enterprise/commit/a6a98e51) Use workqueue for scheduler (#194)
+- [cccc23cf](https://github.com/appscode/stash-enterprise/commit/cccc23cf) Register events api group
+- [fadd0ab8](https://github.com/appscode/stash-enterprise/commit/fadd0ab8) Revise RBAC permissions
+- [d3dc55f7](https://github.com/appscode/stash-enterprise/commit/d3dc55f7) Prepare docs for 0.5.0-beta.2
+- [770ff1cd](https://github.com/appscode/stash-enterprise/commit/770ff1cd) Update tutorial.md (#186)
+- [2c0b4836](https://github.com/appscode/stash-enterprise/commit/2c0b4836) Add tests for DO (#193)
+- [2aeef6da](https://github.com/appscode/stash-enterprise/commit/2aeef6da) Use object reference to write events
+- [0ccaa324](https://github.com/appscode/stash-enterprise/commit/0ccaa324) Disable StatefulSet support
+- [0a55c0b8](https://github.com/appscode/stash-enterprise/commit/0a55c0b8) Prepare docs for 0.5.0-beta.1
+- [c268e249](https://github.com/appscode/stash-enterprise/commit/c268e249) Fix prometheus metrics collection (#192)
+- [17da332e](https://github.com/appscode/stash-enterprise/commit/17da332e) Disable StatefulSet controller.
+- [7191de11](https://github.com/appscode/stash-enterprise/commit/7191de11) Fix StatefulSet tests (#190)
+- [c91b9292](https://github.com/appscode/stash-enterprise/commit/c91b9292) Replace reflect.Equal with github.com/google/go-cmp (#188)
+- [027c6d98](https://github.com/appscode/stash-enterprise/commit/027c6d98) Only handle Restic when spec changes.
+- [c80f1a9f](https://github.com/appscode/stash-enterprise/commit/c80f1a9f) Reorder cache controller
+- [9dd89304](https://github.com/appscode/stash-enterprise/commit/9dd89304) Skip ReplicaSet owned by Deployments (#187)
+- [06df8f94](https://github.com/appscode/stash-enterprise/commit/06df8f94) Merge commit '32217c844015816b86c46a8d74a175c42f0e307a'
+- [6ad7ada4](https://github.com/appscode/stash-enterprise/commit/6ad7ada4) Prepare docs for 5.0.0-beta.0 (#185)
+- [f7939ceb](https://github.com/appscode/stash-enterprise/commit/f7939ceb) Don't store status in annotations
+- [94419091](https://github.com/appscode/stash-enterprise/commit/94419091) Rename LastAppliedConfiguration
+- [2237978f](https://github.com/appscode/stash-enterprise/commit/2237978f) Fix patching
+- [ec02f851](https://github.com/appscode/stash-enterprise/commit/ec02f851) Set namespaceIndex as indexer (#184)
+- [3868041c](https://github.com/appscode/stash-enterprise/commit/3868041c) Fix e2e tests (#183)
+- [94c7d2d4](https://github.com/appscode/stash-enterprise/commit/94c7d2d4) Rename injector methods
+- [755e28bc](https://github.com/appscode/stash-enterprise/commit/755e28bc) Use workqueue (#182)
+- [2d41478f](https://github.com/appscode/stash-enterprise/commit/2d41478f) Use Deployment from apps/v1beta1 (#181)
+- [a5229147](https://github.com/appscode/stash-enterprise/commit/a5229147) Delete *.generated.go files for ugorji (#180)
+- [05abff50](https://github.com/appscode/stash-enterprise/commit/05abff50) Use WaitForCRDReady from kutil (#179)
+- [096e1410](https://github.com/appscode/stash-enterprise/commit/096e1410) Only watch apps/v1beta1 Deployment (#178)
+- [ade40c61](https://github.com/appscode/stash-enterprise/commit/ade40c61) Move kutil to client package (#177)
+- [226ffe83](https://github.com/appscode/stash-enterprise/commit/226ffe83) Generate ugorji stuff (#176)
+- [030e7b32](https://github.com/appscode/stash-enterprise/commit/030e7b32) Remove kubernetes/code-generator from builddeps
+- [5c2773d1](https://github.com/appscode/stash-enterprise/commit/5c2773d1) Prepare docs for 0.5.0 (#174)
+- [04afd1cf](https://github.com/appscode/stash-enterprise/commit/04afd1cf) Install stash as a critical addon (#173)
+- [d59093d1](https://github.com/appscode/stash-enterprise/commit/d59093d1) Update chart to add roles for CRD
+- [7ec22dfc](https://github.com/appscode/stash-enterprise/commit/7ec22dfc) Use Namespace() method from kutil.
+- [f4850c29](https://github.com/appscode/stash-enterprise/commit/f4850c29) Add release script.
+- [9a91e124](https://github.com/appscode/stash-enterprise/commit/9a91e124) Prepare docs for 0.5.0-rc.0
+- [324a62fb](https://github.com/appscode/stash-enterprise/commit/324a62fb) Revendor kutil.
+- [2c8add5f](https://github.com/appscode/stash-enterprise/commit/2c8add5f) Set RESTIC_VER to 0.7.3 (#172)
+- [a04187d5](https://github.com/appscode/stash-enterprise/commit/a04187d5) Refresh charts to match recent convention (#171)
+- [c9b5662a](https://github.com/appscode/stash-enterprise/commit/c9b5662a) Fix deployment name in tutorial (#169)
+- [1356b31b](https://github.com/appscode/stash-enterprise/commit/1356b31b) Update kutil (#170)
+- [4ea31986](https://github.com/appscode/stash-enterprise/commit/4ea31986) Set RESTIC_VER to 0.7.2
+- [f7d9c903](https://github.com/appscode/stash-enterprise/commit/f7d9c903) Use object ref for Restic
+- [49e5a33b](https://github.com/appscode/stash-enterprise/commit/49e5a33b) Fix command in Developer-guide (#168)
+- [9bacd5bb](https://github.com/appscode/stash-enterprise/commit/9bacd5bb) Set root scope kinds
+- [6bb6c582](https://github.com/appscode/stash-enterprise/commit/6bb6c582) Use apis/v1alpha1 instead of internal version (#167)
+- [1206be03](https://github.com/appscode/stash-enterprise/commit/1206be03) Remove resource:path (#166)
+- [d1b790de](https://github.com/appscode/stash-enterprise/commit/d1b790de) Use kubernetes/code-generator (#163)
+- [9cfb37cf](https://github.com/appscode/stash-enterprise/commit/9cfb37cf) Update kutil
+- [cac94ede](https://github.com/appscode/stash-enterprise/commit/cac94ede) Expose resync-period as flag
+- [e31dd8f7](https://github.com/appscode/stash-enterprise/commit/e31dd8f7) Remove pkg/analytics
+- [5f79c4da](https://github.com/appscode/stash-enterprise/commit/5f79c4da) Move analytics collector to root command (#164)
+- [e4a88e55](https://github.com/appscode/stash-enterprise/commit/e4a88e55) Revendor k8s.io/apiextensions-apiserver (#162)
+- [2fe16a61](https://github.com/appscode/stash-enterprise/commit/2fe16a61) Migrate TPR to CRD (#160)
+- [cc22b572](https://github.com/appscode/stash-enterprise/commit/cc22b572) Fix Restic (#159)
+- [ae0d9406](https://github.com/appscode/stash-enterprise/commit/ae0d9406) Update kutil dependency (#158)
+- [cc9ee0e5](https://github.com/appscode/stash-enterprise/commit/cc9ee0e5) Use CheckAPIVersion() (#157)
+- [b7e97424](https://github.com/appscode/stash-enterprise/commit/b7e97424) Use PATCH api instead of UPDATE (#156)
+- [5a50804a](https://github.com/appscode/stash-enterprise/commit/5a50804a) Check version using semver library (#152)
+- [8364234d](https://github.com/appscode/stash-enterprise/commit/8364234d) Support adding Sidecar containers for StatefulSet. (#151)
+- [d20e52ed](https://github.com/appscode/stash-enterprise/commit/d20e52ed) Update client-go to 4.0.0 (#150)
+- [24c79bf5](https://github.com/appscode/stash-enterprise/commit/24c79bf5) Update build commands for restic. (#149)
+- [f276cd38](https://github.com/appscode/stash-enterprise/commit/f276cd38) Update client-go to 3.0.0 from 3.0.0-beta (#148)
+- [c4a3bfe3](https://github.com/appscode/stash-enterprise/commit/c4a3bfe3) Add DCO
+- [f98d1877](https://github.com/appscode/stash-enterprise/commit/f98d1877) Fix typos of tutorial.md file (#138)
+- [e7c5154b](https://github.com/appscode/stash-enterprise/commit/e7c5154b) Add uninstall.sh script (#144)
+- [15deeba0](https://github.com/appscode/stash-enterprise/commit/15deeba0) Change receiver for Invocation to fi
+- [7b8829fc](https://github.com/appscode/stash-enterprise/commit/7b8829fc) Use console type instead of sh
+- [e6065cb2](https://github.com/appscode/stash-enterprise/commit/e6065cb2) Prepare docs for 0.4.1 release
+- [1d1dbbfb](https://github.com/appscode/stash-enterprise/commit/1d1dbbfb) Build binary inside Docker image
+- [ceafa959](https://github.com/appscode/stash-enterprise/commit/ceafa959) Merge commit 'b8c45d0d4379587a31302b834334047cc77e59db'
+- [b629d0cd](https://github.com/appscode/stash-enterprise/commit/b629d0cd) Revendor forked robfig/cron (#139)
+- [5e34ea69](https://github.com/appscode/stash-enterprise/commit/5e34ea69) Update stash-without-rbac.yaml
+- [9ae078bb](https://github.com/appscode/stash-enterprise/commit/9ae078bb) Add omitempty for Local storage
+- [7ac0a7a2](https://github.com/appscode/stash-enterprise/commit/7ac0a7a2) Move resource consts to api pkg
+- [42ccbccd](https://github.com/appscode/stash-enterprise/commit/42ccbccd) Fix Fake restic resource Url (#137)
+- [c25545b6](https://github.com/appscode/stash-enterprise/commit/c25545b6) Clarify bucket location
+- [cec2d878](https://github.com/appscode/stash-enterprise/commit/cec2d878) Update gcs-restic.yaml
+- [8bf7efc1](https://github.com/appscode/stash-enterprise/commit/8bf7efc1) Update backends.md
+- [cc75a55a](https://github.com/appscode/stash-enterprise/commit/cc75a55a) Update tutorial.md
+- [f05372b9](https://github.com/appscode/stash-enterprise/commit/f05372b9) Update backends.md
+- [f657a4cf](https://github.com/appscode/stash-enterprise/commit/f657a4cf) Add example e2e env file for OpenStack swift.
+- [53f97fe3](https://github.com/appscode/stash-enterprise/commit/53f97fe3) Update docs to 0.4.0 release.
+- [e2bf7234](https://github.com/appscode/stash-enterprise/commit/e2bf7234) Update docs to remove setting name for local.VolumeSource
+- [50aff91d](https://github.com/appscode/stash-enterprise/commit/50aff91d) Support selecting restic branch
+- [a7f0a995](https://github.com/appscode/stash-enterprise/commit/a7f0a995) Prepare docs for 0.4.0 release.
+- [df7bd521](https://github.com/appscode/stash-enterprise/commit/df7bd521) Update concept.md
+- [bc4f6f13](https://github.com/appscode/stash-enterprise/commit/bc4f6f13) Rename RepositorySecretName to StorageSecretName (#135)
+- [8ff66993](https://github.com/appscode/stash-enterprise/commit/8ff66993) Rename Volume to VolumeSource (#134)
+- [39a390f9](https://github.com/appscode/stash-enterprise/commit/39a390f9) Use updated URL format (: after container)
+- [993faac2](https://github.com/appscode/stash-enterprise/commit/993faac2) Update charts
+- [3f68045b](https://github.com/appscode/stash-enterprise/commit/3f68045b) Use VolumeSource instead of Volume for Local backend. (#132)
+- [883cebd4](https://github.com/appscode/stash-enterprise/commit/883cebd4) Update concept.md
+- [387ac071](https://github.com/appscode/stash-enterprise/commit/387ac071) Fix linting issues in chart
+- [dc19110f](https://github.com/appscode/stash-enterprise/commit/dc19110f) Add String() method to PrefixType.
+- [f4cf5e67](https://github.com/appscode/stash-enterprise/commit/f4cf5e67) Remove unused type Source
+- [f1a21897](https://github.com/appscode/stash-enterprise/commit/f1a21897) Update readme
+- [a3827bf5](https://github.com/appscode/stash-enterprise/commit/a3827bf5) Various corrections to chart based on code review.
+- [c12c3fab](https://github.com/appscode/stash-enterprise/commit/c12c3fab) Prepare docs for 0.3.1 release.
+- [def4f783](https://github.com/appscode/stash-enterprise/commit/def4f783) Add tests for swift (#130)
+- [12ee8e9e](https://github.com/appscode/stash-enterprise/commit/12ee8e9e) Support setting compute resources for sidecar (#129)
+- [6eb6ba6e](https://github.com/appscode/stash-enterprise/commit/6eb6ba6e) Update chart with rbac
+- [0ba63fb7](https://github.com/appscode/stash-enterprise/commit/0ba63fb7) Update rbac.md
+- [fdbd84a2](https://github.com/appscode/stash-enterprise/commit/fdbd84a2) Fix RBAC docs (#127)
+- [68b6b0c5](https://github.com/appscode/stash-enterprise/commit/68b6b0c5) Update release.md
+- [33a59ad8](https://github.com/appscode/stash-enterprise/commit/33a59ad8) Merge commit 'fba07b3994b0e1fd3a95c91d890353aa23a0f3c1'
+- [c0ed3b61](https://github.com/appscode/stash-enterprise/commit/c0ed3b61) Print commit timestamp with version command
+- [5c6f2d27](https://github.com/appscode/stash-enterprise/commit/5c6f2d27) Prepare docs for 0.3.0 release
+- [97630f69](https://github.com/appscode/stash-enterprise/commit/97630f69) Document RBAC
+- [59e09023](https://github.com/appscode/stash-enterprise/commit/59e09023) Document behavior in case of multiple Restic
+- [9ae9107d](https://github.com/appscode/stash-enterprise/commit/9ae9107d) Document e2e test setup
+- [a6ba0787](https://github.com/appscode/stash-enterprise/commit/a6ba0787) Document swift (#124)
+- [2a38a883](https://github.com/appscode/stash-enterprise/commit/2a38a883) Remove support for B2 & Rest server for now.
+- [8a4ca945](https://github.com/appscode/stash-enterprise/commit/8a4ca945) Remove Location choice for GCS
+- [c89b9109](https://github.com/appscode/stash-enterprise/commit/c89b9109) Fix spelling
+- [7ecffb1f](https://github.com/appscode/stash-enterprise/commit/7ecffb1f) Update backends.md
+- [61385e73](https://github.com/appscode/stash-enterprise/commit/61385e73) Update uninstall.md
+- [50e98026](https://github.com/appscode/stash-enterprise/commit/50e98026) Update uninstall.md
+- [c1fd8915](https://github.com/appscode/stash-enterprise/commit/c1fd8915) Use TPR labels to verify installation
+- [d896d763](https://github.com/appscode/stash-enterprise/commit/d896d763) Add labels to TPR registration
+- [0644dc8a](https://github.com/appscode/stash-enterprise/commit/0644dc8a) Remove pod template name
+- [011bba8e](https://github.com/appscode/stash-enterprise/commit/011bba8e) Don't fail scheduler if bad credetials are given
+- [50d5b35d](https://github.com/appscode/stash-enterprise/commit/50d5b35d) Fix google sa file permission
+- [569b1289](https://github.com/appscode/stash-enterprise/commit/569b1289) Change mount path for labels to /etc/stash
+- [7483b929](https://github.com/appscode/stash-enterprise/commit/7483b929) Fix remote backend repository format
+- [d6ba05c6](https://github.com/appscode/stash-enterprise/commit/d6ba05c6) Part 6 - Update docs (#121)
+- [6c95f2d6](https://github.com/appscode/stash-enterprise/commit/6c95f2d6) Update docs (#120)
+- [a979c4bc](https://github.com/appscode/stash-enterprise/commit/a979c4bc) Update docs for 0.2.0 release
+- [ba6bf1bb](https://github.com/appscode/stash-enterprise/commit/ba6bf1bb) Fix build.
+- [e27cf027](https://github.com/appscode/stash-enterprise/commit/e27cf027) Various bug fixes (#118)
+- [33fe5ebe](https://github.com/appscode/stash-enterprise/commit/33fe5ebe) Mention swift in readme
+- [4df56363](https://github.com/appscode/stash-enterprise/commit/4df56363) Update pitch (#117)
+- [e92e6f93](https://github.com/appscode/stash-enterprise/commit/e92e6f93) Various changes to RetentionPolicy	 (#116)
+- [bbf726ee](https://github.com/appscode/stash-enterprise/commit/bbf726ee) Set TMPDIR env var for restic (#115)
+- [7e2944aa](https://github.com/appscode/stash-enterprise/commit/7e2944aa) Update ROADMAP.md
+- [ac262649](https://github.com/appscode/stash-enterprise/commit/ac262649) Update tutorial.md
+- [1405e499](https://github.com/appscode/stash-enterprise/commit/1405e499) Update ROADMAP.md
+- [9ba3bf8a](https://github.com/appscode/stash-enterprise/commit/9ba3bf8a) Update workloads.md
+- [a3e41c8e](https://github.com/appscode/stash-enterprise/commit/a3e41c8e) Part 5 - User Guide (#114)
+- [3484d8fc](https://github.com/appscode/stash-enterprise/commit/3484d8fc) Update ROADMAP.md
+- [d3369091](https://github.com/appscode/stash-enterprise/commit/d3369091) Part 4- User Guide (#113)
+- [6ada7f4b](https://github.com/appscode/stash-enterprise/commit/6ada7f4b) Part 3 - User Guide (#110)
+- [565e2a34](https://github.com/appscode/stash-enterprise/commit/565e2a34) Part - 2 of User guide (#99)
+- [e32edec6](https://github.com/appscode/stash-enterprise/commit/e32edec6) Update user guide (#94)
+- [ba7ef578](https://github.com/appscode/stash-enterprise/commit/ba7ef578) Update release.md
+- [40a12019](https://github.com/appscode/stash-enterprise/commit/40a12019) Update Prometheus job name to use restic ns & name (#93)
+- [46da38ea](https://github.com/appscode/stash-enterprise/commit/46da38ea) Create separate restic for each type of backend. (#92)
+- [b5a8abea](https://github.com/appscode/stash-enterprise/commit/b5a8abea) Update README.md
+- [f42511ea](https://github.com/appscode/stash-enterprise/commit/f42511ea) Use app & release name labels together in chart
+- [cdeb926d](https://github.com/appscode/stash-enterprise/commit/cdeb926d) Update chart readme
+- [56fa7765](https://github.com/appscode/stash-enterprise/commit/56fa7765) Update Stash chart (#89)
+- [1ed35f09](https://github.com/appscode/stash-enterprise/commit/1ed35f09) Remove selectors so that `template.metadata.labels` are used (#91)
+- [8d9065de](https://github.com/appscode/stash-enterprise/commit/8d9065de) Update CONTRIBUTING.md
+- [550eb7e4](https://github.com/appscode/stash-enterprise/commit/550eb7e4) Update contribution guide
+- [8f0e31e6](https://github.com/appscode/stash-enterprise/commit/8f0e31e6) Fix dev guide (#88)
+- [6b61ee27](https://github.com/appscode/stash-enterprise/commit/6b61ee27) Add docs for commands (#90)
+- [d85cd5f9](https://github.com/appscode/stash-enterprise/commit/d85cd5f9) Update stash.yaml
+- [8577bee3](https://github.com/appscode/stash-enterprise/commit/8577bee3) Update stash.yaml
+- [a948319b](https://github.com/appscode/stash-enterprise/commit/a948319b) Change stash version to 0.1.0
+- [db3d1813](https://github.com/appscode/stash-enterprise/commit/db3d1813) Cleanup test commands
+- [a6144456](https://github.com/appscode/stash-enterprise/commit/a6144456) Add e2e tests for major cloud providers (#84)
+- [4d219217](https://github.com/appscode/stash-enterprise/commit/4d219217) Fix headless service for statefulset e2e test
+- [7fbc6cd6](https://github.com/appscode/stash-enterprise/commit/7fbc6cd6) Create separate selectors for each invocation of framework
+- [7e949c96](https://github.com/appscode/stash-enterprise/commit/7e949c96) Move check for sidecars inside retry loop
+- [60e0cec4](https://github.com/appscode/stash-enterprise/commit/60e0cec4) Don't update resource from update calls.
+- [5c75cb0d](https://github.com/appscode/stash-enterprise/commit/5c75cb0d) Fix selectors for Deployment e2e tests
+- [87ae2427](https://github.com/appscode/stash-enterprise/commit/87ae2427) Add node selector for DaemonSet e2e test
+- [9b946345](https://github.com/appscode/stash-enterprise/commit/9b946345) Check for successful backup events
+- [30bd7d6b](https://github.com/appscode/stash-enterprise/commit/30bd7d6b) Fix e2e tests (#83)
+- [a220d50a](https://github.com/appscode/stash-enterprise/commit/a220d50a) Add /snapshots endpoint in operator (#82)
+- [35428b88](https://github.com/appscode/stash-enterprise/commit/35428b88) Mount scratchDir with operator (#80)
+- [887c432b](https://github.com/appscode/stash-enterprise/commit/887c432b) Fix scheduler  (#79)
+- [f120695e](https://github.com/appscode/stash-enterprise/commit/f120695e) Handle update conflicts (#78)
+- [36245014](https://github.com/appscode/stash-enterprise/commit/36245014) Test e2e tests (#76)
+- [7410da10](https://github.com/appscode/stash-enterprise/commit/7410da10) Remove restic source downloaded for building binary
+- [01b72b61](https://github.com/appscode/stash-enterprise/commit/01b72b61) . import custom matchers
+- [44416b81](https://github.com/appscode/stash-enterprise/commit/44416b81) Review analytics events.
+- [5d6169e3](https://github.com/appscode/stash-enterprise/commit/5d6169e3) Remove unused and/or duplicate constants
+- [d425d674](https://github.com/appscode/stash-enterprise/commit/d425d674) Delete old testify tests (#75)
+- [80a96849](https://github.com/appscode/stash-enterprise/commit/80a96849) Add ginkgo based e2e tests (#70)
+- [8de3189a](https://github.com/appscode/stash-enterprise/commit/8de3189a) Create a cli wrapper for restic (#74)
+- [da41f6ed](https://github.com/appscode/stash-enterprise/commit/da41f6ed) Revise EnsureXXXSidecar methods (#73)
+- [75aa7458](https://github.com/appscode/stash-enterprise/commit/75aa7458) Avoid pushing metrics if missing gateway URL
+- [c42c6cae](https://github.com/appscode/stash-enterprise/commit/c42c6cae) Fix pushgateway --web.listen-address flag
+- [efd42e00](https://github.com/appscode/stash-enterprise/commit/efd42e00) Use service account with operator pods
+- [5729f7b0](https://github.com/appscode/stash-enterprise/commit/5729f7b0) Create RBAC objects for operator (#69)
+- [3b5b0291](https://github.com/appscode/stash-enterprise/commit/3b5b0291) Push metrics to Prometheus push gateway (#67)
+- [6ec35ada](https://github.com/appscode/stash-enterprise/commit/6ec35ada) Mount labels using Downward api (#66)
+- [76a9ced7](https://github.com/appscode/stash-enterprise/commit/76a9ced7) Vendor go-sh dependency (#65)
+- [d505ad0e](https://github.com/appscode/stash-enterprise/commit/d505ad0e) Use go-sh to execute restic commands (#63)
+- [585b33f9](https://github.com/appscode/stash-enterprise/commit/585b33f9) Add scratchPad Dir & prefixHostname flags (#62)
+- [e5c9f69b](https://github.com/appscode/stash-enterprise/commit/e5c9f69b) Support remote backends (#58)
+- [af2e14a7](https://github.com/appscode/stash-enterprise/commit/af2e14a7) Expose metrics port from Docker
+- [87dfdae4](https://github.com/appscode/stash-enterprise/commit/87dfdae4) Rename cron pkg to scheduler.
+- [0503fe64](https://github.com/appscode/stash-enterprise/commit/0503fe64) Organize backup code. (#54)
+- [12c0921a](https://github.com/appscode/stash-enterprise/commit/12c0921a) Synchronize scheduler reconfiguration (#53)
+- [cbebb9de](https://github.com/appscode/stash-enterprise/commit/cbebb9de) Build master branch of restic
+- [23e92576](https://github.com/appscode/stash-enterprise/commit/23e92576) Fix tag detection from Version
+- [af2f9271](https://github.com/appscode/stash-enterprise/commit/af2f9271) Update e2e tests (#52)
+- [e7b85533](https://github.com/appscode/stash-enterprise/commit/e7b85533) Fix NPE
+- [8308dd26](https://github.com/appscode/stash-enterprise/commit/8308dd26) Fix unit tests (#51)
+- [52b6cfb7](https://github.com/appscode/stash-enterprise/commit/52b6cfb7) Update README.md
+- [d41bd0db](https://github.com/appscode/stash-enterprise/commit/d41bd0db) Run watchers for preferred api group version kind (#50)
+- [f8878a34](https://github.com/appscode/stash-enterprise/commit/f8878a34) Build restic from source by default (#49)
+- [7d240bbf](https://github.com/appscode/stash-enterprise/commit/7d240bbf) Use updated docker build script format
+- [f87445d4](https://github.com/appscode/stash-enterprise/commit/f87445d4) Merge commit '6d30c353f174f641159a88f6280f6be163a44cb4'
+- [abd7fcca](https://github.com/appscode/stash-enterprise/commit/abd7fcca) Rename variable watcher to ctrl
+- [e8cb5c06](https://github.com/appscode/stash-enterprise/commit/e8cb5c06) Watch individual object types. (#48)
+- [3bc3fc81](https://github.com/appscode/stash-enterprise/commit/3bc3fc81) Various code cleanup (#47)
+- [1ba94a88](https://github.com/appscode/stash-enterprise/commit/1ba94a88) Reorganize cron controller (#46)
+- [d9c5ead9](https://github.com/appscode/stash-enterprise/commit/d9c5ead9) Check docker image tag before starting operator (#45)
+- [3887dd92](https://github.com/appscode/stash-enterprise/commit/3887dd92) Expose metrics from operator (#44)
+- [cadf7c1d](https://github.com/appscode/stash-enterprise/commit/cadf7c1d) Run push gateway as a side-car for restik operator. (#43)
+- [966564b0](https://github.com/appscode/stash-enterprise/commit/966564b0) Pre-install ca-certificates.
+- [bb5b24b2](https://github.com/appscode/stash-enterprise/commit/bb5b24b2) Send analytics for start & stop events.
+- [95e4209a](https://github.com/appscode/stash-enterprise/commit/95e4209a) Move all commands to root folder.
+- [f6816d8e](https://github.com/appscode/stash-enterprise/commit/f6816d8e) Remove all reference to k8s.io/kubernetes repo.
+- [edb64910](https://github.com/appscode/stash-enterprise/commit/edb64910) Move main.go to root folder.
+- [f7bfd1a8](https://github.com/appscode/stash-enterprise/commit/f7bfd1a8) Merge commit 'e6c0614c629d719cc9300e71a668a43f42b37f68'
+- [4c1a638b](https://github.com/appscode/stash-enterprise/commit/4c1a638b) Point to client-go in versioning policy.
+- [17fbce2b](https://github.com/appscode/stash-enterprise/commit/17fbce2b) Update README.md
+- [d57ddc79](https://github.com/appscode/stash-enterprise/commit/d57ddc79) Add analytics (#41)
+- [59d38bd5](https://github.com/appscode/stash-enterprise/commit/59d38bd5) Use V1alpha1SchemeGroupVersion for Restik (#40)
+- [b258051b](https://github.com/appscode/stash-enterprise/commit/b258051b) Fix registration of wrong group (#39)
+- [572eab2b](https://github.com/appscode/stash-enterprise/commit/572eab2b) fix status update (#38)
+- [f3b0e990](https://github.com/appscode/stash-enterprise/commit/f3b0e990) Upgrade restic version to 0.6.1 (#37)
+- [52f44f88](https://github.com/appscode/stash-enterprise/commit/52f44f88) Use client-go (#36)
+- [8f9eaa75](https://github.com/appscode/stash-enterprise/commit/8f9eaa75) Merge commit '4a5c3083fd86cbe409e8a0f8db02ebc92b403cdc'
+- [fa30bfde](https://github.com/appscode/stash-enterprise/commit/fa30bfde) Create conversion_v1alpha1.go
+- [71dd7331](https://github.com/appscode/stash-enterprise/commit/71dd7331) Create register_v1alpha1.go
+- [a4dd5595](https://github.com/appscode/stash-enterprise/commit/a4dd5595) fmt api & client pkg-es
+- [34651f88](https://github.com/appscode/stash-enterprise/commit/34651f88) Use same var as receiver
+- [028e312f](https://github.com/appscode/stash-enterprise/commit/028e312f) Add version policy & analytics collection to readme
+- [7377c5e0](https://github.com/appscode/stash-enterprise/commit/7377c5e0) Change api version to v1alpha1 (#30)
+- [f893fd1d](https://github.com/appscode/stash-enterprise/commit/f893fd1d) Merge commit '7ade13456a688a54292abaf589c2e9f1804f7d8b'
+- [ce677bb9](https://github.com/appscode/stash-enterprise/commit/ce677bb9) Rename clientset
+- [570bea8c](https://github.com/appscode/stash-enterprise/commit/570bea8c) Rename function and structure (#29)
+- [db1643f2](https://github.com/appscode/stash-enterprise/commit/db1643f2) Rename Backup into Restik (#28)
+- [f5db80b4](https://github.com/appscode/stash-enterprise/commit/f5db80b4) Move api from k8s-addons (#27)
+- [94ce3a20](https://github.com/appscode/stash-enterprise/commit/94ce3a20) Add Restik chart (#20)
+- [f1955669](https://github.com/appscode/stash-enterprise/commit/f1955669) Bubble up errors to caller (#26)
+- [2b6d4735](https://github.com/appscode/stash-enterprise/commit/2b6d4735) Update README.md
+- [90fbf2ab](https://github.com/appscode/stash-enterprise/commit/90fbf2ab) Allow modifying the cron expression (#25)
+- [3e416598](https://github.com/appscode/stash-enterprise/commit/3e416598) Merge commit '958f7da4904598c85aabadf104c687e321eacb33'
+- [0f787535](https://github.com/appscode/stash-enterprise/commit/0f787535) Use unversioned time (#23)
+- [3521adfb](https://github.com/appscode/stash-enterprise/commit/3521adfb) Update design.md
+- [ebfa0624](https://github.com/appscode/stash-enterprise/commit/ebfa0624) Update design.md
+- [7785bc86](https://github.com/appscode/stash-enterprise/commit/7785bc86) example added (#19)
+- [ca8a2ec6](https://github.com/appscode/stash-enterprise/commit/ca8a2ec6) Use restik api and client from k8s-addons (#18)
+- [2aae97a9](https://github.com/appscode/stash-enterprise/commit/2aae97a9) Error print fix (#17)
+- [379b853e](https://github.com/appscode/stash-enterprise/commit/379b853e) Check group registration Before Register Groups (#16)
+- [f2643e91](https://github.com/appscode/stash-enterprise/commit/f2643e91) Add Restik docs (#15)
+- [fb8e6c12](https://github.com/appscode/stash-enterprise/commit/fb8e6c12) Restik unit test, e2e test (#14)
+- [45f9bc69](https://github.com/appscode/stash-enterprise/commit/45f9bc69) Restik create delete initial implementation (#12)
+- [829887a0](https://github.com/appscode/stash-enterprise/commit/829887a0) Update restic to 0.5.0
+- [4e0c40f9](https://github.com/appscode/stash-enterprise/commit/4e0c40f9) Don't allow push with tags.
+- [b33d8142](https://github.com/appscode/stash-enterprise/commit/b33d8142) Unify restic and restik docker images.
+- [6c7484ad](https://github.com/appscode/stash-enterprise/commit/6c7484ad) Make restic executable.
+- [67272949](https://github.com/appscode/stash-enterprise/commit/67272949) Build docker image (#11)
+- [1d3b939c](https://github.com/appscode/stash-enterprise/commit/1d3b939c) Add links to proposal in readme
+- [6548fd84](https://github.com/appscode/stash-enterprise/commit/6548fd84) Use cobra to structure restik commands.
+- [8c6425b6](https://github.com/appscode/stash-enterprise/commit/8c6425b6) Clone skeleton from appscode/k3pc (#10)
+- [ba60c6d4](https://github.com/appscode/stash-enterprise/commit/ba60c6d4) Merge commit 'a3e8a4a46d31a8c6e9fcceda85d3a55f36293f67' as 'hack/libbuild'
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.10.0](https://github.com/stashed/apimachinery/releases/tag/v0.10.0)
