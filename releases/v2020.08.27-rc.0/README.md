@@ -44,6 +44,12 @@
 - [fc8cb58](https://github.com/stashed/postgres/commit/fc8cb58) [cherry-pick] Upload charts without updating index (#156)
 
 
+### [11.2-rc.20200827](https://github.com/stashed/postgres/releases/tag/11.2-rc.20200827)
+
+- [342b6bb](https://github.com/stashed/postgres/commit/342b6bb) Prepare for release 11.2-rc.20200827 (#162)
+- [4688cde](https://github.com/stashed/postgres/commit/4688cde) [cherry-pick] Upload charts without updating index (#157)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
