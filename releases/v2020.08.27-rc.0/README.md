@@ -75,6 +75,16 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.10.0-rc.2](https://github.com/stashed/installer/releases/tag/v0.10.0-rc.2)
+
+- [7d5e440](https://github.com/stashed/installer/commit/7d5e440) Prepare for release v0.10.0-rc.2 (#92)
+- [f4cae9f](https://github.com/stashed/installer/commit/f4cae9f) Upload charts without updating index
+- [90d9c52](https://github.com/stashed/installer/commit/90d9c52) Update Kubernetes v1.18.3 dependencies (#91)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.1-rc.20200827](https://github.com/stashed/mongodb/releases/tag/3.4.1-rc.20200827)
