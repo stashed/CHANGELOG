@@ -826,3 +826,290 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.10.0](https://github.com/stashed/stash/releases/tag/v0.10.0)
+
+- [e58a2267](https://github.com/stashed/stash/commit/e58a2267) Prepare for release v0.10.0 (#1182)
+- [485f80c6](https://github.com/stashed/stash/commit/485f80c6) Prepare for release v0.10.0-rc.2 (#1181)
+- [20d585f4](https://github.com/stashed/stash/commit/20d585f4) Prepare for release v0.10.0-rc.1 (#1180)
+- [76fe3ebd](https://github.com/stashed/stash/commit/76fe3ebd) Create GitHub release from release workflow
+- [f3e5cccc](https://github.com/stashed/stash/commit/f3e5cccc) Fix installation link
+- [3ebb7788](https://github.com/stashed/stash/commit/3ebb7788) Prepare for release v0.10.0-rc.0 (#1179)
+- [48e5c87e](https://github.com/stashed/stash/commit/48e5c87e) Update Kubernetes v1.18.3 dependencies (#1178)
+- [c269c8ed](https://github.com/stashed/stash/commit/c269c8ed) Port changes from enterprise version (#1176)
+- [0fea720b](https://github.com/stashed/stash/commit/0fea720b) Update Kubernetes v1.18.3 dependencies (#1174)
+- [c4b6013f](https://github.com/stashed/stash/commit/c4b6013f) Update Kubernetes v1.18.3 dependencies (#1173)
+- [77b3eab8](https://github.com/stashed/stash/commit/77b3eab8) Update Kubernetes v1.18.3 dependencies (#1169)
+- [64f7c292](https://github.com/stashed/stash/commit/64f7c292) Update Kubernetes v1.18.3 dependencies (#1168)
+- [2d6fd7da](https://github.com/stashed/stash/commit/2d6fd7da) Update Kubernetes v1.18.3 dependencies (#1167)
+- [378de04d](https://github.com/stashed/stash/commit/378de04d) Update Kubernetes v1.18.3 dependencies (#1159)
+- [20decffa](https://github.com/stashed/stash/commit/20decffa) Build images in e2e workflow
+- [4919cb03](https://github.com/stashed/stash/commit/4919cb03) Allow configuring k8s in e2e tests (#1155)
+- [6e71662a](https://github.com/stashed/stash/commit/6e71662a) Update to Kubernetes v1.18.3 (#1154)
+- [a83021fd](https://github.com/stashed/stash/commit/a83021fd) Trigger e2e tests on /ok-to-test command (#1150)
+- [6bf44ceb](https://github.com/stashed/stash/commit/6bf44ceb) Update to Kubernetes v1.18.3 (#1149)
+- [bcbb3a98](https://github.com/stashed/stash/commit/bcbb3a98) Update to Kubernetes v1.18.3 (#1148)
+- [3b717aac](https://github.com/stashed/stash/commit/3b717aac) Prepare for release v0.10.0-beta.1 (#1146)
+- [c8b81cf7](https://github.com/stashed/stash/commit/c8b81cf7) Prepare for release v0.10.0-beta.0 (#1145)
+- [2d145f47](https://github.com/stashed/stash/commit/2d145f47) Clarify Docker images are dually licensed
+- [693ab7df](https://github.com/stashed/stash/commit/693ab7df) Update License (#1144)
+- [e13d67eb](https://github.com/stashed/stash/commit/e13d67eb) Update to Kubernetes v1.18.3 (#1142)
+- [26ee605a](https://github.com/stashed/stash/commit/26ee605a) Update ci.yml
+- [9fa95666](https://github.com/stashed/stash/commit/9fa95666) Add workflow to update docs (#1136)
+- [95a62a95](https://github.com/stashed/stash/commit/95a62a95) Update update-release-tracker.sh
+- [379c90d5](https://github.com/stashed/stash/commit/379c90d5) Update update-release-tracker.sh
+- [cd0a70ee](https://github.com/stashed/stash/commit/cd0a70ee) Use GITHUB_BASE_REF to detect target branch
+- [e27c5f66](https://github.com/stashed/stash/commit/e27c5f66) Add script to update release tracker on pr merge (#1132)
+- [b0dd5051](https://github.com/stashed/stash/commit/b0dd5051) Update .kodiak.toml
+- [e87bad80](https://github.com/stashed/stash/commit/e87bad80) Parameterize installer namespace
+- [da8d8956](https://github.com/stashed/stash/commit/da8d8956) Format CI workflows
+- [bbde40a3](https://github.com/stashed/stash/commit/bbde40a3) Update to Kubernetes v1.18.3 (#1129)
+- [38eb3781](https://github.com/stashed/stash/commit/38eb3781) Update to Kubernetes v1.18.3
+- [197aa7bd](https://github.com/stashed/stash/commit/197aa7bd) Create .kodiak.toml
+- [181ca49e](https://github.com/stashed/stash/commit/181ca49e) Update coverage script
+- [26602c96](https://github.com/stashed/stash/commit/26602c96) Merge pull request #1125 from stashed/fix-ci-tests
+- [54f87b78](https://github.com/stashed/stash/commit/54f87b78) Increase wait timeout
+- [43428085](https://github.com/stashed/stash/commit/43428085) Remove unnecessary test codes + run test in parallel
+- [8a780e0c](https://github.com/stashed/stash/commit/8a780e0c) Fix clone-pvc tests
+- [7027c0f6](https://github.com/stashed/stash/commit/7027c0f6) Fix E2E test
+- [31de588a](https://github.com/stashed/stash/commit/31de588a) Change GCS test bucket name to stash-ci (#1122)
+- [30a490a6](https://github.com/stashed/stash/commit/30a490a6) Merge pull request #1121 from stashed/baseline-psp
+- [419a18e3](https://github.com/stashed/stash/commit/419a18e3) Use StringSlice type flag
+- [9dd3804d](https://github.com/stashed/stash/commit/9dd3804d) Make PSP names configurable through flag
+- [e4edef44](https://github.com/stashed/stash/commit/e4edef44) Always use baseline PSP
+- [cf1538a0](https://github.com/stashed/stash/commit/cf1538a0) Use filepath.Join to generate Repository prefix for BackupBatch (#1120)
+- [be189169](https://github.com/stashed/stash/commit/be189169) Go back to using engineerd/setup-kind
+- [ae2d74fa](https://github.com/stashed/stash/commit/ae2d74fa) Update dependencies (#1117)
+- [a93a5b4c](https://github.com/stashed/stash/commit/a93a5b4c) Remove defaults from CRD v1beta1 (#1116)
+- [40e65761](https://github.com/stashed/stash/commit/40e65761) Use CRD v1 for Kubernetes >= 1.16 (#1115)
+- [7d851e53](https://github.com/stashed/stash/commit/7d851e53) Merge pull request #1114 from stashed/x7
+- [352ddeed](https://github.com/stashed/stash/commit/352ddeed) Use preinstalled kind
+- [11c9e422](https://github.com/stashed/stash/commit/11c9e422) Pass context
+- [21053603](https://github.com/stashed/stash/commit/21053603) Update to Kubernetes 1.18.3
+- [f450e9cc](https://github.com/stashed/stash/commit/f450e9cc) Add wait for target logic + add conditions for BackupConfiguration + BackupBatch + RestoreSession (#1108)
+- [8f8ff87e](https://github.com/stashed/stash/commit/8f8ff87e) Fix volume snapshot job cleanup (#1090)
+- [a4a868b5](https://github.com/stashed/stash/commit/a4a868b5) Merge pull request #1111 from stashed/fix-interimVolume
+- [108d0252](https://github.com/stashed/stash/commit/108d0252) Set BackupSession as owner of the pvc created from interimVolumeTemplate
+- [fd136c53](https://github.com/stashed/stash/commit/fd136c53) Use Go 1.14.3
+- [74c71d22](https://github.com/stashed/stash/commit/74c71d22) Update crazy-max/ghaction-docker-buildx flag
+- [f783899b](https://github.com/stashed/stash/commit/f783899b) Trigger the workflow on push to master
+- [e7eceb30](https://github.com/stashed/stash/commit/e7eceb30) Trigger the workflow on push or pull request
+- [fe479e8c](https://github.com/stashed/stash/commit/fe479e8c) Use kind v0.8.0
+- [9fc4665a](https://github.com/stashed/stash/commit/9fc4665a) Merge pull request #1093 from robotinfra/master
+- [ef2d57e3](https://github.com/stashed/stash/commit/ef2d57e3) fix typo succesSfully
+- [d8d35c49](https://github.com/stashed/stash/commit/d8d35c49) fix event types mismatch
+- [53dfe8b0](https://github.com/stashed/stash/commit/53dfe8b0) Update stash labels in Makefile
+- [c8081c1d](https://github.com/stashed/stash/commit/c8081c1d) Pass image pull secrets to helm chart
+- [37b9b312](https://github.com/stashed/stash/commit/37b9b312) Use Go 1.14.2 (#1074)
+- [09621974](https://github.com/stashed/stash/commit/09621974) Update K8s version 1.14.6 to 1.14.10 (#1084)
+- [8a1ab32c](https://github.com/stashed/stash/commit/8a1ab32c) Give backup triggering CronJob all permissions for Stash crds (#1083)
+- [53b932b1](https://github.com/stashed/stash/commit/53b932b1) Use kubectl 1.17 (#1082)
+- [5cdeebee](https://github.com/stashed/stash/commit/5cdeebee) Fix nil pointer exception during VolumeSnapshot (#1073)
+- [30630d60](https://github.com/stashed/stash/commit/30630d60) Assign returned error properly crateRestoreSessoin() (#1069)
+- [3fcbe1b7](https://github.com/stashed/stash/commit/3fcbe1b7) Update README.md to reflect Stash's capability properly (#1060)
+- [53513cfe](https://github.com/stashed/stash/commit/53513cfe) Update README.md
+- [d615e2c0](https://github.com/stashed/stash/commit/d615e2c0) Add license scan report and status (#1031)
+- [473dab81](https://github.com/stashed/stash/commit/473dab81) Use stash.appscode.dev/apimachinery@v0.9.0-rc.6
+- [81be166a](https://github.com/stashed/stash/commit/81be166a) Use stash.appscode.dev/apimachinery (#1051)
+- [99dcf0a5](https://github.com/stashed/stash/commit/99dcf0a5) Add support for specifying "region" for S3 backend (#1050)
+- [deeaaafe](https://github.com/stashed/stash/commit/deeaaafe) Fix event message (#1048)
+- [7bb2ae55](https://github.com/stashed/stash/commit/7bb2ae55) Merge pull request #1047 from stashed/rm-fsgroup
+- [a7c3a60b](https://github.com/stashed/stash/commit/a7c3a60b) Remove defaulting FSGroup
+- [49bf689d](https://github.com/stashed/stash/commit/49bf689d) Fix Repository CRDs print column (#1046)
+- [feb204be](https://github.com/stashed/stash/commit/feb204be) Update README.md to v0.9.0-rc.4
+- [ba1733eb](https://github.com/stashed/stash/commit/ba1733eb) Don't check if target exist from BackupSession creating CronJob (#1028)
+- [ddc65ceb](https://github.com/stashed/stash/commit/ddc65ceb) Fix ServiceAccount name mitchmatch (#1025)
+- [013e5254](https://github.com/stashed/stash/commit/013e5254) Suspend CronJob but keep instant backup working while backup is paused (#1024)
+- [64f75bb7](https://github.com/stashed/stash/commit/64f75bb7) Add stash specific prefix to automatically created resources (#1023)
+- [d44e0ae2](https://github.com/stashed/stash/commit/d44e0ae2) Fix CronJob creation failure handling (#1021)
+- [b2640d36](https://github.com/stashed/stash/commit/b2640d36) Use Go 1.13.6
+- [1eb8da6e](https://github.com/stashed/stash/commit/1eb8da6e) Update gendocs command (#1016)
+- [6f7c8191](https://github.com/stashed/stash/commit/6f7c8191) Add hook tests for BackupBatch (#1014)
+- [84272af9](https://github.com/stashed/stash/commit/84272af9) check nil pointer error (#1015)
+- [36ef1d2b](https://github.com/stashed/stash/commit/36ef1d2b) Enable tests for K8s 1.11 (#1013)
+- [7c774d77](https://github.com/stashed/stash/commit/7c774d77) Fix backup-batch issues (#1004)
+- [5bf1e2c2](https://github.com/stashed/stash/commit/5bf1e2c2) Bring back support for k8s 1.11 (#1008)
+- [d6e0fe4b](https://github.com/stashed/stash/commit/d6e0fe4b) Remove creationTimestamp from PartialObjectMeta (#1006)
+- [6ae79134](https://github.com/stashed/stash/commit/6ae79134) Add BackupBatch support (#985)
+- [ed42b159](https://github.com/stashed/stash/commit/ed42b159) Update twitter account (#1003)
+- [c8513185](https://github.com/stashed/stash/commit/c8513185) Add Repository Validation for local backend `mountPath` (#947)
+- [11f4c5e2](https://github.com/stashed/stash/commit/11f4c5e2) Fix invalid flag name for PVC restorer job (#960)
+- [93358115](https://github.com/stashed/stash/commit/93358115) Add Backend e2e Test (#975)
+- [ca688540](https://github.com/stashed/stash/commit/ca688540) Update client-go to kubernetes-1.16.3 (#987)
+- [e18f30dd](https://github.com/stashed/stash/commit/e18f30dd) Use RWX for restic output.json (#1001)
+- [4d9cdbc8](https://github.com/stashed/stash/commit/4d9cdbc8) Run `chmod` on `output.json` only by owner container + Improve… (#1000)
+- [8378f141](https://github.com/stashed/stash/commit/8378f141) Add Backup and Restore hooks (#978)
+- [a4dd1a1d](https://github.com/stashed/stash/commit/a4dd1a1d) Use helm chart instead of script to install operator (#999)
+- [ec5c9efd](https://github.com/stashed/stash/commit/ec5c9efd) Update hack/fmt.sh script
+- [54dbef4c](https://github.com/stashed/stash/commit/54dbef4c) Add helper library for CRDs (#977)
+- [16483ce1](https://github.com/stashed/stash/commit/16483ce1) Use kubebuilder generated CRD yamls (#971)
+- [eacba300](https://github.com/stashed/stash/commit/eacba300) Fix typo (#976)
+- [dd500b08](https://github.com/stashed/stash/commit/dd500b08) Use controller-tools@v0.2.2 to generate structural schema (#974)
+- [53331837](https://github.com/stashed/stash/commit/53331837) Migrate Repository status.size, Recovery status.observedGeneration (#969)
+- [69ef388b](https://github.com/stashed/stash/commit/69ef388b) Generate protobuf files for api types (#967)
+- [decea34f](https://github.com/stashed/stash/commit/decea34f) Fix Repository returned error message (#961)
+- [5a9e0356](https://github.com/stashed/stash/commit/5a9e0356) Apply valid name functionality (#950)
+- [122ed35f](https://github.com/stashed/stash/commit/122ed35f) Test installer against multiple k8s version (#953)
+- [63cfc0f9](https://github.com/stashed/stash/commit/63cfc0f9) Format shell scripts (#952)
+- [c77dfcd4](https://github.com/stashed/stash/commit/c77dfcd4) Add missing license header
+- [780fd2cb](https://github.com/stashed/stash/commit/780fd2cb) Rename Dockerfiles (#946)
+- [dc34560a](https://github.com/stashed/stash/commit/dc34560a) Add AutoBackup e2e test (#939)
+- [6979ff8b](https://github.com/stashed/stash/commit/6979ff8b) Enable race detector (#944)
+- [69acf528](https://github.com/stashed/stash/commit/69acf528) Add license header to files (#943)
+- [b2636f8b](https://github.com/stashed/stash/commit/b2636f8b) Don't add AppBinding labels in metric when AppBinding is not available (#942)
+- [18e1ab7e](https://github.com/stashed/stash/commit/18e1ab7e) Fix BackupSession creation for ReplicaSet (#940)
+- [8ce4ab86](https://github.com/stashed/stash/commit/8ce4ab86) Fix klog flag parsing
+- [efd614f9](https://github.com/stashed/stash/commit/efd614f9) Revendor
+- [f3fa386f](https://github.com/stashed/stash/commit/f3fa386f) Use crazy-max/ghaction-docker-buildx@v1
+- [5cc99c53](https://github.com/stashed/stash/commit/5cc99c53) Show diff when files `make verify` fails (#937)
+- [d20892dd](https://github.com/stashed/stash/commit/d20892dd) Update make fmt
+- [fc827b84](https://github.com/stashed/stash/commit/fc827b84) Split imports into 3 blocks (#936)
+- [269527cf](https://github.com/stashed/stash/commit/269527cf) Volume e2e test github action (#933)
+- [926dcd20](https://github.com/stashed/stash/commit/926dcd20) Fix BackupSession additional print column (#932)
+- [f052f7a2](https://github.com/stashed/stash/commit/f052f7a2) Remove spec.backupConfiguration from BackupSession (#931)
+- [d378ef2d](https://github.com/stashed/stash/commit/d378ef2d) Update e2e tests to run on GitHub actions (#917)
+- [bc27645c](https://github.com/stashed/stash/commit/bc27645c) Enable make ci (#928)
+- [9ef3cfeb](https://github.com/stashed/stash/commit/9ef3cfeb) Don't restart workload on backup pause+Use ImagePullPolicy: "Always" for Function-Task model (#929)
+- [a5f00836](https://github.com/stashed/stash/commit/a5f00836) Add status.observedGeneration (#927)
+- [57eadd03](https://github.com/stashed/stash/commit/57eadd03) Implement RetentionPolicy for VolumeSnapshot (#926)
+- [db709fdc](https://github.com/stashed/stash/commit/db709fdc) Verify generated files are up to date (#925)
+- [5fb54194](https://github.com/stashed/stash/commit/5fb54194) Update and rename go.yml to ci.yml (#922)
+- [0be34c5e](https://github.com/stashed/stash/commit/0be34c5e) Add probe and BackupBatch api (#890)
+- [a55b6e84](https://github.com/stashed/stash/commit/a55b6e84) Use core package from k8s.io/api repo (#921)
+- [f5a271be](https://github.com/stashed/stash/commit/f5a271be) Bring back dependency to github.com/golang/protobuf@v1.2.0 (#918)
+- [5dfeecbc](https://github.com/stashed/stash/commit/5dfeecbc) Update tag pattern for release pipeline
+- [e31f5e9a](https://github.com/stashed/stash/commit/e31f5e9a) Run e2e tests using GitHub actions (#909)
+- [8bb3ef36](https://github.com/stashed/stash/commit/8bb3ef36) Add app=stash label to crd yamls
+- [b50b47c9](https://github.com/stashed/stash/commit/b50b47c9) Generate swagger.json for v1beta1 (#916)
+- [095a4a6c](https://github.com/stashed/stash/commit/095a4a6c) Add release pipeline (#915)
+- [66926055](https://github.com/stashed/stash/commit/66926055) Fix Restore PVC using Task Function method (#897)
+- [404840e4](https://github.com/stashed/stash/commit/404840e4) Fix VolumeSnapshot Issues (#912)
+- [7f3b2250](https://github.com/stashed/stash/commit/7f3b2250) Add Kubebuilder annotations (#911)
+- [0a499f13](https://github.com/stashed/stash/commit/0a499f13) Use kubebuilder to generate crd yamls (#843)
+- [4903508f](https://github.com/stashed/stash/commit/4903508f) Update go.yml
+- [23c44bc0](https://github.com/stashed/stash/commit/23c44bc0) Introduce InterimVolumeTemplate and BackupHistoryLimit field. (#907)
+- [4ee56d63](https://github.com/stashed/stash/commit/4ee56d63) Make RetentionPolicy required in v1beta1 api (#905)
+- [5476cd7a](https://github.com/stashed/stash/commit/5476cd7a) Enable GitHub actions (#903)
+- [fe87b789](https://github.com/stashed/stash/commit/fe87b789) Fix snapshot listing for local backend (#902)
+- [5f49f5d2](https://github.com/stashed/stash/commit/5f49f5d2) Improve Error Handling + Code refactor (#891)
+- [88c84275](https://github.com/stashed/stash/commit/88c84275) Add `NICE` and `IONICE` into distroless image (#883)
+- [f63d5c1a](https://github.com/stashed/stash/commit/f63d5c1a) Improve metrics handling + make update status uniform (#872)
+- [ea68de24](https://github.com/stashed/stash/commit/ea68de24) Use default fsGroup: 65535 (#874)
+- [9bbcabab](https://github.com/stashed/stash/commit/9bbcabab) Add DumpEnv func to Restic Config file (#870)
+- [ebde15db](https://github.com/stashed/stash/commit/ebde15db) Allow to specify subPath in auto-backup annotation (#871)
+- [6c127323](https://github.com/stashed/stash/commit/6c127323) Silence docker buildx command (#866)
+- [5c47abc3](https://github.com/stashed/stash/commit/5c47abc3) Update README.md (#865)
+- [50f69ffe](https://github.com/stashed/stash/commit/50f69ffe) Use docker buildx to build docker image (#864)
+- [d8c0b1d8](https://github.com/stashed/stash/commit/d8c0b1d8) Update version in gendocs script
+- [cb972a98](https://github.com/stashed/stash/commit/cb972a98) Use github.com/Azure/go-autorest/autorest@v0.7.0 (#862)
+- [ae5c1325](https://github.com/stashed/stash/commit/ae5c1325) Remove the `bs` short name for BackupSession (#859)
+- [1c01d69d](https://github.com/stashed/stash/commit/1c01d69d) Use github.com/golang/protobuf@v1.2.0 (#855)
+- [998fac02](https://github.com/stashed/stash/commit/998fac02) New variable from type field of AppBinding + Fix RoleBinding nam… (#845)
+- [b97b7622](https://github.com/stashed/stash/commit/b97b7622) Fix resolving Task if volumeClaimTemplate is set in RestoreSession(#852)
+- [4ec6caf8](https://github.com/stashed/stash/commit/4ec6caf8) Rename BackupConfigurationTemplate to BackupBlueprint (#847)
+- [d8efb120](https://github.com/stashed/stash/commit/d8efb120) Use POD_ORDINAL env var to restore using PVC template (#849)
+- [8df5be99](https://github.com/stashed/stash/commit/8df5be99) Pass replicas from RestoreSession to Function (#848)
+- [ae5eabd4](https://github.com/stashed/stash/commit/ae5eabd4) Use variable for version in BackupConfigurationTemplate name (#846)
+- [fe5b2049](https://github.com/stashed/stash/commit/fe5b2049) Fix Platforms Issue (#844)
+- [33fc37cd](https://github.com/stashed/stash/commit/33fc37cd) Add support to restore using volumeClaimTemplate in Function-Task model (#841)
+- [3de534ba](https://github.com/stashed/stash/commit/3de534ba) Add GetSnapshotSize() function (#839)
+- [6bc80ce2](https://github.com/stashed/stash/commit/6bc80ce2) Fix travis build (#837)
+- [1c51a7c5](https://github.com/stashed/stash/commit/1c51a7c5) Add support for parallel backup & restore (#833)
+- [e250bb62](https://github.com/stashed/stash/commit/e250bb62) Fix RestoreSession replicas logic (#835)
+- [37618091](https://github.com/stashed/stash/commit/37618091) Use cron.ParseStandard helper
+- [5015a60d](https://github.com/stashed/stash/commit/5015a60d) Update azure-sdk-for-go dependencies (#836)
+- [920dfaea](https://github.com/stashed/stash/commit/920dfaea) Update github.com/appscode/go@master
+- [ca2fad07](https://github.com/stashed/stash/commit/ca2fad07) Use robfig/cron@v3 (#834)
+- [95728126](https://github.com/stashed/stash/commit/95728126) Fix restore Job parallel execution (#832)
+- [94cbae13](https://github.com/stashed/stash/commit/94cbae13) Remove unused code (#829)
+- [4dc11263](https://github.com/stashed/stash/commit/4dc11263) Generate docs files inside docs repo (#828)
+- [6fb5bc7f](https://github.com/stashed/stash/commit/6fb5bc7f) Create default Functions and Tasks from operator (#824)
+- [bb675f67](https://github.com/stashed/stash/commit/bb675f67) Fix restore job RBAC (#821)
+- [f96852fc](https://github.com/stashed/stash/commit/f96852fc) Fixed volumeSnapshot Error Issue (#819)
+- [08b0f50f](https://github.com/stashed/stash/commit/08b0f50f) fix default securityContext passing to restore init-container/job + fix container name (#823)
+- [4aa94675](https://github.com/stashed/stash/commit/4aa94675) Add License notice to makefile (#825)
+- [955b1adb](https://github.com/stashed/stash/commit/955b1adb) Make --image-tag a required flag. (#817)
+- [9ca08aa6](https://github.com/stashed/stash/commit/9ca08aa6) Always attempt to pull a newer image for `make container` (#818)
+- [b88cb9dc](https://github.com/stashed/stash/commit/b88cb9dc) Update constants.go
+- [aa0c41f4](https://github.com/stashed/stash/commit/aa0c41f4) Add PusgatewayURL input for Functions (#816)
+- [0a45b44a](https://github.com/stashed/stash/commit/0a45b44a) Restore PVCs from templates using Restic (#809)
+- [0729ab19](https://github.com/stashed/stash/commit/0729ab19) Add TARGET_RESOURCE  variable for BackupConfigurationTemplate (#814)
+- [bab795c2](https://github.com/stashed/stash/commit/bab795c2) Add make install, uninstall, purge commands (#813)
+- [604af0d5](https://github.com/stashed/stash/commit/604af0d5) Move chart & deploy scripts to github.com/stashed/installer (#811)
+- [521f441b](https://github.com/stashed/stash/commit/521f441b) Use stashed/docs repo
+- [4c89667d](https://github.com/stashed/stash/commit/4c89667d) Move docs to github.com/stashed/docs repo (#810)
+- [e6614482](https://github.com/stashed/stash/commit/e6614482) Fix travis build (#804)
+- [d8f565f4](https://github.com/stashed/stash/commit/d8f565f4) Pass labels to offshoot + add generic offshoot labels (#801)
+- [eadca45d](https://github.com/stashed/stash/commit/eadca45d) Move HandleResticError to util package (#806)
+- [df42b83f](https://github.com/stashed/stash/commit/df42b83f) Remove canary support (#805)
+- [82614d32](https://github.com/stashed/stash/commit/82614d32) Update Version.go (#803)
+- [74453ad8](https://github.com/stashed/stash/commit/74453ad8) Added ARM64 support to the install script and manifest (#802)
+- [24ece6cc](https://github.com/stashed/stash/commit/24ece6cc) Load modules from vendor folder for linter
+- [2672ee05](https://github.com/stashed/stash/commit/2672ee05) Add Makefile (#800)
+- [ac829f30](https://github.com/stashed/stash/commit/ac829f30) VolumeSnapshot (#787)
+- [a8f3172f](https://github.com/stashed/stash/commit/a8f3172f) Remove importance of order of rule in RestoreSession (#795)
+- [886649ed](https://github.com/stashed/stash/commit/886649ed) Skip BackupSession creation if target does not exist + use timestamp … (#797)
+- [f038d86e](https://github.com/stashed/stash/commit/f038d86e) Use absolute path as aliases for reference docs. (#796)
+- [b9100307](https://github.com/stashed/stash/commit/b9100307) Support PSP enabled cluster (#729)
+- [e94399dc](https://github.com/stashed/stash/commit/e94399dc) Use restic 0.9.5 (#789)
+- [e962a1c4](https://github.com/stashed/stash/commit/e962a1c4) Fix: User and group creation of stash for mongodb and mysql (#786)
+- [228df5a3](https://github.com/stashed/stash/commit/228df5a3) Update concept doc (#739)
+- [de9536cd](https://github.com/stashed/stash/commit/de9536cd) Update backup manager (#782)
+- [739273a5](https://github.com/stashed/stash/commit/739273a5) Configure Env variables for Functions (#780)
+- [c49b24f6](https://github.com/stashed/stash/commit/c49b24f6) Add support for backup cluster resources YAML (#721)
+- [91bce2fd](https://github.com/stashed/stash/commit/91bce2fd) Add "Supported Backends" doc to new guides (#756)
+- [a8ef2d36](https://github.com/stashed/stash/commit/a8ef2d36) Fix rest backend for workloads + add more authentication method for swift backend (#778)
+- [775b6660](https://github.com/stashed/stash/commit/775b6660) Backup and restore Elasticsearch (#702)
+- [0fbb9c75](https://github.com/stashed/stash/commit/0fbb9c75) Add guides template for new design (#755)
+- [03689414](https://github.com/stashed/stash/commit/03689414) Update package path to stash.appscode.dev/stash (#776)
+- [639d499f](https://github.com/stashed/stash/commit/639d499f) Update to k8s 1.14.0 client libraries using go.mod (#775)
+- [9ba906d8](https://github.com/stashed/stash/commit/9ba906d8) MutatingWebhooks must be without side-effect (#773)
+- [937012d5](https://github.com/stashed/stash/commit/937012d5) Introduce VolumeSnapshot APIs (#772)
+- [2b0f0560](https://github.com/stashed/stash/commit/2b0f0560) Use osm pkg from kmodules/objectstore-api (#770)
+- [cd9f6ad6](https://github.com/stashed/stash/commit/cd9f6ad6) Remove --rbac flag (#761)
+- [09af5d31](https://github.com/stashed/stash/commit/09af5d31) Skip creating/processing backup-session when backup-config is paused (#759)
+- [99753f73](https://github.com/stashed/stash/commit/99753f73) Fix go fmt
+- [64bb9bdd](https://github.com/stashed/stash/commit/64bb9bdd) Stash v1beta1 E2E test for PVC (#753)
+- [bcf8b90d](https://github.com/stashed/stash/commit/bcf8b90d) Implement snapshots for v1beta1 api (#749)
+- [3f0ae2d4](https://github.com/stashed/stash/commit/3f0ae2d4) Run restic commands using docker (#754)
+- [17feb41c](https://github.com/stashed/stash/commit/17feb41c) Update Kubernetes client libraries to 1.13.5 (#752)
+- [2d413ee0](https://github.com/stashed/stash/commit/2d413ee0) Stash v1beta1 E2E test for ReplicaSet  (#747)
+- [80b2b3d9](https://github.com/stashed/stash/commit/80b2b3d9) Enable pipefail and update restore yamls (#750)
+- [c908df9f](https://github.com/stashed/stash/commit/c908df9f) Stash v1beta1 E2E test for ReplicationController (#742)
+- [82c17eaf](https://github.com/stashed/stash/commit/82c17eaf) Fixed scratch-dir, output-dir and hostname in functions/tasks yamls (#744)
+- [d113b24f](https://github.com/stashed/stash/commit/d113b24f) Add Stash CLI (#734)
+- [286792a6](https://github.com/stashed/stash/commit/286792a6) Stash v1beta1 E2E test for DaemonSet (#741)
+- [62960e5b](https://github.com/stashed/stash/commit/62960e5b) Apply nice/ionice settings from env (#746)
+- [a2534c97](https://github.com/stashed/stash/commit/a2534c97) Stash V1beta1 E2E test for StatefulSet (#737)
+- [37087b38](https://github.com/stashed/stash/commit/37087b38) Stash V1beta1 E2E test for Deployment (#710)
+- [c08f04e4](https://github.com/stashed/stash/commit/c08f04e4) Attach local backend (#736)
+- [7a282d91](https://github.com/stashed/stash/commit/7a282d91) Fix openapi path prefixes for validators and mutators (#732)
+- [a8aef590](https://github.com/stashed/stash/commit/a8aef590) Add max-connections for GCS, Azure, B2 backend (#730)
+- [dd3f459c](https://github.com/stashed/stash/commit/dd3f459c) Rename admission webhooks to avoid name collision (#725)
+- [a32ceff5](https://github.com/stashed/stash/commit/a32ceff5) Apply EmptyDir settings to TmpDir (#719)
+- [36fdb9ae](https://github.com/stashed/stash/commit/36fdb9ae) Use FailurePolicy ignore for K8s resource webhooks (#726)
+- [4cab69a0](https://github.com/stashed/stash/commit/4cab69a0) Don't write secret data inside temp dir (#724)
+- [e2bcc4a8](https://github.com/stashed/stash/commit/e2bcc4a8) Use ionice and nice with Restic CMD (#716)
+- [bf91db4e](https://github.com/stashed/stash/commit/bf91db4e) Use cleanup-cache flag (#717)
+- [f2669f17](https://github.com/stashed/stash/commit/f2669f17) Add TempDir and PSP settings for Function (#720)
+- [dfc3fbd6](https://github.com/stashed/stash/commit/dfc3fbd6) Add support for rest backend (#713)
+- [47cf2dd4](https://github.com/stashed/stash/commit/47cf2dd4) Add support for OpenShift DeploymentConfig (#714)
+- [8c2b81b0](https://github.com/stashed/stash/commit/8c2b81b0) Backup and restore Mongo DB (#699)
+- [2849319a](https://github.com/stashed/stash/commit/2849319a) Backup and restore MySQL DB (#696)
+- [49fe8404](https://github.com/stashed/stash/commit/49fe8404) Backup and restore Postgres DB (#695)
+- [dbff05f6](https://github.com/stashed/stash/commit/dbff05f6) Backup from stdin and dump to stdout (#694)
+- [08ff2fa5](https://github.com/stashed/stash/commit/08ff2fa5) Add BackupSession Controller for Sidecar (#701)
+- [83f1c6e5](https://github.com/stashed/stash/commit/83f1c6e5) Update workload controller for new design (#675)
+- [13fb68bd](https://github.com/stashed/stash/commit/13fb68bd)  Post backup/restore status update (#691)
+- [30993c08](https://github.com/stashed/stash/commit/30993c08) Backup and restore PVC (#676)
+- [7bdf0752](https://github.com/stashed/stash/commit/7bdf0752) Resolve tasks for backup/restore sessions (#674)
+- [6a74602a](https://github.com/stashed/stash/commit/6a74602a) Add restic wrapper library (#673)
+- [7b8309a5](https://github.com/stashed/stash/commit/7b8309a5) Add BackupConfiguration Controller (#671)
+- [6f6c25d1](https://github.com/stashed/stash/commit/6f6c25d1) Use ContainerRuntimeSettings in Function spec (#689)
+- [4d80cf6b](https://github.com/stashed/stash/commit/4d80cf6b) Update Kubernetes client libraries to 1.13.0 (#687)
+- [361d4ad3](https://github.com/stashed/stash/commit/361d4ad3) Fix v1beta1 api for BackupConfigurationTemplate (#688)
+- [302311af](https://github.com/stashed/stash/commit/302311af) Introduce v1beta1 api (#647)
+
+
+
