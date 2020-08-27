@@ -2120,6 +2120,141 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.10.0](https://github.com/stashed/installer/releases/tag/v0.10.0)
+
+- [cc6a53e](https://github.com/stashed/installer/commit/cc6a53e) Prepare for release v0.10.0 (#93)
+- [7d5e440](https://github.com/stashed/installer/commit/7d5e440) Prepare for release v0.10.0-rc.2 (#92)
+- [f4cae9f](https://github.com/stashed/installer/commit/f4cae9f) Upload charts without updating index
+- [90d9c52](https://github.com/stashed/installer/commit/90d9c52) Update Kubernetes v1.18.3 dependencies (#91)
+- [037a349](https://github.com/stashed/installer/commit/037a349) Prepare for release v0.10.0-rc.1 (#90)
+- [f94e175](https://github.com/stashed/installer/commit/f94e175) Correctly pass license to CI workflow
+- [9f6539d](https://github.com/stashed/installer/commit/9f6539d) Update stash-enterprise chart version
+- [5904e2c](https://github.com/stashed/installer/commit/5904e2c) Update README.md
+- [d3d30cc](https://github.com/stashed/installer/commit/d3d30cc) Add link to the steps to get a license (#89)
+- [1fb05d9](https://github.com/stashed/installer/commit/1fb05d9) Issue license for testing enterprise charts (#88)
+- [6018270](https://github.com/stashed/installer/commit/6018270) Prepare for release v0.10.0-rc.0 (#87)
+- [9da1502](https://github.com/stashed/installer/commit/9da1502) Port changes from enterprise version (#85)
+- [0838112](https://github.com/stashed/installer/commit/0838112) Add offline license verification (#84)
+- [d869f33](https://github.com/stashed/installer/commit/d869f33) Always give use permission for baseline psp to operator (#83)
+- [d1e0142](https://github.com/stashed/installer/commit/d1e0142) Support Snapshot listing for NFS backend without workload running (#80)
+- [53bab27](https://github.com/stashed/installer/commit/53bab27) Pass imagePullSecrets as operator flag (#71)
+- [4e3a984](https://github.com/stashed/installer/commit/4e3a984) Update to Kubernetes v1.18.3 (#79)
+- [6e57dd4](https://github.com/stashed/installer/commit/6e57dd4) Update to Kubernetes v1.18.3 (#78)
+- [5c681fe](https://github.com/stashed/installer/commit/5c681fe) Update to Kubernetes v1.18.3 (#77)
+- [c268a57](https://github.com/stashed/installer/commit/c268a57) Make chart registry configurable
+- [bed8319](https://github.com/stashed/installer/commit/bed8319) Prepare for release v0.10.0-beta.1 (#76)
+- [cd44ba9](https://github.com/stashed/installer/commit/cd44ba9) Prepare for release v0.10.0-beta.0 (#75)
+- [a04e173](https://github.com/stashed/installer/commit/a04e173) Publish to testing dir for alpha/beta releases
+- [4b23e1c](https://github.com/stashed/installer/commit/4b23e1c) Update License (#74)
+- [9b7a4e0](https://github.com/stashed/installer/commit/9b7a4e0) Update to Kubernetes v1.18.3 (#72)
+- [4318306](https://github.com/stashed/installer/commit/4318306) Update ci.yml
+- [15d1594](https://github.com/stashed/installer/commit/15d1594) Fix Stash Enterprise installer (#70)
+- [31c9dcc](https://github.com/stashed/installer/commit/31c9dcc) Tag chart and app version as string for yq (#69)
+- [1782049](https://github.com/stashed/installer/commit/1782049) Update links (#68)
+- [634da4d](https://github.com/stashed/installer/commit/634da4d) Update update-release-tracker.sh
+- [1155610](https://github.com/stashed/installer/commit/1155610) Update update-release-tracker.sh
+- [1b10b5e](https://github.com/stashed/installer/commit/1b10b5e) Add script to update release tracker on pr merge (#67)
+- [ce0b28e](https://github.com/stashed/installer/commit/ce0b28e) Update release workflow
+- [c3ac668](https://github.com/stashed/installer/commit/c3ac668) Update ci.yml
+- [98bad7e](https://github.com/stashed/installer/commit/98bad7e) Add Stash Enterprise chart (#63)
+- [73f52a6](https://github.com/stashed/installer/commit/73f52a6) Add commands to update chart (#65)
+- [0dc7f91](https://github.com/stashed/installer/commit/0dc7f91) Fix chart release process (#64)
+- [0d5c4e1](https://github.com/stashed/installer/commit/0d5c4e1) Update .kodiak.toml
+- [3b53e64](https://github.com/stashed/installer/commit/3b53e64) Update to Kubernetes v1.18.3 (#58)
+- [43c5dbe](https://github.com/stashed/installer/commit/43c5dbe) Update to Kubernetes v1.18.3
+- [b9e784c](https://github.com/stashed/installer/commit/b9e784c) Create .kodiak.toml
+- [b30b3b0](https://github.com/stashed/installer/commit/b30b3b0) Merge pull request #57 from stashed/psp
+- [1b89401](https://github.com/stashed/installer/commit/1b89401) Disable apparmor and seccomp by default
+- [6bed1aa](https://github.com/stashed/installer/commit/6bed1aa) Pass psp names for the jobs through flag
+- [bd35d81](https://github.com/stashed/installer/commit/bd35d81) Always use baseline psp for stash
+- [4e3474a](https://github.com/stashed/installer/commit/4e3474a) Add RBAC permission for generic-garbage-collector (#56)
+- [be006f6](https://github.com/stashed/installer/commit/be006f6) Permit configmap list/watch -ing for delegated authentication checking (#55)
+- [5685c15](https://github.com/stashed/installer/commit/5685c15) Update dependencies
+- [8b7b805](https://github.com/stashed/installer/commit/8b7b805) Update dependencies
+- [d2b2b09](https://github.com/stashed/installer/commit/d2b2b09) Generate both v1beta1 and v1 CRD YAML (#54)
+- [7fbcb29](https://github.com/stashed/installer/commit/7fbcb29) Update to Kubernetes v1.18.3 (#53)
+- [88e5e8c](https://github.com/stashed/installer/commit/88e5e8c) Use Go 1.14.3
+- [8e56cb1](https://github.com/stashed/installer/commit/8e56cb1) Trigger build on push to only master branch
+- [562caf8](https://github.com/stashed/installer/commit/562caf8) Use recommended kubernetes app labels (#52)
+- [cc55e5a](https://github.com/stashed/installer/commit/cc55e5a) Trigger the workflow on push or pull request
+- [fd8acf5](https://github.com/stashed/installer/commit/fd8acf5) Update chart readme
+- [672f37e](https://github.com/stashed/installer/commit/672f37e) Show examples in chart readme
+- [39f4ca1](https://github.com/stashed/installer/commit/39f4ca1) Auto generate chart readme file (#50)
+- [47f4250](https://github.com/stashed/installer/commit/47f4250) Update release.yml
+- [b68d9cb](https://github.com/stashed/installer/commit/b68d9cb) Cleanup newlines
+- [20d51b0](https://github.com/stashed/installer/commit/20d51b0) Reformat stash chart template (#49)
+- [65f8bee](https://github.com/stashed/installer/commit/65f8bee) Use kubectl v1.16 as cleaner (#48)
+- [85a7cfd](https://github.com/stashed/installer/commit/85a7cfd) Rename prometheus.io/coreos-operator to prometheus.io/operator (#47)
+- [b042def](https://github.com/stashed/installer/commit/b042def) Move apireg annotation to operator pod (#46)
+- [a543953](https://github.com/stashed/installer/commit/a543953) Various cleanup (#44)
+- [b6e2bec](https://github.com/stashed/installer/commit/b6e2bec) Fix helm install --wait flag (#42)
+- [806aada](https://github.com/stashed/installer/commit/806aada) Do not harcode namespace (#40)
+- [a2713aa](https://github.com/stashed/installer/commit/a2713aa) Add release script to upload charts (#39)
+- [57f829a](https://github.com/stashed/installer/commit/57f829a) Prepare charts for v0.9.0-rc.6 release (#38)
+- [72e0aff](https://github.com/stashed/installer/commit/72e0aff) Properly mark optional fields (#37)
+- [388fcc0](https://github.com/stashed/installer/commit/388fcc0) Update chart readme
+- [8595fa6](https://github.com/stashed/installer/commit/8595fa6) Properly mark options fields. (#36)
+- [4c491b6](https://github.com/stashed/installer/commit/4c491b6) Prepare v0.9.0-rc.4 release (#35)
+- [79f59b6](https://github.com/stashed/installer/commit/79f59b6) Allow specifying rather than generating certs (#34)
+- [23a9b97](https://github.com/stashed/installer/commit/23a9b97) Test against k8s 1.11
+- [a0b9659](https://github.com/stashed/installer/commit/a0b9659) Bring back support for k8s 1.11 (#33)
+- [c753211](https://github.com/stashed/installer/commit/c753211) Change minimum k8s req to 1.12 and use helm 3 in chart readme (#32)
+- [3dec466](https://github.com/stashed/installer/commit/3dec466) Update twitter account
+- [3ab35e3](https://github.com/stashed/installer/commit/3ab35e3) Delete orphaned apiservice (#31)
+- [a9c33b3](https://github.com/stashed/installer/commit/a9c33b3) Delete script based installer (#30)
+- [2d9ea3d](https://github.com/stashed/installer/commit/2d9ea3d) Pass imagePullSecrets via service account (#29)
+- [04f65d8](https://github.com/stashed/installer/commit/04f65d8) Add endpoint get permission (#26)
+- [e5a3418](https://github.com/stashed/installer/commit/e5a3418) Use helm 3 for chart testing (#28)
+- [19fa9b6](https://github.com/stashed/installer/commit/19fa9b6) Move chart Vaules of the root of the spec. (#27)
+- [26fcf6c](https://github.com/stashed/installer/commit/26fcf6c) Use int32 for Stash operator installer CRD
+- [f41c997](https://github.com/stashed/installer/commit/f41c997) Update license headers
+- [baa751a](https://github.com/stashed/installer/commit/baa751a) Run fuzz tests for generated API schemas (#25)
+- [b92981a](https://github.com/stashed/installer/commit/b92981a) Update client-go to kubernetes-1.16.3 (#24)
+- [310e243](https://github.com/stashed/installer/commit/310e243) Fix #981 RBAC permissions missing from chart (#22)
+- [77703f3](https://github.com/stashed/installer/commit/77703f3) Properly handle empty image pull secret name in installer (#23)
+- [31b4634](https://github.com/stashed/installer/commit/31b4634) Update swagger.json
+- [9425820](https://github.com/stashed/installer/commit/9425820) Update Chart.yaml
+- [74abc6e](https://github.com/stashed/installer/commit/74abc6e) Add StashOperator crd (#17)
+- [c0ff647](https://github.com/stashed/installer/commit/c0ff647) Fix rbac permission for PVC in chart (#20)
+- [51a712b](https://github.com/stashed/installer/commit/51a712b) Test against multiple k8s version (#19)
+- [2afb705](https://github.com/stashed/installer/commit/2afb705) Update icon
+- [ea1561e](https://github.com/stashed/installer/commit/ea1561e) Fix linter errors
+- [170af3a](https://github.com/stashed/installer/commit/170af3a) Enable race detector
+- [848e9fa](https://github.com/stashed/installer/commit/848e9fa) Test installers (#18)
+- [2b3b665](https://github.com/stashed/installer/commit/2b3b665) Prepare for release v0.9.0-rc.2 (#16)
+- [b1ef8b5](https://github.com/stashed/installer/commit/b1ef8b5) Remove --enable-status-subresource flag (#15)
+- [0c87e77](https://github.com/stashed/installer/commit/0c87e77) Add delete permission ClusterRole to vs (#13)
+- [5387b57](https://github.com/stashed/installer/commit/5387b57) Ignore error while delete resources from uninstaller script (#14)
+- [b8dc5e9](https://github.com/stashed/installer/commit/b8dc5e9) Prepare for v0.9.0-rc.1 release (#12)
+- [48f2f3b](https://github.com/stashed/installer/commit/48f2f3b) Download onessl version v0.13.1 for Kubernetes 1.16 fix (#11)
+- [4c0ce1f](https://github.com/stashed/installer/commit/4c0ce1f) Update onessl for Kubernetes 1.16+ (#10)
+- [478817b](https://github.com/stashed/installer/commit/478817b) Run as fsGroup: 65535 (#8)
+- [366a4f5](https://github.com/stashed/installer/commit/366a4f5) Prepare v0.9.0-rc.0 release (#7)
+- [8674bc6](https://github.com/stashed/installer/commit/8674bc6) Rename BackupConfigurationTemplates to BackupBlueprints (#6)
+- [fcf2297](https://github.com/stashed/installer/commit/fcf2297) Cleanup default Functions & Tasks while uninstall+ refactor installer script (#4)
+- [68de871](https://github.com/stashed/installer/commit/68de871) Always set --image-tag flag (#3)
+- [4b3f2a7](https://github.com/stashed/installer/commit/4b3f2a7) Fix purging non-namespaced crd (#2)
+- [e9f0e2c](https://github.com/stashed/installer/commit/e9f0e2c) Fix script path for installer repo (#1)
+- [525fff8](https://github.com/stashed/installer/commit/525fff8) Add License & DCO
+- [257f0f2](https://github.com/stashed/installer/commit/257f0f2) Added ARM64 support to the install script and manifest (#802)
+- [e490367](https://github.com/stashed/installer/commit/e490367) Add Makefile (#800)
+- [cb2289d](https://github.com/stashed/installer/commit/cb2289d) VolumeSnapshot (#787)
+- [bde38a8](https://github.com/stashed/installer/commit/bde38a8) Remove importance of order of rule in RestoreSession (#795)
+- [0c150a7](https://github.com/stashed/installer/commit/0c150a7) Support PSP enabled cluster (#729)
+- [f0d7e34](https://github.com/stashed/installer/commit/f0d7e34) Update package path to stash.appscode.dev/stash (#776)
+- [f10a28c](https://github.com/stashed/installer/commit/f10a28c) Remove --rbac flag (#761)
+- [1ab5470](https://github.com/stashed/installer/commit/1ab5470) Stash v1beta1 E2E test for DaemonSet (#741)
+- [786b827](https://github.com/stashed/installer/commit/786b827) Stash V1beta1 E2E test for Deployment (#710)
+- [0d65d5d](https://github.com/stashed/installer/commit/0d65d5d) Fix openapi path prefixes for validators and mutators (#732)
+- [13ddd4b](https://github.com/stashed/installer/commit/13ddd4b) Rename admission webhooks to avoid name collision (#725)
+- [bd11979](https://github.com/stashed/installer/commit/bd11979) Use FailurePolicy ignore for K8s resource webhooks (#726)
+- [bbd9bd4](https://github.com/stashed/installer/commit/bbd9bd4) Add support for OpenShift DeploymentConfig (#714)
+- [8c019a2](https://github.com/stashed/installer/commit/8c019a2) Update workload controller for new design (#675)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.1-v1](https://github.com/stashed/mongodb/releases/tag/3.4.1-v1)

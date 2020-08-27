@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.08.27",
-  "release_date": "2020-08-27T19:08:39.586071485Z",
+  "release_date": "2020-08-27T19:23:56.344838918Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.08.27",
   "kubernetes_version": "1.12+",
@@ -8328,6 +8328,528 @@
             {
               "SHA": "808a7c0",
               "Subject": "Add openapi v3 schema for values file (#18)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "cc6a53e",
+              "Subject": "Prepare for release v0.10.0 (#93)"
+            },
+            {
+              "SHA": "7d5e440",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#92)"
+            },
+            {
+              "SHA": "f4cae9f",
+              "Subject": "Upload charts without updating index"
+            },
+            {
+              "SHA": "90d9c52",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#91)"
+            },
+            {
+              "SHA": "037a349",
+              "Subject": "Prepare for release v0.10.0-rc.1 (#90)"
+            },
+            {
+              "SHA": "f94e175",
+              "Subject": "Correctly pass license to CI workflow"
+            },
+            {
+              "SHA": "9f6539d",
+              "Subject": "Update stash-enterprise chart version"
+            },
+            {
+              "SHA": "5904e2c",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "d3d30cc",
+              "Subject": "Add link to the steps to get a license (#89)"
+            },
+            {
+              "SHA": "1fb05d9",
+              "Subject": "Issue license for testing enterprise charts (#88)"
+            },
+            {
+              "SHA": "6018270",
+              "Subject": "Prepare for release v0.10.0-rc.0 (#87)"
+            },
+            {
+              "SHA": "9da1502",
+              "Subject": "Port changes from enterprise version (#85)"
+            },
+            {
+              "SHA": "0838112",
+              "Subject": "Add offline license verification (#84)"
+            },
+            {
+              "SHA": "d869f33",
+              "Subject": "Always give use permission for baseline psp to operator (#83)"
+            },
+            {
+              "SHA": "d1e0142",
+              "Subject": "Support Snapshot listing for NFS backend without workload running (#80)"
+            },
+            {
+              "SHA": "53bab27",
+              "Subject": "Pass imagePullSecrets as operator flag (#71)"
+            },
+            {
+              "SHA": "4e3a984",
+              "Subject": "Update to Kubernetes v1.18.3 (#79)"
+            },
+            {
+              "SHA": "6e57dd4",
+              "Subject": "Update to Kubernetes v1.18.3 (#78)"
+            },
+            {
+              "SHA": "5c681fe",
+              "Subject": "Update to Kubernetes v1.18.3 (#77)"
+            },
+            {
+              "SHA": "c268a57",
+              "Subject": "Make chart registry configurable"
+            },
+            {
+              "SHA": "bed8319",
+              "Subject": "Prepare for release v0.10.0-beta.1 (#76)"
+            },
+            {
+              "SHA": "cd44ba9",
+              "Subject": "Prepare for release v0.10.0-beta.0 (#75)"
+            },
+            {
+              "SHA": "a04e173",
+              "Subject": "Publish to testing dir for alpha/beta releases"
+            },
+            {
+              "SHA": "4b23e1c",
+              "Subject": "Update License (#74)"
+            },
+            {
+              "SHA": "9b7a4e0",
+              "Subject": "Update to Kubernetes v1.18.3 (#72)"
+            },
+            {
+              "SHA": "4318306",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "15d1594",
+              "Subject": "Fix Stash Enterprise installer (#70)"
+            },
+            {
+              "SHA": "31c9dcc",
+              "Subject": "Tag chart and app version as string for yq (#69)"
+            },
+            {
+              "SHA": "1782049",
+              "Subject": "Update links (#68)"
+            },
+            {
+              "SHA": "634da4d",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "1155610",
+              "Subject": "Update update-release-tracker.sh"
+            },
+            {
+              "SHA": "1b10b5e",
+              "Subject": "Add script to update release tracker on pr merge (#67)"
+            },
+            {
+              "SHA": "ce0b28e",
+              "Subject": "Update release workflow"
+            },
+            {
+              "SHA": "c3ac668",
+              "Subject": "Update ci.yml"
+            },
+            {
+              "SHA": "98bad7e",
+              "Subject": "Add Stash Enterprise chart (#63)"
+            },
+            {
+              "SHA": "73f52a6",
+              "Subject": "Add commands to update chart (#65)"
+            },
+            {
+              "SHA": "0dc7f91",
+              "Subject": "Fix chart release process (#64)"
+            },
+            {
+              "SHA": "0d5c4e1",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "3b53e64",
+              "Subject": "Update to Kubernetes v1.18.3 (#58)"
+            },
+            {
+              "SHA": "43c5dbe",
+              "Subject": "Update to Kubernetes v1.18.3"
+            },
+            {
+              "SHA": "b9e784c",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "b30b3b0",
+              "Subject": "Merge pull request #57 from stashed/psp"
+            },
+            {
+              "SHA": "1b89401",
+              "Subject": "Disable apparmor and seccomp by default"
+            },
+            {
+              "SHA": "6bed1aa",
+              "Subject": "Pass psp names for the jobs through flag"
+            },
+            {
+              "SHA": "bd35d81",
+              "Subject": "Always use baseline psp for stash"
+            },
+            {
+              "SHA": "4e3474a",
+              "Subject": "Add RBAC permission for generic-garbage-collector (#56)"
+            },
+            {
+              "SHA": "be006f6",
+              "Subject": "Permit configmap list/watch -ing for delegated authentication checking (#55)"
+            },
+            {
+              "SHA": "5685c15",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "8b7b805",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "d2b2b09",
+              "Subject": "Generate both v1beta1 and v1 CRD YAML (#54)"
+            },
+            {
+              "SHA": "7fbcb29",
+              "Subject": "Update to Kubernetes v1.18.3 (#53)"
+            },
+            {
+              "SHA": "88e5e8c",
+              "Subject": "Use Go 1.14.3"
+            },
+            {
+              "SHA": "8e56cb1",
+              "Subject": "Trigger build on push to only master branch"
+            },
+            {
+              "SHA": "562caf8",
+              "Subject": "Use recommended kubernetes app labels (#52)"
+            },
+            {
+              "SHA": "cc55e5a",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "fd8acf5",
+              "Subject": "Update chart readme"
+            },
+            {
+              "SHA": "672f37e",
+              "Subject": "Show examples in chart readme"
+            },
+            {
+              "SHA": "39f4ca1",
+              "Subject": "Auto generate chart readme file (#50)"
+            },
+            {
+              "SHA": "47f4250",
+              "Subject": "Update release.yml"
+            },
+            {
+              "SHA": "b68d9cb",
+              "Subject": "Cleanup newlines"
+            },
+            {
+              "SHA": "20d51b0",
+              "Subject": "Reformat stash chart template (#49)"
+            },
+            {
+              "SHA": "65f8bee",
+              "Subject": "Use kubectl v1.16 as cleaner (#48)"
+            },
+            {
+              "SHA": "85a7cfd",
+              "Subject": "Rename prometheus.io/coreos-operator to prometheus.io/operator (#47)"
+            },
+            {
+              "SHA": "b042def",
+              "Subject": "Move apireg annotation to operator pod (#46)"
+            },
+            {
+              "SHA": "a543953",
+              "Subject": "Various cleanup (#44)"
+            },
+            {
+              "SHA": "b6e2bec",
+              "Subject": "Fix helm install --wait flag (#42)"
+            },
+            {
+              "SHA": "806aada",
+              "Subject": "Do not harcode namespace (#40)"
+            },
+            {
+              "SHA": "a2713aa",
+              "Subject": "Add release script to upload charts (#39)"
+            },
+            {
+              "SHA": "57f829a",
+              "Subject": "Prepare charts for v0.9.0-rc.6 release (#38)"
+            },
+            {
+              "SHA": "72e0aff",
+              "Subject": "Properly mark optional fields (#37)"
+            },
+            {
+              "SHA": "388fcc0",
+              "Subject": "Update chart readme"
+            },
+            {
+              "SHA": "8595fa6",
+              "Subject": "Properly mark options fields. (#36)"
+            },
+            {
+              "SHA": "4c491b6",
+              "Subject": "Prepare v0.9.0-rc.4 release (#35)"
+            },
+            {
+              "SHA": "79f59b6",
+              "Subject": "Allow specifying rather than generating certs (#34)"
+            },
+            {
+              "SHA": "23a9b97",
+              "Subject": "Test against k8s 1.11"
+            },
+            {
+              "SHA": "a0b9659",
+              "Subject": "Bring back support for k8s 1.11 (#33)"
+            },
+            {
+              "SHA": "c753211",
+              "Subject": "Change minimum k8s req to 1.12 and use helm 3 in chart readme (#32)"
+            },
+            {
+              "SHA": "3dec466",
+              "Subject": "Update twitter account"
+            },
+            {
+              "SHA": "3ab35e3",
+              "Subject": "Delete orphaned apiservice (#31)"
+            },
+            {
+              "SHA": "a9c33b3",
+              "Subject": "Delete script based installer (#30)"
+            },
+            {
+              "SHA": "2d9ea3d",
+              "Subject": "Pass imagePullSecrets via service account (#29)"
+            },
+            {
+              "SHA": "04f65d8",
+              "Subject": "Add endpoint get permission (#26)"
+            },
+            {
+              "SHA": "e5a3418",
+              "Subject": "Use helm 3 for chart testing (#28)"
+            },
+            {
+              "SHA": "19fa9b6",
+              "Subject": "Move chart Vaules of the root of the spec. (#27)"
+            },
+            {
+              "SHA": "26fcf6c",
+              "Subject": "Use int32 for Stash operator installer CRD"
+            },
+            {
+              "SHA": "f41c997",
+              "Subject": "Update license headers"
+            },
+            {
+              "SHA": "baa751a",
+              "Subject": "Run fuzz tests for generated API schemas (#25)"
+            },
+            {
+              "SHA": "b92981a",
+              "Subject": "Update client-go to kubernetes-1.16.3 (#24)"
+            },
+            {
+              "SHA": "310e243",
+              "Subject": "Fix #981 RBAC permissions missing from chart (#22)"
+            },
+            {
+              "SHA": "77703f3",
+              "Subject": "Properly handle empty image pull secret name in installer (#23)"
+            },
+            {
+              "SHA": "31b4634",
+              "Subject": "Update swagger.json"
+            },
+            {
+              "SHA": "9425820",
+              "Subject": "Update Chart.yaml"
+            },
+            {
+              "SHA": "74abc6e",
+              "Subject": "Add StashOperator crd (#17)"
+            },
+            {
+              "SHA": "c0ff647",
+              "Subject": "Fix rbac permission for PVC in chart (#20)"
+            },
+            {
+              "SHA": "51a712b",
+              "Subject": "Test against multiple k8s version (#19)"
+            },
+            {
+              "SHA": "2afb705",
+              "Subject": "Update icon"
+            },
+            {
+              "SHA": "ea1561e",
+              "Subject": "Fix linter errors"
+            },
+            {
+              "SHA": "170af3a",
+              "Subject": "Enable race detector"
+            },
+            {
+              "SHA": "848e9fa",
+              "Subject": "Test installers (#18)"
+            },
+            {
+              "SHA": "2b3b665",
+              "Subject": "Prepare for release v0.9.0-rc.2 (#16)"
+            },
+            {
+              "SHA": "b1ef8b5",
+              "Subject": "Remove --enable-status-subresource flag (#15)"
+            },
+            {
+              "SHA": "0c87e77",
+              "Subject": "Add delete permission ClusterRole to vs (#13)"
+            },
+            {
+              "SHA": "5387b57",
+              "Subject": "Ignore error while delete resources from uninstaller script (#14)"
+            },
+            {
+              "SHA": "b8dc5e9",
+              "Subject": "Prepare for v0.9.0-rc.1 release (#12)"
+            },
+            {
+              "SHA": "48f2f3b",
+              "Subject": "Download onessl version v0.13.1 for Kubernetes 1.16 fix (#11)"
+            },
+            {
+              "SHA": "4c0ce1f",
+              "Subject": "Update onessl for Kubernetes 1.16+ (#10)"
+            },
+            {
+              "SHA": "478817b",
+              "Subject": "Run as fsGroup: 65535 (#8)"
+            },
+            {
+              "SHA": "366a4f5",
+              "Subject": "Prepare v0.9.0-rc.0 release (#7)"
+            },
+            {
+              "SHA": "8674bc6",
+              "Subject": "Rename BackupConfigurationTemplates to BackupBlueprints (#6)"
+            },
+            {
+              "SHA": "fcf2297",
+              "Subject": "Cleanup default Functions & Tasks while uninstall+ refactor installer script (#4)"
+            },
+            {
+              "SHA": "68de871",
+              "Subject": "Always set --image-tag flag (#3)"
+            },
+            {
+              "SHA": "4b3f2a7",
+              "Subject": "Fix purging non-namespaced crd (#2)"
+            },
+            {
+              "SHA": "e9f0e2c",
+              "Subject": "Fix script path for installer repo (#1)"
+            },
+            {
+              "SHA": "525fff8",
+              "Subject": "Add License & DCO"
+            },
+            {
+              "SHA": "257f0f2",
+              "Subject": "Added ARM64 support to the install script and manifest (#802)"
+            },
+            {
+              "SHA": "e490367",
+              "Subject": "Add Makefile (#800)"
+            },
+            {
+              "SHA": "cb2289d",
+              "Subject": "VolumeSnapshot (#787)"
+            },
+            {
+              "SHA": "bde38a8",
+              "Subject": "Remove importance of order of rule in RestoreSession (#795)"
+            },
+            {
+              "SHA": "0c150a7",
+              "Subject": "Support PSP enabled cluster (#729)"
+            },
+            {
+              "SHA": "f0d7e34",
+              "Subject": "Update package path to stash.appscode.dev/stash (#776)"
+            },
+            {
+              "SHA": "f10a28c",
+              "Subject": "Remove --rbac flag (#761)"
+            },
+            {
+              "SHA": "1ab5470",
+              "Subject": "Stash v1beta1 E2E test for DaemonSet (#741)"
+            },
+            {
+              "SHA": "786b827",
+              "Subject": "Stash V1beta1 E2E test for Deployment (#710)"
+            },
+            {
+              "SHA": "0d65d5d",
+              "Subject": "Fix openapi path prefixes for validators and mutators (#732)"
+            },
+            {
+              "SHA": "13ddd4b",
+              "Subject": "Rename admission webhooks to avoid name collision (#725)"
+            },
+            {
+              "SHA": "bd11979",
+              "Subject": "Use FailurePolicy ignore for K8s resource webhooks (#726)"
+            },
+            {
+              "SHA": "bbd9bd4",
+              "Subject": "Add support for OpenShift DeploymentConfig (#714)"
+            },
+            {
+              "SHA": "8c019a2",
+              "Subject": "Update workload controller for new design (#675)"
             }
           ]
         }
