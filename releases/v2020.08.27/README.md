@@ -1821,6 +1821,46 @@
 
 
 
+## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
+
+### [5.6.4-v1](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v1)
+
+- [840132d](https://github.com/stashed/elasticsearch/commit/840132d) Prepare for release 5.6.4-v1 (#201)
+- [51262cc](https://github.com/stashed/elasticsearch/commit/51262cc) Prepare for release 5.6.4-rc.20200827 (#192)
+- [bcba1e7](https://github.com/stashed/elasticsearch/commit/bcba1e7) [cherry-pick] Upload charts without updating index (#184)
+- [48d00db](https://github.com/stashed/elasticsearch/commit/48d00db) Prepare for release 5.6.4-rc.20200826 (#175)
+- [46c78a6](https://github.com/stashed/elasticsearch/commit/46c78a6) [cherry-pick] Update README.md (#167)
+- [df82b88](https://github.com/stashed/elasticsearch/commit/df82b88) Prepare for release 5.6.4-beta.20200826 (#158)
+- [465a9f0](https://github.com/stashed/elasticsearch/commit/465a9f0) [cherry-pick] Update Stash installation link (#149) (#150)
+- [4fd2af7](https://github.com/stashed/elasticsearch/commit/4fd2af7) [cherry-pick] Make image.tag in values.yaml file same as the $APP_VERSION (#132) (#141)
+- [f9f6ab1](https://github.com/stashed/elasticsearch/commit/f9f6ab1) [cherry-pick] Fix output format + Add PreBackupActions logic (#131) (#133)
+- [cf70698](https://github.com/stashed/elasticsearch/commit/cf70698) [cherry-pick] Update chart icon (#123)
+- [f1c9257](https://github.com/stashed/elasticsearch/commit/f1c9257) [cherry-pick] Make chart registry configurable (#114) (#115)
+- [4f6f04d](https://github.com/stashed/elasticsearch/commit/4f6f04d) Prepare for release 5.6.4-beta.20200709 (#105)
+- [c0b63a8](https://github.com/stashed/elasticsearch/commit/c0b63a8) [cherry-pick] Build docker image in release workflow (#96) (#97)
+- [7115da1](https://github.com/stashed/elasticsearch/commit/7115da1) Prepare for release 5.6.4-beta.20200708 (#87)
+- [f5ab33d](https://github.com/stashed/elasticsearch/commit/f5ab33d) [cherry-pick] Publish to testing dir for alpha/beta releases (#78) (#79)
+- [7d73d30](https://github.com/stashed/elasticsearch/commit/7d73d30) [cherry-pick] Update License (#69) (#70)
+- [04e8a63](https://github.com/stashed/elasticsearch/commit/04e8a63) Add commands to update chart version (#68)
+- [3a5cd78](https://github.com/stashed/elasticsearch/commit/3a5cd78) [cherry-pick] Update update-release-tracker.sh (#60)
+- [77bb76e](https://github.com/stashed/elasticsearch/commit/77bb76e) [cherry-pick] Update update-release-tracker.sh (#52)
+- [3b47ba6](https://github.com/stashed/elasticsearch/commit/3b47ba6) [cherry-pick] Update release.yml (#43) (#44)
+- [444cb3b](https://github.com/stashed/elasticsearch/commit/444cb3b) [cherry-pick] Add script to update release tracker on pr merge (#34) (#35)
+- [d349617](https://github.com/stashed/elasticsearch/commit/d349617) [cherry-pick] Add workflow to cherry pick commits to master (#25) (#26)
+- [4038abd](https://github.com/stashed/elasticsearch/commit/4038abd) Fix chart release process (#24)
+- [895a73f](https://github.com/stashed/elasticsearch/commit/895a73f) Update .kodiak.toml
+- [6b9451c](https://github.com/stashed/elasticsearch/commit/6b9451c) Allow overwriting secret key via SecretTransformation (#23)
+- [0fcb64e](https://github.com/stashed/elasticsearch/commit/0fcb64e) Make waitTimeout Configurable through flag (#22)
+- [b3859b9](https://github.com/stashed/elasticsearch/commit/b3859b9) Create .kodiak.toml
+- [c0f3b97](https://github.com/stashed/elasticsearch/commit/c0f3b97) Update to Kubernetes v1.18.3 (#21)
+- [210dd08](https://github.com/stashed/elasticsearch/commit/210dd08) Update crazy-max/ghaction-docker-buildx flag
+- [5c74a42](https://github.com/stashed/elasticsearch/commit/5c74a42) Trigger the workflow on push or pull request
+- [76424d0](https://github.com/stashed/elasticsearch/commit/76424d0) Auto generate chart readme file
+- [fc144c2](https://github.com/stashed/elasticsearch/commit/fc144c2) Correctly mark optional fields
+- [3559c2c](https://github.com/stashed/elasticsearch/commit/3559c2c) Add openapi v3 schema for values file (#18)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6-v1](https://github.com/stashed/postgres/releases/tag/9.6-v1)
