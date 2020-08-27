@@ -2045,6 +2045,43 @@
 - [700bda7](https://github.com/stashed/elasticsearch/commit/700bda7) Add openapi v3 schema for values file (#18)
 
 
+### [7.2.0-v1](https://github.com/stashed/elasticsearch/releases/tag/7.2.0-v1)
+
+- [a4f5de4](https://github.com/stashed/elasticsearch/commit/a4f5de4) Prepare for release 7.2.0-v1 (#207)
+- [036e850](https://github.com/stashed/elasticsearch/commit/036e850) Prepare for release 7.2.0-rc.20200827 (#198)
+- [54fd94d](https://github.com/stashed/elasticsearch/commit/54fd94d) [cherry-pick] Upload charts without updating index (#190)
+- [592ebd3](https://github.com/stashed/elasticsearch/commit/592ebd3) Prepare for release 7.2.0-rc.20200826 (#181)
+- [29f8c8f](https://github.com/stashed/elasticsearch/commit/29f8c8f) [cherry-pick] Update README.md (#173)
+- [bd2c6bc](https://github.com/stashed/elasticsearch/commit/bd2c6bc) Prepare for release 7.2.0-beta.20200826 (#164)
+- [2c3a9e1](https://github.com/stashed/elasticsearch/commit/2c3a9e1) [cherry-pick] Update Stash installation link (#149) (#156)
+- [c862e31](https://github.com/stashed/elasticsearch/commit/c862e31) [cherry-pick] Make image.tag in values.yaml file same as the $APP_VERSION (#132) (#147)
+- [1010749](https://github.com/stashed/elasticsearch/commit/1010749) [cherry-pick] Fix output format + Add PreBackupActions logic (#131) (#139)
+- [b0cac90](https://github.com/stashed/elasticsearch/commit/b0cac90) [cherry-pick] Update chart icon (#129)
+- [abd52d3](https://github.com/stashed/elasticsearch/commit/abd52d3) [cherry-pick] Make chart registry configurable (#114) (#121)
+- [bf94d4d](https://github.com/stashed/elasticsearch/commit/bf94d4d) Prepare for release 7.2.0-beta.20200709 (#111)
+- [d1cdabd](https://github.com/stashed/elasticsearch/commit/d1cdabd) [cherry-pick] Build docker image in release workflow (#96) (#103)
+- [756fd43](https://github.com/stashed/elasticsearch/commit/756fd43) Prepare for release 7.2.0-beta.20200708 (#93)
+- [b3432e1](https://github.com/stashed/elasticsearch/commit/b3432e1) [cherry-pick] Publish to testing dir for alpha/beta releases (#78) (#85)
+- [281635d](https://github.com/stashed/elasticsearch/commit/281635d) [cherry-pick] Update License (#69) (#76)
+- [497de33](https://github.com/stashed/elasticsearch/commit/497de33) Add commands to update chart version (#68)
+- [fd38969](https://github.com/stashed/elasticsearch/commit/fd38969) [cherry-pick] Update update-release-tracker.sh (#66)
+- [e5941de](https://github.com/stashed/elasticsearch/commit/e5941de) [cherry-pick] Update update-release-tracker.sh (#58)
+- [e59ef4e](https://github.com/stashed/elasticsearch/commit/e59ef4e) [cherry-pick] Update release.yml (#43) (#50)
+- [05145d3](https://github.com/stashed/elasticsearch/commit/05145d3) [cherry-pick] Add script to update release tracker on pr merge (#34) (#41)
+- [ee1d54b](https://github.com/stashed/elasticsearch/commit/ee1d54b) [cherry-pick] Add workflow to cherry pick commits to master (#25) (#32)
+- [2179a5b](https://github.com/stashed/elasticsearch/commit/2179a5b) Fix chart release process (#24)
+- [846f589](https://github.com/stashed/elasticsearch/commit/846f589) Update .kodiak.toml
+- [fe25329](https://github.com/stashed/elasticsearch/commit/fe25329) Allow overwriting secret key via SecretTransformation (#23)
+- [14c4329](https://github.com/stashed/elasticsearch/commit/14c4329) Make waitTimeout Configurable through flag (#22)
+- [9e9da11](https://github.com/stashed/elasticsearch/commit/9e9da11) Create .kodiak.toml
+- [a4136d6](https://github.com/stashed/elasticsearch/commit/a4136d6) Update to Kubernetes v1.18.3 (#21)
+- [76eeee5](https://github.com/stashed/elasticsearch/commit/76eeee5) Update crazy-max/ghaction-docker-buildx flag
+- [c7b7250](https://github.com/stashed/elasticsearch/commit/c7b7250) Trigger the workflow on push or pull request
+- [cebf7fc](https://github.com/stashed/elasticsearch/commit/cebf7fc) Auto generate chart readme file
+- [64104e9](https://github.com/stashed/elasticsearch/commit/64104e9) Correctly mark optional fields
+- [d7807e4](https://github.com/stashed/elasticsearch/commit/d7807e4) Add openapi v3 schema for values file (#18)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
