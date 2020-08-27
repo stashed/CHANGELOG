@@ -16,6 +16,14 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2020.08.27-rc.0](https://github.com/stashed/catalog/releases/tag/v2020.08.27-rc.0)
+
+- [131d570](https://github.com/stashed/catalog/commit/131d570) Prepare for release v2020.08.27-rc.0 (#35)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.10.0-rc.2](https://github.com/stashed/cli/releases/tag/v0.10.0-rc.2)
