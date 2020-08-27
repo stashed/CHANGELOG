@@ -1,0 +1,518 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.08.27-rc.0",
+  "release_date": "2020-08-27T13:42:55.866341978Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.08.27-rc.0",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": [
+            {
+              "SHA": "be8d7f35",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#20)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2020.08.27-rc.0",
+          "commits": [
+            {
+              "SHA": "62bc0cc",
+              "Subject": "Prepare for release v2020.08.27-rc.0 (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/catalog",
+      "releases": [
+        {
+          "tag": "v2020.08.27-rc.0",
+          "commits": [
+            {
+              "SHA": "131d570",
+              "Subject": "Prepare for release v2020.08.27-rc.0 (#35)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": [
+            {
+              "SHA": "bcff194",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2020.08.27-rc.0",
+          "commits": [
+            {
+              "SHA": "7c7478e",
+              "Subject": "Prepare for release v2020.08.27-rc.0 (#89)"
+            },
+            {
+              "SHA": "243e9a5",
+              "Subject": "Replace \"info.version\" of setup guides with respective operator versions (#88)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-rc.20200827",
+          "commits": [
+            {
+              "SHA": "51262cc",
+              "Subject": "Prepare for release 5.6.4-rc.20200827 (#192)"
+            },
+            {
+              "SHA": "bcba1e7",
+              "Subject": "[cherry-pick] Upload charts without updating index (#184)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-rc.20200827",
+          "commits": [
+            {
+              "SHA": "00cc0e7",
+              "Subject": "Prepare for release 6.2.4-rc.20200827 (#193)"
+            },
+            {
+              "SHA": "54bab71",
+              "Subject": "[cherry-pick] Upload charts without updating index (#185)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-rc.20200827",
+          "commits": [
+            {
+              "SHA": "4bf05ac",
+              "Subject": "Prepare for release 6.3.0-rc.20200827 (#194)"
+            },
+            {
+              "SHA": "16053f8",
+              "Subject": "[cherry-pick] Upload charts without updating index (#186)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-rc.20200827",
+          "commits": [
+            {
+              "SHA": "c37a5b5",
+              "Subject": "Prepare for release 6.4.0-rc.20200827 (#195)"
+            },
+            {
+              "SHA": "6a44a65",
+              "Subject": "[cherry-pick] Upload charts without updating index (#187)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-rc.20200827",
+          "commits": [
+            {
+              "SHA": "68b5356",
+              "Subject": "Prepare for release 6.5.3-rc.20200827 (#196)"
+            },
+            {
+              "SHA": "babe6ed",
+              "Subject": "[cherry-pick] Upload charts without updating index (#188)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-rc.20200827",
+          "commits": [
+            {
+              "SHA": "74bcf84",
+              "Subject": "Prepare for release 6.8.0-rc.20200827 (#197)"
+            },
+            {
+              "SHA": "a836713",
+              "Subject": "[cherry-pick] Upload charts without updating index (#189)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-rc.20200827",
+          "commits": [
+            {
+              "SHA": "036e850",
+              "Subject": "Prepare for release 7.2.0-rc.20200827 (#198)"
+            },
+            {
+              "SHA": "54fd94d",
+              "Subject": "[cherry-pick] Upload charts without updating index (#190)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-rc.20200827",
+          "commits": [
+            {
+              "SHA": "c6f8b5d",
+              "Subject": "Prepare for release 7.3.2-rc.20200827 (#199)"
+            },
+            {
+              "SHA": "0f8ba19",
+              "Subject": "[cherry-pick] Upload charts without updating index (#191)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": [
+            {
+              "SHA": "7d5e440",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#92)"
+            },
+            {
+              "SHA": "f4cae9f",
+              "Subject": "Upload charts without updating index"
+            },
+            {
+              "SHA": "90d9c52",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#91)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.1-rc.20200827",
+          "commits": [
+            {
+              "SHA": "9890353",
+              "Subject": "Prepare for release 3.4.1-rc.20200827 (#231)"
+            },
+            {
+              "SHA": "d941a98",
+              "Subject": "[cherry-pick] Upload charts without updating index (#220)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.2-rc.20200827",
+          "commits": [
+            {
+              "SHA": "fe63b2a",
+              "Subject": "Prepare for release 3.4.2-rc.20200827 (#232)"
+            },
+            {
+              "SHA": "80c8ad0",
+              "Subject": "[cherry-pick] Upload charts without updating index (#221)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.1-rc.20200827",
+          "commits": [
+            {
+              "SHA": "c3b738a",
+              "Subject": "Prepare for release 3.6.1-rc.20200827 (#233)"
+            },
+            {
+              "SHA": "451d4c9",
+              "Subject": "[cherry-pick] Upload charts without updating index (#222)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-rc.20200827",
+          "commits": [
+            {
+              "SHA": "fae0fa3",
+              "Subject": "Prepare for release 3.6.8-rc.20200827 (#234)"
+            },
+            {
+              "SHA": "59da835",
+              "Subject": "[cherry-pick] Upload charts without updating index (#223)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-rc.20200827",
+          "commits": [
+            {
+              "SHA": "e6669a9",
+              "Subject": "Prepare for release 4.0.3-rc.20200827 (#236)"
+            },
+            {
+              "SHA": "7a1efc6",
+              "Subject": "[cherry-pick] Upload charts without updating index (#225)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-rc.20200827",
+          "commits": [
+            {
+              "SHA": "8bded32",
+              "Subject": "Prepare for release 4.0.5-rc.20200827 (#237)"
+            },
+            {
+              "SHA": "58fa99e",
+              "Subject": "[cherry-pick] Upload charts without updating index (#226)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-rc.20200827",
+          "commits": [
+            {
+              "SHA": "2dfe220",
+              "Subject": "Prepare for release 4.0.11-rc.20200827 (#235)"
+            },
+            {
+              "SHA": "7ccf88d",
+              "Subject": "[cherry-pick] Upload charts without updating index (#224)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.1-rc.20200827",
+          "commits": [
+            {
+              "SHA": "f5a95fc",
+              "Subject": "Prepare for release 4.1.1-rc.20200827 (#238)"
+            },
+            {
+              "SHA": "a68fafc",
+              "Subject": "[cherry-pick] Upload charts without updating index (#227)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-rc.20200827",
+          "commits": [
+            {
+              "SHA": "84e97a4",
+              "Subject": "Prepare for release 4.1.4-rc.20200827 (#239)"
+            },
+            {
+              "SHA": "3a168e8",
+              "Subject": "[cherry-pick] Upload charts without updating index (#228)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-rc.20200827",
+          "commits": [
+            {
+              "SHA": "df9852f",
+              "Subject": "Prepare for release 4.1.7-rc.20200827 (#240)"
+            },
+            {
+              "SHA": "b22a028",
+              "Subject": "[cherry-pick] Upload charts without updating index (#229)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-rc.20200827",
+          "commits": [
+            {
+              "SHA": "e4c8466",
+              "Subject": "Prepare for release 4.2.3-rc.20200827 (#241)"
+            },
+            {
+              "SHA": "b45397b",
+              "Subject": "[cherry-pick] Upload charts without updating index (#230)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-rc.20200827",
+          "commits": [
+            {
+              "SHA": "263f795",
+              "Subject": "Prepare for release 5.7.25-rc.20200827 (#99)"
+            },
+            {
+              "SHA": "96023d1",
+              "Subject": "[cherry-pick] Upload charts without updating index (#96)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-rc.20200827",
+          "commits": [
+            {
+              "SHA": "7d02720",
+              "Subject": "Prepare for release 8.0.3-rc.20200827 (#101)"
+            },
+            {
+              "SHA": "dc8e2b5",
+              "Subject": "[cherry-pick] Upload charts without updating index (#98)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-rc.20200827",
+          "commits": [
+            {
+              "SHA": "720aa02",
+              "Subject": "Prepare for release 8.0.14-rc.20200827 (#100)"
+            },
+            {
+              "SHA": "7019c00",
+              "Subject": "[cherry-pick] Upload charts without updating index (#97)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-rc.20200827",
+          "commits": [
+            {
+              "SHA": "c854199",
+              "Subject": "Prepare for release 5.7-rc.20200827 (#55)"
+            },
+            {
+              "SHA": "e798257",
+              "Subject": "[cherry-pick] Upload charts without updating index (#54)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6-rc.20200827",
+          "commits": [
+            {
+              "SHA": "e9febb8",
+              "Subject": "Prepare for release 9.6-rc.20200827 (#163)"
+            },
+            {
+              "SHA": "3f724ee",
+              "Subject": "[cherry-pick] Upload charts without updating index (#158)"
+            }
+          ]
+        },
+        {
+          "tag": "10.2-rc.20200827",
+          "commits": [
+            {
+              "SHA": "fd9fc7a",
+              "Subject": "Prepare for release 10.2-rc.20200827 (#159)"
+            },
+            {
+              "SHA": "7d1033a",
+              "Subject": "[cherry-pick] Upload charts without updating index (#154)"
+            }
+          ]
+        },
+        {
+          "tag": "10.6-rc.20200827",
+          "commits": [
+            {
+              "SHA": "4724218",
+              "Subject": "Prepare for release 10.6-rc.20200827 (#160)"
+            },
+            {
+              "SHA": "1167129",
+              "Subject": "[cherry-pick] Upload charts without updating index (#155)"
+            }
+          ]
+        },
+        {
+          "tag": "11.1-rc.20200827",
+          "commits": [
+            {
+              "SHA": "0fbd548",
+              "Subject": "Prepare for release 11.1-rc.20200827 (#161)"
+            },
+            {
+              "SHA": "fc8cb58",
+              "Subject": "[cherry-pick] Upload charts without updating index (#156)"
+            }
+          ]
+        },
+        {
+          "tag": "11.2-rc.20200827",
+          "commits": [
+            {
+              "SHA": "342b6bb",
+              "Subject": "Prepare for release 11.2-rc.20200827 (#162)"
+            },
+            {
+              "SHA": "4688cde",
+              "Subject": "[cherry-pick] Upload charts without updating index (#157)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.2",
+          "commits": [
+            {
+              "SHA": "485f80c6",
+              "Subject": "Prepare for release v0.10.0-rc.2 (#1181)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
