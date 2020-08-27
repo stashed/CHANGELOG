@@ -1,4 +1,4 @@
-# Stash v2020.08.26-rc.1 (2020-08-26)
+# Stash v2020.08.26-rc.1 (2020-08-27)
 
 
 ## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
@@ -226,6 +226,19 @@
 
 ### [7.3.2-rc.20200826](https://github.com/stashed/elasticsearch/releases/tag/7.3.2-rc.20200826)
 
+
+
+
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.10.0-rc.1](https://github.com/stashed/installer/releases/tag/v0.10.0-rc.1)
+
+- [037a349](https://github.com/stashed/installer/commit/037a349) Prepare for release v0.10.0-rc.1 (#90)
+- [f94e175](https://github.com/stashed/installer/commit/f94e175) Correctly pass license to CI workflow
+- [9f6539d](https://github.com/stashed/installer/commit/9f6539d) Update stash-enterprise chart version
+- [5904e2c](https://github.com/stashed/installer/commit/5904e2c) Update README.md
+- [d3d30cc](https://github.com/stashed/installer/commit/d3d30cc) Add link to the steps to get a license (#89)
+- [1fb05d9](https://github.com/stashed/installer/commit/1fb05d9) Issue license for testing enterprise charts (#88)
 
 
 

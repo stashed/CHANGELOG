@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.08.26-rc.1",
-  "release_date": "2020-08-26T23:53:49.38428932Z",
+  "release_date": "2020-08-27T00:09:50.648448817Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.08.26-rc.1",
   "kubernetes_version": "1.12+",
@@ -759,6 +759,40 @@
         {
           "tag": "7.3.2-rc.20200826",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.10.0-rc.1",
+          "commits": [
+            {
+              "SHA": "037a349",
+              "Subject": "Prepare for release v0.10.0-rc.1 (#90)"
+            },
+            {
+              "SHA": "f94e175",
+              "Subject": "Correctly pass license to CI workflow"
+            },
+            {
+              "SHA": "9f6539d",
+              "Subject": "Update stash-enterprise chart version"
+            },
+            {
+              "SHA": "5904e2c",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "d3d30cc",
+              "Subject": "Add link to the steps to get a license (#89)"
+            },
+            {
+              "SHA": "1fb05d9",
+              "Subject": "Issue license for testing enterprise charts (#88)"
+            }
+          ]
         }
       ]
     },
