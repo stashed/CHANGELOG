@@ -1828,6 +1828,13 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.08.27](https://github.com/stashed/docs/releases/tag/v2020.08.27)
+
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v1](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v1)
