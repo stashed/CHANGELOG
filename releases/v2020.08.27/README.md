@@ -2306,6 +2306,44 @@
 
 
 
+### [3.6.8-v1](https://github.com/stashed/mongodb/releases/tag/3.6.8-v1)
+
+- [384ac18](https://github.com/stashed/mongodb/commit/384ac18) Prepare for release 3.6.8-v1 (#246)
+- [fae0fa3](https://github.com/stashed/mongodb/commit/fae0fa3) Prepare for release 3.6.8-rc.20200827 (#234)
+- [59da835](https://github.com/stashed/mongodb/commit/59da835) [cherry-pick] Upload charts without updating index (#223)
+- [ae2ba11](https://github.com/stashed/mongodb/commit/ae2ba11) Prepare for release 3.6.8-rc.20200826 (#211)
+- [f6bbd70](https://github.com/stashed/mongodb/commit/f6bbd70) [cherry-pick] Update README.md (#200)
+- [a2098a8](https://github.com/stashed/mongodb/commit/a2098a8) Prepare for release 3.6.8-beta.20200826 (#188)
+- [81cad93](https://github.com/stashed/mongodb/commit/81cad93) [cherry-pick] Update Stash installation link (#173) (#177)
+- [0711cec](https://github.com/stashed/mongodb/commit/0711cec) [cherry-pick] Fix output format + Add PreBackupActions logic (#149) (#165)
+- [cd921b7](https://github.com/stashed/mongodb/commit/cd921b7) [cherry-pick] Make image.tag in values.yaml same as $APP_VERSION (#150) (#154)
+- [5d29173](https://github.com/stashed/mongodb/commit/5d29173) [cherry-pick] Update chart icon (#141)
+- [a8265a7](https://github.com/stashed/mongodb/commit/a8265a7) [cherry-pick] Make chart registry configurable (#126) (#130)
+- [a95f051](https://github.com/stashed/mongodb/commit/a95f051) Prepare for release 3.6.8-beta.20200709 (#117)
+- [8f74e62](https://github.com/stashed/mongodb/commit/8f74e62) [cherry-pick] Build docker image in release workflow (#102) (#106)
+- [2c74f48](https://github.com/stashed/mongodb/commit/2c74f48) Prepare for release 3.6.8-beta.20200708 (#93)
+- [ad45d26](https://github.com/stashed/mongodb/commit/ad45d26) [cherry-pick] Publish to testing dir for alpha/beta releases (#78) (#82)
+- [8eb1169](https://github.com/stashed/mongodb/commit/8eb1169) [cherry-pick] Update License (#66) (#70)
+- [0d12f73](https://github.com/stashed/mongodb/commit/0d12f73) Add commands to update chart version (#65)
+- [ab1ca6b](https://github.com/stashed/mongodb/commit/ab1ca6b) [cherry-pick] Update update-release-tracker.sh (#57)
+- [5c13265](https://github.com/stashed/mongodb/commit/5c13265) Add script to update release tracker on pr merge (#41)
+- [300fd5d](https://github.com/stashed/mongodb/commit/300fd5d) [cherry-pick] Update release.yml (#42) (#46)
+- [0b1ef75](https://github.com/stashed/mongodb/commit/0b1ef75) [cherry-pick] Add workflow to cherry pick commits to master (#29) (#33)
+- [37671b0](https://github.com/stashed/mongodb/commit/37671b0) Fix chart release process (#28)
+- [4c11ef1](https://github.com/stashed/mongodb/commit/4c11ef1) Update .kodiak.toml
+- [438d408](https://github.com/stashed/mongodb/commit/438d408) Allow overwriting secret key via SecretTransformation (#27)
+- [64c3cef](https://github.com/stashed/mongodb/commit/64c3cef) Make waitTimeout configurable through flag (#26)
+- [f22e19d](https://github.com/stashed/mongodb/commit/f22e19d) Create .kodiak.toml
+- [bbcdca0](https://github.com/stashed/mongodb/commit/bbcdca0) Fix typos
+- [cae40f7](https://github.com/stashed/mongodb/commit/cae40f7) Update to Kubernetes v1.18.3 (#25)
+- [6e726c5](https://github.com/stashed/mongodb/commit/6e726c5) Update crazy-max/ghaction-docker-buildx flag
+- [7e0a42b](https://github.com/stashed/mongodb/commit/7e0a42b) Fix typos
+- [a908726](https://github.com/stashed/mongodb/commit/a908726) Trigger the workflow on push or pull request
+- [cfda73c](https://github.com/stashed/mongodb/commit/cfda73c) Auto generate chart readme file
+- [f38510e](https://github.com/stashed/mongodb/commit/f38510e) Correctly mark optional fields
+- [9d9fc23](https://github.com/stashed/mongodb/commit/9d9fc23) Add openapi v3 schema for values file (#21)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
