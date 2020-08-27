@@ -18,6 +18,15 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2020.08.26-rc.1](https://github.com/stashed/bundles/releases/tag/v2020.08.26-rc.1)
+
+- [fecedca](https://github.com/stashed/bundles/commit/fecedca) Prepare for release v2020.08.26-rc.1 (#12)
+- [c6e2d91](https://github.com/stashed/bundles/commit/c6e2d91) Update README.md
+
+
+
 ## [stashed/catalog](https://github.com/stashed/catalog)
 
 ### [v2020.08.26-rc.1](https://github.com/stashed/catalog/releases/tag/v2020.08.26-rc.1)
