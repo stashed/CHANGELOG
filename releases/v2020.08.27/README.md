@@ -2619,6 +2619,46 @@
 - [424ec5a](https://github.com/stashed/mysql/commit/424ec5a) Add openapi v3 schema for values file (#20)
 
 
+### [8.0.3-v1](https://github.com/stashed/mysql/releases/tag/8.0.3-v1)
+
+- [cc49837](https://github.com/stashed/mysql/commit/cc49837) Prepare for release 8.0.3-v1 (#105)
+- [7d02720](https://github.com/stashed/mysql/commit/7d02720) Prepare for release 8.0.3-rc.20200827 (#101)
+- [dc8e2b5](https://github.com/stashed/mysql/commit/dc8e2b5) [cherry-pick] Upload charts without updating index (#98)
+- [f80506e](https://github.com/stashed/mysql/commit/f80506e) Prepare for release 8.0.3-rc.20200826 (#94)
+- [130b967](https://github.com/stashed/mysql/commit/130b967) [cherry-pick] Update README.md (#91)
+- [7326b37](https://github.com/stashed/mysql/commit/7326b37) Prepare for release 8.0.3-beta.20200826 (#87)
+- [72ba0ee](https://github.com/stashed/mysql/commit/72ba0ee) [cherry-pick] Update Stash installation link (#81) (#84)
+- [3e856a9](https://github.com/stashed/mysql/commit/3e856a9) [cherry-pick] Fix output format (#46) (#80)
+- [8621d51](https://github.com/stashed/mysql/commit/8621d51) [cherry-pick] Pass image tag in values.yaml file (#74) (#77)
+- [41702eb](https://github.com/stashed/mysql/commit/41702eb) [cherry-pick] Update chart icon (#73)
+- [31740f9](https://github.com/stashed/mysql/commit/31740f9) [cherry-pick] Make chart registry configurable (#67) (#70)
+- [ced3feb](https://github.com/stashed/mysql/commit/ced3feb) Prepare for release 8.0.3-beta.20200709 (#65)
+- [8299693](https://github.com/stashed/mysql/commit/8299693) [cherry-pick] Build docker image in release workflow (#59) (#62)
+- [18cc48f](https://github.com/stashed/mysql/commit/18cc48f) Prepare for release 8.0.3-beta.20200708 (#57)
+- [4e94b93](https://github.com/stashed/mysql/commit/4e94b93) [cherry-pick] Publish to testing dir for alpha/beta releases (#51) (#54)
+- [1c7bfc4](https://github.com/stashed/mysql/commit/1c7bfc4) [cherry-pick] Update License (#47) (#50)
+- [56485b1](https://github.com/stashed/mysql/commit/56485b1) Add commands to update chart version (#45)
+- [4f200fd](https://github.com/stashed/mysql/commit/4f200fd) [cherry-pick] Update update-release-tracker.sh (#44)
+- [0df0fc6](https://github.com/stashed/mysql/commit/0df0fc6) [cherry-pick] Update update-release-tracker.sh (#41)
+- [432da4e](https://github.com/stashed/mysql/commit/432da4e) [cherry-pick] Update release.yml (#38)
+- [0f1c7b3](https://github.com/stashed/mysql/commit/0f1c7b3) [cherry-pick] Add script to update release tracker on pr merge (#32) (#35)
+- [287a12f](https://github.com/stashed/mysql/commit/287a12f) [cherry-pick] Add workflow to cherry pick commits to master (#28) (#31)
+- [a962fe3](https://github.com/stashed/mysql/commit/a962fe3) Fix chart release process (#27)
+- [83c0565](https://github.com/stashed/mysql/commit/83c0565) Update .kodiak.toml
+- [a87889d](https://github.com/stashed/mysql/commit/a87889d) Allow overwriting secret key via SecretTransformation (#26)
+- [ca8f6b8](https://github.com/stashed/mysql/commit/ca8f6b8) Fix unit tests (#25)
+- [a38f3d9](https://github.com/stashed/mysql/commit/a38f3d9) Create .kodiak.toml
+- [119de10](https://github.com/stashed/mysql/commit/119de10) Fix typos
+- [71efc34](https://github.com/stashed/mysql/commit/71efc34) mend
+- [d4b025d](https://github.com/stashed/mysql/commit/d4b025d) Update to Kubernetes v1.18.3 (#24)
+- [270997e](https://github.com/stashed/mysql/commit/270997e) Fix waitForDBReady() logic + Make timeout configurable (#23)
+- [764ab66](https://github.com/stashed/mysql/commit/764ab66) Update crazy-max/ghaction-docker-buildx flag
+- [1325c75](https://github.com/stashed/mysql/commit/1325c75) Trigger the workflow on push or pull request
+- [dc106c2](https://github.com/stashed/mysql/commit/dc106c2) Auto generate chart readme file
+- [cb99aeb](https://github.com/stashed/mysql/commit/cb99aeb) Correctly mark optional fields
+- [0d30048](https://github.com/stashed/mysql/commit/0d30048) Add openapi v3 schema for values file (#20)
+
+
 ### [8.0.14-v1](https://github.com/stashed/mysql/releases/tag/8.0.14-v1)
 
 - [ced706b](https://github.com/stashed/mysql/commit/ced706b) Prepare for release 8.0.14-v1 (#104)
