@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.08.27",
-  "release_date": "2020-08-27T18:37:18.617807149Z",
+  "release_date": "2020-08-27T18:37:27.631739579Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.08.27",
   "kubernetes_version": "1.12+",
@@ -9174,6 +9174,147 @@
             },
             {
               "SHA": "9d9fc23",
+              "Subject": "Add openapi v3 schema for values file (#21)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v1",
+          "commits": [
+            {
+              "SHA": "bc7a353",
+              "Subject": "Prepare for release 4.0.11-v1 (#247)"
+            },
+            {
+              "SHA": "2dfe220",
+              "Subject": "Prepare for release 4.0.11-rc.20200827 (#235)"
+            },
+            {
+              "SHA": "7ccf88d",
+              "Subject": "[cherry-pick] Upload charts without updating index (#224)"
+            },
+            {
+              "SHA": "5f7ae55",
+              "Subject": "Prepare for release 4.0.11-rc.20200826 (#212)"
+            },
+            {
+              "SHA": "359a868",
+              "Subject": "[cherry-pick] Update README.md (#201)"
+            },
+            {
+              "SHA": "b794eee",
+              "Subject": "Prepare for release 4.0.1-beta.20200826 (#189)"
+            },
+            {
+              "SHA": "8e835ce",
+              "Subject": "[cherry-pick] Update Stash installation link (#173) (#178)"
+            },
+            {
+              "SHA": "0025cc4",
+              "Subject": "[cherry-pick] Fix output format + Add PreBackupActions logic (#149) (#166)"
+            },
+            {
+              "SHA": "bc8f7a5",
+              "Subject": "[cherry-pick] Make image.tag in values.yaml same as $APP_VERSION (#150) (#155)"
+            },
+            {
+              "SHA": "7b0bb50",
+              "Subject": "[cherry-pick] Update chart icon (#142)"
+            },
+            {
+              "SHA": "a9621b6",
+              "Subject": "[cherry-pick] Make chart registry configurable (#126) (#131)"
+            },
+            {
+              "SHA": "4168a4b",
+              "Subject": "Prepare for release 4.0.1-beta.20200709 (#118)"
+            },
+            {
+              "SHA": "90723f4",
+              "Subject": "[cherry-pick] Build docker image in release workflow (#102) (#107)"
+            },
+            {
+              "SHA": "0304c42",
+              "Subject": "Prepare for release 4.0.1-beta.20200708 (#94)"
+            },
+            {
+              "SHA": "276fcb6",
+              "Subject": "[cherry-pick] Publish to testing dir for alpha/beta releases (#78) (#83)"
+            },
+            {
+              "SHA": "bf8701f",
+              "Subject": "[cherry-pick] Update License (#66) (#71)"
+            },
+            {
+              "SHA": "6aaff28",
+              "Subject": "Add commands to update chart version (#65)"
+            },
+            {
+              "SHA": "222720b",
+              "Subject": "[cherry-pick] Update update-release-tracker.sh (#58)"
+            },
+            {
+              "SHA": "3184ed5",
+              "Subject": "Add script to update release tracker on pr merge (#41)"
+            },
+            {
+              "SHA": "fa39e11",
+              "Subject": "[cherry-pick] Update release.yml (#42) (#47)"
+            },
+            {
+              "SHA": "3bbadab",
+              "Subject": "[cherry-pick] Add workflow to cherry pick commits to master (#29) (#34)"
+            },
+            {
+              "SHA": "576171a",
+              "Subject": "Fix chart release process (#28)"
+            },
+            {
+              "SHA": "2b84c51",
+              "Subject": "Update .kodiak.toml"
+            },
+            {
+              "SHA": "bfcfd1e",
+              "Subject": "Allow overwriting secret key via SecretTransformation (#27)"
+            },
+            {
+              "SHA": "4830c47",
+              "Subject": "Make waitTimeout configurable through flag (#26)"
+            },
+            {
+              "SHA": "cf7ae46",
+              "Subject": "Create .kodiak.toml"
+            },
+            {
+              "SHA": "3c23777",
+              "Subject": "Fix typos"
+            },
+            {
+              "SHA": "b774f8d",
+              "Subject": "Update to Kubernetes v1.18.3 (#25)"
+            },
+            {
+              "SHA": "83bfeeb",
+              "Subject": "Update crazy-max/ghaction-docker-buildx flag"
+            },
+            {
+              "SHA": "ec8d37a",
+              "Subject": "Fix typos"
+            },
+            {
+              "SHA": "5478e9b",
+              "Subject": "Trigger the workflow on push or pull request"
+            },
+            {
+              "SHA": "b35efa4",
+              "Subject": "Auto generate chart readme file"
+            },
+            {
+              "SHA": "f6c6cf8",
+              "Subject": "Correctly mark optional fields"
+            },
+            {
+              "SHA": "3e35f9b",
               "Subject": "Add openapi v3 schema for values file (#21)"
             }
           ]
