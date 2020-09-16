@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.16",
-  "release_date": "2020-09-16T18:25:22.094053055Z",
+  "release_date": "2020-09-16T18:37:44.576662746Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.16",
   "kubernetes_version": "1.12+",
@@ -113,6 +113,44 @@
             {
               "SHA": "c6a8d81",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2020.09.16",
+          "commits": [
+            {
+              "SHA": "eebe45f",
+              "Subject": "Prepare for release v2020.09.16 (#99)"
+            },
+            {
+              "SHA": "5b59f39",
+              "Subject": "Use single helm command to update the license (#98)"
+            },
+            {
+              "SHA": "b383082",
+              "Subject": "Clarify Community edition is free to use for commercial purposes (#97)"
+            },
+            {
+              "SHA": "59a64d9",
+              "Subject": "Document database addons as enterprise feature (#95)"
+            },
+            {
+              "SHA": "adadf9b",
+              "Subject": "Update docs for stashed/stash@58b28e02 (#96)"
+            },
+            {
+              "SHA": "9de322a",
+              "Subject": "Fix agent name for monitoring via coreos promtheus operator (#94)"
+            },
+            {
+              "SHA": "b9e66e7",
+              "Subject": "Use catalogtable & versionlist Hugo shortcode (#93)"
             }
           ]
         }

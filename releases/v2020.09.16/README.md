@@ -47,6 +47,20 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.09.16](https://github.com/stashed/docs/releases/tag/v2020.09.16)
+
+- [eebe45f](https://github.com/stashed/docs/commit/eebe45f) Prepare for release v2020.09.16 (#99)
+- [5b59f39](https://github.com/stashed/docs/commit/5b59f39) Use single helm command to update the license (#98)
+- [b383082](https://github.com/stashed/docs/commit/b383082) Clarify Community edition is free to use for commercial purposes (#97)
+- [59a64d9](https://github.com/stashed/docs/commit/59a64d9) Document database addons as enterprise feature (#95)
+- [adadf9b](https://github.com/stashed/docs/commit/adadf9b) Update docs for stashed/stash@58b28e02 (#96)
+- [9de322a](https://github.com/stashed/docs/commit/9de322a) Fix agent name for monitoring via coreos promtheus operator (#94)
+- [b9e66e7](https://github.com/stashed/docs/commit/b9e66e7) Use catalogtable & versionlist Hugo shortcode (#93)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v2](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v2)
