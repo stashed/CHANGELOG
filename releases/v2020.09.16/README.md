@@ -58,6 +58,15 @@
 - [f3fae80](https://github.com/stashed/elasticsearch/commit/f3fae80) [cherry-pick] Use AppsCode Community License (#210) (#212)
 
 
+### [6.3.0-v2](https://github.com/stashed/elasticsearch/releases/tag/6.3.0-v2)
+
+- [0e19668](https://github.com/stashed/elasticsearch/commit/0e19668) Prepare for release 6.3.0-v2 (#248)
+- [9648ed3](https://github.com/stashed/elasticsearch/commit/9648ed3) [cherry-pick] Verify license info from stash operator (#237) (#240)
+- [4d23c41](https://github.com/stashed/elasticsearch/commit/4d23c41) [cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#228) (#231)
+- [58649ad](https://github.com/stashed/elasticsearch/commit/58649ad) [cherry-pick] Switch to AppsCode Trial license (#219) (#222)
+- [d950285](https://github.com/stashed/elasticsearch/commit/d950285) [cherry-pick] Use AppsCode Community License (#210) (#213)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
