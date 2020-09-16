@@ -24,6 +24,20 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.11.0](https://github.com/stashed/cli/releases/tag/v0.11.0)
+
+- [28f863f](https://github.com/stashed/cli/commit/28f863f) Prepare for release v0.11.0 (#48)
+- [fe90a5a](https://github.com/stashed/cli/commit/fe90a5a) Update Kubernetes v1.18.3 dependencies (#47)
+- [bdc2eb8](https://github.com/stashed/cli/commit/bdc2eb8) Use github.com/prometheus/client_golang@v1.7.1 (#46)
+- [fea66e1](https://github.com/stashed/cli/commit/fea66e1) Update Kubernetes v1.18.3 dependencies (#45)
+- [334aff0](https://github.com/stashed/cli/commit/334aff0) Use AppsCode Community License (#44)
+- [5e07d8f](https://github.com/stashed/cli/commit/5e07d8f) Update Kubernetes v1.18.3 dependencies (#43)
+- [c6a8d81](https://github.com/stashed/cli/commit/c6a8d81) Update Kubernetes v1.18.3 dependencies (#42)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.11.0](https://github.com/stashed/stash/releases/tag/v0.11.0)
