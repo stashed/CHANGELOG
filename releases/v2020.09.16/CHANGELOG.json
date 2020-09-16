@@ -1,0 +1,1009 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.09.16",
+  "release_date": "2020-09-16T18:47:11.679736702Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.09.16",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "8add0e83",
+              "Subject": "Prepare for release v0.11.0 (#24)"
+            },
+            {
+              "SHA": "0b689384",
+              "Subject": "Install license handler to operator webhook server (#23)"
+            },
+            {
+              "SHA": "19e8313d",
+              "Subject": "Update Prometheus client version (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "0189ba36",
+              "Subject": "Add license related constants (#47)"
+            },
+            {
+              "SHA": "de630b13",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#48)"
+            },
+            {
+              "SHA": "546ceea9",
+              "Subject": "Update Prometheus client version (#44)"
+            },
+            {
+              "SHA": "88df3b0c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#46)"
+            },
+            {
+              "SHA": "8608f5c5",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#45)"
+            },
+            {
+              "SHA": "41eca8e8",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2020.09.16",
+          "commits": [
+            {
+              "SHA": "1195129",
+              "Subject": "Prepare for release v2020.09.16 (#16)"
+            },
+            {
+              "SHA": "98bc992",
+              "Subject": "Use AppsCode Community License (#15)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/catalog",
+      "releases": [
+        {
+          "tag": "v2020.09.16",
+          "commits": [
+            {
+              "SHA": "1f44b9a",
+              "Subject": "Prepare for release v2020.09.16 (#38)"
+            },
+            {
+              "SHA": "c49f66f",
+              "Subject": "Use AppsCode Community License (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "28f863f",
+              "Subject": "Prepare for release v0.11.0 (#48)"
+            },
+            {
+              "SHA": "fe90a5a",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#47)"
+            },
+            {
+              "SHA": "bdc2eb8",
+              "Subject": "Use github.com/prometheus/client_golang@v1.7.1 (#46)"
+            },
+            {
+              "SHA": "fea66e1",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#45)"
+            },
+            {
+              "SHA": "334aff0",
+              "Subject": "Use AppsCode Community License (#44)"
+            },
+            {
+              "SHA": "5e07d8f",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#43)"
+            },
+            {
+              "SHA": "c6a8d81",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2020.09.16",
+          "commits": [
+            {
+              "SHA": "eebe45f",
+              "Subject": "Prepare for release v2020.09.16 (#99)"
+            },
+            {
+              "SHA": "5b59f39",
+              "Subject": "Use single helm command to update the license (#98)"
+            },
+            {
+              "SHA": "b383082",
+              "Subject": "Clarify Community edition is free to use for commercial purposes (#97)"
+            },
+            {
+              "SHA": "59a64d9",
+              "Subject": "Document database addons as enterprise feature (#95)"
+            },
+            {
+              "SHA": "adadf9b",
+              "Subject": "Update docs for stashed/stash@58b28e02 (#96)"
+            },
+            {
+              "SHA": "9de322a",
+              "Subject": "Fix agent name for monitoring via coreos promtheus operator (#94)"
+            },
+            {
+              "SHA": "b9e66e7",
+              "Subject": "Use catalogtable & versionlist Hugo shortcode (#93)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v2",
+          "commits": [
+            {
+              "SHA": "ced22a9",
+              "Subject": "Prepare for release 5.6.4-v2 (#246)"
+            },
+            {
+              "SHA": "2ff93eb",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#237) (#238)"
+            },
+            {
+              "SHA": "9fffb2d",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#228) (#229)"
+            },
+            {
+              "SHA": "54e853c",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#219) (#220)"
+            },
+            {
+              "SHA": "cf45e19",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#210) (#211)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v2",
+          "commits": [
+            {
+              "SHA": "a4a25fb",
+              "Subject": "Prepare for release 6.2.4-v2 (#247)"
+            },
+            {
+              "SHA": "faccd9c",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#237) (#239)"
+            },
+            {
+              "SHA": "1fcca35",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#228) (#230)"
+            },
+            {
+              "SHA": "5ff3d49",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#219) (#221)"
+            },
+            {
+              "SHA": "f3fae80",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#210) (#212)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v2",
+          "commits": [
+            {
+              "SHA": "0e19668",
+              "Subject": "Prepare for release 6.3.0-v2 (#248)"
+            },
+            {
+              "SHA": "9648ed3",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#237) (#240)"
+            },
+            {
+              "SHA": "4d23c41",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#228) (#231)"
+            },
+            {
+              "SHA": "58649ad",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#219) (#222)"
+            },
+            {
+              "SHA": "d950285",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#210) (#213)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v2",
+          "commits": [
+            {
+              "SHA": "1020631",
+              "Subject": "Prepare for release 6.4.0-v2 (#249)"
+            },
+            {
+              "SHA": "7bfb7d7",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#237) (#241)"
+            },
+            {
+              "SHA": "3eb4fb9",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#228) (#232)"
+            },
+            {
+              "SHA": "f7c6228",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#219) (#223)"
+            },
+            {
+              "SHA": "b80c2f4",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#210) (#214)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v2",
+          "commits": [
+            {
+              "SHA": "3793d92",
+              "Subject": "Prepare for release 6.5.3-v2 (#250)"
+            },
+            {
+              "SHA": "0e38789",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#237) (#242)"
+            },
+            {
+              "SHA": "3560a7e",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#228) (#233)"
+            },
+            {
+              "SHA": "b904573",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#219) (#224)"
+            },
+            {
+              "SHA": "7b0b5f9",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#210) (#215)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v2",
+          "commits": [
+            {
+              "SHA": "3c46fa4",
+              "Subject": "Prepare for release 6.8.0-v2 (#251)"
+            },
+            {
+              "SHA": "489bf75",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#237) (#243)"
+            },
+            {
+              "SHA": "5dee02e",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#228) (#234)"
+            },
+            {
+              "SHA": "067642a",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#219) (#225)"
+            },
+            {
+              "SHA": "7f96aea",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#210) (#216)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v2",
+          "commits": [
+            {
+              "SHA": "32cffd2",
+              "Subject": "Prepare for release 7.2.0-v2 (#252)"
+            },
+            {
+              "SHA": "d123f35",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#237) (#244)"
+            },
+            {
+              "SHA": "25e8779",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#228) (#235)"
+            },
+            {
+              "SHA": "ddcd7ef",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#219) (#226)"
+            },
+            {
+              "SHA": "96add80",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#210) (#217)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v2",
+          "commits": [
+            {
+              "SHA": "3acdbad",
+              "Subject": "Prepare for release 7.3.2-v2 (#253)"
+            },
+            {
+              "SHA": "346f7d8",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#237) (#245)"
+            },
+            {
+              "SHA": "5ad4ebb",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#228) (#236)"
+            },
+            {
+              "SHA": "fbe8fdc",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#219) (#227)"
+            },
+            {
+              "SHA": "bfdd1fb",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#210) (#218)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "11a4b97",
+              "Subject": "Prepare for release v0.11.0 (#101)"
+            },
+            {
+              "SHA": "96e1ea0",
+              "Subject": "Add permission to list nodes (#100)"
+            },
+            {
+              "SHA": "e18b2f9",
+              "Subject": "Add cluster role for license checker (#98)"
+            },
+            {
+              "SHA": "25ee54b",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#99)"
+            },
+            {
+              "SHA": "194b734",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#97)"
+            },
+            {
+              "SHA": "a9c363b",
+              "Subject": "Use AppsCode Community License (#96)"
+            },
+            {
+              "SHA": "48e8a45",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#95)"
+            },
+            {
+              "SHA": "85e89b2",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#94)"
+            },
+            {
+              "SHA": "a7ebe2f",
+              "Subject": "Update chart icons"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.1-v2",
+          "commits": [
+            {
+              "SHA": "d6cd42a",
+              "Subject": "Prepare for release 3.4.1-v2 (#315)"
+            },
+            {
+              "SHA": "5d846c3",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#303) (#304)"
+            },
+            {
+              "SHA": "f0f5274",
+              "Subject": "[cherry-pick] Switch to tls secret from pem in AppBinding (#255) (#292)"
+            },
+            {
+              "SHA": "3e1f75b",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#280) (#281)"
+            },
+            {
+              "SHA": "58f36c3",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#268) (#269)"
+            },
+            {
+              "SHA": "d8bfed7",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#256) (#257)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.2-v2",
+          "commits": [
+            {
+              "SHA": "9f39b16",
+              "Subject": "Prepare for release 3.4.2-v2 (#316)"
+            },
+            {
+              "SHA": "342b46f",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#303) (#305)"
+            },
+            {
+              "SHA": "056167e",
+              "Subject": "[cherry-pick] Switch to tls secret from pem in AppBinding (#255) (#293)"
+            },
+            {
+              "SHA": "a4fbda4",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#280) (#282)"
+            },
+            {
+              "SHA": "10dd2fe",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#268) (#270)"
+            },
+            {
+              "SHA": "89323b4",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#256) (#258)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.1-v2",
+          "commits": [
+            {
+              "SHA": "fe0e93b",
+              "Subject": "Prepare for release 3.6.1-v2 (#317)"
+            },
+            {
+              "SHA": "b53756a",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#303) (#306)"
+            },
+            {
+              "SHA": "239ef49",
+              "Subject": "[cherry-pick] Switch to tls secret from pem in AppBinding (#255) (#294)"
+            },
+            {
+              "SHA": "9684b9b",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#280) (#283)"
+            },
+            {
+              "SHA": "6697768",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#268) (#271)"
+            },
+            {
+              "SHA": "b25b9e0",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#256) (#259)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v2",
+          "commits": [
+            {
+              "SHA": "f358adb",
+              "Subject": "Prepare for release 3.6.8-v2 (#318)"
+            },
+            {
+              "SHA": "57d51f3",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#303) (#307)"
+            },
+            {
+              "SHA": "e25588b",
+              "Subject": "[cherry-pick] Switch to tls secret from pem in AppBinding (#255) (#295)"
+            },
+            {
+              "SHA": "e727df2",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#280) (#284)"
+            },
+            {
+              "SHA": "e2a3e54",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#268) (#272)"
+            },
+            {
+              "SHA": "3125f19",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#256) (#260)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v2",
+          "commits": [
+            {
+              "SHA": "5734929",
+              "Subject": "Prepare for release 4.0.3-v2 (#320)"
+            },
+            {
+              "SHA": "554125f",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#303) (#309)"
+            },
+            {
+              "SHA": "51fc4fc",
+              "Subject": "[cherry-pick] Switch to tls secret from pem in AppBinding (#255) (#297)"
+            },
+            {
+              "SHA": "5a25af3",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#280) (#286)"
+            },
+            {
+              "SHA": "791057c",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#268) (#274)"
+            },
+            {
+              "SHA": "cab86cc",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#256) (#262)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v2",
+          "commits": [
+            {
+              "SHA": "4939a48",
+              "Subject": "Prepare for release 4.0.5-v2 (#321)"
+            },
+            {
+              "SHA": "b5df908",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#303) (#310)"
+            },
+            {
+              "SHA": "051f4cd",
+              "Subject": "[cherry-pick] Switch to tls secret from pem in AppBinding (#255) (#298)"
+            },
+            {
+              "SHA": "3ba1f6c",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#280) (#287)"
+            },
+            {
+              "SHA": "8f1e9ae",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#268) (#275)"
+            },
+            {
+              "SHA": "6ff6079",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#256) (#263)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v2",
+          "commits": [
+            {
+              "SHA": "dd45e66",
+              "Subject": "Prepare for release 4.0.11-v2 (#319)"
+            },
+            {
+              "SHA": "909ce13",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#303) (#308)"
+            },
+            {
+              "SHA": "27c9145",
+              "Subject": "[cherry-pick] Switch to tls secret from pem in AppBinding (#255) (#296)"
+            },
+            {
+              "SHA": "c0fd352",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#280) (#285)"
+            },
+            {
+              "SHA": "9594c13",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#268) (#273)"
+            },
+            {
+              "SHA": "4d211b9",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#256) (#261)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.1-v2",
+          "commits": [
+            {
+              "SHA": "5740420",
+              "Subject": "Prepare for release 4.1.1-v2 (#322)"
+            },
+            {
+              "SHA": "2b824a1",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#303) (#311)"
+            },
+            {
+              "SHA": "d19b059",
+              "Subject": "[cherry-pick] Switch to tls secret from pem in AppBinding (#255) (#299)"
+            },
+            {
+              "SHA": "271906b",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#280) (#288)"
+            },
+            {
+              "SHA": "0de8dd3",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#268) (#276)"
+            },
+            {
+              "SHA": "159d83f",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#256) (#264)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v2",
+          "commits": [
+            {
+              "SHA": "6507bd9",
+              "Subject": "Prepare for release 4.1.4-v2 (#323)"
+            },
+            {
+              "SHA": "2faa4f1",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#303) (#312)"
+            },
+            {
+              "SHA": "4201854",
+              "Subject": "[cherry-pick] Switch to tls secret from pem in AppBinding (#255) (#300)"
+            },
+            {
+              "SHA": "a106836",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#280) (#289)"
+            },
+            {
+              "SHA": "e1ad15f",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#268) (#277)"
+            },
+            {
+              "SHA": "721bef2",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#256) (#265)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v2",
+          "commits": [
+            {
+              "SHA": "833905a",
+              "Subject": "Prepare for release 4.1.7-v2 (#324)"
+            },
+            {
+              "SHA": "2e06c98",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#303) (#313)"
+            },
+            {
+              "SHA": "d7b6f14",
+              "Subject": "[cherry-pick] Switch to tls secret from pem in AppBinding (#255) (#301)"
+            },
+            {
+              "SHA": "1f70c99",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#280) (#290)"
+            },
+            {
+              "SHA": "dadc11a",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#268) (#278)"
+            },
+            {
+              "SHA": "9ebe64f",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#256) (#266)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v2",
+          "commits": [
+            {
+              "SHA": "ae039dd",
+              "Subject": "Prepare for release 4.2.3-v2 (#325)"
+            },
+            {
+              "SHA": "99fe171",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#303) (#314)"
+            },
+            {
+              "SHA": "60ee4a0",
+              "Subject": "[cherry-pick] Switch to tls secret from pem in AppBinding (#255) (#302)"
+            },
+            {
+              "SHA": "c24a9bc",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#280) (#291)"
+            },
+            {
+              "SHA": "add112a",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#268) (#279)"
+            },
+            {
+              "SHA": "e9dded8",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#256) (#267)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v2",
+          "commits": [
+            {
+              "SHA": "c28b084",
+              "Subject": "Prepare for release 5.7.25-v2 (#123)"
+            },
+            {
+              "SHA": "c2f5aab",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#119) (#120)"
+            },
+            {
+              "SHA": "4686afa",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#115) (#116)"
+            },
+            {
+              "SHA": "09c142d",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#111) (#112)"
+            },
+            {
+              "SHA": "b0b47b4",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#107) (#108)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v2",
+          "commits": [
+            {
+              "SHA": "0bd9422",
+              "Subject": "Prepare for release 8.0.3-v2 (#125)"
+            },
+            {
+              "SHA": "753c3b5",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#119) (#122)"
+            },
+            {
+              "SHA": "e931e41",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#115) (#118)"
+            },
+            {
+              "SHA": "96c677d",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#111) (#114)"
+            },
+            {
+              "SHA": "3f231cf",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#107) (#110)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v2",
+          "commits": [
+            {
+              "SHA": "5e20d12",
+              "Subject": "Prepare for release 8.0.14-v2 (#124)"
+            },
+            {
+              "SHA": "7c4801f",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#119) (#121)"
+            },
+            {
+              "SHA": "76980c4",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#115) (#117)"
+            },
+            {
+              "SHA": "23a26cd",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#111) (#113)"
+            },
+            {
+              "SHA": "3954180",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#107) (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v2",
+          "commits": [
+            {
+              "SHA": "d33e539",
+              "Subject": "Prepare for release 5.7-v2 (#65)"
+            },
+            {
+              "SHA": "b53cfc8",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#63) (#64)"
+            },
+            {
+              "SHA": "859b6a4",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#61) (#62)"
+            },
+            {
+              "SHA": "14f50b8",
+              "Subject": "Switch to AppsCode Trial license"
+            },
+            {
+              "SHA": "c287878",
+              "Subject": "Delete LICENSE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19",
+          "commits": [
+            {
+              "SHA": "6fd2741",
+              "Subject": "Prepare for release 9.6.19 (#198)"
+            },
+            {
+              "SHA": "06b6542",
+              "Subject": "Add support for postgres:9.6.19"
+            },
+            {
+              "SHA": "e1cfed8",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#189) (#194)"
+            },
+            {
+              "SHA": "82fc42b",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#183) (#188)"
+            },
+            {
+              "SHA": "e64c0c7",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#177) (#182)"
+            },
+            {
+              "SHA": "1004dfb",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#171) (#176)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14.0",
+          "commits": [
+            {
+              "SHA": "4642779",
+              "Subject": "Prepare for release 10.14.0 (#195)"
+            },
+            {
+              "SHA": "2e94c31",
+              "Subject": "Add support for postgres:10.14"
+            },
+            {
+              "SHA": "9d1856e",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#189) (#191)"
+            },
+            {
+              "SHA": "86798e0",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#183) (#185)"
+            },
+            {
+              "SHA": "f58127c",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#177) (#179)"
+            },
+            {
+              "SHA": "d1929f1",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#171) (#173)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9.0",
+          "commits": [
+            {
+              "SHA": "5138fc7",
+              "Subject": "Prepare for release 11.9.0 (#196)"
+            },
+            {
+              "SHA": "81de1d6",
+              "Subject": "Add support for postgres:11.9"
+            },
+            {
+              "SHA": "747613b",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#189) (#193)"
+            },
+            {
+              "SHA": "af40fa9",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#183) (#187)"
+            },
+            {
+              "SHA": "00f48a6",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#177) (#181)"
+            },
+            {
+              "SHA": "d673cea",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#171) (#175)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "a919b347",
+              "Subject": "Prepare for release v0.11.0 (#1198)"
+            },
+            {
+              "SHA": "33cc3131",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1197)"
+            },
+            {
+              "SHA": "58b28e02",
+              "Subject": "Install license handler to operator webhook server (#1194)"
+            },
+            {
+              "SHA": "642f935c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1196)"
+            },
+            {
+              "SHA": "09f7213e",
+              "Subject": "Document database addons as enterprise feature (#1195)"
+            },
+            {
+              "SHA": "77b40b2b",
+              "Subject": "Update Prometheus client version (#1191)"
+            },
+            {
+              "SHA": "f452230c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1189)"
+            },
+            {
+              "SHA": "9f5e1c70",
+              "Subject": "Use AppsCode Community License (#1188)"
+            },
+            {
+              "SHA": "6802b5aa",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1186)"
+            },
+            {
+              "SHA": "b5a4a690",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1185)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
