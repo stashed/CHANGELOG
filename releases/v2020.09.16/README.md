@@ -60,6 +60,10 @@
 - [d673cea](https://github.com/stashed/postgres/commit/d673cea) [cherry-pick] Use AppsCode Community License (#171) (#175)
 
 
+### [12.4.0](https://github.com/stashed/postgres/releases/tag/12.4.0)
+
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
