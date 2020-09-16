@@ -226,6 +226,18 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v2](https://github.com/stashed/mysql/releases/tag/5.7.25-v2)
+
+- [c28b084](https://github.com/stashed/mysql/commit/c28b084) Prepare for release 5.7.25-v2 (#123)
+- [c2f5aab](https://github.com/stashed/mysql/commit/c2f5aab) [cherry-pick] Verify license info from stash operator (#119) (#120)
+- [4686afa](https://github.com/stashed/mysql/commit/4686afa) [cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#115) (#116)
+- [09c142d](https://github.com/stashed/mysql/commit/09c142d) [cherry-pick] Switch to AppsCode Trial license (#111) (#112)
+- [b0b47b4](https://github.com/stashed/mysql/commit/b0b47b4) [cherry-pick] Use AppsCode Community License (#107) (#108)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19](https://github.com/stashed/postgres/releases/tag/9.6.19)
