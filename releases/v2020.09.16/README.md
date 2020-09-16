@@ -24,6 +24,15 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2020.09.16](https://github.com/stashed/catalog/releases/tag/v2020.09.16)
+
+- [1f44b9a](https://github.com/stashed/catalog/commit/1f44b9a) Prepare for release v2020.09.16 (#38)
+- [c49f66f](https://github.com/stashed/catalog/commit/c49f66f) Use AppsCode Community License (#37)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.11.0](https://github.com/stashed/cli/releases/tag/v0.11.0)

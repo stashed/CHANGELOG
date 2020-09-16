@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.16",
-  "release_date": "2020-09-16T18:03:50.398392384Z",
+  "release_date": "2020-09-16T18:25:22.094053055Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.16",
   "kubernetes_version": "1.12+",
@@ -57,6 +57,24 @@
             {
               "SHA": "41eca8e8",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/catalog",
+      "releases": [
+        {
+          "tag": "v2020.09.16",
+          "commits": [
+            {
+              "SHA": "1f44b9a",
+              "Subject": "Prepare for release v2020.09.16 (#38)"
+            },
+            {
+              "SHA": "c49f66f",
+              "Subject": "Use AppsCode Community License (#37)"
             }
           ]
         }
