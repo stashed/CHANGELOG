@@ -113,6 +113,22 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.11.0](https://github.com/stashed/installer/releases/tag/v0.11.0)
+
+- [11a4b97](https://github.com/stashed/installer/commit/11a4b97) Prepare for release v0.11.0 (#101)
+- [96e1ea0](https://github.com/stashed/installer/commit/96e1ea0) Add permission to list nodes (#100)
+- [e18b2f9](https://github.com/stashed/installer/commit/e18b2f9) Add cluster role for license checker (#98)
+- [25ee54b](https://github.com/stashed/installer/commit/25ee54b) Update Kubernetes v1.18.3 dependencies (#99)
+- [194b734](https://github.com/stashed/installer/commit/194b734) Update Kubernetes v1.18.3 dependencies (#97)
+- [a9c363b](https://github.com/stashed/installer/commit/a9c363b) Use AppsCode Community License (#96)
+- [48e8a45](https://github.com/stashed/installer/commit/48e8a45) Update Kubernetes v1.18.3 dependencies (#95)
+- [85e89b2](https://github.com/stashed/installer/commit/85e89b2) Update Kubernetes v1.18.3 dependencies (#94)
+- [a7ebe2f](https://github.com/stashed/installer/commit/a7ebe2f) Update chart icons
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.1-v2](https://github.com/stashed/mongodb/releases/tag/3.4.1-v2)

@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.16",
-  "release_date": "2020-09-16T17:48:38.142162583Z",
+  "release_date": "2020-09-16T18:03:50.398392384Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.16",
   "kubernetes_version": "1.12+",
@@ -300,6 +300,52 @@
             {
               "SHA": "bfdd1fb",
               "Subject": "[cherry-pick] Use AppsCode Community License (#210) (#218)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "11a4b97",
+              "Subject": "Prepare for release v0.11.0 (#101)"
+            },
+            {
+              "SHA": "96e1ea0",
+              "Subject": "Add permission to list nodes (#100)"
+            },
+            {
+              "SHA": "e18b2f9",
+              "Subject": "Add cluster role for license checker (#98)"
+            },
+            {
+              "SHA": "25ee54b",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#99)"
+            },
+            {
+              "SHA": "194b734",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#97)"
+            },
+            {
+              "SHA": "a9c363b",
+              "Subject": "Use AppsCode Community License (#96)"
+            },
+            {
+              "SHA": "48e8a45",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#95)"
+            },
+            {
+              "SHA": "85e89b2",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#94)"
+            },
+            {
+              "SHA": "a7ebe2f",
+              "Subject": "Update chart icons"
             }
           ]
         }
