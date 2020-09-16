@@ -135,6 +135,16 @@
 - [89323b4](https://github.com/stashed/mongodb/commit/89323b4) [cherry-pick] Use AppsCode Community License (#256) (#258)
 
 
+### [3.6.1-v2](https://github.com/stashed/mongodb/releases/tag/3.6.1-v2)
+
+- [fe0e93b](https://github.com/stashed/mongodb/commit/fe0e93b) Prepare for release 3.6.1-v2 (#317)
+- [b53756a](https://github.com/stashed/mongodb/commit/b53756a) [cherry-pick] Verify license info from stash operator (#303) (#306)
+- [239ef49](https://github.com/stashed/mongodb/commit/239ef49) [cherry-pick] Switch to tls secret from pem in AppBinding (#255) (#294)
+- [9684b9b](https://github.com/stashed/mongodb/commit/9684b9b) [cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#280) (#283)
+- [6697768](https://github.com/stashed/mongodb/commit/6697768) [cherry-pick] Switch to AppsCode Trial license (#268) (#271)
+- [b25b9e0](https://github.com/stashed/mongodb/commit/b25b9e0) [cherry-pick] Use AppsCode Community License (#256) (#259)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
