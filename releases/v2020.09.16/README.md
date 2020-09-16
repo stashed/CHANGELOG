@@ -38,6 +38,19 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.14.0](https://github.com/stashed/postgres/releases/tag/10.14.0)
+
+- [4642779](https://github.com/stashed/postgres/commit/4642779) Prepare for release 10.14.0 (#195)
+- [2e94c31](https://github.com/stashed/postgres/commit/2e94c31) Add support for postgres:10.14
+- [9d1856e](https://github.com/stashed/postgres/commit/9d1856e) [cherry-pick] Verify license info from stash operator (#189) (#191)
+- [86798e0](https://github.com/stashed/postgres/commit/86798e0) [cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#183) (#185)
+- [f58127c](https://github.com/stashed/postgres/commit/f58127c) [cherry-pick] Switch to AppsCode Trial license (#177) (#179)
+- [d1929f1](https://github.com/stashed/postgres/commit/d1929f1) [cherry-pick] Use AppsCode Community License (#171) (#173)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.11.0](https://github.com/stashed/stash/releases/tag/v0.11.0)
