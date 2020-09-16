@@ -40,6 +40,16 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19](https://github.com/stashed/postgres/releases/tag/9.6.19)
+
+- [6fd2741](https://github.com/stashed/postgres/commit/6fd2741) Prepare for release 9.6.19 (#198)
+- [06b6542](https://github.com/stashed/postgres/commit/06b6542) Add support for postgres:9.6.19
+- [e1cfed8](https://github.com/stashed/postgres/commit/e1cfed8) [cherry-pick] Verify license info from stash operator (#189) (#194)
+- [82fc42b](https://github.com/stashed/postgres/commit/82fc42b) [cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#183) (#188)
+- [e64c0c7](https://github.com/stashed/postgres/commit/e64c0c7) [cherry-pick] Switch to AppsCode Trial license (#177) (#182)
+- [1004dfb](https://github.com/stashed/postgres/commit/1004dfb) [cherry-pick] Use AppsCode Community License (#171) (#176)
+
+
 ### [10.14.0](https://github.com/stashed/postgres/releases/tag/10.14.0)
 
 - [4642779](https://github.com/stashed/postgres/commit/4642779) Prepare for release 10.14.0 (#195)

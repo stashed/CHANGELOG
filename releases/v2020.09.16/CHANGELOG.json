@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.16",
-  "release_date": "2020-09-16T12:20:32.258371761Z",
+  "release_date": "2020-09-16T12:20:38.575916869Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.16",
   "kubernetes_version": "1.12+",
@@ -103,6 +103,35 @@
     {
       "url": "github.com/stashed/postgres",
       "releases": [
+        {
+          "tag": "9.6.19",
+          "commits": [
+            {
+              "SHA": "6fd2741",
+              "Subject": "Prepare for release 9.6.19 (#198)"
+            },
+            {
+              "SHA": "06b6542",
+              "Subject": "Add support for postgres:9.6.19"
+            },
+            {
+              "SHA": "e1cfed8",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#189) (#194)"
+            },
+            {
+              "SHA": "82fc42b",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#183) (#188)"
+            },
+            {
+              "SHA": "e64c0c7",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#177) (#182)"
+            },
+            {
+              "SHA": "1004dfb",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#171) (#176)"
+            }
+          ]
+        },
         {
           "tag": "10.14.0",
           "commits": [
