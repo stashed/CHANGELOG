@@ -1,6 +1,16 @@
 # Stash v2020.09.16 (2020-09-16)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.11.0](https://github.com/appscode/stash-enterprise/releases/tag/v0.11.0)
+
+- [8add0e83](https://github.com/appscode/stash-enterprise/commit/8add0e83) Prepare for release v0.11.0 (#24)
+- [0b689384](https://github.com/appscode/stash-enterprise/commit/0b689384) Install license handler to operator webhook server (#23)
+- [19e8313d](https://github.com/appscode/stash-enterprise/commit/19e8313d) Update Prometheus client version (#22)
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.11.0](https://github.com/stashed/apimachinery/releases/tag/v0.11.0)

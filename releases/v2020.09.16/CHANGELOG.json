@@ -1,11 +1,33 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.16",
-  "release_date": "2020-09-16T11:25:05.879583451Z",
+  "release_date": "2020-09-16T11:34:53.425560112Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.16",
   "kubernetes_version": "1.12+",
   "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "8add0e83",
+              "Subject": "Prepare for release v0.11.0 (#24)"
+            },
+            {
+              "SHA": "0b689384",
+              "Subject": "Install license handler to operator webhook server (#23)"
+            },
+            {
+              "SHA": "19e8313d",
+              "Subject": "Update Prometheus client version (#22)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/apimachinery",
       "releases": [
