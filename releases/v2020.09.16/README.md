@@ -24,6 +24,15 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2020.09.16](https://github.com/stashed/bundles/releases/tag/v2020.09.16)
+
+- [1195129](https://github.com/stashed/bundles/commit/1195129) Prepare for release v2020.09.16 (#16)
+- [98bc992](https://github.com/stashed/bundles/commit/98bc992) Use AppsCode Community License (#15)
+
+
+
 ## [stashed/catalog](https://github.com/stashed/catalog)
 
 ### [v2020.09.16](https://github.com/stashed/catalog/releases/tag/v2020.09.16)
