@@ -256,6 +256,18 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v2](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v2)
+
+- [d33e539](https://github.com/stashed/percona-xtradb/commit/d33e539) Prepare for release 5.7-v2 (#65)
+- [b53cfc8](https://github.com/stashed/percona-xtradb/commit/b53cfc8) [cherry-pick] Verify license info from stash operator (#63) (#64)
+- [859b6a4](https://github.com/stashed/percona-xtradb/commit/859b6a4) [cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#61) (#62)
+- [14f50b8](https://github.com/stashed/percona-xtradb/commit/14f50b8) Switch to AppsCode Trial license
+- [c287878](https://github.com/stashed/percona-xtradb/commit/c287878) Delete LICENSE
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19](https://github.com/stashed/postgres/releases/tag/9.6.19)

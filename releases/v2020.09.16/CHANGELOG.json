@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.16",
-  "release_date": "2020-09-16T13:48:32.690027988Z",
+  "release_date": "2020-09-16T17:48:38.142162583Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.16",
   "kubernetes_version": "1.12+",
@@ -704,6 +704,36 @@
             {
               "SHA": "3954180",
               "Subject": "[cherry-pick] Use AppsCode Community License (#107) (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v2",
+          "commits": [
+            {
+              "SHA": "d33e539",
+              "Subject": "Prepare for release 5.7-v2 (#65)"
+            },
+            {
+              "SHA": "b53cfc8",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#63) (#64)"
+            },
+            {
+              "SHA": "859b6a4",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#61) (#62)"
+            },
+            {
+              "SHA": "14f50b8",
+              "Subject": "Switch to AppsCode Trial license"
+            },
+            {
+              "SHA": "c287878",
+              "Subject": "Delete LICENSE"
             }
           ]
         }
