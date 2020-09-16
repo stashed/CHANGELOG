@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.16",
-  "release_date": "2020-09-16T12:20:38.575916869Z",
+  "release_date": "2020-09-16T13:01:51.893480934Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.16",
   "kubernetes_version": "1.12+",
@@ -95,6 +95,36 @@
             {
               "SHA": "c6a8d81",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v2",
+          "commits": [
+            {
+              "SHA": "ced22a9",
+              "Subject": "Prepare for release 5.6.4-v2 (#246)"
+            },
+            {
+              "SHA": "2ff93eb",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#237) (#238)"
+            },
+            {
+              "SHA": "9fffb2d",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#228) (#229)"
+            },
+            {
+              "SHA": "54e853c",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#219) (#220)"
+            },
+            {
+              "SHA": "cf45e19",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#210) (#211)"
             }
           ]
         }
