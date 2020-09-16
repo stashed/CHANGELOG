@@ -1,0 +1,44 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.09.16",
+  "release_date": "2020-09-16T11:13:11.721231027Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.09.16",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "0189ba36",
+              "Subject": "Add license related constants (#47)"
+            },
+            {
+              "SHA": "de630b13",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#48)"
+            },
+            {
+              "SHA": "546ceea9",
+              "Subject": "Update Prometheus client version (#44)"
+            },
+            {
+              "SHA": "88df3b0c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#46)"
+            },
+            {
+              "SHA": "8608f5c5",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#45)"
+            },
+            {
+              "SHA": "41eca8e8",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#43)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
