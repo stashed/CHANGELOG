@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.16",
-  "release_date": "2020-09-16T11:13:11.721231027Z",
+  "release_date": "2020-09-16T11:25:05.879583451Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.16",
   "kubernetes_version": "1.12+",
@@ -35,6 +35,56 @@
             {
               "SHA": "41eca8e8",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "a919b347",
+              "Subject": "Prepare for release v0.11.0 (#1198)"
+            },
+            {
+              "SHA": "33cc3131",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1197)"
+            },
+            {
+              "SHA": "58b28e02",
+              "Subject": "Install license handler to operator webhook server (#1194)"
+            },
+            {
+              "SHA": "642f935c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1196)"
+            },
+            {
+              "SHA": "09f7213e",
+              "Subject": "Document database addons as enterprise feature (#1195)"
+            },
+            {
+              "SHA": "77b40b2b",
+              "Subject": "Update Prometheus client version (#1191)"
+            },
+            {
+              "SHA": "f452230c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1189)"
+            },
+            {
+              "SHA": "9f5e1c70",
+              "Subject": "Use AppsCode Community License (#1188)"
+            },
+            {
+              "SHA": "6802b5aa",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1186)"
+            },
+            {
+              "SHA": "b5a4a690",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1185)"
             }
           ]
         }

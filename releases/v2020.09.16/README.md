@@ -14,3 +14,20 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.11.0](https://github.com/stashed/stash/releases/tag/v0.11.0)
+
+- [a919b347](https://github.com/stashed/stash/commit/a919b347) Prepare for release v0.11.0 (#1198)
+- [33cc3131](https://github.com/stashed/stash/commit/33cc3131) Update Kubernetes v1.18.3 dependencies (#1197)
+- [58b28e02](https://github.com/stashed/stash/commit/58b28e02) Install license handler to operator webhook server (#1194)
+- [642f935c](https://github.com/stashed/stash/commit/642f935c) Update Kubernetes v1.18.3 dependencies (#1196)
+- [09f7213e](https://github.com/stashed/stash/commit/09f7213e) Document database addons as enterprise feature (#1195)
+- [77b40b2b](https://github.com/stashed/stash/commit/77b40b2b) Update Prometheus client version (#1191)
+- [f452230c](https://github.com/stashed/stash/commit/f452230c) Update Kubernetes v1.18.3 dependencies (#1189)
+- [9f5e1c70](https://github.com/stashed/stash/commit/9f5e1c70) Use AppsCode Community License (#1188)
+- [6802b5aa](https://github.com/stashed/stash/commit/6802b5aa) Update Kubernetes v1.18.3 dependencies (#1186)
+- [b5a4a690](https://github.com/stashed/stash/commit/b5a4a690) Update Kubernetes v1.18.3 dependencies (#1185)
+
+
+
