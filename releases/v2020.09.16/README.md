@@ -50,6 +50,16 @@
 - [d1929f1](https://github.com/stashed/postgres/commit/d1929f1) [cherry-pick] Use AppsCode Community License (#171) (#173)
 
 
+### [11.9.0](https://github.com/stashed/postgres/releases/tag/11.9.0)
+
+- [5138fc7](https://github.com/stashed/postgres/commit/5138fc7) Prepare for release 11.9.0 (#196)
+- [81de1d6](https://github.com/stashed/postgres/commit/81de1d6) Add support for postgres:11.9
+- [747613b](https://github.com/stashed/postgres/commit/747613b) [cherry-pick] Verify license info from stash operator (#189) (#193)
+- [af40fa9](https://github.com/stashed/postgres/commit/af40fa9) [cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#183) (#187)
+- [00f48a6](https://github.com/stashed/postgres/commit/00f48a6) [cherry-pick] Switch to AppsCode Trial license (#177) (#181)
+- [d673cea](https://github.com/stashed/postgres/commit/d673cea) [cherry-pick] Use AppsCode Community License (#171) (#175)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
