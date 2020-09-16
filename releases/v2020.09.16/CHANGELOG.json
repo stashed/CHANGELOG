@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.16",
-  "release_date": "2020-09-16T13:01:51.893480934Z",
+  "release_date": "2020-09-16T13:01:57.92710721Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.16",
   "kubernetes_version": "1.12+",
@@ -125,6 +125,31 @@
             {
               "SHA": "cf45e19",
               "Subject": "[cherry-pick] Use AppsCode Community License (#210) (#211)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v2",
+          "commits": [
+            {
+              "SHA": "a4a25fb",
+              "Subject": "Prepare for release 6.2.4-v2 (#247)"
+            },
+            {
+              "SHA": "faccd9c",
+              "Subject": "[cherry-pick] Verify license info from stash operator (#237) (#239)"
+            },
+            {
+              "SHA": "1fcca35",
+              "Subject": "[cherry-pick] Use github.com/prometheus/client_golang@v1.7.1 (#228) (#230)"
+            },
+            {
+              "SHA": "5ff3d49",
+              "Subject": "[cherry-pick] Switch to AppsCode Trial license (#219) (#221)"
+            },
+            {
+              "SHA": "f3fae80",
+              "Subject": "[cherry-pick] Use AppsCode Community License (#210) (#212)"
             }
           ]
         }
