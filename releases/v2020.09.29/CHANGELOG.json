@@ -1,0 +1,290 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.09.29",
+  "release_date": "2020-09-29T11:06:24.692785606Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.09.29",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.11.2",
+          "commits": [
+            {
+              "SHA": "b6b0c6ac",
+              "Subject": "Prepare for release v0.11.2 (#28)"
+            },
+            {
+              "SHA": "281b513c",
+              "Subject": "Fix database auto-backup + Repository status update (#27)"
+            },
+            {
+              "SHA": "10da79b8",
+              "Subject": "Update repository config (#26)"
+            },
+            {
+              "SHA": "0aecb235",
+              "Subject": "Update repository config (#25)"
+            },
+            {
+              "SHA": "81726ec5",
+              "Subject": "Update features table"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.2",
+          "commits": [
+            {
+              "SHA": "fdc12ac2",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#56)"
+            },
+            {
+              "SHA": "6ed3a17b",
+              "Subject": "Use POST instead of PUT method to push metrics into pushgateway (#55)"
+            },
+            {
+              "SHA": "1cff3b6b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#54)"
+            },
+            {
+              "SHA": "596541c6",
+              "Subject": "Update repository config (#53)"
+            },
+            {
+              "SHA": "64f1e392",
+              "Subject": "Update repository config (#52)"
+            },
+            {
+              "SHA": "3b73ec67",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#51)"
+            },
+            {
+              "SHA": "0c4ff5e6",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#50)"
+            },
+            {
+              "SHA": "01d9fb4d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2020.09.29",
+          "commits": [
+            {
+              "SHA": "41d7635",
+              "Subject": "Prepare for release v2020.09.29 (#19)"
+            },
+            {
+              "SHA": "ea386fe",
+              "Subject": "Update repository config (#18)"
+            },
+            {
+              "SHA": "4b71a5d",
+              "Subject": "Update repository config (#17)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/catalog",
+      "releases": [
+        {
+          "tag": "v2020.09.29",
+          "commits": [
+            {
+              "SHA": "c971630",
+              "Subject": "Prepare for release v2020.09.29 (#41)"
+            },
+            {
+              "SHA": "bacd576",
+              "Subject": "Update repository config (#40)"
+            },
+            {
+              "SHA": "2d001cd",
+              "Subject": "Update repository config (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.11.2",
+          "commits": [
+            {
+              "SHA": "9566b46",
+              "Subject": "Prepare for release v0.11.2 (#56)"
+            },
+            {
+              "SHA": "8eab6d9",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#55)"
+            },
+            {
+              "SHA": "91ae713",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#54)"
+            },
+            {
+              "SHA": "ae36a24",
+              "Subject": "Update repository config (#53)"
+            },
+            {
+              "SHA": "a2f4793",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#52)"
+            },
+            {
+              "SHA": "6edbe6d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#51)"
+            },
+            {
+              "SHA": "37eee1c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#50)"
+            },
+            {
+              "SHA": "7045e6b",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2020.09.29",
+          "commits": [
+            {
+              "SHA": "e22a799",
+              "Subject": "Prepare for release v2020.09.29 (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.11.2",
+          "commits": [
+            {
+              "SHA": "6b6c270",
+              "Subject": "Prepare for release v0.11.2 (#110)"
+            },
+            {
+              "SHA": "15d8827",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#109)"
+            },
+            {
+              "SHA": "ade81f7",
+              "Subject": "Update pushgateway version (#108)"
+            },
+            {
+              "SHA": "4b8dcbf",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#107)"
+            },
+            {
+              "SHA": "72b9d7d",
+              "Subject": "Update repository config (#106)"
+            },
+            {
+              "SHA": "d4c3d9f",
+              "Subject": "Update repository config (#105)"
+            },
+            {
+              "SHA": "a1b99bd",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#104)"
+            },
+            {
+              "SHA": "2d13138",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#103)"
+            },
+            {
+              "SHA": "7f17beb",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.2",
+          "commits": [
+            {
+              "SHA": "ba1cb598",
+              "Subject": "Prepare for release v0.11.2 (#1211)"
+            },
+            {
+              "SHA": "09b06beb",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1209)"
+            },
+            {
+              "SHA": "d0bae661",
+              "Subject": "Fix repository status update (#1208)"
+            },
+            {
+              "SHA": "d7ee2d1e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1205)"
+            },
+            {
+              "SHA": "b97403dc",
+              "Subject": "Update repository config (#1204)"
+            },
+            {
+              "SHA": "44173b82",
+              "Subject": "Update repository config (#1203)"
+            },
+            {
+              "SHA": "3e62cd2d",
+              "Subject": "Update repository config (#1202)"
+            },
+            {
+              "SHA": "bfac4f0f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1201)"
+            },
+            {
+              "SHA": "022c5eac",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1200)"
+            },
+            {
+              "SHA": "9793d44b",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "2970d018",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1199)"
+            },
+            {
+              "SHA": "86e90746",
+              "Subject": "Implicitly import go.bytebuilders.dev/license-verifier"
+            },
+            {
+              "SHA": "8acf60c2",
+              "Subject": "Update README.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
