@@ -1,0 +1,19 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.09.29",
+  "release_date": "2020-09-29T08:00:45.608744333Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.09.29",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.1",
+          "commits": null
+        }
+      ]
+    }
+  ]
+}
