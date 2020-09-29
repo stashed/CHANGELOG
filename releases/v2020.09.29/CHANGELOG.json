@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.29",
-  "release_date": "2020-09-29T08:53:57.530254005Z",
+  "release_date": "2020-09-29T09:12:20.620537301Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.29",
   "kubernetes_version": "1.12+",
@@ -115,6 +115,52 @@
             {
               "SHA": "7045e6b",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.11.2",
+          "commits": [
+            {
+              "SHA": "6b6c270",
+              "Subject": "Prepare for release v0.11.2 (#110)"
+            },
+            {
+              "SHA": "15d8827",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#109)"
+            },
+            {
+              "SHA": "ade81f7",
+              "Subject": "Update pushgateway version (#108)"
+            },
+            {
+              "SHA": "4b8dcbf",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#107)"
+            },
+            {
+              "SHA": "72b9d7d",
+              "Subject": "Update repository config (#106)"
+            },
+            {
+              "SHA": "d4c3d9f",
+              "Subject": "Update repository config (#105)"
+            },
+            {
+              "SHA": "a1b99bd",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#104)"
+            },
+            {
+              "SHA": "2d13138",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#103)"
+            },
+            {
+              "SHA": "7f17beb",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#102)"
             }
           ]
         }

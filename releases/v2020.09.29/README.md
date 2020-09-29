@@ -43,6 +43,22 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.11.2](https://github.com/stashed/installer/releases/tag/v0.11.2)
+
+- [6b6c270](https://github.com/stashed/installer/commit/6b6c270) Prepare for release v0.11.2 (#110)
+- [15d8827](https://github.com/stashed/installer/commit/15d8827) Update Kubernetes v1.18.9 dependencies (#109)
+- [ade81f7](https://github.com/stashed/installer/commit/ade81f7) Update pushgateway version (#108)
+- [4b8dcbf](https://github.com/stashed/installer/commit/4b8dcbf) Update Kubernetes v1.18.9 dependencies (#107)
+- [72b9d7d](https://github.com/stashed/installer/commit/72b9d7d) Update repository config (#106)
+- [d4c3d9f](https://github.com/stashed/installer/commit/d4c3d9f) Update repository config (#105)
+- [a1b99bd](https://github.com/stashed/installer/commit/a1b99bd) Update Kubernetes v1.18.9 dependencies (#104)
+- [2d13138](https://github.com/stashed/installer/commit/2d13138) Update Kubernetes v1.18.3 dependencies (#103)
+- [7f17beb](https://github.com/stashed/installer/commit/7f17beb) Update Kubernetes v1.18.3 dependencies (#102)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.11.2](https://github.com/stashed/stash/releases/tag/v0.11.2)
