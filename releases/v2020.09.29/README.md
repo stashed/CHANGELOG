@@ -16,3 +16,23 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.11.2](https://github.com/stashed/stash/releases/tag/v0.11.2)
+
+- [ba1cb598](https://github.com/stashed/stash/commit/ba1cb598) Prepare for release v0.11.2 (#1211)
+- [09b06beb](https://github.com/stashed/stash/commit/09b06beb) Update Kubernetes v1.18.9 dependencies (#1209)
+- [d0bae661](https://github.com/stashed/stash/commit/d0bae661) Fix repository status update (#1208)
+- [d7ee2d1e](https://github.com/stashed/stash/commit/d7ee2d1e) Update Kubernetes v1.18.9 dependencies (#1205)
+- [b97403dc](https://github.com/stashed/stash/commit/b97403dc) Update repository config (#1204)
+- [44173b82](https://github.com/stashed/stash/commit/44173b82) Update repository config (#1203)
+- [3e62cd2d](https://github.com/stashed/stash/commit/3e62cd2d) Update repository config (#1202)
+- [bfac4f0f](https://github.com/stashed/stash/commit/bfac4f0f) Update Kubernetes v1.18.9 dependencies (#1201)
+- [022c5eac](https://github.com/stashed/stash/commit/022c5eac) Update Kubernetes v1.18.3 dependencies (#1200)
+- [9793d44b](https://github.com/stashed/stash/commit/9793d44b) Update README.md
+- [2970d018](https://github.com/stashed/stash/commit/2970d018) Update Kubernetes v1.18.3 dependencies (#1199)
+- [86e90746](https://github.com/stashed/stash/commit/86e90746) Implicitly import go.bytebuilders.dev/license-verifier
+- [8acf60c2](https://github.com/stashed/stash/commit/8acf60c2) Update README.md
+
+
+

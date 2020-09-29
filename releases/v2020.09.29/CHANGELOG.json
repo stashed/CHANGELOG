@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.29",
-  "release_date": "2020-09-29T08:10:25.623239849Z",
+  "release_date": "2020-09-29T08:22:05.244498199Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.29",
   "kubernetes_version": "1.12+",
@@ -43,6 +43,68 @@
             {
               "SHA": "01d9fb4d",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.2",
+          "commits": [
+            {
+              "SHA": "ba1cb598",
+              "Subject": "Prepare for release v0.11.2 (#1211)"
+            },
+            {
+              "SHA": "09b06beb",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1209)"
+            },
+            {
+              "SHA": "d0bae661",
+              "Subject": "Fix repository status update (#1208)"
+            },
+            {
+              "SHA": "d7ee2d1e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1205)"
+            },
+            {
+              "SHA": "b97403dc",
+              "Subject": "Update repository config (#1204)"
+            },
+            {
+              "SHA": "44173b82",
+              "Subject": "Update repository config (#1203)"
+            },
+            {
+              "SHA": "3e62cd2d",
+              "Subject": "Update repository config (#1202)"
+            },
+            {
+              "SHA": "bfac4f0f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1201)"
+            },
+            {
+              "SHA": "022c5eac",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1200)"
+            },
+            {
+              "SHA": "9793d44b",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "2970d018",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#1199)"
+            },
+            {
+              "SHA": "86e90746",
+              "Subject": "Implicitly import go.bytebuilders.dev/license-verifier"
+            },
+            {
+              "SHA": "8acf60c2",
+              "Subject": "Update README.md"
             }
           ]
         }
