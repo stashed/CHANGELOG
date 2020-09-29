@@ -53,6 +53,14 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.09.29](https://github.com/stashed/docs/releases/tag/v2020.09.29)
+
+- [e22a799](https://github.com/stashed/docs/commit/e22a799) Prepare for release v2020.09.29 (#102)
+
+
+
 ## [stashed/installer](https://github.com/stashed/installer)
 
 ### [v0.11.2](https://github.com/stashed/installer/releases/tag/v0.11.2)
