@@ -1,6 +1,18 @@
 # Stash v2020.09.29 (2020-09-29)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.11.2](https://github.com/appscode/stash-enterprise/releases/tag/v0.11.2)
+
+- [b6b0c6ac](https://github.com/appscode/stash-enterprise/commit/b6b0c6ac) Prepare for release v0.11.2 (#28)
+- [281b513c](https://github.com/appscode/stash-enterprise/commit/281b513c) Fix database auto-backup + Repository status update (#27)
+- [10da79b8](https://github.com/appscode/stash-enterprise/commit/10da79b8) Update repository config (#26)
+- [0aecb235](https://github.com/appscode/stash-enterprise/commit/0aecb235) Update repository config (#25)
+- [81726ec5](https://github.com/appscode/stash-enterprise/commit/81726ec5) Update features table
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.11.2](https://github.com/stashed/apimachinery/releases/tag/v0.11.2)

@@ -1,11 +1,41 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.29",
-  "release_date": "2020-09-29T08:22:05.244498199Z",
+  "release_date": "2020-09-29T08:46:40.213504498Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.29",
   "kubernetes_version": "1.12+",
   "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.11.2",
+          "commits": [
+            {
+              "SHA": "b6b0c6ac",
+              "Subject": "Prepare for release v0.11.2 (#28)"
+            },
+            {
+              "SHA": "281b513c",
+              "Subject": "Fix database auto-backup + Repository status update (#27)"
+            },
+            {
+              "SHA": "10da79b8",
+              "Subject": "Update repository config (#26)"
+            },
+            {
+              "SHA": "0aecb235",
+              "Subject": "Update repository config (#25)"
+            },
+            {
+              "SHA": "81726ec5",
+              "Subject": "Update features table"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/apimachinery",
       "releases": [
