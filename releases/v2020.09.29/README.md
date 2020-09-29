@@ -28,6 +28,16 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2020.09.29](https://github.com/stashed/catalog/releases/tag/v2020.09.29)
+
+- [c971630](https://github.com/stashed/catalog/commit/c971630) Prepare for release v2020.09.29 (#41)
+- [bacd576](https://github.com/stashed/catalog/commit/bacd576) Update repository config (#40)
+- [2d001cd](https://github.com/stashed/catalog/commit/2d001cd) Update repository config (#39)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.11.2](https://github.com/stashed/cli/releases/tag/v0.11.2)
