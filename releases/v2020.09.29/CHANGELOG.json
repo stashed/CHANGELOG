@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.09.29",
-  "release_date": "2020-09-29T08:46:40.213504498Z",
+  "release_date": "2020-09-29T08:53:57.530254005Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.09.29",
   "kubernetes_version": "1.12+",
@@ -72,6 +72,48 @@
             },
             {
               "SHA": "01d9fb4d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.11.2",
+          "commits": [
+            {
+              "SHA": "9566b46",
+              "Subject": "Prepare for release v0.11.2 (#56)"
+            },
+            {
+              "SHA": "8eab6d9",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#55)"
+            },
+            {
+              "SHA": "91ae713",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#54)"
+            },
+            {
+              "SHA": "ae36a24",
+              "Subject": "Update repository config (#53)"
+            },
+            {
+              "SHA": "a2f4793",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#52)"
+            },
+            {
+              "SHA": "6edbe6d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#51)"
+            },
+            {
+              "SHA": "37eee1c",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#50)"
+            },
+            {
+              "SHA": "7045e6b",
               "Subject": "Update Kubernetes v1.18.3 dependencies (#49)"
             }
           ]

@@ -28,6 +28,21 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.11.2](https://github.com/stashed/cli/releases/tag/v0.11.2)
+
+- [9566b46](https://github.com/stashed/cli/commit/9566b46) Prepare for release v0.11.2 (#56)
+- [8eab6d9](https://github.com/stashed/cli/commit/8eab6d9) Update Kubernetes v1.18.9 dependencies (#55)
+- [91ae713](https://github.com/stashed/cli/commit/91ae713) Update Kubernetes v1.18.9 dependencies (#54)
+- [ae36a24](https://github.com/stashed/cli/commit/ae36a24) Update repository config (#53)
+- [a2f4793](https://github.com/stashed/cli/commit/a2f4793) Update Kubernetes v1.18.9 dependencies (#52)
+- [6edbe6d](https://github.com/stashed/cli/commit/6edbe6d) Update Kubernetes v1.18.3 dependencies (#51)
+- [37eee1c](https://github.com/stashed/cli/commit/37eee1c) Update Kubernetes v1.18.3 dependencies (#50)
+- [7045e6b](https://github.com/stashed/cli/commit/7045e6b) Update Kubernetes v1.18.3 dependencies (#49)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.11.2](https://github.com/stashed/stash/releases/tag/v0.11.2)
