@@ -1,0 +1,52 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.09.29",
+  "release_date": "2020-09-29T08:10:25.623239849Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.09.29",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.2",
+          "commits": [
+            {
+              "SHA": "fdc12ac2",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#56)"
+            },
+            {
+              "SHA": "6ed3a17b",
+              "Subject": "Use POST instead of PUT method to push metrics into pushgateway (#55)"
+            },
+            {
+              "SHA": "1cff3b6b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#54)"
+            },
+            {
+              "SHA": "596541c6",
+              "Subject": "Update repository config (#53)"
+            },
+            {
+              "SHA": "64f1e392",
+              "Subject": "Update repository config (#52)"
+            },
+            {
+              "SHA": "3b73ec67",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#51)"
+            },
+            {
+              "SHA": "0c4ff5e6",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#50)"
+            },
+            {
+              "SHA": "01d9fb4d",
+              "Subject": "Update Kubernetes v1.18.3 dependencies (#49)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
