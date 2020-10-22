@@ -90,6 +90,24 @@
 - [cea5a3d](https://github.com/stashed/elasticsearch/commit/cea5a3d) [cherry-pick] Update repository config (#264) (#266)
 
 
+### [6.3.0-v3](https://github.com/stashed/elasticsearch/releases/tag/6.3.0-v3)
+
+- [e811b13](https://github.com/stashed/elasticsearch/commit/e811b13) Prepare for release 6.3.0-v3 (#383)
+- [05dfd0c](https://github.com/stashed/elasticsearch/commit/05dfd0c) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#372) (#375)
+- [4926a53](https://github.com/stashed/elasticsearch/commit/4926a53) Update Kubernetes v1.18.9 dependencies (#363) (#366)
+- [567890b](https://github.com/stashed/elasticsearch/commit/567890b) [cherry-pick] Use restic 0.10.0 (#336) (#357)
+- [759d6f1](https://github.com/stashed/elasticsearch/commit/759d6f1) [cherry-pick] Update repository config (#346) (#349)
+- [7585820](https://github.com/stashed/elasticsearch/commit/7585820) [cherry-pick] Update repository config (#337) (#340)
+- [aa7664a](https://github.com/stashed/elasticsearch/commit/aa7664a) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#327) (#330)
+- [f076e39](https://github.com/stashed/elasticsearch/commit/f076e39) [cherry-pick] Publish docker images to ghcr.io (#318) (#321)
+- [40bbf42](https://github.com/stashed/elasticsearch/commit/40bbf42) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#309) (#312)
+- [73e96e2](https://github.com/stashed/elasticsearch/commit/73e96e2) [cherry-pick] Update repository config (#300) (#303)
+- [9026cba](https://github.com/stashed/elasticsearch/commit/9026cba) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#294)
+- [10a886d](https://github.com/stashed/elasticsearch/commit/10a886d) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#282) (#285)
+- [c15b3f4](https://github.com/stashed/elasticsearch/commit/c15b3f4) [cherry-pick] Update repository config (#273) (#276)
+- [3ddc2ed](https://github.com/stashed/elasticsearch/commit/3ddc2ed) [cherry-pick] Update repository config (#264) (#267)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
