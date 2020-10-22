@@ -420,6 +420,24 @@
 - [3432c46](https://github.com/stashed/mysql/commit/3432c46) [cherry-pick] Update repository config (#131) (#132)
 
 
+### [8.0.14-v3](https://github.com/stashed/mysql/releases/tag/8.0.14-v3)
+
+- [c6bebde](https://github.com/stashed/mysql/commit/c6bebde) Prepare for release 8.0.14-v3 (#184)
+- [5310d2b](https://github.com/stashed/mysql/commit/5310d2b) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#179) (#181)
+- [995d648](https://github.com/stashed/mysql/commit/995d648) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#175) (#177)
+- [815641c](https://github.com/stashed/mysql/commit/815641c) [cherry-pick] Use restic 0.10.0 (#163) (#173)
+- [1935314](https://github.com/stashed/mysql/commit/1935314) [cherry-pick] Update repository config (#168) (#170)
+- [9f92086](https://github.com/stashed/mysql/commit/9f92086) [cherry-pick] Update repository config (#164) (#166)
+- [1c1676e](https://github.com/stashed/mysql/commit/1c1676e) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#159) (#161)
+- [4ea5a3a](https://github.com/stashed/mysql/commit/4ea5a3a) [cherry-pick] Publish docker images to ghcr.io (#155) (#157)
+- [75c3e72](https://github.com/stashed/mysql/commit/75c3e72) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#151) (#153)
+- [4c59612](https://github.com/stashed/mysql/commit/4c59612) [cherry-pick] Update repository config (#147) (#149)
+- [a452552](https://github.com/stashed/mysql/commit/a452552) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#143) (#145)
+- [0ec08a0](https://github.com/stashed/mysql/commit/0ec08a0) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#139) (#141)
+- [33bb32c](https://github.com/stashed/mysql/commit/33bb32c) [cherry-pick] Update repository config (#135) (#137)
+- [406ff18](https://github.com/stashed/mysql/commit/406ff18) [cherry-pick] Update repository config (#131) (#133)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
