@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.10.21",
-  "release_date": "2020-10-22T07:14:29.15118039Z",
+  "release_date": "2020-10-22T07:14:34.936006274Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.10.21",
   "kubernetes_version": "1.12+",
@@ -217,6 +217,67 @@
             {
               "SHA": "63cd812",
               "Subject": "[cherry-pick] Update repository config (#264) (#265)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v3",
+          "commits": [
+            {
+              "SHA": "25d0528",
+              "Subject": "Prepare for release 6.2.4-v3 (#382)"
+            },
+            {
+              "SHA": "d81f012",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#372) (#374)"
+            },
+            {
+              "SHA": "109eb77",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#363) (#365)"
+            },
+            {
+              "SHA": "05ba1a8",
+              "Subject": "[cherry-pick] Use restic 0.10.0 (#336) (#356)"
+            },
+            {
+              "SHA": "827473f",
+              "Subject": "[cherry-pick] Update repository config (#346) (#348)"
+            },
+            {
+              "SHA": "6f0cde4",
+              "Subject": "[cherry-pick] Update repository config (#337) (#339)"
+            },
+            {
+              "SHA": "4793f49",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#327) (#329)"
+            },
+            {
+              "SHA": "dd6b467",
+              "Subject": "[cherry-pick] Publish docker images to ghcr.io (#318) (#320)"
+            },
+            {
+              "SHA": "21be63d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#309) (#311)"
+            },
+            {
+              "SHA": "71db88d",
+              "Subject": "[cherry-pick] Update repository config (#300) (#302)"
+            },
+            {
+              "SHA": "270ffce",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#293)"
+            },
+            {
+              "SHA": "3242dd7",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#282) (#284)"
+            },
+            {
+              "SHA": "1c629ba",
+              "Subject": "[cherry-pick] Update repository config (#273) (#275)"
+            },
+            {
+              "SHA": "cea5a3d",
+              "Subject": "[cherry-pick] Update repository config (#264) (#266)"
             }
           ]
         }
