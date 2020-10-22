@@ -180,6 +180,24 @@
 - [49b59ff](https://github.com/stashed/elasticsearch/commit/49b59ff) [cherry-pick] Update repository config (#264) (#271)
 
 
+### [7.3.2-v3](https://github.com/stashed/elasticsearch/releases/tag/7.3.2-v3)
+
+- [6186f5a](https://github.com/stashed/elasticsearch/commit/6186f5a) Prepare for release 7.3.2-v3 (#388)
+- [f77d957](https://github.com/stashed/elasticsearch/commit/f77d957) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#372) (#380)
+- [8be3043](https://github.com/stashed/elasticsearch/commit/8be3043) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#363) (#371)
+- [b5a442b](https://github.com/stashed/elasticsearch/commit/b5a442b) [cherry-pick] Use restic 0.10.0 (#336) (#362)
+- [06b10eb](https://github.com/stashed/elasticsearch/commit/06b10eb) [cherry-pick] Update repository config (#346) (#354)
+- [583623a](https://github.com/stashed/elasticsearch/commit/583623a) [cherry-pick] Update repository config (#337) (#345)
+- [ba82277](https://github.com/stashed/elasticsearch/commit/ba82277) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#327) (#335)
+- [b74b188](https://github.com/stashed/elasticsearch/commit/b74b188) [cherry-pick] Publish docker images to ghcr.io (#318) (#326)
+- [6005177](https://github.com/stashed/elasticsearch/commit/6005177) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#309) (#317)
+- [fae3083](https://github.com/stashed/elasticsearch/commit/fae3083) [cherry-pick] Update repository config (#300) (#308)
+- [9f418d2](https://github.com/stashed/elasticsearch/commit/9f418d2) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#299)
+- [c14c36d](https://github.com/stashed/elasticsearch/commit/c14c36d) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#282) (#290)
+- [f088a35](https://github.com/stashed/elasticsearch/commit/f088a35) [cherry-pick] Update repository config (#273) (#281)
+- [f12f5b6](https://github.com/stashed/elasticsearch/commit/f12f5b6) [cherry-pick] Update repository config (#264) (#272)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
