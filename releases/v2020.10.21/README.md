@@ -31,6 +31,16 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2020.10.21](https://github.com/stashed/catalog/releases/tag/v2020.10.21)
+
+- [0e40f71](https://github.com/stashed/catalog/commit/0e40f71) Prepare for release v2020.10.21 (#44)
+- [1cf5e3e](https://github.com/stashed/catalog/commit/1cf5e3e) Update repository config (#43)
+- [ccae76e](https://github.com/stashed/catalog/commit/ccae76e) Update repository config (#42)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.11.3](https://github.com/stashed/cli/releases/tag/v0.11.3)
