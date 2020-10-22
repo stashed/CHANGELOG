@@ -1,0 +1,44 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.10.21",
+  "release_date": "2020-10-22T06:12:52.583605986Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.10.21",
+  "kubernetes_version": "1.12+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.3",
+          "commits": [
+            {
+              "SHA": "e8a63084",
+              "Subject": "Update dependencies (#63)"
+            },
+            {
+              "SHA": "403ba163",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#61)"
+            },
+            {
+              "SHA": "8f316890",
+              "Subject": "Use restic 0.10.0 (#60)"
+            },
+            {
+              "SHA": "28c0ca71",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#59)"
+            },
+            {
+              "SHA": "9df9f83e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#58)"
+            },
+            {
+              "SHA": "fed98cfa",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#57)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
