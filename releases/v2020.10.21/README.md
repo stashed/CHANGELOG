@@ -327,6 +327,24 @@
 - [903ddcc7](https://github.com/stashed/mongodb/commit/903ddcc7) [cherry-pick] Update repository config (#339) (#344)
 
 
+### [4.1.4-v3](https://github.com/stashed/mongodb/releases/tag/4.1.4-v3)
+
+- [f613ba52](https://github.com/stashed/mongodb/commit/f613ba52) Prepare for release 4.1.4-v3 (#503)
+- [f6ebfa88](https://github.com/stashed/mongodb/commit/f6ebfa88) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#483) (#492)
+- [10d6f4db](https://github.com/stashed/mongodb/commit/10d6f4db) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#471) (#480)
+- [4f317902](https://github.com/stashed/mongodb/commit/4f317902) [cherry-pick] Use restic 0.10.0 (#435) (#468)
+- [700b1a17](https://github.com/stashed/mongodb/commit/700b1a17) [cherry-pick] Update repository config (#448) (#457)
+- [99681cd5](https://github.com/stashed/mongodb/commit/99681cd5) [cherry-pick] Update repository config (#436) (#445)
+- [5b571e5d](https://github.com/stashed/mongodb/commit/5b571e5d) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#423) (#432)
+- [056f45d2](https://github.com/stashed/mongodb/commit/056f45d2) [cherry-pick] Publish docker images to ghcr.io (#411) (#420)
+- [6a983254](https://github.com/stashed/mongodb/commit/6a983254) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#399) (#408)
+- [0dbf712c](https://github.com/stashed/mongodb/commit/0dbf712c) [cherry-pick] Update repository config (#387) (#396)
+- [8adbb6fe](https://github.com/stashed/mongodb/commit/8adbb6fe) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#375) (#384)
+- [0d7db778](https://github.com/stashed/mongodb/commit/0d7db778) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#363) (#372)
+- [e0da102b](https://github.com/stashed/mongodb/commit/e0da102b) [cherry-pick] Update repository config (#351) (#360)
+- [37a2bbc2](https://github.com/stashed/mongodb/commit/37a2bbc2) [cherry-pick] Update repository config (#339) (#348)
+
+
 ### [4.1.13-v3](https://github.com/stashed/mongodb/releases/tag/4.1.13-v3)
 
 - [0894946b](https://github.com/stashed/mongodb/commit/0894946b) Prepare for release 4.1.13-v3 (#502)
