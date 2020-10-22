@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.10.21",
-  "release_date": "2020-10-22T06:33:39.090048574Z",
+  "release_date": "2020-10-22T06:40:51.424181798Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.10.21",
   "kubernetes_version": "1.12+",
@@ -84,6 +84,72 @@
             },
             {
               "SHA": "fed98cfa",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.11.3",
+          "commits": [
+            {
+              "SHA": "1b821c8",
+              "Subject": "Prepare for release v0.11.3 (#66)"
+            },
+            {
+              "SHA": "2aa47f7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#65)"
+            },
+            {
+              "SHA": "82b3843",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#64)"
+            },
+            {
+              "SHA": "51bd7b7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#63)"
+            },
+            {
+              "SHA": "fc82c5d",
+              "Subject": "Don't update krew manifest for pre-releases"
+            },
+            {
+              "SHA": "673758d",
+              "Subject": "Change plugin name to stash from kubectl-stash"
+            },
+            {
+              "SHA": "119fefc",
+              "Subject": "Fix krew plugin.yaml"
+            },
+            {
+              "SHA": "5467516",
+              "Subject": "Fix plugin name"
+            },
+            {
+              "SHA": "d3c25e5",
+              "Subject": "Publish krew manifest via CI (#62)"
+            },
+            {
+              "SHA": "c4552d9",
+              "Subject": "Publish to krew index (#61)"
+            },
+            {
+              "SHA": "c1389c4",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#60)"
+            },
+            {
+              "SHA": "e902dfc",
+              "Subject": "Add completion command (#59)"
+            },
+            {
+              "SHA": "0037eb7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#58)"
+            },
+            {
+              "SHA": "f94e368",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#57)"
             }
           ]

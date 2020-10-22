@@ -31,6 +31,27 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.11.3](https://github.com/stashed/cli/releases/tag/v0.11.3)
+
+- [1b821c8](https://github.com/stashed/cli/commit/1b821c8) Prepare for release v0.11.3 (#66)
+- [2aa47f7](https://github.com/stashed/cli/commit/2aa47f7) Update Kubernetes v1.18.9 dependencies (#65)
+- [82b3843](https://github.com/stashed/cli/commit/82b3843) Update Kubernetes v1.18.9 dependencies (#64)
+- [51bd7b7](https://github.com/stashed/cli/commit/51bd7b7) Update Kubernetes v1.18.9 dependencies (#63)
+- [fc82c5d](https://github.com/stashed/cli/commit/fc82c5d) Don't update krew manifest for pre-releases
+- [673758d](https://github.com/stashed/cli/commit/673758d) Change plugin name to stash from kubectl-stash
+- [119fefc](https://github.com/stashed/cli/commit/119fefc) Fix krew plugin.yaml
+- [5467516](https://github.com/stashed/cli/commit/5467516) Fix plugin name
+- [d3c25e5](https://github.com/stashed/cli/commit/d3c25e5) Publish krew manifest via CI (#62)
+- [c4552d9](https://github.com/stashed/cli/commit/c4552d9) Publish to krew index (#61)
+- [c1389c4](https://github.com/stashed/cli/commit/c1389c4) Update Kubernetes v1.18.9 dependencies (#60)
+- [e902dfc](https://github.com/stashed/cli/commit/e902dfc) Add completion command (#59)
+- [0037eb7](https://github.com/stashed/cli/commit/0037eb7) Update Kubernetes v1.18.9 dependencies (#58)
+- [f94e368](https://github.com/stashed/cli/commit/f94e368) Update Kubernetes v1.18.9 dependencies (#57)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.11.3](https://github.com/stashed/stash/releases/tag/v0.11.3)
