@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.10.21",
-  "release_date": "2020-10-22T08:08:29.28914036Z",
+  "release_date": "2020-10-22T08:24:27.740976471Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.10.21",
   "kubernetes_version": "1.12+",
@@ -644,6 +644,40 @@
             {
               "SHA": "f12f5b6",
               "Subject": "[cherry-pick] Update repository config (#264) (#272)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.11.3",
+          "commits": [
+            {
+              "SHA": "5bc51f3",
+              "Subject": "Prepare for release v0.11.3 (#116)"
+            },
+            {
+              "SHA": "c22bc9a",
+              "Subject": "Create ServiceMonitor in the same namespace as the operator (#115)"
+            },
+            {
+              "SHA": "003bc08",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#114)"
+            },
+            {
+              "SHA": "33956a8",
+              "Subject": "Update repository config (#113)"
+            },
+            {
+              "SHA": "501c63e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#112)"
+            },
+            {
+              "SHA": "ee560a1",
+              "Subject": "Update repository config (#111)"
             }
           ]
         }

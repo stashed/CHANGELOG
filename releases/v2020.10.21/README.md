@@ -199,6 +199,19 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.11.3](https://github.com/stashed/installer/releases/tag/v0.11.3)
+
+- [5bc51f3](https://github.com/stashed/installer/commit/5bc51f3) Prepare for release v0.11.3 (#116)
+- [c22bc9a](https://github.com/stashed/installer/commit/c22bc9a) Create ServiceMonitor in the same namespace as the operator (#115)
+- [003bc08](https://github.com/stashed/installer/commit/003bc08) Update Kubernetes v1.18.9 dependencies (#114)
+- [33956a8](https://github.com/stashed/installer/commit/33956a8) Update repository config (#113)
+- [501c63e](https://github.com/stashed/installer/commit/501c63e) Update Kubernetes v1.18.9 dependencies (#112)
+- [ee560a1](https://github.com/stashed/installer/commit/ee560a1) Update repository config (#111)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v3](https://github.com/stashed/mongodb/releases/tag/3.4.17-v3)
