@@ -1,11 +1,61 @@
 {
   "product_line": "Stash",
   "release": "v2020.10.21",
-  "release_date": "2020-10-22T06:25:50.933939835Z",
+  "release_date": "2020-10-22T06:33:39.090048574Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.10.21",
   "kubernetes_version": "1.12+",
   "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.11.3",
+          "commits": [
+            {
+              "SHA": "371a7035",
+              "Subject": "Prepare for release v0.11.3 (#41)"
+            },
+            {
+              "SHA": "2e72fb71",
+              "Subject": "Pass offshoot labels to CronJob pods (#40)"
+            },
+            {
+              "SHA": "c1c186bf",
+              "Subject": "Use BackoffLimit=0 for backup/restore job (#30)"
+            },
+            {
+              "SHA": "1d39bbf9",
+              "Subject": "Fix ClusterRoleBinding name conflict (#39)"
+            },
+            {
+              "SHA": "07c17b9c",
+              "Subject": "Use restic 0.10.0 (#35)"
+            },
+            {
+              "SHA": "e6757e0f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#34)"
+            },
+            {
+              "SHA": "22b9bc3a",
+              "Subject": "Update repository config (#36)"
+            },
+            {
+              "SHA": "701ba9f1",
+              "Subject": "Publish docker images to ghcr.io (#33)"
+            },
+            {
+              "SHA": "e975d3e4",
+              "Subject": "Update repository config (#32)"
+            },
+            {
+              "SHA": "26bfbe64",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#29)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/apimachinery",
       "releases": [

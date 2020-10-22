@@ -1,6 +1,23 @@
 # Stash v2020.10.21 (2020-10-22)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.11.3](https://github.com/appscode/stash-enterprise/releases/tag/v0.11.3)
+
+- [371a7035](https://github.com/appscode/stash-enterprise/commit/371a7035) Prepare for release v0.11.3 (#41)
+- [2e72fb71](https://github.com/appscode/stash-enterprise/commit/2e72fb71) Pass offshoot labels to CronJob pods (#40)
+- [c1c186bf](https://github.com/appscode/stash-enterprise/commit/c1c186bf) Use BackoffLimit=0 for backup/restore job (#30)
+- [1d39bbf9](https://github.com/appscode/stash-enterprise/commit/1d39bbf9) Fix ClusterRoleBinding name conflict (#39)
+- [07c17b9c](https://github.com/appscode/stash-enterprise/commit/07c17b9c) Use restic 0.10.0 (#35)
+- [e6757e0f](https://github.com/appscode/stash-enterprise/commit/e6757e0f) Update Kubernetes v1.18.9 dependencies (#34)
+- [22b9bc3a](https://github.com/appscode/stash-enterprise/commit/22b9bc3a) Update repository config (#36)
+- [701ba9f1](https://github.com/appscode/stash-enterprise/commit/701ba9f1) Publish docker images to ghcr.io (#33)
+- [e975d3e4](https://github.com/appscode/stash-enterprise/commit/e975d3e4) Update repository config (#32)
+- [26bfbe64](https://github.com/appscode/stash-enterprise/commit/26bfbe64) Update Kubernetes v1.18.9 dependencies (#29)
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.11.3](https://github.com/stashed/apimachinery/releases/tag/v0.11.3)
