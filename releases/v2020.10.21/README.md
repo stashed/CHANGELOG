@@ -420,6 +420,24 @@
 - [3432c46](https://github.com/stashed/mysql/commit/3432c46) [cherry-pick] Update repository config (#131) (#132)
 
 
+### [8.0.3-v3](https://github.com/stashed/mysql/releases/tag/8.0.3-v3)
+
+- [07d878c](https://github.com/stashed/mysql/commit/07d878c) Prepare for release 8.0.3-v3 (#185)
+- [dfc1eb2](https://github.com/stashed/mysql/commit/dfc1eb2) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#179) (#182)
+- [6aa4e78](https://github.com/stashed/mysql/commit/6aa4e78) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#175) (#178)
+- [b6c8270](https://github.com/stashed/mysql/commit/b6c8270) [cherry-pick] Use restic 0.10.0 (#163) (#174)
+- [02e5cac](https://github.com/stashed/mysql/commit/02e5cac) [cherry-pick] Update repository config (#168) (#171)
+- [a31cca9](https://github.com/stashed/mysql/commit/a31cca9) [cherry-pick] Update repository config (#164) (#167)
+- [035be38](https://github.com/stashed/mysql/commit/035be38) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#159) (#162)
+- [5befb61](https://github.com/stashed/mysql/commit/5befb61) [cherry-pick] Publish docker images to ghcr.io (#155) (#158)
+- [faaceb5](https://github.com/stashed/mysql/commit/faaceb5) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#151) (#154)
+- [e749438](https://github.com/stashed/mysql/commit/e749438) [cherry-pick] Update repository config (#147) (#150)
+- [abaf351](https://github.com/stashed/mysql/commit/abaf351) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#143) (#146)
+- [e6e71d1](https://github.com/stashed/mysql/commit/e6e71d1) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#139) (#142)
+- [06a5e8c](https://github.com/stashed/mysql/commit/06a5e8c) [cherry-pick] Update repository config (#135) (#138)
+- [9764674](https://github.com/stashed/mysql/commit/9764674) [cherry-pick] Update repository config (#131) (#134)
+
+
 ### [8.0.14-v3](https://github.com/stashed/mysql/releases/tag/8.0.14-v3)
 
 - [c6bebde](https://github.com/stashed/mysql/commit/c6bebde) Prepare for release 8.0.14-v3 (#184)
