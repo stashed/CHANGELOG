@@ -54,6 +54,24 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v1](https://github.com/stashed/postgres/releases/tag/9.6.19-v1)
+
+- [3ecdb2c](https://github.com/stashed/postgres/commit/3ecdb2c) Prepare for release 9.6.19-v1 (#343)
+- [0207e35](https://github.com/stashed/postgres/commit/0207e35) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#330) (#339)
+- [93a38c4](https://github.com/stashed/postgres/commit/93a38c4) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#320) (#329)
+- [983a662](https://github.com/stashed/postgres/commit/983a662) [cherry-pick] Use restic 0.10.0 (#290) (#319)
+- [77e72e0](https://github.com/stashed/postgres/commit/77e72e0) [cherry-pick] Update repository config (#301) (#310)
+- [52e2c2b](https://github.com/stashed/postgres/commit/52e2c2b) [cherry-pick] Update repository config (#291) (#300)
+- [57fb376](https://github.com/stashed/postgres/commit/57fb376) [cherry-pick] Publish docker images to ghcr.io (#280) (#289)
+- [edb421c](https://github.com/stashed/postgres/commit/edb421c) [cherry-pick] Use username/password as keys in Postgres secret (#270) (#279)
+- [16746e3](https://github.com/stashed/postgres/commit/16746e3) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#260) (#269)
+- [2516277](https://github.com/stashed/postgres/commit/2516277) [cherry-pick] Update repository config (#250) (#259)
+- [715c9ce](https://github.com/stashed/postgres/commit/715c9ce) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#240) (#249)
+- [11c7486](https://github.com/stashed/postgres/commit/11c7486) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#230) (#239)
+- [3f6f398](https://github.com/stashed/postgres/commit/3f6f398) [cherry-pick] Update repository config (#220) (#229)
+- [8248525](https://github.com/stashed/postgres/commit/8248525) [cherry-pick] Update repository config (#210) (#219)
+
+
 ### [10.14.0-v1](https://github.com/stashed/postgres/releases/tag/10.14.0-v1)
 
 - [bc318b1](https://github.com/stashed/postgres/commit/bc318b1) Prepare for release 10.14.0-v1 (#340)
