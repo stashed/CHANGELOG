@@ -457,6 +457,27 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v3](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v3)
+
+- [6ec4bc6](https://github.com/stashed/percona-xtradb/commit/6ec4bc6) Prepare for release 5.7-v3 (#95)
+- [9220f29](https://github.com/stashed/percona-xtradb/commit/9220f29) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#93) (#94)
+- [c4bda0f](https://github.com/stashed/percona-xtradb/commit/c4bda0f) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#91) (#92)
+- [1c5d488](https://github.com/stashed/percona-xtradb/commit/1c5d488) [cherry-pick] Use restic 0.10.0 (#85) (#90)
+- [90ba980](https://github.com/stashed/percona-xtradb/commit/90ba980) [cherry-pick] Update repository config (#88) (#89)
+- [dc078b6](https://github.com/stashed/percona-xtradb/commit/dc078b6) [cherry-pick] Update repository config (#86) (#87)
+- [c549a51](https://github.com/stashed/percona-xtradb/commit/c549a51) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#83) (#84)
+- [f885a87](https://github.com/stashed/percona-xtradb/commit/f885a87) [cherry-pick] Publish docker images to ghcr.io (#81) (#82)
+- [055383c](https://github.com/stashed/percona-xtradb/commit/055383c) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#79) (#80)
+- [360e25e](https://github.com/stashed/percona-xtradb/commit/360e25e) [cherry-pick] Update repository config (#77) (#78)
+- [7462c45](https://github.com/stashed/percona-xtradb/commit/7462c45) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#75) (#76)
+- [3a85cc3](https://github.com/stashed/percona-xtradb/commit/3a85cc3) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#73) (#74)
+- [079d748](https://github.com/stashed/percona-xtradb/commit/079d748) [cherry-pick] Update repository config (#71) (#72)
+- [7e96bac](https://github.com/stashed/percona-xtradb/commit/7e96bac) [cherry-pick] Update repository config (#69) (#70)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v1](https://github.com/stashed/postgres/releases/tag/9.6.19-v1)
