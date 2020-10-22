@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.10.21",
-  "release_date": "2020-10-22T09:01:08.349795021Z",
+  "release_date": "2020-10-22T09:11:48.036586834Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.10.21",
   "kubernetes_version": "1.12+",
@@ -173,6 +173,36 @@
             {
               "SHA": "f94e368",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2020.10.21",
+          "commits": [
+            {
+              "SHA": "d43834f",
+              "Subject": "Prepare for release v2020.10.21 (#109)"
+            },
+            {
+              "SHA": "3a33f3f",
+              "Subject": "Install stash cli using krew (#108)"
+            },
+            {
+              "SHA": "ebf67e5",
+              "Subject": "Update Hugo frontmatter param key for installer project (#107)"
+            },
+            {
+              "SHA": "2d9b0bb",
+              "Subject": "Fix typo in diagrams (#106)"
+            },
+            {
+              "SHA": "c667c55",
+              "Subject": "Update docs for stashed/cli@e902dfc8 (#105)"
             }
           ]
         }

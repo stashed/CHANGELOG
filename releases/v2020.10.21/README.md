@@ -62,6 +62,18 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.10.21](https://github.com/stashed/docs/releases/tag/v2020.10.21)
+
+- [d43834f](https://github.com/stashed/docs/commit/d43834f) Prepare for release v2020.10.21 (#109)
+- [3a33f3f](https://github.com/stashed/docs/commit/3a33f3f) Install stash cli using krew (#108)
+- [ebf67e5](https://github.com/stashed/docs/commit/ebf67e5) Update Hugo frontmatter param key for installer project (#107)
+- [2d9b0bb](https://github.com/stashed/docs/commit/2d9b0bb) Fix typo in diagrams (#106)
+- [c667c55](https://github.com/stashed/docs/commit/c667c55) Update docs for stashed/cli@e902dfc8 (#105)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v3](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v3)
