@@ -31,6 +31,19 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2020.10.21](https://github.com/stashed/bundles/releases/tag/v2020.10.21)
+
+- [1d12a9a](https://github.com/stashed/bundles/commit/1d12a9a) Prepare for release v2020.10.21 (#25)
+- [a85f1b3](https://github.com/stashed/bundles/commit/a85f1b3) Update icons (#24)
+- [d344d50](https://github.com/stashed/bundles/commit/d344d50) Update repository config (#23)
+- [39c7bac](https://github.com/stashed/bundles/commit/39c7bac) Update repository config (#22)
+- [4876e56](https://github.com/stashed/bundles/commit/4876e56) Update repository config (#21)
+- [5e2ccc2](https://github.com/stashed/bundles/commit/5e2ccc2) Update repository config (#20)
+
+
+
 ## [stashed/catalog](https://github.com/stashed/catalog)
 
 ### [v2020.10.21](https://github.com/stashed/catalog/releases/tag/v2020.10.21)
