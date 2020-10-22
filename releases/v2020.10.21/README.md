@@ -52,6 +52,27 @@
 
 
 
+## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
+
+### [5.6.4-v3](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v3)
+
+- [85da764](https://github.com/stashed/elasticsearch/commit/85da764) Prepare for release 5.6.4-v3 (#381)
+- [8033c85](https://github.com/stashed/elasticsearch/commit/8033c85) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#372) (#373)
+- [5033b27](https://github.com/stashed/elasticsearch/commit/5033b27) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#363) (#364)
+- [1cf0819](https://github.com/stashed/elasticsearch/commit/1cf0819) [cherry-pick] Use restic 0.10.0 (#336) (#355)
+- [9011d54](https://github.com/stashed/elasticsearch/commit/9011d54) [cherry-pick] Update repository config (#346) (#347)
+- [9ef801a](https://github.com/stashed/elasticsearch/commit/9ef801a) [cherry-pick] Update repository config (#337) (#338)
+- [8e65c75](https://github.com/stashed/elasticsearch/commit/8e65c75) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#327) (#328)
+- [0ba0f67](https://github.com/stashed/elasticsearch/commit/0ba0f67) [cherry-pick] Publish docker images to ghcr.io (#318) (#319)
+- [ebd8b01](https://github.com/stashed/elasticsearch/commit/ebd8b01) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#309) (#310)
+- [a3ea8c5](https://github.com/stashed/elasticsearch/commit/a3ea8c5) [cherry-pick] Update repository config (#300) (#301)
+- [ba742d4](https://github.com/stashed/elasticsearch/commit/ba742d4) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#292)
+- [85d6a43](https://github.com/stashed/elasticsearch/commit/85d6a43) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#282) (#283)
+- [16a665b](https://github.com/stashed/elasticsearch/commit/16a665b) [cherry-pick] Update repository config (#273) (#274)
+- [63cd812](https://github.com/stashed/elasticsearch/commit/63cd812) [cherry-pick] Update repository config (#264) (#265)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v1](https://github.com/stashed/postgres/releases/tag/9.6.19-v1)
