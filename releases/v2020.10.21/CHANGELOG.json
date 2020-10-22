@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.10.21",
-  "release_date": "2020-10-22T06:12:52.583605986Z",
+  "release_date": "2020-10-22T06:25:50.933939835Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.10.21",
   "kubernetes_version": "1.12+",
@@ -35,6 +35,76 @@
             {
               "SHA": "fed98cfa",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.3",
+          "commits": [
+            {
+              "SHA": "ab872821",
+              "Subject": "Prepare for release v0.11.3 (#1233)"
+            },
+            {
+              "SHA": "d64e9c1e",
+              "Subject": "Pass offshoot labels to CronJob pods (#1232)"
+            },
+            {
+              "SHA": "40a233c2",
+              "Subject": "Use BackoffLimit=0 for backup/restore job (#1216)"
+            },
+            {
+              "SHA": "a206a9ce",
+              "Subject": "Fix ClusterRoleBinding name conflict (#1231)"
+            },
+            {
+              "SHA": "a5ec7562",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1230)"
+            },
+            {
+              "SHA": "8cf2e397",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1228)"
+            },
+            {
+              "SHA": "a4c19094",
+              "Subject": "Use restic 0.10.0 (#1223)"
+            },
+            {
+              "SHA": "fad497a6",
+              "Subject": "Update repository config (#1226)"
+            },
+            {
+              "SHA": "80933bde",
+              "Subject": "Update repository config (#1225)"
+            },
+            {
+              "SHA": "7974b478",
+              "Subject": "Update repository config (#1224)"
+            },
+            {
+              "SHA": "c7497ebc",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1222)"
+            },
+            {
+              "SHA": "0280f08d",
+              "Subject": "Publish docker images to ghcr.io (#1221)"
+            },
+            {
+              "SHA": "bf1df8d5",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1220)"
+            },
+            {
+              "SHA": "d2e86335",
+              "Subject": "Update repository config (#1219)"
+            },
+            {
+              "SHA": "d8ccdd2b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1218)"
             }
           ]
         }
