@@ -90,6 +90,24 @@
 - [d5bfd9a](https://github.com/stashed/postgres/commit/d5bfd9a) [cherry-pick] Update repository config (#210) (#216)
 
 
+### [12.4.0-v1](https://github.com/stashed/postgres/releases/tag/12.4.0-v1)
+
+- [03355e3](https://github.com/stashed/postgres/commit/03355e3) Prepare for release 12.4.0-v1 (#342)
+- [f686d3d](https://github.com/stashed/postgres/commit/f686d3d) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#330) (#337)
+- [223e0df](https://github.com/stashed/postgres/commit/223e0df) Update Kubernetes v1.18.9 dependencies (#320) (#327)
+- [c429d54](https://github.com/stashed/postgres/commit/c429d54) [cherry-pick] Use restic 0.10.0 (#290) (#317)
+- [317e415](https://github.com/stashed/postgres/commit/317e415) [cherry-pick] Update repository config (#301) (#308)
+- [2050c60](https://github.com/stashed/postgres/commit/2050c60) [cherry-pick] Update repository config (#291) (#298)
+- [8e7195e](https://github.com/stashed/postgres/commit/8e7195e) [cherry-pick] Publish docker images to ghcr.io (#280) (#287)
+- [d4f998c](https://github.com/stashed/postgres/commit/d4f998c) [cherry-pick] Use username/password as keys in Postgres secret (#270) (#277)
+- [a6c0345](https://github.com/stashed/postgres/commit/a6c0345) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#260) (#267)
+- [14024cc](https://github.com/stashed/postgres/commit/14024cc) [cherry-pick] Update repository config (#250) (#257)
+- [0363817](https://github.com/stashed/postgres/commit/0363817) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#240) (#247)
+- [7c742dc](https://github.com/stashed/postgres/commit/7c742dc) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#230) (#237)
+- [2cd3054](https://github.com/stashed/postgres/commit/2cd3054) [cherry-pick] Update repository config (#220) (#227)
+- [bbc34f5](https://github.com/stashed/postgres/commit/bbc34f5) [cherry-pick] Update repository config (#210) (#217)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
