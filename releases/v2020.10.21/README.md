@@ -273,6 +273,24 @@
 - [c3d7cc46](https://github.com/stashed/mongodb/commit/c3d7cc46) [cherry-pick] Update repository config (#339) (#342)
 
 
+### [4.0.11-v3](https://github.com/stashed/mongodb/releases/tag/4.0.11-v3)
+
+- [54a9e1ce](https://github.com/stashed/mongodb/commit/54a9e1ce) Prepare for release 4.0.11-v3 (#499)
+- [bfee3d7f](https://github.com/stashed/mongodb/commit/bfee3d7f) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#483) (#488)
+- [72e304a2](https://github.com/stashed/mongodb/commit/72e304a2) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#471) (#476)
+- [bd3b7d54](https://github.com/stashed/mongodb/commit/bd3b7d54) [cherry-pick] Use restic 0.10.0 (#435) (#464)
+- [958a2347](https://github.com/stashed/mongodb/commit/958a2347) [cherry-pick] Update repository config (#448) (#453)
+- [7d7a9059](https://github.com/stashed/mongodb/commit/7d7a9059) [cherry-pick] Update repository config (#436) (#441)
+- [a175a0c3](https://github.com/stashed/mongodb/commit/a175a0c3) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#423) (#428)
+- [0c2f9839](https://github.com/stashed/mongodb/commit/0c2f9839) [cherry-pick] Publish docker images to ghcr.io (#411) (#416)
+- [4bb8bc3c](https://github.com/stashed/mongodb/commit/4bb8bc3c) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#399) (#404)
+- [7ec86ea4](https://github.com/stashed/mongodb/commit/7ec86ea4) [cherry-pick] Update repository config (#387) (#392)
+- [f53bcb00](https://github.com/stashed/mongodb/commit/f53bcb00) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#375) (#380)
+- [4329109b](https://github.com/stashed/mongodb/commit/4329109b) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#363) (#368)
+- [c70b759e](https://github.com/stashed/mongodb/commit/c70b759e) [cherry-pick] Update repository config (#351) (#356)
+- [903ddcc7](https://github.com/stashed/mongodb/commit/903ddcc7) [cherry-pick] Update repository config (#339) (#344)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
