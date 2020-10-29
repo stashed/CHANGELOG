@@ -45,6 +45,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.10.29](https://github.com/stashed/docs/releases/tag/v2020.10.29)
+
+- [4d0d37c](https://github.com/stashed/docs/commit/4d0d37c) Prepare for release v2020.10.29 (#110)
+- [2429cf4](https://github.com/stashed/docs/commit/2429cf4) Update features table
+
+
+
 ## [stashed/installer](https://github.com/stashed/installer)
 
 ### [v0.11.4](https://github.com/stashed/installer/releases/tag/v0.11.4)
