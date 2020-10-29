@@ -36,6 +36,18 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.11.4](https://github.com/stashed/installer/releases/tag/v0.11.4)
+
+- [4817082](https://github.com/stashed/installer/commit/4817082) Prepare for release v0.11.4 (#120)
+- [3f52053](https://github.com/stashed/installer/commit/3f52053) Update README.md
+- [20ac983](https://github.com/stashed/installer/commit/20ac983) Update Kubernetes v1.18.9 dependencies (#119)
+- [04b3101](https://github.com/stashed/installer/commit/04b3101) Update readme
+- [cf374ce](https://github.com/stashed/installer/commit/cf374ce) Update Kubernetes v1.18.9 dependencies (#118)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.11.4](https://github.com/stashed/stash/releases/tag/v0.11.4)
