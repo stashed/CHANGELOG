@@ -24,6 +24,16 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2020.10.29](https://github.com/stashed/bundles/releases/tag/v2020.10.29)
+
+- [69802aa](https://github.com/stashed/bundles/commit/69802aa) Prepare for release v2020.10.29 (#26)
+- [1f9035e](https://github.com/stashed/bundles/commit/1f9035e) Update README.md
+- [7baac3a](https://github.com/stashed/bundles/commit/7baac3a) Update readme
+
+
+
 ## [stashed/catalog](https://github.com/stashed/catalog)
 
 ### [v2020.10.29](https://github.com/stashed/catalog/releases/tag/v2020.10.29)
