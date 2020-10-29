@@ -1,6 +1,18 @@
 # Stash v2020.10.29 (2020-10-29)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.11.4](https://github.com/appscode/stash-enterprise/releases/tag/v0.11.4)
+
+- [5b7c911d](https://github.com/appscode/stash-enterprise/commit/5b7c911d) Prepare for release v0.11.4 (#45)
+- [6c8b88e9](https://github.com/appscode/stash-enterprise/commit/6c8b88e9) Update README.md
+- [385ef36d](https://github.com/appscode/stash-enterprise/commit/385ef36d) Fix status updating for backup using RunParallelBackup() (#44)
+- [3edaf566](https://github.com/appscode/stash-enterprise/commit/3edaf566) Add preBackupAction and postBackupAction only for Restic driver (#43)
+- [3e5ac158](https://github.com/appscode/stash-enterprise/commit/3e5ac158) Update readme
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.11.4](https://github.com/stashed/apimachinery/releases/tag/v0.11.4)
