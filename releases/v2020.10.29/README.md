@@ -24,6 +24,15 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2020.10.29](https://github.com/stashed/catalog/releases/tag/v2020.10.29)
+
+- [858d610](https://github.com/stashed/catalog/commit/858d610) Update readme
+- [3d011d9](https://github.com/stashed/catalog/commit/3d011d9) Update readme
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.11.4](https://github.com/stashed/cli/releases/tag/v0.11.4)
