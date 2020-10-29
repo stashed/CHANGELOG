@@ -1,0 +1,222 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.10.29",
+  "release_date": "2020-10-29T21:02:08.979101913Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.10.29",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.11.4",
+          "commits": [
+            {
+              "SHA": "5b7c911d",
+              "Subject": "Prepare for release v0.11.4 (#45)"
+            },
+            {
+              "SHA": "6c8b88e9",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "385ef36d",
+              "Subject": "Fix status updating for backup using RunParallelBackup() (#44)"
+            },
+            {
+              "SHA": "3edaf566",
+              "Subject": "Add preBackupAction and postBackupAction only for Restic driver (#43)"
+            },
+            {
+              "SHA": "3e5ac158",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.4",
+          "commits": [
+            {
+              "SHA": "1b48bb3a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#66)"
+            },
+            {
+              "SHA": "24d76627",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#65)"
+            },
+            {
+              "SHA": "5e34b047",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "04872fc9",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2020.10.29",
+          "commits": [
+            {
+              "SHA": "69802aa",
+              "Subject": "Prepare for release v2020.10.29 (#26)"
+            },
+            {
+              "SHA": "1f9035e",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "7baac3a",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/catalog",
+      "releases": [
+        {
+          "tag": "v2020.10.29",
+          "commits": [
+            {
+              "SHA": "858d610",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "3d011d9",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.11.4",
+          "commits": [
+            {
+              "SHA": "236c29f",
+              "Subject": "Prepare for release v0.11.4 (#69)"
+            },
+            {
+              "SHA": "885792c",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "80f916f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#68)"
+            },
+            {
+              "SHA": "d2b4ad3",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "4889acc",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2020.10.29",
+          "commits": [
+            {
+              "SHA": "4d0d37c",
+              "Subject": "Prepare for release v2020.10.29 (#110)"
+            },
+            {
+              "SHA": "2429cf4",
+              "Subject": "Update features table"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.11.4",
+          "commits": [
+            {
+              "SHA": "4817082",
+              "Subject": "Prepare for release v0.11.4 (#120)"
+            },
+            {
+              "SHA": "3f52053",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "20ac983",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#119)"
+            },
+            {
+              "SHA": "04b3101",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "cf374ce",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.4",
+          "commits": [
+            {
+              "SHA": "675b4bad",
+              "Subject": "Prepare for release v0.11.4 (#1239)"
+            },
+            {
+              "SHA": "008680ef",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "569cdb79",
+              "Subject": "Add preBackupAction and postBackupAction only for Restic driver (#1236)"
+            },
+            {
+              "SHA": "6f0bb719",
+              "Subject": "Fix status updating for backup using RunParallelBackup() (#1238)"
+            },
+            {
+              "SHA": "25e51b3a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1237)"
+            },
+            {
+              "SHA": "0a6bab0f",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "309a8f29",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1234)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
