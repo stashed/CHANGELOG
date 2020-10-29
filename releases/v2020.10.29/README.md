@@ -12,3 +12,17 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.11.4](https://github.com/stashed/stash/releases/tag/v0.11.4)
+
+- [675b4bad](https://github.com/stashed/stash/commit/675b4bad) Prepare for release v0.11.4 (#1239)
+- [008680ef](https://github.com/stashed/stash/commit/008680ef) Update README.md
+- [569cdb79](https://github.com/stashed/stash/commit/569cdb79) Add preBackupAction and postBackupAction only for Restic driver (#1236)
+- [6f0bb719](https://github.com/stashed/stash/commit/6f0bb719) Fix status updating for backup using RunParallelBackup() (#1238)
+- [25e51b3a](https://github.com/stashed/stash/commit/25e51b3a) Update Kubernetes v1.18.9 dependencies (#1237)
+- [0a6bab0f](https://github.com/stashed/stash/commit/0a6bab0f) Update readme
+- [309a8f29](https://github.com/stashed/stash/commit/309a8f29) Update Kubernetes v1.18.9 dependencies (#1234)
+
+
+

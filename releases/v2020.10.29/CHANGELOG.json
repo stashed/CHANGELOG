@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.10.29",
-  "release_date": "2020-10-29T19:47:20.234868769Z",
+  "release_date": "2020-10-29T19:59:06.514707396Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.10.29",
   "kubernetes_version": "1.14+",
@@ -27,6 +27,44 @@
             {
               "SHA": "04872fc9",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.4",
+          "commits": [
+            {
+              "SHA": "675b4bad",
+              "Subject": "Prepare for release v0.11.4 (#1239)"
+            },
+            {
+              "SHA": "008680ef",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "569cdb79",
+              "Subject": "Add preBackupAction and postBackupAction only for Restic driver (#1236)"
+            },
+            {
+              "SHA": "6f0bb719",
+              "Subject": "Fix status updating for backup using RunParallelBackup() (#1238)"
+            },
+            {
+              "SHA": "25e51b3a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1237)"
+            },
+            {
+              "SHA": "0a6bab0f",
+              "Subject": "Update readme"
+            },
+            {
+              "SHA": "309a8f29",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1234)"
             }
           ]
         }
