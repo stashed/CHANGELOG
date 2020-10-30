@@ -1,6 +1,15 @@
 # Stash v2020.10.30 (2020-10-30)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.11.5](https://github.com/appscode/stash-enterprise/releases/tag/v0.11.5)
+
+- [3f46fc61](https://github.com/appscode/stash-enterprise/commit/3f46fc61) Prepare for release v0.11.5 (#47)
+- [b7dd790e](https://github.com/appscode/stash-enterprise/commit/b7dd790e) Fix RestoreSession targetPhase calculation (#46)
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.11.5](https://github.com/stashed/apimachinery/releases/tag/v0.11.5)
