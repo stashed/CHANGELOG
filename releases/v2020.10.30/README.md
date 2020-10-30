@@ -26,6 +26,14 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.11.5](https://github.com/stashed/installer/releases/tag/v0.11.5)
+
+- [4cbcc62](https://github.com/stashed/installer/commit/4cbcc62) Prepare for release v0.11.5 (#121)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.11.5](https://github.com/stashed/stash/releases/tag/v0.11.5)
