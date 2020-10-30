@@ -33,6 +33,14 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.10.30](https://github.com/stashed/docs/releases/tag/v2020.10.30)
+
+- [f60066c](https://github.com/stashed/docs/commit/f60066c) Prepare for release v2020.10.30 (#111)
+
+
+
 ## [stashed/installer](https://github.com/stashed/installer)
 
 ### [v0.11.5](https://github.com/stashed/installer/releases/tag/v0.11.5)
