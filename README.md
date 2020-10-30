@@ -2,6 +2,7 @@
 
 | Stash Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
+| [v2020.10.30](https:/github.com/stashed/CHANGELOG/releases/tag/v2020.10.30) | 2020-10-30 | [User Guide](https://stash.run/docs/v2020.10.30) | [CHANGELOG](/releases/v2020.10.30/README.md) | 1.14+ |
 | [v2020.10.29](https:/github.com/stashed/CHANGELOG/releases/tag/v2020.10.29) | 2020-10-29 | [User Guide](https://stash.run/docs/v2020.10.29) | [CHANGELOG](/releases/v2020.10.29/README.md) | 1.14+ |
 | [v2020.10.21](https:/github.com/stashed/CHANGELOG/releases/tag/v2020.10.21) | 2020-10-22 | [User Guide](https://stash.run/docs/v2020.10.21) | [CHANGELOG](/releases/v2020.10.21/README.md) | 1.12+ |
 | [v2020.09.29](https:/github.com/stashed/CHANGELOG/releases/tag/v2020.09.29) | 2020-09-29 | [User Guide](https://stash.run/docs/v2020.09.29) | [CHANGELOG](/releases/v2020.09.29/README.md) | 1.12+ |
