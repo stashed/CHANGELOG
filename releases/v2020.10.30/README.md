@@ -18,6 +18,13 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2020.10.30](https://github.com/stashed/catalog/releases/tag/v2020.10.30)
+
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.11.5](https://github.com/stashed/cli/releases/tag/v0.11.5)
