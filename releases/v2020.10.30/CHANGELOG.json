@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.10.30",
-  "release_date": "2020-10-30T17:54:41.199873155Z",
+  "release_date": "2020-10-30T18:05:18.352153177Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.10.30",
   "kubernetes_version": "1.14+",
@@ -15,6 +15,24 @@
             {
               "SHA": "45f4ed32",
               "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.5",
+          "commits": [
+            {
+              "SHA": "8d19f197",
+              "Subject": "Prepare for release v0.11.5 (#1241)"
+            },
+            {
+              "SHA": "4fe4b3c9",
+              "Subject": "Fix RestoreSession target phase calculation (#1240)"
             }
           ]
         }
