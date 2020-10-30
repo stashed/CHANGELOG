@@ -1,0 +1,24 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.10.30",
+  "release_date": "2020-10-30T17:54:41.199873155Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.10.30",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.5",
+          "commits": [
+            {
+              "SHA": "45f4ed32",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
