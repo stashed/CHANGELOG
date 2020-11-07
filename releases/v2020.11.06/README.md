@@ -126,6 +126,16 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.11.6](https://github.com/stashed/installer/releases/tag/v0.11.6)
+
+- [d6b5977](https://github.com/stashed/installer/commit/d6b5977) Prepare for release v0.11.6 (#124)
+- [35a3dcf](https://github.com/stashed/installer/commit/35a3dcf) Update Kubernetes v1.18.9 dependencies (#123)
+- [cc04710](https://github.com/stashed/installer/commit/cc04710) Update Kubernetes v1.18.9 dependencies (#122)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v4](https://github.com/stashed/mongodb/releases/tag/3.4.17-v4)
