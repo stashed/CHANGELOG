@@ -1,0 +1,36 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.11.06",
+  "release_date": "2020-11-07T01:28:11.536334005Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.11.06",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.6",
+          "commits": [
+            {
+              "SHA": "5e04c853",
+              "Subject": "Use restic 0.11.0 (#70)"
+            },
+            {
+              "SHA": "132a511f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#69)"
+            },
+            {
+              "SHA": "b51d7c6a",
+              "Subject": "Use invoker variable name 'inv'"
+            },
+            {
+              "SHA": "c2190f6b",
+              "Subject": "Various fixes (#67)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
