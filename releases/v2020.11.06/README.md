@@ -70,6 +70,17 @@
 - [ef6e72e](https://github.com/stashed/elasticsearch/commit/ef6e72e) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#390) (#393)
 
 
+### [6.4.0-v4](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v4)
+
+- [3477804](https://github.com/stashed/elasticsearch/commit/3477804) Prepare for release 6.4.0-v4 (#447)
+- [c58be67](https://github.com/stashed/elasticsearch/commit/c58be67) [cherry-pick] Use restic 0.11.0 (#435) (#439)
+- [27d0542](https://github.com/stashed/elasticsearch/commit/27d0542) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#426) (#430)
+- [b7beb6c](https://github.com/stashed/elasticsearch/commit/b7beb6c) [cherry-pick] Update README.md (#419)
+- [667b91b](https://github.com/stashed/elasticsearch/commit/667b91b) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#407) (#411)
+- [4b15de5](https://github.com/stashed/elasticsearch/commit/4b15de5) [cherry-pick] Update readme (#402)
+- [ec4f862](https://github.com/stashed/elasticsearch/commit/ec4f862) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#390) (#394)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
