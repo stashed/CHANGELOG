@@ -37,6 +37,18 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v2](https://github.com/stashed/postgres/releases/tag/9.6.19-v2)
+
+- [efeac24](https://github.com/stashed/postgres/commit/efeac24) Prepare for release 9.6.19-v2 (#417)
+- [be55874](https://github.com/stashed/postgres/commit/be55874) [cherry-pick] Use restic 0.11.0 (#404) (#413)
+- [8844fb2](https://github.com/stashed/postgres/commit/8844fb2) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#394) (#403)
+- [856fea8](https://github.com/stashed/postgres/commit/856fea8) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#384) (#393)
+- [51324d8](https://github.com/stashed/postgres/commit/51324d8) [cherry-pick] Update README.md (#383)
+- [da74dd2](https://github.com/stashed/postgres/commit/da74dd2) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#365) (#374)
+- [472db2b](https://github.com/stashed/postgres/commit/472db2b) [cherry-pick] Update readme (#364)
+- [b847956](https://github.com/stashed/postgres/commit/b847956) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#346) (#355)
+
+
 ### [10.14.0-v2](https://github.com/stashed/postgres/releases/tag/10.14.0-v2)
 
 - [56979a2](https://github.com/stashed/postgres/commit/56979a2) Prepare for release 10.14.0-v2 (#414)
