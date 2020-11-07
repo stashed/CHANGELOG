@@ -292,6 +292,21 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v4](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v4)
+
+- [2243395](https://github.com/stashed/percona-xtradb/commit/2243395) Prepare for release 5.7-v4 (#110)
+- [4355836](https://github.com/stashed/percona-xtradb/commit/4355836) [cherry-pick] Use restic 0.11.0 (#108) (#109)
+- [fb391dc](https://github.com/stashed/percona-xtradb/commit/fb391dc) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#106) (#107)
+- [caff85c](https://github.com/stashed/percona-xtradb/commit/caff85c) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#104) (#105)
+- [6b23346](https://github.com/stashed/percona-xtradb/commit/6b23346) [cherry-pick] Update README.md (#103)
+- [eead980](https://github.com/stashed/percona-xtradb/commit/eead980) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#101) (#102)
+- [9981cb1](https://github.com/stashed/percona-xtradb/commit/9981cb1) [cherry-pick] Update readme (#100)
+- [e434d72](https://github.com/stashed/percona-xtradb/commit/e434d72) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#98) (#99)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v2](https://github.com/stashed/postgres/releases/tag/9.6.19-v2)

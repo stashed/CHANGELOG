@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.11.06",
-  "release_date": "2020-11-07T03:09:17.593617553Z",
+  "release_date": "2020-11-07T03:27:01.197741191Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.11.06",
   "kubernetes_version": "1.14+",
@@ -848,6 +848,48 @@
             {
               "SHA": "230a723",
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#188) (#190)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v4",
+          "commits": [
+            {
+              "SHA": "2243395",
+              "Subject": "Prepare for release 5.7-v4 (#110)"
+            },
+            {
+              "SHA": "4355836",
+              "Subject": "[cherry-pick] Use restic 0.11.0 (#108) (#109)"
+            },
+            {
+              "SHA": "fb391dc",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#106) (#107)"
+            },
+            {
+              "SHA": "caff85c",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#104) (#105)"
+            },
+            {
+              "SHA": "6b23346",
+              "Subject": "[cherry-pick] Update README.md (#103)"
+            },
+            {
+              "SHA": "eead980",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#101) (#102)"
+            },
+            {
+              "SHA": "9981cb1",
+              "Subject": "[cherry-pick] Update readme (#100)"
+            },
+            {
+              "SHA": "e434d72",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#98) (#99)"
             }
           ]
         }
