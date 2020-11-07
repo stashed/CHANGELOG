@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.11.06",
-  "release_date": "2020-11-07T01:58:35.267631239Z",
+  "release_date": "2020-11-07T02:15:06.961696218Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.11.06",
   "kubernetes_version": "1.14+",
@@ -83,6 +83,48 @@
             {
               "SHA": "af00ba6",
               "Subject": "Replace appscode/go with gomodules.xyz/x (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "10.14.0-v2",
+          "commits": [
+            {
+              "SHA": "56979a2",
+              "Subject": "Prepare for release 10.14.0-v2 (#414)"
+            },
+            {
+              "SHA": "6311db6",
+              "Subject": "[cherry-pick] Use restic 0.11.0 (#404) (#405)"
+            },
+            {
+              "SHA": "a214531",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#394) (#395)"
+            },
+            {
+              "SHA": "014f32d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#384) (#385)"
+            },
+            {
+              "SHA": "d2af0a7",
+              "Subject": "[cherry-pick] Update README.md (#375)"
+            },
+            {
+              "SHA": "47c1554",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#365) (#366)"
+            },
+            {
+              "SHA": "f929b3f",
+              "Subject": "[cherry-pick] Update readme (#356)"
+            },
+            {
+              "SHA": "c40b28e",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#346) (#347)"
             }
           ]
         }
