@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.11.06",
-  "release_date": "2020-11-07T01:28:11.536334005Z",
+  "release_date": "2020-11-07T01:41:41.57011867Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.11.06",
   "kubernetes_version": "1.14+",
@@ -27,6 +27,44 @@
             {
               "SHA": "c2190f6b",
               "Subject": "Various fixes (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.6",
+          "commits": [
+            {
+              "SHA": "8cbac525",
+              "Subject": "Prepare for release v0.11.6 (#1252)"
+            },
+            {
+              "SHA": "57db9b74",
+              "Subject": "Use restic 0.11.0 (#1251)"
+            },
+            {
+              "SHA": "10d02b13",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "437a1968",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1250)"
+            },
+            {
+              "SHA": "29cef180",
+              "Subject": "Fix E2E tests (#1249)"
+            },
+            {
+              "SHA": "e88ab544",
+              "Subject": "Use backup/restore invoker information as prometheus job name (#1248)"
+            },
+            {
+              "SHA": "d0a4751b",
+              "Subject": "Use modified UpdateStatus & Invoker utils (#1247)"
             }
           ]
         }

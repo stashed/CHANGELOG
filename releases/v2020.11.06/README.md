@@ -12,3 +12,17 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.11.6](https://github.com/stashed/stash/releases/tag/v0.11.6)
+
+- [8cbac525](https://github.com/stashed/stash/commit/8cbac525) Prepare for release v0.11.6 (#1252)
+- [57db9b74](https://github.com/stashed/stash/commit/57db9b74) Use restic 0.11.0 (#1251)
+- [10d02b13](https://github.com/stashed/stash/commit/10d02b13) Update dependencies
+- [437a1968](https://github.com/stashed/stash/commit/437a1968) Update Kubernetes v1.18.9 dependencies (#1250)
+- [29cef180](https://github.com/stashed/stash/commit/29cef180) Fix E2E tests (#1249)
+- [e88ab544](https://github.com/stashed/stash/commit/e88ab544) Use backup/restore invoker information as prometheus job name (#1248)
+- [d0a4751b](https://github.com/stashed/stash/commit/d0a4751b) Use modified UpdateStatus & Invoker utils (#1247)
+
+
+
