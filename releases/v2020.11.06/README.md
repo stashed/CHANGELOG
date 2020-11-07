@@ -150,6 +150,17 @@
 - [4de72368](https://github.com/stashed/mongodb/commit/4de72368) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#507) (#509)
 
 
+### [3.6.13-v4](https://github.com/stashed/mongodb/releases/tag/3.6.13-v4)
+
+- [2016d666](https://github.com/stashed/mongodb/commit/2016d666) Prepare for release 3.6.13-v4 (#581)
+- [f43e0233](https://github.com/stashed/mongodb/commit/f43e0233) [cherry-pick] Use restic 0.11.0 (#567) (#570)
+- [f019b7f6](https://github.com/stashed/mongodb/commit/f019b7f6) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#555) (#558)
+- [0a2fe70c](https://github.com/stashed/mongodb/commit/0a2fe70c) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#543) (#546)
+- [9ca6738b](https://github.com/stashed/mongodb/commit/9ca6738b) [cherry-pick] Update README.md (#534)
+- [82545252](https://github.com/stashed/mongodb/commit/82545252) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#519) (#522)
+- [27fcbdb5](https://github.com/stashed/mongodb/commit/27fcbdb5) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#507) (#510)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
