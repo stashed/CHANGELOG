@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.11.06",
-  "release_date": "2020-11-07T02:51:06.678530622Z",
+  "release_date": "2020-11-07T02:51:12.443140441Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.11.06",
   "kubernetes_version": "1.14+",
@@ -423,6 +423,39 @@
             {
               "SHA": "4de72368",
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#507) (#509)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v4",
+          "commits": [
+            {
+              "SHA": "e460c71c",
+              "Subject": "Prepare for release 3.6.8-v4 (#582)"
+            },
+            {
+              "SHA": "2de66fe3",
+              "Subject": "[cherry-pick] Use restic 0.11.0 (#567) (#571)"
+            },
+            {
+              "SHA": "baca40a9",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#555) (#559)"
+            },
+            {
+              "SHA": "ca71febb",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#543) (#547)"
+            },
+            {
+              "SHA": "e6b625d4",
+              "Subject": "[cherry-pick] Update README.md (#535)"
+            },
+            {
+              "SHA": "34b93cc6",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#519) (#523)"
+            },
+            {
+              "SHA": "a253c0b1",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#507) (#511)"
             }
           ]
         },
