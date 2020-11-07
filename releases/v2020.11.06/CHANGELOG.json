@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.11.06",
-  "release_date": "2020-11-07T02:51:55.723508974Z",
+  "release_date": "2020-11-07T03:08:58.420361083Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.11.06",
   "kubernetes_version": "1.14+",
@@ -720,6 +720,52 @@
             {
               "SHA": "5ebe5624",
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#507) (#518)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v4",
+          "commits": [
+            {
+              "SHA": "3a6158e",
+              "Subject": "Prepare for release 5.7.25-v4 (#218)"
+            },
+            {
+              "SHA": "8a7b612",
+              "Subject": "[cherry-pick] Use restic 0.11.0 (#214) (#215)"
+            },
+            {
+              "SHA": "7abed46",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#210) (#211)"
+            },
+            {
+              "SHA": "8fa530d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#206) (#207)"
+            },
+            {
+              "SHA": "83f2101",
+              "Subject": "[cherry-pick] Update README.md (#203)"
+            },
+            {
+              "SHA": "1ea81ab",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#199) (#200)"
+            },
+            {
+              "SHA": "bc9131e",
+              "Subject": "[cherry-pick] Update readme (#196)"
+            },
+            {
+              "SHA": "c94eb1e",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#192) (#193)"
+            },
+            {
+              "SHA": "a1d9a87",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#188) (#189)"
             }
           ]
         }

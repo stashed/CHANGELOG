@@ -250,6 +250,22 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v4](https://github.com/stashed/mysql/releases/tag/5.7.25-v4)
+
+- [3a6158e](https://github.com/stashed/mysql/commit/3a6158e) Prepare for release 5.7.25-v4 (#218)
+- [8a7b612](https://github.com/stashed/mysql/commit/8a7b612) [cherry-pick] Use restic 0.11.0 (#214) (#215)
+- [7abed46](https://github.com/stashed/mysql/commit/7abed46) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#210) (#211)
+- [8fa530d](https://github.com/stashed/mysql/commit/8fa530d) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#206) (#207)
+- [83f2101](https://github.com/stashed/mysql/commit/83f2101) [cherry-pick] Update README.md (#203)
+- [1ea81ab](https://github.com/stashed/mysql/commit/1ea81ab) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#199) (#200)
+- [bc9131e](https://github.com/stashed/mysql/commit/bc9131e) [cherry-pick] Update readme (#196)
+- [c94eb1e](https://github.com/stashed/mysql/commit/c94eb1e) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#192) (#193)
+- [a1d9a87](https://github.com/stashed/mysql/commit/a1d9a87) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#188) (#189)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v2](https://github.com/stashed/postgres/releases/tag/9.6.19-v2)
