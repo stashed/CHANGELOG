@@ -25,6 +25,16 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.11.6](https://github.com/stashed/cli/releases/tag/v0.11.6)
+
+- [ea1e330](https://github.com/stashed/cli/commit/ea1e330) Prepare for release v0.11.6 (#73)
+- [803662d](https://github.com/stashed/cli/commit/803662d) Update Kubernetes v1.18.9 dependencies (#72)
+- [af00ba6](https://github.com/stashed/cli/commit/af00ba6) Replace appscode/go with gomodules.xyz/x (#71)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.11.6](https://github.com/stashed/stash/releases/tag/v0.11.6)
