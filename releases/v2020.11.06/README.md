@@ -265,6 +265,19 @@
 - [a1d9a87](https://github.com/stashed/mysql/commit/a1d9a87) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#188) (#189)
 
 
+### [8.0.3-v4](https://github.com/stashed/mysql/releases/tag/8.0.3-v4)
+
+- [10c111d](https://github.com/stashed/mysql/commit/10c111d) Prepare for release 8.0.3-v4 (#220)
+- [9204bff](https://github.com/stashed/mysql/commit/9204bff) [cherry-pick] Use restic 0.11.0 (#214) (#217)
+- [833fb2e](https://github.com/stashed/mysql/commit/833fb2e) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#210) (#213)
+- [c0e8ec0](https://github.com/stashed/mysql/commit/c0e8ec0) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#206) (#209)
+- [31eb6c5](https://github.com/stashed/mysql/commit/31eb6c5) [cherry-pick] Update README.md (#205)
+- [0679bff](https://github.com/stashed/mysql/commit/0679bff) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#199) (#202)
+- [7699793](https://github.com/stashed/mysql/commit/7699793) [cherry-pick] Update readme (#198)
+- [e2a2ad3](https://github.com/stashed/mysql/commit/e2a2ad3) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#192) (#195)
+- [eee397e](https://github.com/stashed/mysql/commit/eee397e) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#188) (#191)
+
+
 ### [8.0.14-v4](https://github.com/stashed/mysql/releases/tag/8.0.14-v4)
 
 - [1dd0da8](https://github.com/stashed/mysql/commit/1dd0da8) Prepare for release 8.0.14-v4 (#219)
