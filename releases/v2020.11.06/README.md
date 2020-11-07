@@ -25,6 +25,14 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2020.11.06](https://github.com/stashed/bundles/releases/tag/v2020.11.06)
+
+- [3de0c1c](https://github.com/stashed/bundles/commit/3de0c1c) Prepare for release v2020.11.06 (#28)
+
+
+
 ## [stashed/catalog](https://github.com/stashed/catalog)
 
 ### [v2020.11.06](https://github.com/stashed/catalog/releases/tag/v2020.11.06)
