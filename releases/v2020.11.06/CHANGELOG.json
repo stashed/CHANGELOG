@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.11.06",
-  "release_date": "2020-11-07T03:41:49.266698832Z",
+  "release_date": "2020-11-07T03:54:53.535777336Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.11.06",
   "kubernetes_version": "1.14+",
@@ -61,6 +61,20 @@
             {
               "SHA": "c2190f6b",
               "Subject": "Various fixes (#67)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/catalog",
+      "releases": [
+        {
+          "tag": "v2020.11.06",
+          "commits": [
+            {
+              "SHA": "4f5b081",
+              "Subject": "Prepare for release v2020.11.06 (#45)"
             }
           ]
         }

@@ -25,6 +25,14 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2020.11.06](https://github.com/stashed/catalog/releases/tag/v2020.11.06)
+
+- [4f5b081](https://github.com/stashed/catalog/commit/4f5b081) Prepare for release v2020.11.06 (#45)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.11.6](https://github.com/stashed/cli/releases/tag/v0.11.6)
