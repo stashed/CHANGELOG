@@ -1,6 +1,19 @@
 # Stash v2020.11.06 (2020-11-07)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.11.6](https://github.com/appscode/stash-enterprise/releases/tag/v0.11.6)
+
+- [844f92dc](https://github.com/appscode/stash-enterprise/commit/844f92dc) Prepare for release v0.11.6 (#52)
+- [7c121617](https://github.com/appscode/stash-enterprise/commit/7c121617) Use restic 0.11.0 (#51)
+- [98cc42b4](https://github.com/appscode/stash-enterprise/commit/98cc42b4) Update Kubernetes v1.18.9 dependencies (#38)
+- [a882fc9b](https://github.com/appscode/stash-enterprise/commit/a882fc9b) Fix E2E tests (#50)
+- [6950f54a](https://github.com/appscode/stash-enterprise/commit/6950f54a) Use modified UpdateStatus & Invoker utils (#49)
+- [079d90e2](https://github.com/appscode/stash-enterprise/commit/079d90e2) Use backup/restore invoker information as prometheus job name (#48)
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.11.6](https://github.com/stashed/apimachinery/releases/tag/v0.11.6)
