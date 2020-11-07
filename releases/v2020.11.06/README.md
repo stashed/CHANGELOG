@@ -43,6 +43,17 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.11.06](https://github.com/stashed/docs/releases/tag/v2020.11.06)
+
+- [67d4704](https://github.com/stashed/docs/commit/67d4704) Prepare for release v2020.11.06 (#115)
+- [beaf95d](https://github.com/stashed/docs/commit/beaf95d) Update docs for stashed/stash@e88ab544 (#114)
+- [1f5bd05](https://github.com/stashed/docs/commit/1f5bd05) Update docs for stashed/cli@af00ba6c (#113)
+- [86eb000](https://github.com/stashed/docs/commit/86eb000) Update docs for stashed/stash@d0a4751b (#112)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v4](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v4)

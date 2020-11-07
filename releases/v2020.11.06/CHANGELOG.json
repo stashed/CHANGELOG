@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.11.06",
-  "release_date": "2020-11-07T03:54:53.535777336Z",
+  "release_date": "2020-11-07T04:02:50.868817477Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.11.06",
   "kubernetes_version": "1.14+",
@@ -97,6 +97,32 @@
             {
               "SHA": "af00ba6",
               "Subject": "Replace appscode/go with gomodules.xyz/x (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2020.11.06",
+          "commits": [
+            {
+              "SHA": "67d4704",
+              "Subject": "Prepare for release v2020.11.06 (#115)"
+            },
+            {
+              "SHA": "beaf95d",
+              "Subject": "Update docs for stashed/stash@e88ab544 (#114)"
+            },
+            {
+              "SHA": "1f5bd05",
+              "Subject": "Update docs for stashed/cli@af00ba6c (#113)"
+            },
+            {
+              "SHA": "86eb000",
+              "Subject": "Update docs for stashed/stash@d0a4751b (#112)"
             }
           ]
         }
