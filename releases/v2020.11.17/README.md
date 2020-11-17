@@ -41,6 +41,14 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.11.17](https://github.com/stashed/docs/releases/tag/v2020.11.17)
+
+- [7aa0987](https://github.com/stashed/docs/commit/7aa0987) Prepare for release v2020.11.17 (#116)
+
+
+
 ## [stashed/installer](https://github.com/stashed/installer)
 
 ### [v0.11.7](https://github.com/stashed/installer/releases/tag/v0.11.7)
