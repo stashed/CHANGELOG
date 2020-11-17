@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.11.17",
-  "release_date": "2020-11-17T13:05:18.359303528Z",
+  "release_date": "2020-11-17T17:53:00.606080363Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.11.17",
   "kubernetes_version": "1.14+",
@@ -71,6 +71,32 @@
             {
               "SHA": "b9bac70",
               "Subject": "Prepare for release v0.11.7 (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "10.14.0-v3",
+          "commits": [
+            {
+              "SHA": "d8099e8",
+              "Subject": "Prepare for release 10.14.0-v2 (#451)"
+            },
+            {
+              "SHA": "417588f",
+              "Subject": "[cherry-pick] Update repository config (#440) (#441)"
+            },
+            {
+              "SHA": "f3d5e72",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#429) (#430)"
+            },
+            {
+              "SHA": "ef24baf",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#419) (#420)"
             }
           ]
         }

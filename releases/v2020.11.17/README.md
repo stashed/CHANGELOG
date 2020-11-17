@@ -32,6 +32,17 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.14.0-v3](https://github.com/stashed/postgres/releases/tag/10.14.0-v3)
+
+- [d8099e8](https://github.com/stashed/postgres/commit/d8099e8) Prepare for release 10.14.0-v2 (#451)
+- [417588f](https://github.com/stashed/postgres/commit/417588f) [cherry-pick] Update repository config (#440) (#441)
+- [f3d5e72](https://github.com/stashed/postgres/commit/f3d5e72) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#429) (#430)
+- [ef24baf](https://github.com/stashed/postgres/commit/ef24baf) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#419) (#420)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.11.7](https://github.com/stashed/stash/releases/tag/v0.11.7)
