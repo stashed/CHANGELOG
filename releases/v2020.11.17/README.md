@@ -24,6 +24,15 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2020.11.17](https://github.com/stashed/bundles/releases/tag/v2020.11.17)
+
+- [fba76de](https://github.com/stashed/bundles/commit/fba76de) Prepare for release v2020.11.17 (#30)
+- [3e8481c](https://github.com/stashed/bundles/commit/3e8481c) Update repository config (#29)
+
+
+
 ## [stashed/catalog](https://github.com/stashed/catalog)
 
 ### [v2020.11.17](https://github.com/stashed/catalog/releases/tag/v2020.11.17)
