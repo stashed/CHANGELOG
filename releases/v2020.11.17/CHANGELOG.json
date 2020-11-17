@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.11.17",
-  "release_date": "2020-11-17T18:22:03.550206163Z",
+  "release_date": "2020-11-17T18:58:18.683062465Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.11.17",
   "kubernetes_version": "1.14+",
@@ -71,6 +71,28 @@
             {
               "SHA": "b9bac70",
               "Subject": "Prepare for release v0.11.7 (#74)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.11.7",
+          "commits": [
+            {
+              "SHA": "597f380",
+              "Subject": "Prepare for release v0.11.7 (#127)"
+            },
+            {
+              "SHA": "02bf752",
+              "Subject": "Update repository config (#126)"
+            },
+            {
+              "SHA": "dba0d41",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#125)"
             }
           ]
         }

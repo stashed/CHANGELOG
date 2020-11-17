@@ -32,6 +32,16 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.11.7](https://github.com/stashed/installer/releases/tag/v0.11.7)
+
+- [597f380](https://github.com/stashed/installer/commit/597f380) Prepare for release v0.11.7 (#127)
+- [02bf752](https://github.com/stashed/installer/commit/02bf752) Update repository config (#126)
+- [dba0d41](https://github.com/stashed/installer/commit/dba0d41) Update Kubernetes v1.18.9 dependencies (#125)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7.0](https://github.com/stashed/percona-xtradb/releases/tag/5.7.0)
