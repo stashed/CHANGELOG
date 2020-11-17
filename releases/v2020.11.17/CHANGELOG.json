@@ -1,11 +1,49 @@
 {
   "product_line": "Stash",
   "release": "v2020.11.17",
-  "release_date": "2020-11-17T12:42:25.100416516Z",
+  "release_date": "2020-11-17T12:57:43.211456261Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.11.17",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.11.7",
+          "commits": [
+            {
+              "SHA": "473534f4",
+              "Subject": "Prepare for release v0.11.7 (#58)"
+            },
+            {
+              "SHA": "016eb3dd",
+              "Subject": "Skip new session if another is already running (#56)"
+            },
+            {
+              "SHA": "90dfcb40",
+              "Subject": "Fix failing E2E tests (#55)"
+            },
+            {
+              "SHA": "af4faf84",
+              "Subject": "Update repository config (#57)"
+            },
+            {
+              "SHA": "f46499dd",
+              "Subject": "Update license"
+            },
+            {
+              "SHA": "650ee9a3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#54)"
+            },
+            {
+              "SHA": "05f2c82b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#53)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/apimachinery",
       "releases": [

@@ -1,6 +1,20 @@
 # Stash v2020.11.17 (2020-11-17)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.11.7](https://github.com/appscode/stash-enterprise/releases/tag/v0.11.7)
+
+- [473534f4](https://github.com/appscode/stash-enterprise/commit/473534f4) Prepare for release v0.11.7 (#58)
+- [016eb3dd](https://github.com/appscode/stash-enterprise/commit/016eb3dd) Skip new session if another is already running (#56)
+- [90dfcb40](https://github.com/appscode/stash-enterprise/commit/90dfcb40) Fix failing E2E tests (#55)
+- [af4faf84](https://github.com/appscode/stash-enterprise/commit/af4faf84) Update repository config (#57)
+- [f46499dd](https://github.com/appscode/stash-enterprise/commit/f46499dd) Update license
+- [650ee9a3](https://github.com/appscode/stash-enterprise/commit/650ee9a3) Update Kubernetes v1.18.9 dependencies (#54)
+- [05f2c82b](https://github.com/appscode/stash-enterprise/commit/05f2c82b) Update Kubernetes v1.18.9 dependencies (#53)
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.11.7](https://github.com/stashed/apimachinery/releases/tag/v0.11.7)
