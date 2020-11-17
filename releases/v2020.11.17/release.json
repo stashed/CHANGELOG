@@ -37,11 +37,11 @@
       "github.com/stashed/postgres": {
         "key": "stash-postgres",
         "tags": {
-          "10.14.0-v2": "release-10.14",
-          "11.9.0-v2": "release-11.9",
-          "12.4.0-v2": "release-12.4",
+          "10.14.0-v3": "release-10.14",
+          "11.9.0-v3": "release-11.9",
+          "12.4.0-v3": "release-12.4",
           "13.1.0": "release-13.1",
-          "9.6.19-v2": "release-9.6.19"
+          "9.6.19-v3": "release-9.6.19"
         },
         "chartNames": [
           "stash-postgres"
