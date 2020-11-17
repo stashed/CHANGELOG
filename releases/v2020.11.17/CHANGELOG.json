@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.11.17",
-  "release_date": "2020-11-17T12:28:33.917751783Z",
+  "release_date": "2020-11-17T12:42:25.100416516Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.11.17",
   "kubernetes_version": "1.14+",
@@ -19,6 +19,40 @@
             {
               "SHA": "81362c35",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#71)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.7",
+          "commits": [
+            {
+              "SHA": "0828afc8",
+              "Subject": "Prepare for release v0.11.7 (#1269)"
+            },
+            {
+              "SHA": "c05e0469",
+              "Subject": "Skip new session if another is already running (#1264)"
+            },
+            {
+              "SHA": "db1a2005",
+              "Subject": "Fix failing E2E tests (#1256)"
+            },
+            {
+              "SHA": "c3c2ae05",
+              "Subject": "Update repository config (#1268)"
+            },
+            {
+              "SHA": "daa95863",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1254)"
+            },
+            {
+              "SHA": "d33cf738",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1253)"
             }
           ]
         }
