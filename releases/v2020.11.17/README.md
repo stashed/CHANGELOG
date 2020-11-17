@@ -50,6 +50,14 @@
 - [37dcb8a](https://github.com/stashed/postgres/commit/37dcb8a) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#419) (#425)
 
 
+### [12.4.0-v3](https://github.com/stashed/postgres/releases/tag/12.4.0-v3)
+
+- [1d17c0a](https://github.com/stashed/postgres/commit/1d17c0a) Prepare for release 12.4.0-v2 (#453)
+- [cae2a3d](https://github.com/stashed/postgres/commit/cae2a3d) [cherry-pick] Update repository config (#440) (#447)
+- [4ddacb5](https://github.com/stashed/postgres/commit/4ddacb5) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#429) (#436)
+- [b132bff](https://github.com/stashed/postgres/commit/b132bff) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#419) (#426)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
