@@ -58,6 +58,10 @@
 - [b132bff](https://github.com/stashed/postgres/commit/b132bff) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#419) (#426)
 
 
+### [13.1.0](https://github.com/stashed/postgres/releases/tag/13.1.0)
+
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 

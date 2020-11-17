@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.11.17",
-  "release_date": "2020-11-17T17:53:14.905399198Z",
+  "release_date": "2020-11-17T17:53:20.869504741Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.11.17",
   "kubernetes_version": "1.14+",
@@ -141,6 +141,10 @@
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#419) (#426)"
             }
           ]
+        },
+        {
+          "tag": "13.1.0",
+          "commits": null
         }
       ]
     },
