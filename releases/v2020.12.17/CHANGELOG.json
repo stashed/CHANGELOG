@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.12.17",
-  "release_date": "2020-12-17T11:10:55.871483504Z",
+  "release_date": "2020-12-17T11:21:59.369553963Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.12.17",
   "kubernetes_version": "1.14+",
@@ -19,6 +19,44 @@
             {
               "SHA": "c7aed993",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.8",
+          "commits": [
+            {
+              "SHA": "d06c4f1d",
+              "Subject": "Prepare for release v0.11.8 (#1287)"
+            },
+            {
+              "SHA": "14dfff22",
+              "Subject": "Run backup job as user 65535 (#1284)"
+            },
+            {
+              "SHA": "2379c0f8",
+              "Subject": "Fix secretTransformation for AppBinding (#1274)"
+            },
+            {
+              "SHA": "88c71b23",
+              "Subject": "Update repository config (#1285)"
+            },
+            {
+              "SHA": "0667b421",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1283)"
+            },
+            {
+              "SHA": "c01a1c95",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1277)"
+            },
+            {
+              "SHA": "e953c0af",
+              "Subject": "Use build, config, Kubernetes jobs for e2e workflow"
             }
           ]
         }
