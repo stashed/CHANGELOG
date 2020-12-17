@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.12.17",
-  "release_date": "2020-12-17T12:35:04.145505133Z",
+  "release_date": "2020-12-17T12:51:25.604713011Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.12.17",
   "kubernetes_version": "1.14+",
@@ -712,6 +712,44 @@
             {
               "SHA": "ad73a841",
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#602)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v5",
+          "commits": [
+            {
+              "SHA": "5561dce",
+              "Subject": "Prepare for release 5.7.25-v5 (#246)"
+            },
+            {
+              "SHA": "7b380f0",
+              "Subject": "Use port from the AppBinding (#234) (#243)"
+            },
+            {
+              "SHA": "3ea5fc8",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#239) (#240)"
+            },
+            {
+              "SHA": "7dcd320",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#235) (#236)"
+            },
+            {
+              "SHA": "ea65a68",
+              "Subject": "[cherry-pick] Update repository config (#230) (#231)"
+            },
+            {
+              "SHA": "ba47f47",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#226) (#227)"
+            },
+            {
+              "SHA": "775ff72",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#222) (#223)"
             }
           ]
         }
