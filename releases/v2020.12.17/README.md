@@ -1,6 +1,18 @@
 # Stash v2020.12.17 (2020-12-17)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.11.8](https://github.com/appscode/stash-enterprise/releases/tag/v0.11.8)
+
+- [eccabd16](https://github.com/appscode/stash-enterprise/commit/eccabd16) Prepare for release v0.11.8 (#63)
+- [1e03db14](https://github.com/appscode/stash-enterprise/commit/1e03db14) Update Kubernetes v1.18.9 dependencies (#61)
+- [b3031f75](https://github.com/appscode/stash-enterprise/commit/b3031f75) Run backup job as user 65535 (#62)
+- [f3207a94](https://github.com/appscode/stash-enterprise/commit/f3207a94) Fix secretTransforation for AppBinding (#60)
+- [c7e3248f](https://github.com/appscode/stash-enterprise/commit/c7e3248f) Update CI workflow
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.11.8](https://github.com/stashed/apimachinery/releases/tag/v0.11.8)

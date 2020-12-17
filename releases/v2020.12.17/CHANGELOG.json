@@ -1,11 +1,41 @@
 {
   "product_line": "Stash",
   "release": "v2020.12.17",
-  "release_date": "2020-12-17T11:21:59.369553963Z",
+  "release_date": "2020-12-17T11:33:36.983327414Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.12.17",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.11.8",
+          "commits": [
+            {
+              "SHA": "eccabd16",
+              "Subject": "Prepare for release v0.11.8 (#63)"
+            },
+            {
+              "SHA": "1e03db14",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#61)"
+            },
+            {
+              "SHA": "b3031f75",
+              "Subject": "Run backup job as user 65535 (#62)"
+            },
+            {
+              "SHA": "f3207a94",
+              "Subject": "Fix secretTransforation for AppBinding (#60)"
+            },
+            {
+              "SHA": "c7e3248f",
+              "Subject": "Update CI workflow"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/apimachinery",
       "releases": [
