@@ -22,6 +22,16 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2020.12.17](https://github.com/stashed/catalog/releases/tag/v2020.12.17)
+
+- [e8c931c](https://github.com/stashed/catalog/commit/e8c931c) Prepare for release v2020.12.17 (#50)
+- [d169e34](https://github.com/stashed/catalog/commit/d169e34) Add MariaDB catalog + Cleanup (#48)
+- [5dd2aa2](https://github.com/stashed/catalog/commit/5dd2aa2) Update repository config (#49)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.11.8](https://github.com/stashed/cli/releases/tag/v0.11.8)

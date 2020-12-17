@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.12.17",
-  "release_date": "2020-12-17T21:29:58.490108139Z",
+  "release_date": "2020-12-17T23:06:30.711741163Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.12.17",
   "kubernetes_version": "1.14+",
@@ -49,6 +49,28 @@
             {
               "SHA": "c7aed993",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/catalog",
+      "releases": [
+        {
+          "tag": "v2020.12.17",
+          "commits": [
+            {
+              "SHA": "e8c931c",
+              "Subject": "Prepare for release v2020.12.17 (#50)"
+            },
+            {
+              "SHA": "d169e34",
+              "Subject": "Add MariaDB catalog + Cleanup (#48)"
+            },
+            {
+              "SHA": "5dd2aa2",
+              "Subject": "Update repository config (#49)"
             }
           ]
         }
