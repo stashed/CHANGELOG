@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.12.17",
-  "release_date": "2020-12-17T23:06:30.711741163Z",
+  "release_date": "2020-12-17T23:12:44.123983472Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.12.17",
   "kubernetes_version": "1.14+",
@@ -173,6 +173,32 @@
             {
               "SHA": "7354628",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2020.12.17",
+          "commits": [
+            {
+              "SHA": "8ad2fd1",
+              "Subject": "Prepare for release v2020.12.17 (#120)"
+            },
+            {
+              "SHA": "e7d3dbb",
+              "Subject": "Fix prom installer (#119)"
+            },
+            {
+              "SHA": "10f53ff",
+              "Subject": "Add MariaDB docs (#117)"
+            },
+            {
+              "SHA": "3ba0722",
+              "Subject": "Show scheme in endpoint for Minio Repository (#118)"
             }
           ]
         }

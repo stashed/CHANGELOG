@@ -62,6 +62,17 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2020.12.17](https://github.com/stashed/docs/releases/tag/v2020.12.17)
+
+- [8ad2fd1](https://github.com/stashed/docs/commit/8ad2fd1) Prepare for release v2020.12.17 (#120)
+- [e7d3dbb](https://github.com/stashed/docs/commit/e7d3dbb) Fix prom installer (#119)
+- [10f53ff](https://github.com/stashed/docs/commit/10f53ff) Add MariaDB docs (#117)
+- [3ba0722](https://github.com/stashed/docs/commit/3ba0722) Show scheme in endpoint for Minio Repository (#118)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v5](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v5)
