@@ -261,6 +261,17 @@
 - [775ff72](https://github.com/stashed/mysql/commit/775ff72) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#222) (#223)
 
 
+### [8.0.14-v5](https://github.com/stashed/mysql/releases/tag/8.0.14-v5)
+
+- [1393938](https://github.com/stashed/mysql/commit/1393938) Prepare for release 8.0.14-v5 (#247)
+- [672cea7](https://github.com/stashed/mysql/commit/672cea7) Use port from the AppBinding (#234) (#244)
+- [1a04a62](https://github.com/stashed/mysql/commit/1a04a62) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#239) (#241)
+- [dd88423](https://github.com/stashed/mysql/commit/dd88423) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#235) (#237)
+- [890f0f1](https://github.com/stashed/mysql/commit/890f0f1) [cherry-pick] Update repository config (#230) (#232)
+- [0868321](https://github.com/stashed/mysql/commit/0868321) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#226) (#228)
+- [616dec4](https://github.com/stashed/mysql/commit/616dec4) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#222) (#224)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 

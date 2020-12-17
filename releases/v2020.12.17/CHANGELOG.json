@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.12.17",
-  "release_date": "2020-12-17T12:51:25.604713011Z",
+  "release_date": "2020-12-17T12:51:31.507176037Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.12.17",
   "kubernetes_version": "1.14+",
@@ -750,6 +750,39 @@
             {
               "SHA": "775ff72",
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#222) (#223)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v5",
+          "commits": [
+            {
+              "SHA": "1393938",
+              "Subject": "Prepare for release 8.0.14-v5 (#247)"
+            },
+            {
+              "SHA": "672cea7",
+              "Subject": "Use port from the AppBinding (#234) (#244)"
+            },
+            {
+              "SHA": "1a04a62",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#239) (#241)"
+            },
+            {
+              "SHA": "dd88423",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#235) (#237)"
+            },
+            {
+              "SHA": "890f0f1",
+              "Subject": "[cherry-pick] Update repository config (#230) (#232)"
+            },
+            {
+              "SHA": "0868321",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#226) (#228)"
+            },
+            {
+              "SHA": "616dec4",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#222) (#224)"
             }
           ]
         }
