@@ -135,6 +135,51 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8](https://github.com/stashed/mariadb/releases/tag/10.5.8)
+
+- [c11b255](https://github.com/stashed/mariadb/commit/c11b255) Prepare for release 10.5.8 (#38)
+- [2cc62f5](https://github.com/stashed/mariadb/commit/2cc62f5) [cherry-pick] Update chart-contents target (#37)
+- [1d99e4d](https://github.com/stashed/mariadb/commit/1d99e4d) Add support for MariaDB 10.5.8 (#14)
+- [484a8be](https://github.com/stashed/mariadb/commit/484a8be) Update Kubernetes v1.18.9 dependencies (#36)
+- [8e51d89](https://github.com/stashed/mariadb/commit/8e51d89) Update Kubernetes v1.18.9 dependencies (#35)
+- [f28b38c](https://github.com/stashed/mariadb/commit/f28b38c) Update Kubernetes v1.18.9 dependencies (#34)
+- [6bb158b](https://github.com/stashed/mariadb/commit/6bb158b) Update Kubernetes v1.18.9 dependencies (#33)
+- [96a2f9c](https://github.com/stashed/mariadb/commit/96a2f9c) Update Kubernetes v1.18.9 dependencies (#32)
+- [9c039e1](https://github.com/stashed/mariadb/commit/9c039e1) Update Kubernetes v1.18.9 dependencies (#31)
+- [cc724ca](https://github.com/stashed/mariadb/commit/cc724ca) Update Kubernetes v1.18.9 dependencies (#30)
+- [efae597](https://github.com/stashed/mariadb/commit/efae597) Update Kubernetes v1.18.9 dependencies (#29)
+- [90fd790](https://github.com/stashed/mariadb/commit/90fd790) Update Kubernetes v1.18.9 dependencies (#28)
+- [ac68465](https://github.com/stashed/mariadb/commit/ac68465) Update Kubernetes v1.18.9 dependencies (#27)
+- [ba7af92](https://github.com/stashed/mariadb/commit/ba7af92) Update Kubernetes v1.18.9 dependencies (#26)
+- [3b6c2c7](https://github.com/stashed/mariadb/commit/3b6c2c7) Update Kubernetes v1.18.9 dependencies (#25)
+- [9c9c161](https://github.com/stashed/mariadb/commit/9c9c161) Update Kubernetes v1.18.9 dependencies (#24)
+- [bf87299](https://github.com/stashed/mariadb/commit/bf87299) Update Kubernetes v1.18.9 dependencies (#23)
+- [947a95f](https://github.com/stashed/mariadb/commit/947a95f) Update Kubernetes v1.18.9 dependencies (#22)
+- [7588fc3](https://github.com/stashed/mariadb/commit/7588fc3) Update Kubernetes v1.18.9 dependencies (#21)
+- [669416e](https://github.com/stashed/mariadb/commit/669416e) Update Kubernetes v1.18.9 dependencies (#20)
+- [c0d2ac5](https://github.com/stashed/mariadb/commit/c0d2ac5) Update Kubernetes v1.18.9 dependencies (#19)
+- [798dd36](https://github.com/stashed/mariadb/commit/798dd36) Update Kubernetes v1.18.9 dependencies (#18)
+- [1648324](https://github.com/stashed/mariadb/commit/1648324) Update Kubernetes v1.18.9 dependencies (#17)
+- [6593603](https://github.com/stashed/mariadb/commit/6593603) Update Kubernetes v1.18.9 dependencies (#16)
+- [aa36f3c](https://github.com/stashed/mariadb/commit/aa36f3c) Update Kubernetes v1.18.9 dependencies (#15)
+- [15d9947](https://github.com/stashed/mariadb/commit/15d9947) Update Kubernetes v1.18.9 dependencies (#13)
+- [479ca8d](https://github.com/stashed/mariadb/commit/479ca8d) Update Kubernetes v1.18.9 dependencies (#12)
+- [ce73357](https://github.com/stashed/mariadb/commit/ce73357) Update Kubernetes v1.18.9 dependencies (#10)
+- [43c3ec2](https://github.com/stashed/mariadb/commit/43c3ec2) Update repository config (#11)
+- [00cd391](https://github.com/stashed/mariadb/commit/00cd391) Update Kubernetes v1.18.9 dependencies (#9)
+- [aea5290](https://github.com/stashed/mariadb/commit/aea5290) Update Kubernetes v1.18.9 dependencies (#8)
+- [bfff9f8](https://github.com/stashed/mariadb/commit/bfff9f8) Update Kubernetes v1.18.9 dependencies (#7)
+- [d8181c8](https://github.com/stashed/mariadb/commit/d8181c8) Update Kubernetes v1.18.9 dependencies (#6)
+- [fa64213](https://github.com/stashed/mariadb/commit/fa64213) Update Kubernetes v1.18.9 dependencies (#5)
+- [d1bd8a2](https://github.com/stashed/mariadb/commit/d1bd8a2) Update Kubernetes v1.18.9 dependencies (#4)
+- [1b64d94](https://github.com/stashed/mariadb/commit/1b64d94) Update repository config (#3)
+- [bac09d7](https://github.com/stashed/mariadb/commit/bac09d7) Update repository config (#2)
+- [8769371](https://github.com/stashed/mariadb/commit/8769371) Update Kubernetes v1.18.9 dependencies (#1)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v5](https://github.com/stashed/mongodb/releases/tag/3.4.17-v5)
