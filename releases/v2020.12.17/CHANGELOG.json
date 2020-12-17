@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.12.17",
-  "release_date": "2020-12-17T16:29:19.393572684Z",
+  "release_date": "2020-12-17T16:45:47.574849175Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.12.17",
   "kubernetes_version": "1.14+",
@@ -978,6 +978,32 @@
             {
               "SHA": "616dec4",
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#222) (#224)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7.0-v1",
+          "commits": [
+            {
+              "SHA": "3e48d47",
+              "Subject": "Prepare for release 5.7.0-v1 (#126)"
+            },
+            {
+              "SHA": "42458b3",
+              "Subject": "Use port from AppBinding (#120) (#125)"
+            },
+            {
+              "SHA": "70d872d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#123) (#124)"
+            },
+            {
+              "SHA": "2927d77",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#121) (#122)"
             }
           ]
         }

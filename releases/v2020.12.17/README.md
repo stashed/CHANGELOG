@@ -329,6 +329,17 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7.0-v1](https://github.com/stashed/percona-xtradb/releases/tag/5.7.0-v1)
+
+- [3e48d47](https://github.com/stashed/percona-xtradb/commit/3e48d47) Prepare for release 5.7.0-v1 (#126)
+- [42458b3](https://github.com/stashed/percona-xtradb/commit/42458b3) Use port from AppBinding (#120) (#125)
+- [70d872d](https://github.com/stashed/percona-xtradb/commit/70d872d) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#123) (#124)
+- [2927d77](https://github.com/stashed/percona-xtradb/commit/2927d77) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#121) (#122)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v4](https://github.com/stashed/postgres/releases/tag/9.6.19-v4)
