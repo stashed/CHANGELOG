@@ -177,6 +177,16 @@
 - [929b7d9f](https://github.com/stashed/mongodb/commit/929b7d9f) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#594)
 
 
+### [4.0.11-v5](https://github.com/stashed/mongodb/releases/tag/4.0.11-v5)
+
+- [3d58d128](https://github.com/stashed/mongodb/commit/3d58d128) Prepare for release 4.0.11-v5 (#655)
+- [3efd27ec](https://github.com/stashed/mongodb/commit/3efd27ec) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#639) (#644)
+- [0700bb03](https://github.com/stashed/mongodb/commit/0700bb03) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#627) (#632)
+- [214b8f02](https://github.com/stashed/mongodb/commit/214b8f02) [cherry-pick] Update repository config (#615) (#620)
+- [adea0e7e](https://github.com/stashed/mongodb/commit/adea0e7e) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#603) (#608)
+- [52d070a0](https://github.com/stashed/mongodb/commit/52d070a0) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#596)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
