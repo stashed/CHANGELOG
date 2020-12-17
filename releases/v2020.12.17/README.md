@@ -62,6 +62,14 @@
 - [98e3e77](https://github.com/stashed/postgres/commit/98e3e77) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#463)
 
 
+### [11.9.0-v4](https://github.com/stashed/postgres/releases/tag/11.9.0-v4)
+
+- [719b8d1](https://github.com/stashed/postgres/commit/719b8d1) Prepare for release 11.9.0-v4 (#496)
+- [723403f](https://github.com/stashed/postgres/commit/723403f) Use port from AppBinding (#461) (#490)
+- [8b973a4](https://github.com/stashed/postgres/commit/8b973a4) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#474) (#480)
+- [726a5fa](https://github.com/stashed/postgres/commit/726a5fa) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#468)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
