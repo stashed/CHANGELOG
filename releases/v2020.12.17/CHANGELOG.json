@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.12.17",
-  "release_date": "2020-12-17T11:58:58.967198313Z",
+  "release_date": "2020-12-17T11:59:05.041452127Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.12.17",
   "kubernetes_version": "1.14+",
@@ -159,6 +159,27 @@
     {
       "url": "github.com/stashed/postgres",
       "releases": [
+        {
+          "tag": "9.6.19-v4",
+          "commits": [
+            {
+              "SHA": "ef4d4e8",
+              "Subject": "Prepare for release 9.6.19-v4 (#499)"
+            },
+            {
+              "SHA": "6702c39",
+              "Subject": "Use port from AppBinding (#461) (#494)"
+            },
+            {
+              "SHA": "36c0904",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#474) (#484)"
+            },
+            {
+              "SHA": "6903ab9",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#472)"
+            }
+          ]
+        },
         {
           "tag": "10.14.0-v4",
           "commits": [
