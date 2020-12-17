@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.12.17",
-  "release_date": "2020-12-17T12:15:54.682258079Z",
+  "release_date": "2020-12-17T12:16:00.85358026Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.12.17",
   "kubernetes_version": "1.14+",
@@ -301,6 +301,35 @@
             {
               "SHA": "0b99e60",
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#458)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v5",
+          "commits": [
+            {
+              "SHA": "8959fd4",
+              "Subject": "Prepare for release 6.8.0-v5 (#503)"
+            },
+            {
+              "SHA": "6772e20",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#489) (#495)"
+            },
+            {
+              "SHA": "68127a5",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#480) (#486)"
+            },
+            {
+              "SHA": "cda62d0",
+              "Subject": "[cherry-pick] Update repository config (#471) (#477)"
+            },
+            {
+              "SHA": "3357ece",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#468)"
+            },
+            {
+              "SHA": "fcfbb43",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#459)"
             }
           ]
         }
