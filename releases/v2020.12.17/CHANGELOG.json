@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.12.17",
-  "release_date": "2020-12-17T11:33:36.983327414Z",
+  "release_date": "2020-12-17T11:40:52.668284613Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.12.17",
   "kubernetes_version": "1.14+",
@@ -49,6 +49,108 @@
             {
               "SHA": "c7aed993",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.11.8",
+          "commits": [
+            {
+              "SHA": "33bebfb",
+              "Subject": "Prepare for release v0.11.8 (#97)"
+            },
+            {
+              "SHA": "d343c7e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#96)"
+            },
+            {
+              "SHA": "5a5069c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#95)"
+            },
+            {
+              "SHA": "0b4b68b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#94)"
+            },
+            {
+              "SHA": "99cd366",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#93)"
+            },
+            {
+              "SHA": "84f4f2f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#92)"
+            },
+            {
+              "SHA": "018b14a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#91)"
+            },
+            {
+              "SHA": "18ed3c6",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#90)"
+            },
+            {
+              "SHA": "ad95cbe",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#89)"
+            },
+            {
+              "SHA": "42ffef5",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#88)"
+            },
+            {
+              "SHA": "cb657bb",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#87)"
+            },
+            {
+              "SHA": "8853995",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#86)"
+            },
+            {
+              "SHA": "3af9028",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#85)"
+            },
+            {
+              "SHA": "074c37b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#84)"
+            },
+            {
+              "SHA": "d08b872",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#83)"
+            },
+            {
+              "SHA": "d9b1b93",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#82)"
+            },
+            {
+              "SHA": "4e96e8e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#81)"
+            },
+            {
+              "SHA": "d38c1ba",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#80)"
+            },
+            {
+              "SHA": "37c7d87",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#79)"
+            },
+            {
+              "SHA": "67ec7d1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#78)"
+            },
+            {
+              "SHA": "328763e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#77)"
+            },
+            {
+              "SHA": "c8cfdab",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#76)"
+            },
+            {
+              "SHA": "7354628",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#75)"
             }
           ]
         }
