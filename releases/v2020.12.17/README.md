@@ -22,6 +22,15 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2020.12.17](https://github.com/stashed/bundles/releases/tag/v2020.12.17)
+
+- [cacd267](https://github.com/stashed/bundles/commit/cacd267) Prepare for release v2020.12.17 (#32)
+- [bdfc7fd](https://github.com/stashed/bundles/commit/bdfc7fd) Update repository config (#31)
+
+
+
 ## [stashed/catalog](https://github.com/stashed/catalog)
 
 ### [v2020.12.17](https://github.com/stashed/catalog/releases/tag/v2020.12.17)
