@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2020.12.17",
-  "release_date": "2020-12-17T16:45:47.574849175Z",
+  "release_date": "2020-12-17T21:29:58.490108139Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2020.12.17",
   "kubernetes_version": "1.14+",
@@ -388,6 +388,40 @@
             {
               "SHA": "a3d520e",
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#461)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.11.8",
+          "commits": [
+            {
+              "SHA": "c2c8362",
+              "Subject": "Prepare for release v0.11.8 (#132)"
+            },
+            {
+              "SHA": "ae8900a",
+              "Subject": "Speed up schema generation process (#131)"
+            },
+            {
+              "SHA": "262e0b5",
+              "Subject": "Update repository config (#130)"
+            },
+            {
+              "SHA": "05f9e82",
+              "Subject": "Delete DCO"
+            },
+            {
+              "SHA": "abaf344",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#129)"
+            },
+            {
+              "SHA": "2d928b1",
+              "Subject": "Use apiregistration.k8s.io/v1 (#128)"
             }
           ]
         }

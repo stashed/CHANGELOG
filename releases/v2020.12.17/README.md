@@ -135,6 +135,19 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.11.8](https://github.com/stashed/installer/releases/tag/v0.11.8)
+
+- [c2c8362](https://github.com/stashed/installer/commit/c2c8362) Prepare for release v0.11.8 (#132)
+- [ae8900a](https://github.com/stashed/installer/commit/ae8900a) Speed up schema generation process (#131)
+- [262e0b5](https://github.com/stashed/installer/commit/262e0b5) Update repository config (#130)
+- [05f9e82](https://github.com/stashed/installer/commit/05f9e82) Delete DCO
+- [abaf344](https://github.com/stashed/installer/commit/abaf344) Update Kubernetes v1.18.9 dependencies (#129)
+- [2d928b1](https://github.com/stashed/installer/commit/2d928b1) Use apiregistration.k8s.io/v1 (#128)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8](https://github.com/stashed/mariadb/releases/tag/10.5.8)
