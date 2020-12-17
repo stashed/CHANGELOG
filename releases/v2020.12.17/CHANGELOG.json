@@ -1,0 +1,28 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.12.17",
+  "release_date": "2020-12-17T11:10:55.871483504Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.12.17",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.8",
+          "commits": [
+            {
+              "SHA": "cec1888a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#74)"
+            },
+            {
+              "SHA": "c7aed993",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#73)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
