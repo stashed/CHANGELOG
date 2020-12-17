@@ -114,6 +114,16 @@
 - [fcfbb43](https://github.com/stashed/elasticsearch/commit/fcfbb43) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#459)
 
 
+### [7.2.0-v5](https://github.com/stashed/elasticsearch/releases/tag/7.2.0-v5)
+
+- [2d738a4](https://github.com/stashed/elasticsearch/commit/2d738a4) Prepare for release 7.2.0-v5 (#504)
+- [b943b7e](https://github.com/stashed/elasticsearch/commit/b943b7e) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#489) (#496)
+- [cfb5023](https://github.com/stashed/elasticsearch/commit/cfb5023) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#480) (#487)
+- [551eb3b](https://github.com/stashed/elasticsearch/commit/551eb3b) [cherry-pick] Update repository config (#471) (#478)
+- [df007da](https://github.com/stashed/elasticsearch/commit/df007da) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#469)
+- [c218201](https://github.com/stashed/elasticsearch/commit/c218201) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#460)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
