@@ -1,0 +1,1261 @@
+{
+  "product_line": "Stash",
+  "release": "v2020.12.17",
+  "release_date": "2020-12-17T23:23:46.705581401Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2020.12.17",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.11.8",
+          "commits": [
+            {
+              "SHA": "eccabd16",
+              "Subject": "Prepare for release v0.11.8 (#63)"
+            },
+            {
+              "SHA": "1e03db14",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#61)"
+            },
+            {
+              "SHA": "b3031f75",
+              "Subject": "Run backup job as user 65535 (#62)"
+            },
+            {
+              "SHA": "f3207a94",
+              "Subject": "Fix secretTransforation for AppBinding (#60)"
+            },
+            {
+              "SHA": "c7e3248f",
+              "Subject": "Update CI workflow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.8",
+          "commits": [
+            {
+              "SHA": "cec1888a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#74)"
+            },
+            {
+              "SHA": "c7aed993",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2020.12.17",
+          "commits": [
+            {
+              "SHA": "cacd267",
+              "Subject": "Prepare for release v2020.12.17 (#32)"
+            },
+            {
+              "SHA": "bdfc7fd",
+              "Subject": "Update repository config (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/catalog",
+      "releases": [
+        {
+          "tag": "v2020.12.17",
+          "commits": [
+            {
+              "SHA": "e8c931c",
+              "Subject": "Prepare for release v2020.12.17 (#50)"
+            },
+            {
+              "SHA": "d169e34",
+              "Subject": "Add MariaDB catalog + Cleanup (#48)"
+            },
+            {
+              "SHA": "5dd2aa2",
+              "Subject": "Update repository config (#49)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.11.8",
+          "commits": [
+            {
+              "SHA": "33bebfb",
+              "Subject": "Prepare for release v0.11.8 (#97)"
+            },
+            {
+              "SHA": "d343c7e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#96)"
+            },
+            {
+              "SHA": "5a5069c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#95)"
+            },
+            {
+              "SHA": "0b4b68b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#94)"
+            },
+            {
+              "SHA": "99cd366",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#93)"
+            },
+            {
+              "SHA": "84f4f2f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#92)"
+            },
+            {
+              "SHA": "018b14a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#91)"
+            },
+            {
+              "SHA": "18ed3c6",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#90)"
+            },
+            {
+              "SHA": "ad95cbe",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#89)"
+            },
+            {
+              "SHA": "42ffef5",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#88)"
+            },
+            {
+              "SHA": "cb657bb",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#87)"
+            },
+            {
+              "SHA": "8853995",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#86)"
+            },
+            {
+              "SHA": "3af9028",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#85)"
+            },
+            {
+              "SHA": "074c37b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#84)"
+            },
+            {
+              "SHA": "d08b872",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#83)"
+            },
+            {
+              "SHA": "d9b1b93",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#82)"
+            },
+            {
+              "SHA": "4e96e8e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#81)"
+            },
+            {
+              "SHA": "d38c1ba",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#80)"
+            },
+            {
+              "SHA": "37c7d87",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#79)"
+            },
+            {
+              "SHA": "67ec7d1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#78)"
+            },
+            {
+              "SHA": "328763e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#77)"
+            },
+            {
+              "SHA": "c8cfdab",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#76)"
+            },
+            {
+              "SHA": "7354628",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2020.12.17",
+          "commits": [
+            {
+              "SHA": "8ad2fd1",
+              "Subject": "Prepare for release v2020.12.17 (#120)"
+            },
+            {
+              "SHA": "e7d3dbb",
+              "Subject": "Fix prom installer (#119)"
+            },
+            {
+              "SHA": "10f53ff",
+              "Subject": "Add MariaDB docs (#117)"
+            },
+            {
+              "SHA": "3ba0722",
+              "Subject": "Show scheme in endpoint for Minio Repository (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v5",
+          "commits": [
+            {
+              "SHA": "7234135",
+              "Subject": "Prepare for release 5.6.4-v5 (#498)"
+            },
+            {
+              "SHA": "d9a692f",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#489) (#490)"
+            },
+            {
+              "SHA": "3c96ea3",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#480) (#481)"
+            },
+            {
+              "SHA": "0a2e843",
+              "Subject": "[cherry-pick] Update repository config (#471) (#472)"
+            },
+            {
+              "SHA": "4165f8e",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#463)"
+            },
+            {
+              "SHA": "acdac11",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#454)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v5",
+          "commits": [
+            {
+              "SHA": "7b78f9e",
+              "Subject": "Prepare for release 6.2.4-v5 (#499)"
+            },
+            {
+              "SHA": "413434d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#489) (#491)"
+            },
+            {
+              "SHA": "7bdf655",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#480) (#482)"
+            },
+            {
+              "SHA": "74f4c2c",
+              "Subject": "[cherry-pick] Update repository config (#471) (#473)"
+            },
+            {
+              "SHA": "4248af4",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#464)"
+            },
+            {
+              "SHA": "197b7c5",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#455)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v5",
+          "commits": [
+            {
+              "SHA": "1c2dd6f",
+              "Subject": "Prepare for release 6.3.0-v5 (#500)"
+            },
+            {
+              "SHA": "37e2fe8",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#489) (#492)"
+            },
+            {
+              "SHA": "c27a297",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#480) (#483)"
+            },
+            {
+              "SHA": "2df4955",
+              "Subject": "[cherry-pick] Update repository config (#471) (#474)"
+            },
+            {
+              "SHA": "fe7cef6",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#465)"
+            },
+            {
+              "SHA": "d94cc74",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#456)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v5",
+          "commits": [
+            {
+              "SHA": "28db07e",
+              "Subject": "Prepare for release 6.4.0-v5 (#501)"
+            },
+            {
+              "SHA": "98936e6",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#489) (#493)"
+            },
+            {
+              "SHA": "11f03fa",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#480) (#484)"
+            },
+            {
+              "SHA": "dc339aa",
+              "Subject": "[cherry-pick] Update repository config (#471) (#475)"
+            },
+            {
+              "SHA": "9b131a4",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#466)"
+            },
+            {
+              "SHA": "16bb8b3",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#457)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v5",
+          "commits": [
+            {
+              "SHA": "acf444e",
+              "Subject": "Prepare for release 6.5.3-v5 (#502)"
+            },
+            {
+              "SHA": "d1c4849",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#489) (#494)"
+            },
+            {
+              "SHA": "668c97a",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#480) (#485)"
+            },
+            {
+              "SHA": "e25a596",
+              "Subject": "[cherry-pick] Update repository config (#471) (#476)"
+            },
+            {
+              "SHA": "0567419",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#467)"
+            },
+            {
+              "SHA": "0b99e60",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#458)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v5",
+          "commits": [
+            {
+              "SHA": "8959fd4",
+              "Subject": "Prepare for release 6.8.0-v5 (#503)"
+            },
+            {
+              "SHA": "6772e20",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#489) (#495)"
+            },
+            {
+              "SHA": "68127a5",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#480) (#486)"
+            },
+            {
+              "SHA": "cda62d0",
+              "Subject": "[cherry-pick] Update repository config (#471) (#477)"
+            },
+            {
+              "SHA": "3357ece",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#468)"
+            },
+            {
+              "SHA": "fcfbb43",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#459)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v5",
+          "commits": [
+            {
+              "SHA": "2d738a4",
+              "Subject": "Prepare for release 7.2.0-v5 (#504)"
+            },
+            {
+              "SHA": "b943b7e",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#489) (#496)"
+            },
+            {
+              "SHA": "cfb5023",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#480) (#487)"
+            },
+            {
+              "SHA": "551eb3b",
+              "Subject": "[cherry-pick] Update repository config (#471) (#478)"
+            },
+            {
+              "SHA": "df007da",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#469)"
+            },
+            {
+              "SHA": "c218201",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#460)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v5",
+          "commits": [
+            {
+              "SHA": "04e1f4f",
+              "Subject": "Prepare for release 7.3.2-v5 (#505)"
+            },
+            {
+              "SHA": "ea147c5",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#489) (#497)"
+            },
+            {
+              "SHA": "893cfea",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#480) (#488)"
+            },
+            {
+              "SHA": "f3ed4bf",
+              "Subject": "[cherry-pick] Update repository config (#471) (#479)"
+            },
+            {
+              "SHA": "cb65c92",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#470)"
+            },
+            {
+              "SHA": "a3d520e",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#453) (#461)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.11.8",
+          "commits": [
+            {
+              "SHA": "c2c8362",
+              "Subject": "Prepare for release v0.11.8 (#132)"
+            },
+            {
+              "SHA": "ae8900a",
+              "Subject": "Speed up schema generation process (#131)"
+            },
+            {
+              "SHA": "262e0b5",
+              "Subject": "Update repository config (#130)"
+            },
+            {
+              "SHA": "05f9e82",
+              "Subject": "Delete DCO"
+            },
+            {
+              "SHA": "abaf344",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#129)"
+            },
+            {
+              "SHA": "2d928b1",
+              "Subject": "Use apiregistration.k8s.io/v1 (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8",
+          "commits": [
+            {
+              "SHA": "c11b255",
+              "Subject": "Prepare for release 10.5.8 (#38)"
+            },
+            {
+              "SHA": "2cc62f5",
+              "Subject": "[cherry-pick] Update chart-contents target (#37)"
+            },
+            {
+              "SHA": "1d99e4d",
+              "Subject": "Add support for MariaDB 10.5.8 (#14)"
+            },
+            {
+              "SHA": "484a8be",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#36)"
+            },
+            {
+              "SHA": "8e51d89",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#35)"
+            },
+            {
+              "SHA": "f28b38c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#34)"
+            },
+            {
+              "SHA": "6bb158b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#33)"
+            },
+            {
+              "SHA": "96a2f9c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#32)"
+            },
+            {
+              "SHA": "9c039e1",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#31)"
+            },
+            {
+              "SHA": "cc724ca",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#30)"
+            },
+            {
+              "SHA": "efae597",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#29)"
+            },
+            {
+              "SHA": "90fd790",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#28)"
+            },
+            {
+              "SHA": "ac68465",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#27)"
+            },
+            {
+              "SHA": "ba7af92",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#26)"
+            },
+            {
+              "SHA": "3b6c2c7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#25)"
+            },
+            {
+              "SHA": "9c9c161",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#24)"
+            },
+            {
+              "SHA": "bf87299",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#23)"
+            },
+            {
+              "SHA": "947a95f",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#22)"
+            },
+            {
+              "SHA": "7588fc3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#21)"
+            },
+            {
+              "SHA": "669416e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#20)"
+            },
+            {
+              "SHA": "c0d2ac5",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#19)"
+            },
+            {
+              "SHA": "798dd36",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#18)"
+            },
+            {
+              "SHA": "1648324",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#17)"
+            },
+            {
+              "SHA": "6593603",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#16)"
+            },
+            {
+              "SHA": "aa36f3c",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#15)"
+            },
+            {
+              "SHA": "15d9947",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#13)"
+            },
+            {
+              "SHA": "479ca8d",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#12)"
+            },
+            {
+              "SHA": "ce73357",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#10)"
+            },
+            {
+              "SHA": "43c3ec2",
+              "Subject": "Update repository config (#11)"
+            },
+            {
+              "SHA": "00cd391",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#9)"
+            },
+            {
+              "SHA": "aea5290",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#8)"
+            },
+            {
+              "SHA": "bfff9f8",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#7)"
+            },
+            {
+              "SHA": "d8181c8",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#6)"
+            },
+            {
+              "SHA": "fa64213",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#5)"
+            },
+            {
+              "SHA": "d1bd8a2",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#4)"
+            },
+            {
+              "SHA": "1b64d94",
+              "Subject": "Update repository config (#3)"
+            },
+            {
+              "SHA": "bac09d7",
+              "Subject": "Update repository config (#2)"
+            },
+            {
+              "SHA": "8769371",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v5",
+          "commits": [
+            {
+              "SHA": "8446da57",
+              "Subject": "Prepare for release 3.4.17-v5 (#651)"
+            },
+            {
+              "SHA": "e53bd66b",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#639) (#640)"
+            },
+            {
+              "SHA": "164a0550",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#627) (#628)"
+            },
+            {
+              "SHA": "ffd89381",
+              "Subject": "[cherry-pick] Update repository config (#615) (#616)"
+            },
+            {
+              "SHA": "038d3800",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#603) (#604)"
+            },
+            {
+              "SHA": "6b8d1b1c",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#592)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v5",
+          "commits": [
+            {
+              "SHA": "e33853a9",
+              "Subject": "Prepare for release 3.4.22-v5 (#652)"
+            },
+            {
+              "SHA": "9acaefc6",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#639) (#641)"
+            },
+            {
+              "SHA": "814695e2",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#627) (#629)"
+            },
+            {
+              "SHA": "49b00083",
+              "Subject": "[cherry-pick] Update repository config (#615) (#617)"
+            },
+            {
+              "SHA": "27ba40d3",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#603) (#605)"
+            },
+            {
+              "SHA": "297d6932",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#593)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v5",
+          "commits": [
+            {
+              "SHA": "31c09024",
+              "Subject": "Prepare for release 3.6.8-v5 (#654)"
+            },
+            {
+              "SHA": "e8bbdad4",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#639) (#643)"
+            },
+            {
+              "SHA": "0623cd6b",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#627) (#631)"
+            },
+            {
+              "SHA": "e04c6e4d",
+              "Subject": "[cherry-pick] Update repository config (#615) (#619)"
+            },
+            {
+              "SHA": "cbb64bcd",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#603) (#607)"
+            },
+            {
+              "SHA": "4485a5d4",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#595)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v5",
+          "commits": [
+            {
+              "SHA": "b6204090",
+              "Subject": "Prepare for release 3.6.13-v5 (#653)"
+            },
+            {
+              "SHA": "4be9caa1",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#639) (#642)"
+            },
+            {
+              "SHA": "d22abaa0",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#627) (#630)"
+            },
+            {
+              "SHA": "54bd4ef2",
+              "Subject": "[cherry-pick] Update repository config (#615) (#618)"
+            },
+            {
+              "SHA": "73a1b87a",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#603) (#606)"
+            },
+            {
+              "SHA": "929b7d9f",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#594)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v5",
+          "commits": [
+            {
+              "SHA": "7a9825fa",
+              "Subject": "Prepare for release 4.0.3-v5 (#656)"
+            },
+            {
+              "SHA": "8e266e3f",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#639) (#645)"
+            },
+            {
+              "SHA": "33b24502",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#627) (#633)"
+            },
+            {
+              "SHA": "a3f42c8c",
+              "Subject": "[cherry-pick] Update repository config (#615) (#621)"
+            },
+            {
+              "SHA": "9a28fdd3",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#603) (#609)"
+            },
+            {
+              "SHA": "450dbfe1",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#597)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v5",
+          "commits": [
+            {
+              "SHA": "2b4d6c0b",
+              "Subject": "Prepare for release 4.0.5-v5 (#657)"
+            },
+            {
+              "SHA": "1532c3c3",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#639) (#646)"
+            },
+            {
+              "SHA": "aa601ec9",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#627) (#634)"
+            },
+            {
+              "SHA": "9b423801",
+              "Subject": "[cherry-pick] Update repository config (#615) (#622)"
+            },
+            {
+              "SHA": "81ae1857",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#603) (#610)"
+            },
+            {
+              "SHA": "d4ecdf06",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#598)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v5",
+          "commits": [
+            {
+              "SHA": "3d58d128",
+              "Subject": "Prepare for release 4.0.11-v5 (#655)"
+            },
+            {
+              "SHA": "3efd27ec",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#639) (#644)"
+            },
+            {
+              "SHA": "0700bb03",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#627) (#632)"
+            },
+            {
+              "SHA": "214b8f02",
+              "Subject": "[cherry-pick] Update repository config (#615) (#620)"
+            },
+            {
+              "SHA": "adea0e7e",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#603) (#608)"
+            },
+            {
+              "SHA": "52d070a0",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#596)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v5",
+          "commits": [
+            {
+              "SHA": "d3efc3b9",
+              "Subject": "Prepare for release 4.1.4-v5 (#659)"
+            },
+            {
+              "SHA": "e5ad51d9",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#639) (#648)"
+            },
+            {
+              "SHA": "1a71cc31",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#627) (#636)"
+            },
+            {
+              "SHA": "f8f9f1f8",
+              "Subject": "[cherry-pick] Update repository config (#615) (#624)"
+            },
+            {
+              "SHA": "f548d611",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#603) (#612)"
+            },
+            {
+              "SHA": "ffd16236",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#600)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v5",
+          "commits": [
+            {
+              "SHA": "09645ca2",
+              "Subject": "Prepare for release 4.1.7-v5 (#660)"
+            },
+            {
+              "SHA": "4c1eb210",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#639) (#649)"
+            },
+            {
+              "SHA": "a4848e57",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#627) (#637)"
+            },
+            {
+              "SHA": "63ea5b9e",
+              "Subject": "[cherry-pick] Update repository config (#615) (#625)"
+            },
+            {
+              "SHA": "826348c4",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#603) (#613)"
+            },
+            {
+              "SHA": "64abe141",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#601)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v5",
+          "commits": [
+            {
+              "SHA": "f9985076",
+              "Subject": "Prepare for release 4.1.13-v5 (#658)"
+            },
+            {
+              "SHA": "271f7b13",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#639) (#647)"
+            },
+            {
+              "SHA": "0598642c",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#627) (#635)"
+            },
+            {
+              "SHA": "d0e3ffd7",
+              "Subject": "[cherry-pick] Update repository config (#615) (#623)"
+            },
+            {
+              "SHA": "21981a19",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#603) (#611)"
+            },
+            {
+              "SHA": "4213d19d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#599)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v5",
+          "commits": [
+            {
+              "SHA": "dc344fb3",
+              "Subject": "Prepare for release 4.2.3-v5 (#661)"
+            },
+            {
+              "SHA": "451544f4",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#639) (#650)"
+            },
+            {
+              "SHA": "499bdd68",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#627) (#638)"
+            },
+            {
+              "SHA": "f60aff42",
+              "Subject": "[cherry-pick] Update repository config (#615) (#626)"
+            },
+            {
+              "SHA": "54755039",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#603) (#614)"
+            },
+            {
+              "SHA": "ad73a841",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#591) (#602)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v5",
+          "commits": [
+            {
+              "SHA": "5561dce",
+              "Subject": "Prepare for release 5.7.25-v5 (#246)"
+            },
+            {
+              "SHA": "7b380f0",
+              "Subject": "Use port from the AppBinding (#234) (#243)"
+            },
+            {
+              "SHA": "3ea5fc8",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#239) (#240)"
+            },
+            {
+              "SHA": "7dcd320",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#235) (#236)"
+            },
+            {
+              "SHA": "ea65a68",
+              "Subject": "[cherry-pick] Update repository config (#230) (#231)"
+            },
+            {
+              "SHA": "ba47f47",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#226) (#227)"
+            },
+            {
+              "SHA": "775ff72",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#222) (#223)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v5",
+          "commits": [
+            {
+              "SHA": "800f3da",
+              "Subject": "Prepare for release 8.0.3-v5 (#248)"
+            },
+            {
+              "SHA": "74da539",
+              "Subject": "Use port from the AppBinding (#234) (#245)"
+            },
+            {
+              "SHA": "30852a5",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#239) (#242)"
+            },
+            {
+              "SHA": "de0721c",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#235) (#238)"
+            },
+            {
+              "SHA": "6dd1480",
+              "Subject": "[cherry-pick] Update repository config (#230) (#233)"
+            },
+            {
+              "SHA": "bdf4d17",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#226) (#229)"
+            },
+            {
+              "SHA": "b404222",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#222) (#225)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v5",
+          "commits": [
+            {
+              "SHA": "1393938",
+              "Subject": "Prepare for release 8.0.14-v5 (#247)"
+            },
+            {
+              "SHA": "672cea7",
+              "Subject": "Use port from the AppBinding (#234) (#244)"
+            },
+            {
+              "SHA": "1a04a62",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#239) (#241)"
+            },
+            {
+              "SHA": "dd88423",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#235) (#237)"
+            },
+            {
+              "SHA": "890f0f1",
+              "Subject": "[cherry-pick] Update repository config (#230) (#232)"
+            },
+            {
+              "SHA": "0868321",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#226) (#228)"
+            },
+            {
+              "SHA": "616dec4",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#222) (#224)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7.0-v1",
+          "commits": [
+            {
+              "SHA": "3e48d47",
+              "Subject": "Prepare for release 5.7.0-v1 (#126)"
+            },
+            {
+              "SHA": "42458b3",
+              "Subject": "Use port from AppBinding (#120) (#125)"
+            },
+            {
+              "SHA": "70d872d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#123) (#124)"
+            },
+            {
+              "SHA": "2927d77",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#121) (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v4",
+          "commits": [
+            {
+              "SHA": "ef4d4e8",
+              "Subject": "Prepare for release 9.6.19-v4 (#499)"
+            },
+            {
+              "SHA": "6702c39",
+              "Subject": "Use port from AppBinding (#461) (#494)"
+            },
+            {
+              "SHA": "36c0904",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#474) (#484)"
+            },
+            {
+              "SHA": "6903ab9",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#472)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14.0-v4",
+          "commits": [
+            {
+              "SHA": "110a97f",
+              "Subject": "Prepare for release 10.14.0-v4 (#495)"
+            },
+            {
+              "SHA": "0b3138c",
+              "Subject": "Use port from AppBinding (#461) (#485)"
+            },
+            {
+              "SHA": "1676e80",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#474) (#475)"
+            },
+            {
+              "SHA": "98e3e77",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#463)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9.0-v4",
+          "commits": [
+            {
+              "SHA": "719b8d1",
+              "Subject": "Prepare for release 11.9.0-v4 (#496)"
+            },
+            {
+              "SHA": "723403f",
+              "Subject": "Use port from AppBinding (#461) (#490)"
+            },
+            {
+              "SHA": "8b973a4",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#474) (#480)"
+            },
+            {
+              "SHA": "726a5fa",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#468)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4.0-v4",
+          "commits": [
+            {
+              "SHA": "652db84",
+              "Subject": "Prepare for release 12.4.0-v4 (#497)"
+            },
+            {
+              "SHA": "12cf759",
+              "Subject": "Use port from AppBinding (#461) (#491)"
+            },
+            {
+              "SHA": "c4f5823",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#474) (#481)"
+            },
+            {
+              "SHA": "413d475",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#469)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1.0-v1",
+          "commits": [
+            {
+              "SHA": "e384f2f",
+              "Subject": "Prepare for release 13.1.0-v1 (#498)"
+            },
+            {
+              "SHA": "5725c15",
+              "Subject": "Use port from AppBinding (#461) (#492)"
+            },
+            {
+              "SHA": "531f932",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#474) (#482)"
+            },
+            {
+              "SHA": "e974cca",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#462) (#470)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.8",
+          "commits": [
+            {
+              "SHA": "d06c4f1d",
+              "Subject": "Prepare for release v0.11.8 (#1287)"
+            },
+            {
+              "SHA": "14dfff22",
+              "Subject": "Run backup job as user 65535 (#1284)"
+            },
+            {
+              "SHA": "2379c0f8",
+              "Subject": "Fix secretTransformation for AppBinding (#1274)"
+            },
+            {
+              "SHA": "88c71b23",
+              "Subject": "Update repository config (#1285)"
+            },
+            {
+              "SHA": "0667b421",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1283)"
+            },
+            {
+              "SHA": "c01a1c95",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1277)"
+            },
+            {
+              "SHA": "e953c0af",
+              "Subject": "Use build, config, Kubernetes jobs for e2e workflow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
