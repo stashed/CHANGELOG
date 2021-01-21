@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.01.21",
-  "release_date": "2021-01-21T22:44:30.582760671Z",
+  "release_date": "2021-01-21T22:44:36.474009773Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.01.21",
   "kubernetes_version": "1.14+",
@@ -466,6 +466,47 @@
             {
               "SHA": "38d1a2e",
               "Subject": "[cherry-pick] Speed up schema generation process (#250) (#251)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v6",
+          "commits": [
+            {
+              "SHA": "239ab4b",
+              "Subject": "Prepare for release 8.0.3-v6 (#289)"
+            },
+            {
+              "SHA": "fb952a6",
+              "Subject": "/cherry-pick (#271) (#285)"
+            },
+            {
+              "SHA": "394a229",
+              "Subject": "[cherry-pick] Update repository config (#277) (#281)"
+            },
+            {
+              "SHA": "e8e2cf5",
+              "Subject": "[cherry-pick] Update repository config (#272) (#276)"
+            },
+            {
+              "SHA": "31a0894",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#266) (#270)"
+            },
+            {
+              "SHA": "2b7e67b",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#262) (#265)"
+            },
+            {
+              "SHA": "ca0a700",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#258) (#261)"
+            },
+            {
+              "SHA": "e7135de",
+              "Subject": "[cherry-pick] Generate README.md using templates (#254) (#257)"
+            },
+            {
+              "SHA": "6cf15c3",
+              "Subject": "[cherry-pick] Speed up schema generation process (#250) (#253)"
             }
           ]
         },
