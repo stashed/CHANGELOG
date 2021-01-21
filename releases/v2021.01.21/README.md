@@ -171,6 +171,10 @@
 - [e96a04e](https://github.com/stashed/mysql/commit/e96a04e) [cherry-pick] Speed up schema generation process (#250) (#252)
 
 
+### [8.0.21](https://github.com/stashed/mysql/releases/tag/8.0.21)
+
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
