@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.01.21",
-  "release_date": "2021-01-21T21:36:39.857986742Z",
+  "release_date": "2021-01-21T21:48:33.788185159Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.01.21",
   "kubernetes_version": "1.14+",
@@ -31,6 +31,40 @@
             {
               "SHA": "04f9e8bf",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.9",
+          "commits": [
+            {
+              "SHA": "fbc144b7",
+              "Subject": "Prepare for release v0.11.9 (#1300)"
+            },
+            {
+              "SHA": "7a2ee50c",
+              "Subject": "Update repository config (#1299)"
+            },
+            {
+              "SHA": "597cd6b2",
+              "Subject": "Update repository config (#1298)"
+            },
+            {
+              "SHA": "182d5ebf",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1295)"
+            },
+            {
+              "SHA": "a225db0c",
+              "Subject": "Update portforwarding api (#1294)"
+            },
+            {
+              "SHA": "398ffd1e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1293)"
             }
           ]
         }

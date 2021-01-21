@@ -13,3 +13,16 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.11.9](https://github.com/stashed/stash/releases/tag/v0.11.9)
+
+- [fbc144b7](https://github.com/stashed/stash/commit/fbc144b7) Prepare for release v0.11.9 (#1300)
+- [7a2ee50c](https://github.com/stashed/stash/commit/7a2ee50c) Update repository config (#1299)
+- [597cd6b2](https://github.com/stashed/stash/commit/597cd6b2) Update repository config (#1298)
+- [182d5ebf](https://github.com/stashed/stash/commit/182d5ebf) Update Kubernetes v1.18.9 dependencies (#1295)
+- [a225db0c](https://github.com/stashed/stash/commit/a225db0c) Update portforwarding api (#1294)
+- [398ffd1e](https://github.com/stashed/stash/commit/398ffd1e) Update Kubernetes v1.18.9 dependencies (#1293)
+
+
+
