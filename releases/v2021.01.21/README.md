@@ -143,6 +143,22 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v6](https://github.com/stashed/mysql/releases/tag/5.7.25-v6)
+
+- [a323265](https://github.com/stashed/mysql/commit/a323265) Prepare for release 5.7.25-v6 (#286)
+- [28fc525](https://github.com/stashed/mysql/commit/28fc525) [cherry-pick] /cherry-pick (#271) (#282)
+- [8eff987](https://github.com/stashed/mysql/commit/8eff987) [cherry-pick] Update repository config (#277) (#278)
+- [8c431a1](https://github.com/stashed/mysql/commit/8c431a1) [cherry-pick] Update repository config (#272) (#273)
+- [90540fe](https://github.com/stashed/mysql/commit/90540fe) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#266) (#267)
+- [75adb40](https://github.com/stashed/mysql/commit/75adb40) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#262) (#263)
+- [8a6631c](https://github.com/stashed/mysql/commit/8a6631c) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#258) (#259)
+- [c89196d](https://github.com/stashed/mysql/commit/c89196d) [cherry-pick] Generate README.md using templates (#254) (#255)
+- [38d1a2e](https://github.com/stashed/mysql/commit/38d1a2e) [cherry-pick] Speed up schema generation process (#250) (#251)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.11.9](https://github.com/stashed/stash/releases/tag/v0.11.9)
