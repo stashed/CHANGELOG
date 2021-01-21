@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.01.21",
-  "release_date": "2021-01-21T22:13:26.356951848Z",
+  "release_date": "2021-01-21T22:28:59.467524949Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.01.21",
   "kubernetes_version": "1.14+",
@@ -87,6 +87,52 @@
             {
               "SHA": "626d3ba",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v6",
+          "commits": [
+            {
+              "SHA": "08922c3",
+              "Subject": "Prepare for release 5.6.4-v6 (#579)"
+            },
+            {
+              "SHA": "069a5ab",
+              "Subject": "[cherry-pick] Update repository config (#570) (#571)"
+            },
+            {
+              "SHA": "0d4ced1",
+              "Subject": "[cherry-pick] Update repository config (#561) (#562)"
+            },
+            {
+              "SHA": "ac1bcc6",
+              "Subject": "[cherry-pick] Use node:14-alpine as base image (#552) (#553)"
+            },
+            {
+              "SHA": "0dab1a8",
+              "Subject": "[cherry-pick] Use BasicAuth Keys for reading credentials from secret (#543) (#544)"
+            },
+            {
+              "SHA": "34d300d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#534) (#535)"
+            },
+            {
+              "SHA": "0343edd",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#525) (#526)"
+            },
+            {
+              "SHA": "11fa1fd",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#516) (#517)"
+            },
+            {
+              "SHA": "b7777f3",
+              "Subject": "[cherry-pick] Speed up schema generation process (#507) (#508)"
             }
           ]
         }
