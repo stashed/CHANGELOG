@@ -143,6 +143,16 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.11.9](https://github.com/stashed/installer/releases/tag/v0.11.9)
+
+- [297af47](https://github.com/stashed/installer/commit/297af47) Prepare for release v0.11.9 (#135)
+- [9182697](https://github.com/stashed/installer/commit/9182697) Use kmodules.xyz/schema-checker to validate values schema (#134)
+- [7b2f051](https://github.com/stashed/installer/commit/7b2f051) Update repository config (#133)
+
+
+
 ## [stashed/mysql](https://github.com/stashed/mysql)
 
 ### [5.7.25-v6](https://github.com/stashed/mysql/releases/tag/5.7.25-v6)

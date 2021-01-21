@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.01.21",
-  "release_date": "2021-01-21T22:44:36.474009773Z",
+  "release_date": "2021-01-21T22:55:56.06393139Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.01.21",
   "kubernetes_version": "1.14+",
@@ -420,6 +420,28 @@
             {
               "SHA": "4eb60cb",
               "Subject": "[cherry-pick] Speed up schema generation process (#507) (#515)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.11.9",
+          "commits": [
+            {
+              "SHA": "297af47",
+              "Subject": "Prepare for release v0.11.9 (#135)"
+            },
+            {
+              "SHA": "9182697",
+              "Subject": "Use kmodules.xyz/schema-checker to validate values schema (#134)"
+            },
+            {
+              "SHA": "7b2f051",
+              "Subject": "Update repository config (#133)"
             }
           ]
         }
