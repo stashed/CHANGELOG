@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.01.21",
-  "release_date": "2021-01-21T22:29:19.330462603Z",
+  "release_date": "2021-01-21T22:29:25.710484356Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.01.21",
   "kubernetes_version": "1.14+",
@@ -256,6 +256,47 @@
             {
               "SHA": "df6fd5c",
               "Subject": "[cherry-pick] Speed up schema generation process (#507) (#511)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v6",
+          "commits": [
+            {
+              "SHA": "0a497b5",
+              "Subject": "Prepare for release 6.5.3-v6 (#583)"
+            },
+            {
+              "SHA": "5bc7e7c",
+              "Subject": "[cherry-pick] Update repository config (#570) (#575)"
+            },
+            {
+              "SHA": "76e4df1",
+              "Subject": "[cherry-pick] Update repository config (#561) (#566)"
+            },
+            {
+              "SHA": "8fe2314",
+              "Subject": "[cherry-pick] Use node:14-alpine as base image (#552) (#557)"
+            },
+            {
+              "SHA": "20c0eda",
+              "Subject": "[cherry-pick] Use BasicAuth Keys for reading credentials from secret (#543) (#548)"
+            },
+            {
+              "SHA": "a567dc8",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#534) (#539)"
+            },
+            {
+              "SHA": "7d00d9c",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#525) (#530)"
+            },
+            {
+              "SHA": "28df759",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#516) (#521)"
+            },
+            {
+              "SHA": "287c59c",
+              "Subject": "[cherry-pick] Speed up schema generation process (#507) (#512)"
             }
           ]
         }
