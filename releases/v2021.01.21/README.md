@@ -77,6 +77,19 @@
 - [0f18d62](https://github.com/stashed/elasticsearch/commit/0f18d62) [cherry-pick] Speed up schema generation process (#507) (#510)
 
 
+### [6.4.0-v6](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v6)
+
+- [06e4dc6](https://github.com/stashed/elasticsearch/commit/06e4dc6) Prepare for release 6.4.0-v6 (#582)
+- [7eb1e44](https://github.com/stashed/elasticsearch/commit/7eb1e44) [cherry-pick] Update repository config (#570) (#574)
+- [30d0a80](https://github.com/stashed/elasticsearch/commit/30d0a80) [cherry-pick] Update repository config (#561) (#565)
+- [954e23a](https://github.com/stashed/elasticsearch/commit/954e23a) [cherry-pick] Use node:14-alpine as base image (#552) (#556)
+- [140abce](https://github.com/stashed/elasticsearch/commit/140abce) [cherry-pick] Use BasicAuth Keys for reading credentials from secret (#543) (#547)
+- [dfcd94b](https://github.com/stashed/elasticsearch/commit/dfcd94b) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#534) (#538)
+- [2eea2d2](https://github.com/stashed/elasticsearch/commit/2eea2d2) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#525) (#529)
+- [d73b741](https://github.com/stashed/elasticsearch/commit/d73b741) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#516) (#520)
+- [df6fd5c](https://github.com/stashed/elasticsearch/commit/df6fd5c) [cherry-pick] Speed up schema generation process (#507) (#511)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
