@@ -1,6 +1,16 @@
 # Stash v2021.01.21 (2021-01-21)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.11.9](https://github.com/appscode/stash-enterprise/releases/tag/v0.11.9)
+
+- [88d87727](https://github.com/appscode/stash-enterprise/commit/88d87727) Prepare for release v0.11.9 (#68)
+- [bb802f88](https://github.com/appscode/stash-enterprise/commit/bb802f88) Update repository config (#66)
+- [52c63a81](https://github.com/appscode/stash-enterprise/commit/52c63a81) Update portforwarding api (#64)
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.11.9](https://github.com/stashed/apimachinery/releases/tag/v0.11.9)
