@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.01.21",
-  "release_date": "2021-01-22T02:38:17.586751478Z",
+  "release_date": "2021-01-22T02:50:39.387293504Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.01.21",
   "kubernetes_version": "1.14+",
@@ -53,6 +53,24 @@
             {
               "SHA": "04f9e8bf",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.01.21",
+          "commits": [
+            {
+              "SHA": "8ebd91d",
+              "Subject": "Prepare for release v2021.01.21 (#34)"
+            },
+            {
+              "SHA": "c8be9a4",
+              "Subject": "Update repository config (#33)"
             }
           ]
         }
