@@ -1,0 +1,667 @@
+{
+  "product_line": "Stash",
+  "release": "v2021.01.21",
+  "release_date": "2021-01-22T02:50:39.387293504Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2021.01.21",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.11.9",
+          "commits": [
+            {
+              "SHA": "88d87727",
+              "Subject": "Prepare for release v0.11.9 (#68)"
+            },
+            {
+              "SHA": "bb802f88",
+              "Subject": "Update repository config (#66)"
+            },
+            {
+              "SHA": "52c63a81",
+              "Subject": "Update portforwarding api (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.9",
+          "commits": [
+            {
+              "SHA": "bb631c73",
+              "Subject": "Update repository config (#80)"
+            },
+            {
+              "SHA": "d8cd6413",
+              "Subject": "Update repository config (#79)"
+            },
+            {
+              "SHA": "0388c111",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#78)"
+            },
+            {
+              "SHA": "10606b14",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#77)"
+            },
+            {
+              "SHA": "04f9e8bf",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.01.21",
+          "commits": [
+            {
+              "SHA": "8ebd91d",
+              "Subject": "Prepare for release v2021.01.21 (#34)"
+            },
+            {
+              "SHA": "c8be9a4",
+              "Subject": "Update repository config (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/catalog",
+      "releases": [
+        {
+          "tag": "v2021.01.21",
+          "commits": [
+            {
+              "SHA": "9b678ea",
+              "Subject": "Prepare for release v2021.01.21 (#52)"
+            },
+            {
+              "SHA": "6a227fe",
+              "Subject": "Update repository config (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.11.9",
+          "commits": [
+            {
+              "SHA": "0551150",
+              "Subject": "Prepare for release v0.11.9 (#103)"
+            },
+            {
+              "SHA": "d6217c0",
+              "Subject": "Update repository config (#102)"
+            },
+            {
+              "SHA": "3998037",
+              "Subject": "Update repository config (#101)"
+            },
+            {
+              "SHA": "1ed5ff3",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#100)"
+            },
+            {
+              "SHA": "beccb98",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#99)"
+            },
+            {
+              "SHA": "626d3ba",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.01.21",
+          "commits": [
+            {
+              "SHA": "b16c948",
+              "Subject": "Prepare for release v2021.01.21 (#121)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v6",
+          "commits": [
+            {
+              "SHA": "08922c3",
+              "Subject": "Prepare for release 5.6.4-v6 (#579)"
+            },
+            {
+              "SHA": "069a5ab",
+              "Subject": "[cherry-pick] Update repository config (#570) (#571)"
+            },
+            {
+              "SHA": "0d4ced1",
+              "Subject": "[cherry-pick] Update repository config (#561) (#562)"
+            },
+            {
+              "SHA": "ac1bcc6",
+              "Subject": "[cherry-pick] Use node:14-alpine as base image (#552) (#553)"
+            },
+            {
+              "SHA": "0dab1a8",
+              "Subject": "[cherry-pick] Use BasicAuth Keys for reading credentials from secret (#543) (#544)"
+            },
+            {
+              "SHA": "34d300d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#534) (#535)"
+            },
+            {
+              "SHA": "0343edd",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#525) (#526)"
+            },
+            {
+              "SHA": "11fa1fd",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#516) (#517)"
+            },
+            {
+              "SHA": "b7777f3",
+              "Subject": "[cherry-pick] Speed up schema generation process (#507) (#508)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v6",
+          "commits": [
+            {
+              "SHA": "bf5a0fa",
+              "Subject": "Prepare for release 6.2.4-v6 (#580)"
+            },
+            {
+              "SHA": "9e6d280",
+              "Subject": "[cherry-pick] Update repository config (#570) (#572)"
+            },
+            {
+              "SHA": "df5cce2",
+              "Subject": "[cherry-pick] Update repository config (#561) (#563)"
+            },
+            {
+              "SHA": "b3d40ce",
+              "Subject": "[cherry-pick] Use node:14-alpine as base image (#552) (#554)"
+            },
+            {
+              "SHA": "70b5f27",
+              "Subject": "[cherry-pick] Use BasicAuth Keys for reading credentials from secret (#543) (#545)"
+            },
+            {
+              "SHA": "ec498f7",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#534) (#536)"
+            },
+            {
+              "SHA": "e819869",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#525) (#527)"
+            },
+            {
+              "SHA": "dfa8a1e",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#516) (#518)"
+            },
+            {
+              "SHA": "7e3f45c",
+              "Subject": "[cherry-pick] Speed up schema generation process (#507) (#509)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v6",
+          "commits": [
+            {
+              "SHA": "e3e1afa",
+              "Subject": "Prepare for release 6.3.0-v6 (#581)"
+            },
+            {
+              "SHA": "8c75683",
+              "Subject": "[cherry-pick] Update repository config (#570) (#573)"
+            },
+            {
+              "SHA": "31557a4",
+              "Subject": "[cherry-pick] Update repository config (#561) (#564)"
+            },
+            {
+              "SHA": "059f6ec",
+              "Subject": "[cherry-pick] Use node:14-alpine as base image (#552) (#555)"
+            },
+            {
+              "SHA": "87c4718",
+              "Subject": "[cherry-pick] Use BasicAuth Keys for reading credentials from secret (#543) (#546)"
+            },
+            {
+              "SHA": "5cb8af6",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#534) (#537)"
+            },
+            {
+              "SHA": "6857924",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#525) (#528)"
+            },
+            {
+              "SHA": "4f4114f",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#516) (#519)"
+            },
+            {
+              "SHA": "0f18d62",
+              "Subject": "[cherry-pick] Speed up schema generation process (#507) (#510)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v6",
+          "commits": [
+            {
+              "SHA": "06e4dc6",
+              "Subject": "Prepare for release 6.4.0-v6 (#582)"
+            },
+            {
+              "SHA": "7eb1e44",
+              "Subject": "[cherry-pick] Update repository config (#570) (#574)"
+            },
+            {
+              "SHA": "30d0a80",
+              "Subject": "[cherry-pick] Update repository config (#561) (#565)"
+            },
+            {
+              "SHA": "954e23a",
+              "Subject": "[cherry-pick] Use node:14-alpine as base image (#552) (#556)"
+            },
+            {
+              "SHA": "140abce",
+              "Subject": "[cherry-pick] Use BasicAuth Keys for reading credentials from secret (#543) (#547)"
+            },
+            {
+              "SHA": "dfcd94b",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#534) (#538)"
+            },
+            {
+              "SHA": "2eea2d2",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#525) (#529)"
+            },
+            {
+              "SHA": "d73b741",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#516) (#520)"
+            },
+            {
+              "SHA": "df6fd5c",
+              "Subject": "[cherry-pick] Speed up schema generation process (#507) (#511)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v6",
+          "commits": [
+            {
+              "SHA": "0a497b5",
+              "Subject": "Prepare for release 6.5.3-v6 (#583)"
+            },
+            {
+              "SHA": "5bc7e7c",
+              "Subject": "[cherry-pick] Update repository config (#570) (#575)"
+            },
+            {
+              "SHA": "76e4df1",
+              "Subject": "[cherry-pick] Update repository config (#561) (#566)"
+            },
+            {
+              "SHA": "8fe2314",
+              "Subject": "[cherry-pick] Use node:14-alpine as base image (#552) (#557)"
+            },
+            {
+              "SHA": "20c0eda",
+              "Subject": "[cherry-pick] Use BasicAuth Keys for reading credentials from secret (#543) (#548)"
+            },
+            {
+              "SHA": "a567dc8",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#534) (#539)"
+            },
+            {
+              "SHA": "7d00d9c",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#525) (#530)"
+            },
+            {
+              "SHA": "28df759",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#516) (#521)"
+            },
+            {
+              "SHA": "287c59c",
+              "Subject": "[cherry-pick] Speed up schema generation process (#507) (#512)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v6",
+          "commits": [
+            {
+              "SHA": "0c64799",
+              "Subject": "Prepare for release 6.8.0-v6 (#584)"
+            },
+            {
+              "SHA": "da93602",
+              "Subject": "[cherry-pick] Update repository config (#570) (#576)"
+            },
+            {
+              "SHA": "197dd2f",
+              "Subject": "[cherry-pick] Update repository config (#561) (#567)"
+            },
+            {
+              "SHA": "abd7a78",
+              "Subject": "[cherry-pick] Use node:14-alpine as base image (#552) (#558)"
+            },
+            {
+              "SHA": "c942e6d",
+              "Subject": "[cherry-pick] Use BasicAuth Keys for reading credentials from secret (#543) (#549)"
+            },
+            {
+              "SHA": "847e41d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#534) (#540)"
+            },
+            {
+              "SHA": "146df5e",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#525) (#531)"
+            },
+            {
+              "SHA": "74ebe8f",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#516) (#522)"
+            },
+            {
+              "SHA": "382939e",
+              "Subject": "[cherry-pick] Speed up schema generation process (#507) (#513)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v6",
+          "commits": [
+            {
+              "SHA": "0e6c708",
+              "Subject": "Prepare for release 7.2.0-v6 (#585)"
+            },
+            {
+              "SHA": "0da54b1",
+              "Subject": "[cherry-pick] Update repository config (#570) (#577)"
+            },
+            {
+              "SHA": "0818310",
+              "Subject": "[cherry-pick] Update repository config (#561) (#568)"
+            },
+            {
+              "SHA": "cd2f4e8",
+              "Subject": "[cherry-pick] Use node:14-alpine as base image (#552) (#559)"
+            },
+            {
+              "SHA": "803f2bc",
+              "Subject": "[cherry-pick] Use BasicAuth Keys for reading credentials from secret (#543) (#550)"
+            },
+            {
+              "SHA": "1ed55e0",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#534) (#541)"
+            },
+            {
+              "SHA": "6e65169",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#525) (#532)"
+            },
+            {
+              "SHA": "6ba13ae",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#516) (#523)"
+            },
+            {
+              "SHA": "c37730e",
+              "Subject": "[cherry-pick] Speed up schema generation process (#507) (#514)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v6",
+          "commits": [
+            {
+              "SHA": "2767117",
+              "Subject": "Prepare for release 7.3.2-v6 (#586)"
+            },
+            {
+              "SHA": "ce0a302",
+              "Subject": "[cherry-pick] Update repository config (#570) (#578)"
+            },
+            {
+              "SHA": "01aefe2",
+              "Subject": "[cherry-pick] Update repository config (#561) (#569)"
+            },
+            {
+              "SHA": "3b50d61",
+              "Subject": "[cherry-pick] Use node:14-alpine as base image (#552) (#560)"
+            },
+            {
+              "SHA": "b7525e1",
+              "Subject": "[cherry-pick] Use BasicAuth Keys for reading credentials from secret (#543) (#551)"
+            },
+            {
+              "SHA": "68591ee",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#534) (#542)"
+            },
+            {
+              "SHA": "a14eb3e",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#525) (#533)"
+            },
+            {
+              "SHA": "ef63f91",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#516) (#524)"
+            },
+            {
+              "SHA": "4eb60cb",
+              "Subject": "[cherry-pick] Speed up schema generation process (#507) (#515)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.11.9",
+          "commits": [
+            {
+              "SHA": "297af47",
+              "Subject": "Prepare for release v0.11.9 (#135)"
+            },
+            {
+              "SHA": "9182697",
+              "Subject": "Use kmodules.xyz/schema-checker to validate values schema (#134)"
+            },
+            {
+              "SHA": "7b2f051",
+              "Subject": "Update repository config (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v6",
+          "commits": [
+            {
+              "SHA": "a323265",
+              "Subject": "Prepare for release 5.7.25-v6 (#286)"
+            },
+            {
+              "SHA": "28fc525",
+              "Subject": "[cherry-pick] /cherry-pick (#271) (#282)"
+            },
+            {
+              "SHA": "8eff987",
+              "Subject": "[cherry-pick] Update repository config (#277) (#278)"
+            },
+            {
+              "SHA": "8c431a1",
+              "Subject": "[cherry-pick] Update repository config (#272) (#273)"
+            },
+            {
+              "SHA": "90540fe",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#266) (#267)"
+            },
+            {
+              "SHA": "75adb40",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#262) (#263)"
+            },
+            {
+              "SHA": "8a6631c",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#258) (#259)"
+            },
+            {
+              "SHA": "c89196d",
+              "Subject": "[cherry-pick] Generate README.md using templates (#254) (#255)"
+            },
+            {
+              "SHA": "38d1a2e",
+              "Subject": "[cherry-pick] Speed up schema generation process (#250) (#251)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v6",
+          "commits": [
+            {
+              "SHA": "239ab4b",
+              "Subject": "Prepare for release 8.0.3-v6 (#289)"
+            },
+            {
+              "SHA": "fb952a6",
+              "Subject": "/cherry-pick (#271) (#285)"
+            },
+            {
+              "SHA": "394a229",
+              "Subject": "[cherry-pick] Update repository config (#277) (#281)"
+            },
+            {
+              "SHA": "e8e2cf5",
+              "Subject": "[cherry-pick] Update repository config (#272) (#276)"
+            },
+            {
+              "SHA": "31a0894",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#266) (#270)"
+            },
+            {
+              "SHA": "2b7e67b",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#262) (#265)"
+            },
+            {
+              "SHA": "ca0a700",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#258) (#261)"
+            },
+            {
+              "SHA": "e7135de",
+              "Subject": "[cherry-pick] Generate README.md using templates (#254) (#257)"
+            },
+            {
+              "SHA": "6cf15c3",
+              "Subject": "[cherry-pick] Speed up schema generation process (#250) (#253)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v6",
+          "commits": [
+            {
+              "SHA": "80103d0",
+              "Subject": "Prepare for release 8.0.14-v6 (#287)"
+            },
+            {
+              "SHA": "1ba0074",
+              "Subject": "[cherry-pick] /cherry-pick (#271) (#283)"
+            },
+            {
+              "SHA": "d63cbc1",
+              "Subject": "[cherry-pick] Update repository config (#277) (#279)"
+            },
+            {
+              "SHA": "9fb2be6",
+              "Subject": "[cherry-pick] Update repository config (#272) (#274)"
+            },
+            {
+              "SHA": "9170a97",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#266) (#268)"
+            },
+            {
+              "SHA": "44f99e9",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#262) (#264)"
+            },
+            {
+              "SHA": "52ffb49",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#258) (#260)"
+            },
+            {
+              "SHA": "5979f66",
+              "Subject": "[cherry-pick] Generate README.md using templates (#254) (#256)"
+            },
+            {
+              "SHA": "e96a04e",
+              "Subject": "[cherry-pick] Speed up schema generation process (#250) (#252)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.9",
+          "commits": [
+            {
+              "SHA": "fbc144b7",
+              "Subject": "Prepare for release v0.11.9 (#1300)"
+            },
+            {
+              "SHA": "7a2ee50c",
+              "Subject": "Update repository config (#1299)"
+            },
+            {
+              "SHA": "597cd6b2",
+              "Subject": "Update repository config (#1298)"
+            },
+            {
+              "SHA": "182d5ebf",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1295)"
+            },
+            {
+              "SHA": "a225db0c",
+              "Subject": "Update portforwarding api (#1294)"
+            },
+            {
+              "SHA": "398ffd1e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1293)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
