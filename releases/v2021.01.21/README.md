@@ -1,4 +1,4 @@
-# Stash v2021.01.21 (2021-01-21)
+# Stash v2021.01.21 (2021-01-22)
 
 
 ## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
@@ -20,6 +20,15 @@
 - [0388c111](https://github.com/stashed/apimachinery/commit/0388c111) Update Kubernetes v1.18.9 dependencies (#78)
 - [10606b14](https://github.com/stashed/apimachinery/commit/10606b14) Update Kubernetes v1.18.9 dependencies (#77)
 - [04f9e8bf](https://github.com/stashed/apimachinery/commit/04f9e8bf) Update Kubernetes v1.18.9 dependencies (#76)
+
+
+
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2021.01.21](https://github.com/stashed/catalog/releases/tag/v2021.01.21)
+
+- [9b678ea](https://github.com/stashed/catalog/commit/9b678ea) Prepare for release v2021.01.21 (#52)
+- [6a227fe](https://github.com/stashed/catalog/commit/6a227fe) Update repository config (#51)
 
 
 
