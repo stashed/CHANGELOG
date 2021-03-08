@@ -1,0 +1,72 @@
+{
+  "product_line": "Stash",
+  "release": "v2021.03.08",
+  "release_date": "2021-03-08T18:46:52.604023878Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2021.03.08",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.11.10",
+          "commits": [
+            {
+              "SHA": "224ba637",
+              "Subject": "Use import-crds script (#95)"
+            },
+            {
+              "SHA": "96a42481",
+              "Subject": "Add helper function to extract addon info from AppBinding (#94)"
+            },
+            {
+              "SHA": "08e07356",
+              "Subject": "Update repository config (#93)"
+            },
+            {
+              "SHA": "6a253c41",
+              "Subject": "Generate crd yaml for Snapshot (#92)"
+            },
+            {
+              "SHA": "c403645d",
+              "Subject": "verify-gen before verify-modules (#90)"
+            },
+            {
+              "SHA": "b3a033ea",
+              "Subject": "Make pipe commands a array + fix output parsing of cleanup command (#87)"
+            },
+            {
+              "SHA": "896c3ef5",
+              "Subject": "Revendor kmodules.xyz/custom-resources"
+            },
+            {
+              "SHA": "f29b2219",
+              "Subject": "Update crd-importer command"
+            },
+            {
+              "SHA": "b39a182f",
+              "Subject": "Update repository config (#86)"
+            },
+            {
+              "SHA": "680c4df3",
+              "Subject": "Use restic 0.12.0 (#84)"
+            },
+            {
+              "SHA": "78134f02",
+              "Subject": "Update crds via GitHub actions (#83)"
+            },
+            {
+              "SHA": "a828a28e",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#82)"
+            },
+            {
+              "SHA": "456e1a20",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#81)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
