@@ -278,6 +278,25 @@
 - [2628b661](https://github.com/stashed/mongodb/commit/2628b661) [cherry-pick] Speed up schema generation process (#663) (#666)
 
 
+### [4.0.3-v6](https://github.com/stashed/mongodb/releases/tag/4.0.3-v6)
+
+- [c4d3534d](https://github.com/stashed/mongodb/commit/c4d3534d) Prepare for release 4.0.3-v6 (#848)
+- [ba7946f5](https://github.com/stashed/mongodb/commit/ba7946f5) [cherry-pick] Support multiple commands in backup/restore pipeline (#823) (#829)
+- [cdf8c4ec](https://github.com/stashed/mongodb/commit/cdf8c4ec) Update repository config (#809) (#815)
+- [d33cb16d](https://github.com/stashed/mongodb/commit/d33cb16d) Use restic 0.12.0 (#799) (#805)
+- [6695c171](https://github.com/stashed/mongodb/commit/6695c171) Update Kubernetes v1.18.9 dependencies (#788) (#794)
+- [7a7ef475](https://github.com/stashed/mongodb/commit/7a7ef475) [cherry-pick] Check codespan schema (#776) (#782)
+- [3ed7924b](https://github.com/stashed/mongodb/commit/3ed7924b) [cherry-pick] Update repository config (#751) (#757)
+- [dc8f11da](https://github.com/stashed/mongodb/commit/dc8f11da) [cherry-pick] Update repository config (#742) (#745)
+- [b5cee38e](https://github.com/stashed/mongodb/commit/b5cee38e) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#730) (#736)
+- [92fc2ef0](https://github.com/stashed/mongodb/commit/92fc2ef0) [cherry-pick] Update repository config (#723) (#729)
+- [0a722b53](https://github.com/stashed/mongodb/commit/0a722b53) [cherry-pick] Update repository config (#711) (#717)
+- [6487d000](https://github.com/stashed/mongodb/commit/6487d000) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#699) (#705)
+- [02b8fa07](https://github.com/stashed/mongodb/commit/02b8fa07) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#687) (#693)
+- [90d43ee5](https://github.com/stashed/mongodb/commit/90d43ee5) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#675) (#681)
+- [296e3e78](https://github.com/stashed/mongodb/commit/296e3e78) [cherry-pick] Speed up schema generation process (#663) (#669)
+
+
 ### [4.0.11-v6](https://github.com/stashed/mongodb/releases/tag/4.0.11-v6)
 
 - [42b8d5b5](https://github.com/stashed/mongodb/commit/42b8d5b5) Prepare for release 4.0.11-v6 (#847)
