@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.08",
-  "release_date": "2021-03-08T23:26:45.19735099Z",
+  "release_date": "2021-03-08T23:26:48.485072667Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.08",
   "kubernetes_version": "1.14+",
@@ -1283,6 +1283,71 @@
             {
               "SHA": "ed17070e",
               "Subject": "[cherry-pick] Speed up schema generation process (#663) (#671)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v6",
+          "commits": [
+            {
+              "SHA": "c9fe7d9a",
+              "Subject": "Prepare for release 4.2.3-v6 (#853)"
+            },
+            {
+              "SHA": "76b6c898",
+              "Subject": "[cherry-pick] Update repository config (#834) (#841)"
+            },
+            {
+              "SHA": "f1f64838",
+              "Subject": "Support multiple commands in backup/restore pipeline (#823) (#842)"
+            },
+            {
+              "SHA": "a12d4baf",
+              "Subject": "Update repository config (#809) (#820)"
+            },
+            {
+              "SHA": "4fb8b170",
+              "Subject": "Use restic 0.12.0 (#799) (#807)"
+            },
+            {
+              "SHA": "46f2effa",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#788) (#798)"
+            },
+            {
+              "SHA": "e10f42bf",
+              "Subject": "[cherry-pick] Check codespan schema (#776) (#787)"
+            },
+            {
+              "SHA": "8c09902f",
+              "Subject": "[cherry-pick] Update repository config (#751) (#762)"
+            },
+            {
+              "SHA": "0cc4c0bf",
+              "Subject": "[cherry-pick] Update repository config (#742) (#750)"
+            },
+            {
+              "SHA": "08f5ff3b",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#730) (#741)"
+            },
+            {
+              "SHA": "78a92f84",
+              "Subject": "[cherry-pick] Update repository config (#711) (#722)"
+            },
+            {
+              "SHA": "705dc0f9",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#699) (#710)"
+            },
+            {
+              "SHA": "08aecd88",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#687) (#698)"
+            },
+            {
+              "SHA": "c7f8715b",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#675) (#686)"
+            },
+            {
+              "SHA": "8d3f3e59",
+              "Subject": "[cherry-pick] Speed up schema generation process (#663) (#674)"
             }
           ]
         }
