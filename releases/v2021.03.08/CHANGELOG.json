@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.08",
-  "release_date": "2021-03-08T23:26:48.485072667Z",
+  "release_date": "2021-03-08T23:40:56.99302205Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.08",
   "kubernetes_version": "1.14+",
@@ -1348,6 +1348,60 @@
             {
               "SHA": "8d3f3e59",
               "Subject": "[cherry-pick] Speed up schema generation process (#663) (#674)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v7",
+          "commits": [
+            {
+              "SHA": "8a1ee71",
+              "Subject": "Prepare for release 5.7.25-v7 (#349)"
+            },
+            {
+              "SHA": "366167a",
+              "Subject": "[cherry-pick] Update repository config (#344) (#345)"
+            },
+            {
+              "SHA": "96f4404",
+              "Subject": "[cherry-pick] Support multiple commands in backup/restore pipeline (#335) (#340)"
+            },
+            {
+              "SHA": "02a3750",
+              "Subject": "[cherry-pick] Add TLS support for backup and Restore (#328) (#336)"
+            },
+            {
+              "SHA": "e8c8781",
+              "Subject": "Update repository config (#327) (#329)"
+            },
+            {
+              "SHA": "864ba45",
+              "Subject": "Use restic 0.12.0 (#321) (#322)"
+            },
+            {
+              "SHA": "5b26633",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#316) (#317)"
+            },
+            {
+              "SHA": "b17c4b4",
+              "Subject": "[cherry-pick] Check codespan schema (#312) (#313)"
+            },
+            {
+              "SHA": "bd1460c",
+              "Subject": "[cherry-pick] Update repository config (#301) (#302)"
+            },
+            {
+              "SHA": "4a19d88",
+              "Subject": "[cherry-pick] Update repository config (#296) (#297)"
+            },
+            {
+              "SHA": "2e1a630",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#292)"
             }
           ]
         }
