@@ -222,6 +222,25 @@
 - [a457ccd6](https://github.com/stashed/mongodb/commit/a457ccd6) [cherry-pick] Speed up schema generation process (#663) (#664)
 
 
+### [3.4.22-v6](https://github.com/stashed/mongodb/releases/tag/3.4.22-v6)
+
+- [cb42eb68](https://github.com/stashed/mongodb/commit/cb42eb68) Prepare for release 3.4.22-v6 (#844)
+- [bf775397](https://github.com/stashed/mongodb/commit/bf775397) [cherry-pick] Update repository config (#834) (#836)
+- [bf74b479](https://github.com/stashed/mongodb/commit/bf74b479) [cherry-pick] Support multiple commands in backup/restore pipeline (#823) (#825)
+- [f00814d0](https://github.com/stashed/mongodb/commit/f00814d0) Update repository config (#809) (#811)
+- [892cdd6e](https://github.com/stashed/mongodb/commit/892cdd6e) Use restic 0.12.0 (#799) (#801)
+- [226e63ed](https://github.com/stashed/mongodb/commit/226e63ed) Update Kubernetes v1.18.9 dependencies (#788) (#790)
+- [a2278585](https://github.com/stashed/mongodb/commit/a2278585) [cherry-pick] Check codespan schema (#776) (#778)
+- [9ad4d52e](https://github.com/stashed/mongodb/commit/9ad4d52e) [cherry-pick] Update repository config (#751) (#753)
+- [84f82ec0](https://github.com/stashed/mongodb/commit/84f82ec0) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#730) (#732)
+- [df61f073](https://github.com/stashed/mongodb/commit/df61f073) [cherry-pick] Update repository config (#723) (#725)
+- [5fa8af10](https://github.com/stashed/mongodb/commit/5fa8af10) [cherry-pick] Update repository config (#711) (#713)
+- [3daa60e9](https://github.com/stashed/mongodb/commit/3daa60e9) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#699) (#701)
+- [5179d087](https://github.com/stashed/mongodb/commit/5179d087) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#687) (#689)
+- [183c0a71](https://github.com/stashed/mongodb/commit/183c0a71) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#675) (#677)
+- [ab565586](https://github.com/stashed/mongodb/commit/ab565586) [cherry-pick] Speed up schema generation process (#663) (#665)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
