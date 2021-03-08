@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.08",
-  "release_date": "2021-03-08T20:29:28.213226419Z",
+  "release_date": "2021-03-08T20:29:31.693444817Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.08",
   "kubernetes_version": "1.14+",
@@ -343,6 +343,67 @@
             {
               "SHA": "eacda9a1",
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#588) (#591)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v7",
+          "commits": [
+            {
+              "SHA": "5ed94a48",
+              "Subject": "Prepare for release 6.4.0-v7 (#711)"
+            },
+            {
+              "SHA": "35fd1f71",
+              "Subject": "Fix Makefile (#699) (#703)"
+            },
+            {
+              "SHA": "46e0fabb",
+              "Subject": "Ignore 404 status code when listing legacy templates (#690) (#694)"
+            },
+            {
+              "SHA": "9da39aeb",
+              "Subject": "Quote password in authFile (#689)"
+            },
+            {
+              "SHA": "3fb2bd21",
+              "Subject": "[cherry-pick] Update repository config (#674) (#678)"
+            },
+            {
+              "SHA": "e70e0656",
+              "Subject": "[cherry-pick] Update documentation for KubeDB v1alpha2 (#616) (#669)"
+            },
+            {
+              "SHA": "cd226d80",
+              "Subject": "Use auth-file for authentication (#615) (#661)"
+            },
+            {
+              "SHA": "edf5ba72",
+              "Subject": "Update repository config (#648) (#652)"
+            },
+            {
+              "SHA": "3d3e99a1",
+              "Subject": "Use restic 0.12.0 (#642) (#646)"
+            },
+            {
+              "SHA": "0787f7f2",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#633) (#637)"
+            },
+            {
+              "SHA": "0dafdc7a",
+              "Subject": "[cherry-pick] Check codespan schema (#625) (#628)"
+            },
+            {
+              "SHA": "54d3204e",
+              "Subject": "[cherry-pick] Update repository config (#606) (#610)"
+            },
+            {
+              "SHA": "66df46bd",
+              "Subject": "[cherry-pick] Update repository config (#597) (#601)"
+            },
+            {
+              "SHA": "c962f800",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#588) (#592)"
             }
           ]
         }

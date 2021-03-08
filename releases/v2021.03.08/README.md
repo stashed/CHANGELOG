@@ -109,6 +109,24 @@
 - [eacda9a1](https://github.com/stashed/elasticsearch/commit/eacda9a1) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#588) (#591)
 
 
+### [6.4.0-v7](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v7)
+
+- [5ed94a48](https://github.com/stashed/elasticsearch/commit/5ed94a48) Prepare for release 6.4.0-v7 (#711)
+- [35fd1f71](https://github.com/stashed/elasticsearch/commit/35fd1f71) Fix Makefile (#699) (#703)
+- [46e0fabb](https://github.com/stashed/elasticsearch/commit/46e0fabb) Ignore 404 status code when listing legacy templates (#690) (#694)
+- [9da39aeb](https://github.com/stashed/elasticsearch/commit/9da39aeb) Quote password in authFile (#689)
+- [3fb2bd21](https://github.com/stashed/elasticsearch/commit/3fb2bd21) [cherry-pick] Update repository config (#674) (#678)
+- [e70e0656](https://github.com/stashed/elasticsearch/commit/e70e0656) [cherry-pick] Update documentation for KubeDB v1alpha2 (#616) (#669)
+- [cd226d80](https://github.com/stashed/elasticsearch/commit/cd226d80) Use auth-file for authentication (#615) (#661)
+- [edf5ba72](https://github.com/stashed/elasticsearch/commit/edf5ba72) Update repository config (#648) (#652)
+- [3d3e99a1](https://github.com/stashed/elasticsearch/commit/3d3e99a1) Use restic 0.12.0 (#642) (#646)
+- [0787f7f2](https://github.com/stashed/elasticsearch/commit/0787f7f2) Update Kubernetes v1.18.9 dependencies (#633) (#637)
+- [0dafdc7a](https://github.com/stashed/elasticsearch/commit/0dafdc7a) [cherry-pick] Check codespan schema (#625) (#628)
+- [54d3204e](https://github.com/stashed/elasticsearch/commit/54d3204e) [cherry-pick] Update repository config (#606) (#610)
+- [66df46bd](https://github.com/stashed/elasticsearch/commit/66df46bd) [cherry-pick] Update repository config (#597) (#601)
+- [c962f800](https://github.com/stashed/elasticsearch/commit/c962f800) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#588) (#592)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
