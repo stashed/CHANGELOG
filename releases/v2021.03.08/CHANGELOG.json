@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.08",
-  "release_date": "2021-03-08T23:41:04.547914398Z",
+  "release_date": "2021-03-08T23:41:08.31327303Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.08",
   "kubernetes_version": "1.14+",
@@ -1402,6 +1402,51 @@
             {
               "SHA": "2e1a630",
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#292)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v7",
+          "commits": [
+            {
+              "SHA": "8a5311d",
+              "Subject": "Prepare for release 8.0.3-v7 (#352)"
+            },
+            {
+              "SHA": "60a0157",
+              "Subject": "[cherry-pick] Update repository config (#344) (#348)"
+            },
+            {
+              "SHA": "a0e9506",
+              "Subject": "[cherry-pick] Support multiple commands in backup/restore pipeline (#335) (#343)"
+            },
+            {
+              "SHA": "f4a09d8",
+              "Subject": "[cherry-pick] Add TLS support for backup and Restore (#328) (#339)"
+            },
+            {
+              "SHA": "271db44",
+              "Subject": "Update repository config (#327) (#332)"
+            },
+            {
+              "SHA": "1af5d1b",
+              "Subject": "Use restic 0.12.0 (#321) (#325)"
+            },
+            {
+              "SHA": "3c6d8f7",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#316) (#320)"
+            },
+            {
+              "SHA": "dbd0d49",
+              "Subject": "[cherry-pick] Update repository config (#301) (#305)"
+            },
+            {
+              "SHA": "889711e",
+              "Subject": "[cherry-pick] Update repository config (#296) (#300)"
+            },
+            {
+              "SHA": "1418e6d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#295)"
             }
           ]
         },
