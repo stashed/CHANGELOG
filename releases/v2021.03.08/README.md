@@ -21,3 +21,23 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.11.10](https://github.com/stashed/stash/releases/tag/v0.11.10)
+
+- [cd515d79](https://github.com/stashed/stash/commit/cd515d79) Prepare for release v0.11.10 (#1327)
+- [34f6576e](https://github.com/stashed/stash/commit/34f6576e) Delete ClusterRoleBinding when backup/restore invoker is removed (#1326)
+- [23c25326](https://github.com/stashed/stash/commit/23c25326) Use addon info from AppBinding for KubeDB managed databases (#1325)
+- [99d6e168](https://github.com/stashed/stash/commit/99d6e168) Update repository config (#1323)
+- [14a940fb](https://github.com/stashed/stash/commit/14a940fb) Update repository config (#1321)
+- [0338a91d](https://github.com/stashed/stash/commit/0338a91d) Update Kubernetes v1.18.9 dependencies (#1319)
+- [b9063896](https://github.com/stashed/stash/commit/b9063896) Enable running as a kubedb extension
+- [79240c53](https://github.com/stashed/stash/commit/79240c53) Use restic 0.12.0 (#1318)
+- [7e0e2105](https://github.com/stashed/stash/commit/7e0e2105) Update Kubernetes v1.18.9 dependencies (#1317)
+- [757af516](https://github.com/stashed/stash/commit/757af516) Update Kubernetes v1.18.9 dependencies (#1314)
+- [f955eff8](https://github.com/stashed/stash/commit/f955eff8) Update repository config (#1305)
+- [e583607f](https://github.com/stashed/stash/commit/e583607f) Update repository config (#1304)
+- [ba70668b](https://github.com/stashed/stash/commit/ba70668b) Update Kubernetes v1.18.9 dependencies (#1301)
+
+
+

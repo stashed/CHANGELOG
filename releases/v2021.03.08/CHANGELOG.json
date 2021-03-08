@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.08",
-  "release_date": "2021-03-08T18:46:52.604023878Z",
+  "release_date": "2021-03-08T19:00:46.271823708Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.08",
   "kubernetes_version": "1.14+",
@@ -63,6 +63,68 @@
             {
               "SHA": "456e1a20",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.11.10",
+          "commits": [
+            {
+              "SHA": "cd515d79",
+              "Subject": "Prepare for release v0.11.10 (#1327)"
+            },
+            {
+              "SHA": "34f6576e",
+              "Subject": "Delete ClusterRoleBinding when backup/restore invoker is removed (#1326)"
+            },
+            {
+              "SHA": "23c25326",
+              "Subject": "Use addon info from AppBinding for KubeDB managed databases (#1325)"
+            },
+            {
+              "SHA": "99d6e168",
+              "Subject": "Update repository config (#1323)"
+            },
+            {
+              "SHA": "14a940fb",
+              "Subject": "Update repository config (#1321)"
+            },
+            {
+              "SHA": "0338a91d",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1319)"
+            },
+            {
+              "SHA": "b9063896",
+              "Subject": "Enable running as a kubedb extension"
+            },
+            {
+              "SHA": "79240c53",
+              "Subject": "Use restic 0.12.0 (#1318)"
+            },
+            {
+              "SHA": "7e0e2105",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1317)"
+            },
+            {
+              "SHA": "757af516",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1314)"
+            },
+            {
+              "SHA": "f955eff8",
+              "Subject": "Update repository config (#1305)"
+            },
+            {
+              "SHA": "e583607f",
+              "Subject": "Update repository config (#1304)"
+            },
+            {
+              "SHA": "ba70668b",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#1301)"
             }
           ]
         }
