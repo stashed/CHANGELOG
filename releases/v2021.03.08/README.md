@@ -297,6 +297,23 @@
 - [296e3e78](https://github.com/stashed/mongodb/commit/296e3e78) [cherry-pick] Speed up schema generation process (#663) (#669)
 
 
+### [4.0.5-v6](https://github.com/stashed/mongodb/releases/tag/4.0.5-v6)
+
+- [61478c2a](https://github.com/stashed/mongodb/commit/61478c2a) Prepare for release 4.0.5-v6 (#849)
+- [68a14362](https://github.com/stashed/mongodb/commit/68a14362) [cherry-pick] Support multiple commands in backup/restore pipeline (#823) (#830)
+- [44c65016](https://github.com/stashed/mongodb/commit/44c65016) Update repository config (#809) (#816)
+- [a86475a8](https://github.com/stashed/mongodb/commit/a86475a8) Update Kubernetes v1.18.9 dependencies (#788) (#795)
+- [c2bf2223](https://github.com/stashed/mongodb/commit/c2bf2223) [cherry-pick] Check codespan schema (#776) (#783)
+- [3f1e60bf](https://github.com/stashed/mongodb/commit/3f1e60bf) [cherry-pick] Update repository config (#751) (#758)
+- [917188b5](https://github.com/stashed/mongodb/commit/917188b5) [cherry-pick] Update repository config (#742) (#746)
+- [8ee922e7](https://github.com/stashed/mongodb/commit/8ee922e7) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#730) (#737)
+- [d5712991](https://github.com/stashed/mongodb/commit/d5712991) [cherry-pick] Update repository config (#711) (#718)
+- [d2c6e8a1](https://github.com/stashed/mongodb/commit/d2c6e8a1) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#699) (#706)
+- [9f99d7ed](https://github.com/stashed/mongodb/commit/9f99d7ed) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#687) (#694)
+- [ba5273b3](https://github.com/stashed/mongodb/commit/ba5273b3) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#675) (#682)
+- [be53a7ba](https://github.com/stashed/mongodb/commit/be53a7ba) [cherry-pick] Speed up schema generation process (#663) (#670)
+
+
 ### [4.0.11-v6](https://github.com/stashed/mongodb/releases/tag/4.0.11-v6)
 
 - [42b8d5b5](https://github.com/stashed/mongodb/commit/42b8d5b5) Prepare for release 4.0.11-v6 (#847)
