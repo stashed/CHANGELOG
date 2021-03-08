@@ -424,6 +424,21 @@
 - [2e1a630](https://github.com/stashed/mysql/commit/2e1a630) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#292)
 
 
+### [8.0.14-v7](https://github.com/stashed/mysql/releases/tag/8.0.14-v7)
+
+- [a38a02b](https://github.com/stashed/mysql/commit/a38a02b) Prepare for release 8.0.14-v7 (#350)
+- [b4091b6](https://github.com/stashed/mysql/commit/b4091b6) [cherry-pick] Update repository config (#344) (#346)
+- [2218549](https://github.com/stashed/mysql/commit/2218549) [cherry-pick] Support multiple commands in backup/restore pipeline (#335) (#341)
+- [5e38d81](https://github.com/stashed/mysql/commit/5e38d81) [cherry-pick] Add TLS support for backup and Restore (#328) (#337)
+- [431967e](https://github.com/stashed/mysql/commit/431967e) Update repository config (#327) (#330)
+- [d6adbb2](https://github.com/stashed/mysql/commit/d6adbb2) Use restic 0.12.0 (#321) (#323)
+- [d3cf790](https://github.com/stashed/mysql/commit/d3cf790) Update Kubernetes v1.18.9 dependencies (#316) (#318)
+- [5e2356e](https://github.com/stashed/mysql/commit/5e2356e) [cherry-pick] Check codespan schema (#312) (#314)
+- [bbbbc8e](https://github.com/stashed/mysql/commit/bbbbc8e) [cherry-pick] Update repository config (#301) (#303)
+- [00ddfb4](https://github.com/stashed/mysql/commit/00ddfb4) [cherry-pick] Update repository config (#296) (#298)
+- [08189bf](https://github.com/stashed/mysql/commit/08189bf) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#293)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
