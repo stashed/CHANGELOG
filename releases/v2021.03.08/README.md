@@ -200,6 +200,29 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v6](https://github.com/stashed/mongodb/releases/tag/3.4.17-v6)
+
+- [1d030cb5](https://github.com/stashed/mongodb/commit/1d030cb5) Prepare for release 3.4.17-v6 (#843)
+- [6aead6a1](https://github.com/stashed/mongodb/commit/6aead6a1) [cherry-pick] Update repository config (#834) (#835)
+- [605d610e](https://github.com/stashed/mongodb/commit/605d610e) [cherry-pick] Support multiple commands in backup/restore pipeline (#823) (#824)
+- [af2471a0](https://github.com/stashed/mongodb/commit/af2471a0) Update repository config (#809) (#810)
+- [834dd170](https://github.com/stashed/mongodb/commit/834dd170) Use restic 0.12.0 (#799) (#800)
+- [aa183f6d](https://github.com/stashed/mongodb/commit/aa183f6d) Update Kubernetes v1.18.9 dependencies (#788) (#789)
+- [69115627](https://github.com/stashed/mongodb/commit/69115627) [cherry-pick] Check codespan schema (#776) (#777)
+- [ea1b54f2](https://github.com/stashed/mongodb/commit/ea1b54f2) [cherry-pick] Update repository config (#751) (#752)
+- [a4a9dffe](https://github.com/stashed/mongodb/commit/a4a9dffe) [cherry-pick] Update repository config (#742) (#743)
+- [d7815dec](https://github.com/stashed/mongodb/commit/d7815dec) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#730) (#731)
+- [f2c6e6f2](https://github.com/stashed/mongodb/commit/f2c6e6f2) [cherry-pick] Update repository config (#723) (#724)
+- [739c59f8](https://github.com/stashed/mongodb/commit/739c59f8) [cherry-pick] Update repository config (#711) (#712)
+- [a8f735f3](https://github.com/stashed/mongodb/commit/a8f735f3) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#699) (#700)
+- [43bfddc1](https://github.com/stashed/mongodb/commit/43bfddc1) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#687) (#688)
+- [91b544ba](https://github.com/stashed/mongodb/commit/91b544ba) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#675) (#676)
+- [a457ccd6](https://github.com/stashed/mongodb/commit/a457ccd6) [cherry-pick] Speed up schema generation process (#663) (#664)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v5](https://github.com/stashed/postgres/releases/tag/9.6.19-v5)
