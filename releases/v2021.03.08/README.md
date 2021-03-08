@@ -127,6 +127,29 @@
 - [a5be3888](https://github.com/stashed/postgres/commit/a5be3888) [cherry-pick] Speed up schema generation process (#501) (#508)
 
 
+### [13.1.0-v2](https://github.com/stashed/postgres/releases/tag/13.1.0-v2)
+
+- [6c59e1eb](https://github.com/stashed/postgres/commit/6c59e1eb) Prepare for release 13.1.0-v2 (#719)
+- [be6c043a](https://github.com/stashed/postgres/commit/be6c043a) Fix Makefile (#705) (#713)
+- [8805ee06](https://github.com/stashed/postgres/commit/8805ee06) TLS support for postgres (#694) (#702)
+- [517a4e20](https://github.com/stashed/postgres/commit/517a4e20) [cherry-pick] Update repository config (#683) (#691)
+- [fc935ae7](https://github.com/stashed/postgres/commit/fc935ae7) Add auto-backup doc + Restructure docs (#618) (#680)
+- [ac84e6d3](https://github.com/stashed/postgres/commit/ac84e6d3) [cherry-pick] Don't overwrite superuser password of restored database (#660) (#670)
+- [6c195dfb](https://github.com/stashed/postgres/commit/6c195dfb) Update repository config (#649) (#657)
+- [ecd22af1](https://github.com/stashed/postgres/commit/ecd22af1) Use restic 0.12.0 (#637) (#645)
+- [3a1fe354](https://github.com/stashed/postgres/commit/3a1fe354) Update Kubernetes v1.18.9 dependencies (#626) (#634)
+- [c82407f8](https://github.com/stashed/postgres/commit/c82407f8) [cherry-pick] Update repository config (#600) (#608)
+- [6432d062](https://github.com/stashed/postgres/commit/6432d062) [cherry-pick] Update repository config (#589) (#597)
+- [2fe1bdf3](https://github.com/stashed/postgres/commit/2fe1bdf3) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#578) (#586)
+- [719fb462](https://github.com/stashed/postgres/commit/719fb462) [cherry-pick] Update repository config (#566) (#574)
+- [45871d26](https://github.com/stashed/postgres/commit/45871d26) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#555) (#563)
+- [ecd689c8](https://github.com/stashed/postgres/commit/ecd689c8) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#544) (#552)
+- [ad7687a2](https://github.com/stashed/postgres/commit/ad7687a2) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#534) (#542)
+- [53fdf211](https://github.com/stashed/postgres/commit/53fdf211) [cherry-pick] Update README.md template (#523) (#531)
+- [5c5e670c](https://github.com/stashed/postgres/commit/5c5e670c) [cherry-pick] Generate README.md using templates (#512) (#520)
+- [a60735d0](https://github.com/stashed/postgres/commit/a60735d0) [cherry-pick] Speed up schema generation process (#501) (#509)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
