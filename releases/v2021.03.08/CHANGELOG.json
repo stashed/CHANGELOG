@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.08",
-  "release_date": "2021-03-08T23:41:00.510755827Z",
+  "release_date": "2021-03-08T23:41:04.547914398Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.08",
   "kubernetes_version": "1.14+",
@@ -1451,6 +1451,55 @@
             {
               "SHA": "08189bf",
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#293)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v1",
+          "commits": [
+            {
+              "SHA": "df6aa7c",
+              "Subject": "Prepare for release 8.0.21-v1 (#351)"
+            },
+            {
+              "SHA": "bb35f6b",
+              "Subject": "[cherry-pick] Update repository config (#344) (#347)"
+            },
+            {
+              "SHA": "8571d10",
+              "Subject": "[cherry-pick] Support multiple commands in backup/restore pipeline (#335) (#342)"
+            },
+            {
+              "SHA": "e3bb016",
+              "Subject": "[cherry-pick] Add TLS support for backup and Restore (#328) (#338)"
+            },
+            {
+              "SHA": "c9a5ddf",
+              "Subject": "Update repository config (#327) (#331)"
+            },
+            {
+              "SHA": "4e0a065",
+              "Subject": "Use restic 0.12.0 (#321) (#324)"
+            },
+            {
+              "SHA": "367e1ce",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#316) (#319)"
+            },
+            {
+              "SHA": "a09b250",
+              "Subject": "[cherry-pick] Check codespan schema (#312) (#315)"
+            },
+            {
+              "SHA": "344d3ac",
+              "Subject": "[cherry-pick] Update repository config (#301) (#304)"
+            },
+            {
+              "SHA": "fcc0e9b",
+              "Subject": "[cherry-pick] Update repository config (#296) (#299)"
+            },
+            {
+              "SHA": "c4ab29f",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#294)"
             }
           ]
         }
