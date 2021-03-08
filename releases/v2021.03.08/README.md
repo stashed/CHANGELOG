@@ -1,6 +1,24 @@
 # Stash v2021.03.08 (2021-03-08)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.11.10](https://github.com/appscode/stash-enterprise/releases/tag/v0.11.10)
+
+- [ef190112](https://github.com/appscode/stash-enterprise/commit/ef190112) Prepare for release v0.11.10 (#81)
+- [ee861f80](https://github.com/appscode/stash-enterprise/commit/ee861f80) Delete ClusterRoleBinding when the backup/restore invoker is removed (#80)
+- [15e9596d](https://github.com/appscode/stash-enterprise/commit/15e9596d) Use addon info from AppBinding for KubeDB managed databases (#79)
+- [315d42ae](https://github.com/appscode/stash-enterprise/commit/315d42ae) Update repository config (#77)
+- [ce9dd2e4](https://github.com/appscode/stash-enterprise/commit/ce9dd2e4) Update repository config (#76)
+- [ec68a28d](https://github.com/appscode/stash-enterprise/commit/ec68a28d) Enable running as a kubedb extension
+- [68c9eef3](https://github.com/appscode/stash-enterprise/commit/68c9eef3) Use restic 0.12.0 (#74)
+- [50f3d395](https://github.com/appscode/stash-enterprise/commit/50f3d395) Update Kubernetes v1.18.9 dependencies (#73)
+- [47cb4438](https://github.com/appscode/stash-enterprise/commit/47cb4438) Update Kubernetes v1.18.9 dependencies (#72)
+- [e1293f53](https://github.com/appscode/stash-enterprise/commit/e1293f53) Update Kubernetes v1.18.9 dependencies (#70)
+- [6d253b3d](https://github.com/appscode/stash-enterprise/commit/6d253b3d) Update repository config (#67)
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.11.10](https://github.com/stashed/apimachinery/releases/tag/v0.11.10)
