@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.08",
-  "release_date": "2021-03-08T19:55:58.864952568Z",
+  "release_date": "2021-03-08T19:56:02.359241873Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.08",
   "kubernetes_version": "1.14+",
@@ -163,6 +163,83 @@
     {
       "url": "github.com/stashed/postgres",
       "releases": [
+        {
+          "tag": "9.6.19-v5",
+          "commits": [
+            {
+              "SHA": "66a76378",
+              "Subject": "Prepare for release 9.6.19-v5 (#720)"
+            },
+            {
+              "SHA": "362b2897",
+              "Subject": "Fix Makefile (#705) (#715)"
+            },
+            {
+              "SHA": "9c47a1fd",
+              "Subject": "TLS support for postgres (#694) (#704)"
+            },
+            {
+              "SHA": "e2ad17a8",
+              "Subject": "[cherry-pick] Update repository config (#683) (#693)"
+            },
+            {
+              "SHA": "e739d000",
+              "Subject": "Add auto-backup doc + Restructure docs (#618) (#682)"
+            },
+            {
+              "SHA": "3b4f6709",
+              "Subject": "[cherry-pick] Don't overwrite superuser password of restored database (#660) (#672)"
+            },
+            {
+              "SHA": "b5b9acb1",
+              "Subject": "Update repository config (#649) (#659)"
+            },
+            {
+              "SHA": "d7fc51c9",
+              "Subject": "Use restic 0.12.0 (#637) (#647)"
+            },
+            {
+              "SHA": "3a8c97eb",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#626) (#636)"
+            },
+            {
+              "SHA": "2adf3188",
+              "Subject": "[cherry-pick] Update repository config (#600) (#610)"
+            },
+            {
+              "SHA": "4143a5e1",
+              "Subject": "[cherry-pick] Update repository config (#589) (#599)"
+            },
+            {
+              "SHA": "31a2d0c1",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#578) (#588)"
+            },
+            {
+              "SHA": "a40a7321",
+              "Subject": "[cherry-pick] Update repository config (#566) (#576)"
+            },
+            {
+              "SHA": "05b91feb",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#555) (#565)"
+            },
+            {
+              "SHA": "4f5958c7",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#544) (#554)"
+            },
+            {
+              "SHA": "b70c6cfa",
+              "Subject": "[cherry-pick] Update README.md template (#523) (#533)"
+            },
+            {
+              "SHA": "850e18b3",
+              "Subject": "[cherry-pick] Generate README.md using templates (#512) (#522)"
+            },
+            {
+              "SHA": "4ccb4b4a",
+              "Subject": "[cherry-pick] Speed up schema generation process (#501) (#511)"
+            }
+          ]
+        },
         {
           "tag": "10.14.0-v5",
           "commits": [

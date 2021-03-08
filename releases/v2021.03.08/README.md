@@ -55,6 +55,28 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v5](https://github.com/stashed/postgres/releases/tag/9.6.19-v5)
+
+- [66a76378](https://github.com/stashed/postgres/commit/66a76378) Prepare for release 9.6.19-v5 (#720)
+- [362b2897](https://github.com/stashed/postgres/commit/362b2897) Fix Makefile (#705) (#715)
+- [9c47a1fd](https://github.com/stashed/postgres/commit/9c47a1fd) TLS support for postgres (#694) (#704)
+- [e2ad17a8](https://github.com/stashed/postgres/commit/e2ad17a8) [cherry-pick] Update repository config (#683) (#693)
+- [e739d000](https://github.com/stashed/postgres/commit/e739d000) Add auto-backup doc + Restructure docs (#618) (#682)
+- [3b4f6709](https://github.com/stashed/postgres/commit/3b4f6709) [cherry-pick] Don't overwrite superuser password of restored database (#660) (#672)
+- [b5b9acb1](https://github.com/stashed/postgres/commit/b5b9acb1) Update repository config (#649) (#659)
+- [d7fc51c9](https://github.com/stashed/postgres/commit/d7fc51c9) Use restic 0.12.0 (#637) (#647)
+- [3a8c97eb](https://github.com/stashed/postgres/commit/3a8c97eb) Update Kubernetes v1.18.9 dependencies (#626) (#636)
+- [2adf3188](https://github.com/stashed/postgres/commit/2adf3188) [cherry-pick] Update repository config (#600) (#610)
+- [4143a5e1](https://github.com/stashed/postgres/commit/4143a5e1) [cherry-pick] Update repository config (#589) (#599)
+- [31a2d0c1](https://github.com/stashed/postgres/commit/31a2d0c1) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#578) (#588)
+- [a40a7321](https://github.com/stashed/postgres/commit/a40a7321) [cherry-pick] Update repository config (#566) (#576)
+- [05b91feb](https://github.com/stashed/postgres/commit/05b91feb) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#555) (#565)
+- [4f5958c7](https://github.com/stashed/postgres/commit/4f5958c7) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#544) (#554)
+- [b70c6cfa](https://github.com/stashed/postgres/commit/b70c6cfa) [cherry-pick] Update README.md template (#523) (#533)
+- [850e18b3](https://github.com/stashed/postgres/commit/850e18b3) [cherry-pick] Generate README.md using templates (#512) (#522)
+- [4ccb4b4a](https://github.com/stashed/postgres/commit/4ccb4b4a) [cherry-pick] Speed up schema generation process (#501) (#511)
+
+
 ### [10.14.0-v5](https://github.com/stashed/postgres/releases/tag/10.14.0-v5)
 
 - [57eecdc3](https://github.com/stashed/postgres/commit/57eecdc3) Prepare for release 10.14.0-v5 (#716)
