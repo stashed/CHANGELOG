@@ -241,6 +241,24 @@
 - [ab565586](https://github.com/stashed/mongodb/commit/ab565586) [cherry-pick] Speed up schema generation process (#663) (#665)
 
 
+### [3.6.8-v6](https://github.com/stashed/mongodb/releases/tag/3.6.8-v6)
+
+- [20ebf67e](https://github.com/stashed/mongodb/commit/20ebf67e) Prepare for release 3.6.8-v6 (#846)
+- [0d22261d](https://github.com/stashed/mongodb/commit/0d22261d) [cherry-pick] Support multiple commands in backup/restore pipeline (#823) (#827)
+- [ade100a1](https://github.com/stashed/mongodb/commit/ade100a1) Update repository config (#809) (#813)
+- [0dccae77](https://github.com/stashed/mongodb/commit/0dccae77) Use restic 0.12.0 (#799) (#803)
+- [be4a808c](https://github.com/stashed/mongodb/commit/be4a808c) Update Kubernetes v1.18.9 dependencies (#788) (#792)
+- [98181167](https://github.com/stashed/mongodb/commit/98181167) [cherry-pick] Check codespan schema (#776) (#780)
+- [1cbdbf2a](https://github.com/stashed/mongodb/commit/1cbdbf2a) [cherry-pick] Update repository config (#751) (#755)
+- [f09ed6dc](https://github.com/stashed/mongodb/commit/f09ed6dc) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#730) (#734)
+- [5df0856f](https://github.com/stashed/mongodb/commit/5df0856f) [cherry-pick] Update repository config (#723) (#727)
+- [3037de41](https://github.com/stashed/mongodb/commit/3037de41) [cherry-pick] Update repository config (#711) (#715)
+- [214a2741](https://github.com/stashed/mongodb/commit/214a2741) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#699) (#703)
+- [75ae3f11](https://github.com/stashed/mongodb/commit/75ae3f11) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#687) (#691)
+- [effbb2a3](https://github.com/stashed/mongodb/commit/effbb2a3) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#675) (#679)
+- [5cfd4984](https://github.com/stashed/mongodb/commit/5cfd4984) [cherry-pick] Speed up schema generation process (#663) (#667)
+
+
 ### [3.6.13-v6](https://github.com/stashed/mongodb/releases/tag/3.6.13-v6)
 
 - [c857aca3](https://github.com/stashed/mongodb/commit/c857aca3) Prepare for release 3.6.13-v6 (#845)
