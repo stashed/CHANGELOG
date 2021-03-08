@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.08",
-  "release_date": "2021-03-08T19:07:25.251990645Z",
+  "release_date": "2021-03-08T19:16:27.612842469Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.08",
   "kubernetes_version": "1.14+",
@@ -117,6 +117,44 @@
             {
               "SHA": "456e1a20",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.11.10",
+          "commits": [
+            {
+              "SHA": "3c37cc4",
+              "Subject": "Prepare for release v0.11.10 (#112)"
+            },
+            {
+              "SHA": "fab9603",
+              "Subject": "Update repository config (#110)"
+            },
+            {
+              "SHA": "59b5bea",
+              "Subject": "Update repository config (#108)"
+            },
+            {
+              "SHA": "5bba6cf",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#107)"
+            },
+            {
+              "SHA": "4c34c15",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#106)"
+            },
+            {
+              "SHA": "743a3b9",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#105)"
+            },
+            {
+              "SHA": "c305c1a",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#104)"
             }
           ]
         }
