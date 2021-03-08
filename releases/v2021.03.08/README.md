@@ -200,6 +200,33 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v1](https://github.com/stashed/mariadb/releases/tag/10.5.8-v1)
+
+- [b620e7d](https://github.com/stashed/mariadb/commit/b620e7d) Prepare for release 10.5.8-v1 (#83)
+- [4c06280](https://github.com/stashed/mariadb/commit/4c06280) [cherry-pick] Adding TLS support on MariaDB plugin (#62) (#82)
+- [d6d9a6e](https://github.com/stashed/mariadb/commit/d6d9a6e) [cherry-pick] Update Docs (#79) (#81)
+- [04c81ed](https://github.com/stashed/mariadb/commit/04c81ed) [cherry-pick] Support multiple commands in backup/restore pipeline (#77) (#80)
+- [95f51d1](https://github.com/stashed/mariadb/commit/95f51d1) [cherry-pick] Update repository config (#75) (#78)
+- [25933ed](https://github.com/stashed/mariadb/commit/25933ed) Update repository config (#73) (#74)
+- [c0e03fe](https://github.com/stashed/mariadb/commit/c0e03fe) Use restic 0.12.0 (#70) (#71)
+- [41082a8](https://github.com/stashed/mariadb/commit/41082a8) Update Kubernetes v1.18.9 dependencies (#68) (#69)
+- [0e8a6d6](https://github.com/stashed/mariadb/commit/0e8a6d6) Fix links to concept docs (#56) (#67)
+- [68fe2fe](https://github.com/stashed/mariadb/commit/68fe2fe) [cherry-pick] Check codespan schema (#65) (#66)
+- [26f0958](https://github.com/stashed/mariadb/commit/26f0958) [cherry-pick] Update repository config (#59) (#60)
+- [5d08f71](https://github.com/stashed/mariadb/commit/5d08f71) [cherry-pick] Update repository config (#57) (#58)
+- [e076ca9](https://github.com/stashed/mariadb/commit/e076ca9) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#54) (#55)
+- [eee3847](https://github.com/stashed/mariadb/commit/eee3847) [cherry-pick] Update repository config (#52) (#53)
+- [6e1230c](https://github.com/stashed/mariadb/commit/6e1230c) [cherry-pick] Update repository config (#50) (#51)
+- [cd1252b](https://github.com/stashed/mariadb/commit/cd1252b) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#48) (#49)
+- [bee27ba](https://github.com/stashed/mariadb/commit/bee27ba) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#46) (#47)
+- [eba6dad](https://github.com/stashed/mariadb/commit/eba6dad) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#44) (#45)
+- [59d93e6](https://github.com/stashed/mariadb/commit/59d93e6) [cherry-pick] Generate README.md from templates (#42) (#43)
+- [5763554](https://github.com/stashed/mariadb/commit/5763554) [cherry-pick] Speed up schema generation process (#40) (#41)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v6](https://github.com/stashed/mongodb/releases/tag/3.4.17-v6)
