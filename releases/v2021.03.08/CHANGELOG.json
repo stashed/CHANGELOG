@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.08",
-  "release_date": "2021-03-09T06:38:20.616896476Z",
+  "release_date": "2021-03-09T06:53:11.922973075Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.08",
   "kubernetes_version": "1.14+",
@@ -117,6 +117,32 @@
             {
               "SHA": "456e1a20",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/catalog",
+      "releases": [
+        {
+          "tag": "v2021.03.08",
+          "commits": [
+            {
+              "SHA": "d4246cf",
+              "Subject": "Prepare for release v2021.03.08 (#62)"
+            },
+            {
+              "SHA": "1306ba5",
+              "Subject": "Generate catalog library using go:embed (#61)"
+            },
+            {
+              "SHA": "5307970",
+              "Subject": "Update repository config (#57)"
+            },
+            {
+              "SHA": "fe7d130",
+              "Subject": "Fix passing image args (#56)"
             }
           ]
         }

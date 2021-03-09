@@ -39,6 +39,17 @@
 
 
 
+## [stashed/catalog](https://github.com/stashed/catalog)
+
+### [v2021.03.08](https://github.com/stashed/catalog/releases/tag/v2021.03.08)
+
+- [d4246cf](https://github.com/stashed/catalog/commit/d4246cf) Prepare for release v2021.03.08 (#62)
+- [1306ba5](https://github.com/stashed/catalog/commit/1306ba5) Generate catalog library using go:embed (#61)
+- [5307970](https://github.com/stashed/catalog/commit/5307970) Update repository config (#57)
+- [fe7d130](https://github.com/stashed/catalog/commit/fe7d130) Fix passing image args (#56)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.11.10](https://github.com/stashed/cli/releases/tag/v0.11.10)
