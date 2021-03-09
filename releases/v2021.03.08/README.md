@@ -200,6 +200,28 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.11.10](https://github.com/stashed/installer/releases/tag/v0.11.10)
+
+- [bc7afef](https://github.com/stashed/installer/commit/bc7afef) Prepare for release v0.11.10 (#156)
+- [34d9f1c](https://github.com/stashed/installer/commit/34d9f1c) Avoid duplicating PSPs (#139)
+- [bb53887](https://github.com/stashed/installer/commit/bb53887) Fix script permission
+- [0982937](https://github.com/stashed/installer/commit/0982937) Add RBAC resources list permission (#153)
+- [225c09b](https://github.com/stashed/installer/commit/225c09b) Add import-crds.sh script (#152)
+- [ffbd911](https://github.com/stashed/installer/commit/ffbd911) Update crds for stashed/apimachinery@96a42481 (#151)
+- [2a66966](https://github.com/stashed/installer/commit/2a66966) make ct (#147)
+- [fe6391b](https://github.com/stashed/installer/commit/fe6391b) Remove unused chart templates
+- [eb82779](https://github.com/stashed/installer/commit/eb82779) Update repository config (#144)
+- [22123dc](https://github.com/stashed/installer/commit/22123dc) Remove v1alpha1 crds from chart
+- [e4752a0](https://github.com/stashed/installer/commit/e4752a0) Update stash-crds chart version
+- [7fc1b31](https://github.com/stashed/installer/commit/7fc1b31) Update stash community chart name
+- [1ccd0d7](https://github.com/stashed/installer/commit/1ccd0d7) Add open-pr.sh script (#143)
+- [e9f1dd3](https://github.com/stashed/installer/commit/e9f1dd3) Add stash-crds chart (#142)
+- [7fe38fe](https://github.com/stashed/installer/commit/7fe38fe) Rename stash chart to stash-community (#141)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v1](https://github.com/stashed/mariadb/releases/tag/10.5.8-v1)

@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.08",
-  "release_date": "2021-03-09T00:11:12.853038698Z",
+  "release_date": "2021-03-09T06:38:20.616896476Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.08",
   "kubernetes_version": "1.14+",
@@ -648,6 +648,76 @@
             {
               "SHA": "a018c4f1",
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#588) (#596)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.11.10",
+          "commits": [
+            {
+              "SHA": "bc7afef",
+              "Subject": "Prepare for release v0.11.10 (#156)"
+            },
+            {
+              "SHA": "34d9f1c",
+              "Subject": "Avoid duplicating PSPs (#139)"
+            },
+            {
+              "SHA": "bb53887",
+              "Subject": "Fix script permission"
+            },
+            {
+              "SHA": "0982937",
+              "Subject": "Add RBAC resources list permission (#153)"
+            },
+            {
+              "SHA": "225c09b",
+              "Subject": "Add import-crds.sh script (#152)"
+            },
+            {
+              "SHA": "ffbd911",
+              "Subject": "Update crds for stashed/apimachinery@96a42481 (#151)"
+            },
+            {
+              "SHA": "2a66966",
+              "Subject": "make ct (#147)"
+            },
+            {
+              "SHA": "fe6391b",
+              "Subject": "Remove unused chart templates"
+            },
+            {
+              "SHA": "eb82779",
+              "Subject": "Update repository config (#144)"
+            },
+            {
+              "SHA": "22123dc",
+              "Subject": "Remove v1alpha1 crds from chart"
+            },
+            {
+              "SHA": "e4752a0",
+              "Subject": "Update stash-crds chart version"
+            },
+            {
+              "SHA": "7fc1b31",
+              "Subject": "Update stash community chart name"
+            },
+            {
+              "SHA": "1ccd0d7",
+              "Subject": "Add open-pr.sh script (#143)"
+            },
+            {
+              "SHA": "e9f1dd3",
+              "Subject": "Add stash-crds chart (#142)"
+            },
+            {
+              "SHA": "7fe38fe",
+              "Subject": "Rename stash chart to stash-community (#141)"
             }
           ]
         }
