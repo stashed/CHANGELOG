@@ -1,4 +1,4 @@
-# Stash v2021.03.08 (2021-03-08)
+# Stash v2021.03.08 (2021-03-09)
 
 
 ## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
@@ -493,6 +493,13 @@
 - [344d3ac](https://github.com/stashed/mysql/commit/344d3ac) [cherry-pick] Update repository config (#301) (#304)
 - [fcc0e9b](https://github.com/stashed/mysql/commit/fcc0e9b) [cherry-pick] Update repository config (#296) (#299)
 - [c4ab29f](https://github.com/stashed/mysql/commit/c4ab29f) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#294)
+
+
+
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7.0-v2](https://github.com/stashed/percona-xtradb/releases/tag/5.7.0-v2)
+
 
 
 

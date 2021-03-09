@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.08",
-  "release_date": "2021-03-08T23:54:48.873912828Z",
+  "release_date": "2021-03-09T00:11:12.853038698Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.08",
   "kubernetes_version": "1.14+",
@@ -1637,6 +1637,15 @@
               "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#291) (#294)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7.0-v2",
+          "commits": null
         }
       ]
     },
