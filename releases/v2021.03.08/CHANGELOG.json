@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.08",
-  "release_date": "2021-03-09T06:53:11.922973075Z",
+  "release_date": "2021-03-09T11:40:13.120426679Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.08",
   "kubernetes_version": "1.14+",
@@ -181,6 +181,40 @@
             {
               "SHA": "c305c1a",
               "Subject": "Update Kubernetes v1.18.9 dependencies (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.03.08",
+          "commits": [
+            {
+              "SHA": "c600302",
+              "Subject": "Prepare for release v2021.03.08 (#126)"
+            },
+            {
+              "SHA": "46ca09c",
+              "Subject": "Move PostgreSQL auto-backup doc to it's own repo (#124)"
+            },
+            {
+              "SHA": "055293a",
+              "Subject": "Add operator ugprade instructions (#125)"
+            },
+            {
+              "SHA": "923f40a",
+              "Subject": "Fix calendly links"
+            },
+            {
+              "SHA": "c43c435",
+              "Subject": "Increase trial period to 30 days"
+            },
+            {
+              "SHA": "3666d59",
+              "Subject": "Check codespan schema (#123)"
             }
           ]
         }

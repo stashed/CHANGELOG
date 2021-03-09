@@ -64,6 +64,19 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2021.03.08](https://github.com/stashed/docs/releases/tag/v2021.03.08)
+
+- [c600302](https://github.com/stashed/docs/commit/c600302) Prepare for release v2021.03.08 (#126)
+- [46ca09c](https://github.com/stashed/docs/commit/46ca09c) Move PostgreSQL auto-backup doc to it's own repo (#124)
+- [055293a](https://github.com/stashed/docs/commit/055293a) Add operator ugprade instructions (#125)
+- [923f40a](https://github.com/stashed/docs/commit/923f40a) Fix calendly links
+- [c43c435](https://github.com/stashed/docs/commit/c43c435) Increase trial period to 30 days
+- [3666d59](https://github.com/stashed/docs/commit/3666d59) Check codespan schema (#123)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v7](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v7)
