@@ -9,6 +9,14 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2021.03.11](https://github.com/stashed/docs/releases/tag/v2021.03.11)
+
+- [04ba669](https://github.com/stashed/docs/commit/04ba669) Prepare for release v2021.03.11 (#128)
+
+
+
 ## [stashed/installer](https://github.com/stashed/installer)
 
 ### [v0.11.11](https://github.com/stashed/installer/releases/tag/v0.11.11)
