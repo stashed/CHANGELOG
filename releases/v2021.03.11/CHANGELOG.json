@@ -1,11 +1,29 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.11",
-  "release_date": "2021-03-12T12:59:09.600513697Z",
+  "release_date": "2021-03-12T13:17:15.396439011Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.11",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.03.11",
+          "commits": [
+            {
+              "SHA": "3c154ac",
+              "Subject": "Prepare for release v2021.03.11 (#39)"
+            },
+            {
+              "SHA": "7954fa5",
+              "Subject": "Update stash community chart name"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/catalog",
       "releases": [

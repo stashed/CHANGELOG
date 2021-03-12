@@ -1,6 +1,15 @@
 # Stash v2021.03.11 (2021-03-12)
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2021.03.11](https://github.com/stashed/bundles/releases/tag/v2021.03.11)
+
+- [3c154ac](https://github.com/stashed/bundles/commit/3c154ac) Prepare for release v2021.03.11 (#39)
+- [7954fa5](https://github.com/stashed/bundles/commit/7954fa5) Update stash community chart name
+
+
+
 ## [stashed/catalog](https://github.com/stashed/catalog)
 
 ### [v2021.03.11](https://github.com/stashed/catalog/releases/tag/v2021.03.11)
