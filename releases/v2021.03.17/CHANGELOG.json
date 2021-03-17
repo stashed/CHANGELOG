@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.17",
-  "release_date": "2021-03-17T14:58:08.786965705Z",
+  "release_date": "2021-03-17T15:50:30.678477878Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.17",
   "kubernetes_version": "1.14+",
@@ -38,6 +38,28 @@
             {
               "SHA": "f1ca9e2",
               "Subject": "Prepare for release v0.12.0 (#114)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "adbca35",
+              "Subject": "Prepare for release v0.12.0 (#166)"
+            },
+            {
+              "SHA": "47cc4cf",
+              "Subject": "Use perconaxtradb-*-5.7"
+            },
+            {
+              "SHA": "801f30c",
+              "Subject": "Update dependencies"
             }
           ]
         }

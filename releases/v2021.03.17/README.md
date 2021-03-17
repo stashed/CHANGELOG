@@ -24,6 +24,16 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.12.0](https://github.com/stashed/installer/releases/tag/v0.12.0)
+
+- [adbca35](https://github.com/stashed/installer/commit/adbca35) Prepare for release v0.12.0 (#166)
+- [47cc4cf](https://github.com/stashed/installer/commit/47cc4cf) Use perconaxtradb-*-5.7
+- [801f30c](https://github.com/stashed/installer/commit/801f30c) Update dependencies
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [10.14-v5](https://github.com/stashed/postgres/releases/tag/10.14-v5)
