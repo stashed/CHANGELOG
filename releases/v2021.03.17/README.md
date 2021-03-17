@@ -24,6 +24,17 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2021.03.17](https://github.com/stashed/docs/releases/tag/v2021.03.17)
+
+- [eea9d6a](https://github.com/stashed/docs/commit/eea9d6a) Prepare for release v2021.03.17 (#131)
+- [7b8bc54](https://github.com/stashed/docs/commit/7b8bc54) Update docs
+- [603c135](https://github.com/stashed/docs/commit/603c135) Move addon docs from their own repo (#130)
+- [3b8e78c](https://github.com/stashed/docs/commit/3b8e78c) Update setup docs for combined chart (#129)
+
+
+
 ## [stashed/installer](https://github.com/stashed/installer)
 
 ### [v0.12.0](https://github.com/stashed/installer/releases/tag/v0.12.0)
