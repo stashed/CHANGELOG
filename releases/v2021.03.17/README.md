@@ -16,6 +16,14 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.12.0](https://github.com/stashed/cli/releases/tag/v0.12.0)
+
+- [f1ca9e2](https://github.com/stashed/cli/commit/f1ca9e2) Prepare for release v0.12.0 (#114)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.12.0](https://github.com/stashed/stash/releases/tag/v0.12.0)
