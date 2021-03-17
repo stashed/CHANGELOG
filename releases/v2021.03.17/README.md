@@ -16,6 +16,16 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2021.03.17](https://github.com/stashed/bundles/releases/tag/v2021.03.17)
+
+- [8ba84b6](https://github.com/stashed/bundles/commit/8ba84b6) Prepare for release v2021.03.17 (#40)
+- [fc9213b](https://github.com/stashed/bundles/commit/fc9213b) Use combined charts
+- [e68d2e0](https://github.com/stashed/bundles/commit/e68d2e0) Use the unified charts
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.12.0](https://github.com/stashed/cli/releases/tag/v0.12.0)

@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.03.17",
-  "release_date": "2021-03-17T16:13:27.106928854Z",
+  "release_date": "2021-03-17T16:30:50.616043684Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.03.17",
   "kubernetes_version": "1.14+",
@@ -26,6 +26,28 @@
         {
           "tag": "v0.12.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.03.17",
+          "commits": [
+            {
+              "SHA": "8ba84b6",
+              "Subject": "Prepare for release v2021.03.17 (#40)"
+            },
+            {
+              "SHA": "fc9213b",
+              "Subject": "Use combined charts"
+            },
+            {
+              "SHA": "e68d2e0",
+              "Subject": "Use the unified charts"
+            }
+          ]
         }
       ]
     },
