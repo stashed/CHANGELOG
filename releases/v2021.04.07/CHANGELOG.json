@@ -1,11 +1,45 @@
 {
   "product_line": "Stash",
   "release": "v2021.04.07",
-  "release_date": "2021-04-07T21:19:37.750688862Z",
+  "release_date": "2021-04-07T23:21:43.28480845Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.04.07",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.12.1",
+          "commits": [
+            {
+              "SHA": "e684150a",
+              "Subject": "Prepare for release v0.12.1 (#89)"
+            },
+            {
+              "SHA": "8c03495c",
+              "Subject": "Don't use global registry for installing operator from Makefile (#88)"
+            },
+            {
+              "SHA": "fdf7b6d3",
+              "Subject": "Use combined chart to install from Makefile (#87)"
+            },
+            {
+              "SHA": "3d1a2193",
+              "Subject": "Update license verifier to v0.8.0"
+            },
+            {
+              "SHA": "4be954f0",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "9a4f98db",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/apimachinery",
       "releases": [

@@ -1,6 +1,19 @@
 # Stash v2021.04.07 (2021-04-07)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.12.1](https://github.com/appscode/stash-enterprise/releases/tag/v0.12.1)
+
+- [e684150a](https://github.com/appscode/stash-enterprise/commit/e684150a) Prepare for release v0.12.1 (#89)
+- [8c03495c](https://github.com/appscode/stash-enterprise/commit/8c03495c) Don't use global registry for installing operator from Makefile (#88)
+- [fdf7b6d3](https://github.com/appscode/stash-enterprise/commit/fdf7b6d3) Use combined chart to install from Makefile (#87)
+- [3d1a2193](https://github.com/appscode/stash-enterprise/commit/3d1a2193) Update license verifier to v0.8.0
+- [4be954f0](https://github.com/appscode/stash-enterprise/commit/4be954f0) Update license verifier
+- [9a4f98db](https://github.com/appscode/stash-enterprise/commit/9a4f98db) Fix spelling
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.12.1](https://github.com/stashed/apimachinery/releases/tag/v0.12.1)
