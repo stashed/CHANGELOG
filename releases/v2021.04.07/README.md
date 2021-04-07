@@ -31,6 +31,16 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v0.12.1](https://github.com/stashed/installer/releases/tag/v0.12.1)
+
+- [9ec212c](https://github.com/stashed/installer/commit/9ec212c) Prepare for release v0.12.1 (#171)
+- [20a78f1](https://github.com/stashed/installer/commit/20a78f1) Allow passing registry fqdn (#170)
+- [f2688f6](https://github.com/stashed/installer/commit/f2688f6) Fix spelling
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.12.1](https://github.com/stashed/stash/releases/tag/v0.12.1)
