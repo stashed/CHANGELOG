@@ -22,6 +22,15 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2021.04.07](https://github.com/stashed/bundles/releases/tag/v2021.04.07)
+
+- [41c1a94](https://github.com/stashed/bundles/commit/41c1a94) Prepare for release v2021.04.07 (#41)
+- [36ce8d7](https://github.com/stashed/bundles/commit/36ce8d7) Fix spelling
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.12.1](https://github.com/stashed/cli/releases/tag/v0.12.1)
