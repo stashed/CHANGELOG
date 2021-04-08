@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.04.07",
-  "release_date": "2021-04-07T23:54:46.250688143Z",
+  "release_date": "2021-04-08T00:11:30.802917246Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.04.07",
   "kubernetes_version": "1.14+",
@@ -67,6 +67,24 @@
             {
               "SHA": "05bbfb4",
               "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.04.07",
+          "commits": [
+            {
+              "SHA": "8f07812",
+              "Subject": "Prepare for release v2021.04.07 (#136)"
+            },
+            {
+              "SHA": "a434152",
+              "Subject": "Add CRD upgrade instruction in upgrade guide (#135)"
             }
           ]
         }

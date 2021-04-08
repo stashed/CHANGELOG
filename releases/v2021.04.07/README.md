@@ -1,4 +1,4 @@
-# Stash v2021.04.07 (2021-04-07)
+# Stash v2021.04.07 (2021-04-08)
 
 
 ## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
@@ -28,6 +28,15 @@
 
 - [2532f94](https://github.com/stashed/cli/commit/2532f94) Prepare for release v0.12.1 (#115)
 - [05bbfb4](https://github.com/stashed/cli/commit/05bbfb4) Fix spelling
+
+
+
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2021.04.07](https://github.com/stashed/docs/releases/tag/v2021.04.07)
+
+- [8f07812](https://github.com/stashed/docs/commit/8f07812) Prepare for release v2021.04.07 (#136)
+- [a434152](https://github.com/stashed/docs/commit/a434152) Add CRD upgrade instruction in upgrade guide (#135)
 
 
 
