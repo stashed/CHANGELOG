@@ -1,0 +1,168 @@
+{
+  "product_line": "Stash",
+  "release": "v2021.04.07",
+  "release_date": "2021-04-08T00:21:26.813181984Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2021.04.07",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.12.1",
+          "commits": [
+            {
+              "SHA": "e684150a",
+              "Subject": "Prepare for release v0.12.1 (#89)"
+            },
+            {
+              "SHA": "8c03495c",
+              "Subject": "Don't use global registry for installing operator from Makefile (#88)"
+            },
+            {
+              "SHA": "fdf7b6d3",
+              "Subject": "Use combined chart to install from Makefile (#87)"
+            },
+            {
+              "SHA": "3d1a2193",
+              "Subject": "Update license verifier to v0.8.0"
+            },
+            {
+              "SHA": "4be954f0",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "9a4f98db",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.12.1",
+          "commits": [
+            {
+              "SHA": "2a71cd73",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.04.07",
+          "commits": [
+            {
+              "SHA": "41c1a94",
+              "Subject": "Prepare for release v2021.04.07 (#41)"
+            },
+            {
+              "SHA": "36ce8d7",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.12.1",
+          "commits": [
+            {
+              "SHA": "2532f94",
+              "Subject": "Prepare for release v0.12.1 (#115)"
+            },
+            {
+              "SHA": "05bbfb4",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.04.07",
+          "commits": [
+            {
+              "SHA": "8f07812",
+              "Subject": "Prepare for release v2021.04.07 (#136)"
+            },
+            {
+              "SHA": "a434152",
+              "Subject": "Add CRD upgrade instruction in upgrade guide (#135)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v0.12.1",
+          "commits": [
+            {
+              "SHA": "9ec212c",
+              "Subject": "Prepare for release v0.12.1 (#171)"
+            },
+            {
+              "SHA": "20a78f1",
+              "Subject": "Allow passing registry fqdn (#170)"
+            },
+            {
+              "SHA": "f2688f6",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.12.1",
+          "commits": [
+            {
+              "SHA": "5c2f6eba",
+              "Subject": "Prepare for release v0.12.1 (#1337)"
+            },
+            {
+              "SHA": "5b8b134f",
+              "Subject": "Don't use global resgistry to install operator from Makefile (#1336)"
+            },
+            {
+              "SHA": "32bc9f82",
+              "Subject": "Register RestoreBatch CRD + Fix Makefile (#1331)"
+            },
+            {
+              "SHA": "c42b3aee",
+              "Subject": "Update license verifier to v0.8.0"
+            },
+            {
+              "SHA": "083ec543",
+              "Subject": "Update license verifier"
+            },
+            {
+              "SHA": "db1668ba",
+              "Subject": "Fix spelling"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
