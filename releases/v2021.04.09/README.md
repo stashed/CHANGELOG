@@ -59,6 +59,14 @@
 - [1abd1cb8](https://github.com/stashed/elasticsearch/commit/1abd1cb8) Move docs into stashed/docs repo + Cleanup (#718)
 
 
+### [6.5.3-v8](https://github.com/stashed/elasticsearch/releases/tag/6.5.3-v8)
+
+- [c095b0af](https://github.com/stashed/elasticsearch/commit/c095b0af) Prepare for release 6.5.3-v8 (#739)
+- [d5b9fc25](https://github.com/stashed/elasticsearch/commit/d5b9fc25) [cherry-pick] Update license verifier to v0.8.0 (#731)
+- [00ee62a7](https://github.com/stashed/elasticsearch/commit/00ee62a7) [cherry-pick] Update license verifier (#723)
+- [f12778ec](https://github.com/stashed/elasticsearch/commit/f12778ec) Move docs into stashed/docs repo + Cleanup (#718)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
