@@ -92,6 +92,17 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v7](https://github.com/stashed/mongodb/releases/tag/3.4.17-v7)
+
+- [c330b36d](https://github.com/stashed/mongodb/commit/c330b36d) Prepare for release 3.4.17-v7 (#874)
+- [7cc2dc3a](https://github.com/stashed/mongodb/commit/7cc2dc3a) [cherry-pick] Update license verifier to v0.8.0 (#864)
+- [819ae84e](https://github.com/stashed/mongodb/commit/819ae84e) [cherry-pick] Update license verifier (#856)
+- [04461734](https://github.com/stashed/mongodb/commit/04461734) Move docs into stashed/docs repo + Cleanup (#855)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v6](https://github.com/stashed/postgres/releases/tag/9.6.19-v6)
