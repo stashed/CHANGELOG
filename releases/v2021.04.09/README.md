@@ -149,6 +149,14 @@
 - [d0dee643](https://github.com/stashed/mongodb/commit/d0dee643) Move docs into stashed/docs repo + Cleanup (#855)
 
 
+### [4.1.13-v7](https://github.com/stashed/mongodb/releases/tag/4.1.13-v7)
+
+- [53eb5dc1](https://github.com/stashed/mongodb/commit/53eb5dc1) Prepare for release 4.1.13-v7 (#881)
+- [3419f461](https://github.com/stashed/mongodb/commit/3419f461) [cherry-pick] Update license verifier to v0.8.0 (#870)
+- [16d315f6](https://github.com/stashed/mongodb/commit/16d315f6) [cherry-pick] Update license verifier (#863)
+- [118fd042](https://github.com/stashed/mongodb/commit/118fd042) Move docs into stashed/docs repo + Cleanup (#855)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
