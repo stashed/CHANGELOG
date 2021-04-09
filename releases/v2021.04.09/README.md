@@ -182,6 +182,17 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v8](https://github.com/stashed/mysql/releases/tag/5.7.25-v8)
+
+- [43e5c9f](https://github.com/stashed/mysql/commit/43e5c9f) Prepare for release 5.7.25-v8 (#364)
+- [251608d](https://github.com/stashed/mysql/commit/251608d) [cherry-pick] Update license verifier to v0.8.0 (#360)
+- [2c41000](https://github.com/stashed/mysql/commit/2c41000) [cherry-pick] Update license verifier (#356)
+- [9ee9e47](https://github.com/stashed/mysql/commit/9ee9e47) Move docs into stashed/docs repo + Cleanup (#355)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v6](https://github.com/stashed/postgres/releases/tag/9.6.19-v6)
