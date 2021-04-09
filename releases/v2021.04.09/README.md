@@ -52,6 +52,13 @@
 - [4c0126bf](https://github.com/stashed/postgres/commit/4c0126bf) [cherry-pick] Update license verifier (#732)
 
 
+### [13.1-v3](https://github.com/stashed/postgres/releases/tag/13.1-v3)
+
+- [2d214d15](https://github.com/stashed/postgres/commit/2d214d15) Prepare for release 13.1-v3 (#743)
+- [2da7f9fb](https://github.com/stashed/postgres/commit/2da7f9fb) [cherry-pick] Update license verifier to v0.8.0 (#738)
+- [842effc0](https://github.com/stashed/postgres/commit/842effc0) [cherry-pick] Update license verifier (#733)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
