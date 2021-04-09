@@ -110,6 +110,14 @@
 - [fcef85e4](https://github.com/stashed/mongodb/commit/fcef85e4) Move docs into stashed/docs repo + Cleanup (#855)
 
 
+### [3.6.13-v7](https://github.com/stashed/mongodb/releases/tag/3.6.13-v7)
+
+- [bf2677df](https://github.com/stashed/mongodb/commit/bf2677df) Prepare for release 3.6.13-v7 (#876)
+- [54301fe1](https://github.com/stashed/mongodb/commit/54301fe1) [cherry-pick] Update license verifier to v0.8.0 (#866)
+- [1de5beaf](https://github.com/stashed/mongodb/commit/1de5beaf) [cherry-pick] Update license verifier (#858)
+- [25d23e5e](https://github.com/stashed/mongodb/commit/25d23e5e) Move docs into stashed/docs repo + Cleanup (#855)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
