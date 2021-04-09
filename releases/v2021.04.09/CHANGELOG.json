@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.04.09",
-  "release_date": "2021-04-09T08:53:38.867608075Z",
+  "release_date": "2021-04-09T09:00:36.5352619Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.04.09",
   "kubernetes_version": "1.14+",
@@ -216,6 +216,36 @@
             {
               "SHA": "e28fcc97",
               "Subject": "Move docs into stashed/docs repo + Cleanup (#718)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v2",
+          "commits": [
+            {
+              "SHA": "cb2457b",
+              "Subject": "Prepare for release 10.5.8-v2 (#92)"
+            },
+            {
+              "SHA": "9ad8d65",
+              "Subject": "[cherry-pick] Update license verifier to v0.8.0 (#91)"
+            },
+            {
+              "SHA": "32d8eab",
+              "Subject": "[cherry-pick] Update license verifier (#90)"
+            },
+            {
+              "SHA": "99e66bf",
+              "Subject": "Move docs into stashed/docs repo + Cleanup (#89)"
+            },
+            {
+              "SHA": "017f7dc",
+              "Subject": "[cherry-pick] Update MariaDB Image version from 10.5 to 10.5.8 (#85) (#86)"
             }
           ]
         }

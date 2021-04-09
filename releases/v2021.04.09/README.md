@@ -92,6 +92,18 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v2](https://github.com/stashed/mariadb/releases/tag/10.5.8-v2)
+
+- [cb2457b](https://github.com/stashed/mariadb/commit/cb2457b) Prepare for release 10.5.8-v2 (#92)
+- [9ad8d65](https://github.com/stashed/mariadb/commit/9ad8d65) [cherry-pick] Update license verifier to v0.8.0 (#91)
+- [32d8eab](https://github.com/stashed/mariadb/commit/32d8eab) [cherry-pick] Update license verifier (#90)
+- [99e66bf](https://github.com/stashed/mariadb/commit/99e66bf) Move docs into stashed/docs repo + Cleanup (#89)
+- [017f7dc](https://github.com/stashed/mariadb/commit/017f7dc) [cherry-pick] Update MariaDB Image version from 10.5 to 10.5.8 (#85) (#86)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v7](https://github.com/stashed/mongodb/releases/tag/3.4.17-v7)
