@@ -92,6 +92,14 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2021.04.09](https://github.com/stashed/installer/releases/tag/v2021.04.09)
+
+- [39bdc8e](https://github.com/stashed/installer/commit/39bdc8e) Prepare for release v2021.04.09 (#172)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v2](https://github.com/stashed/mariadb/releases/tag/10.5.8-v2)

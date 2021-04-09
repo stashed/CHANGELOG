@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.04.09",
-  "release_date": "2021-04-09T09:00:36.5352619Z",
+  "release_date": "2021-04-09T09:39:52.44553148Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.04.09",
   "kubernetes_version": "1.14+",
@@ -216,6 +216,20 @@
             {
               "SHA": "e28fcc97",
               "Subject": "Move docs into stashed/docs repo + Cleanup (#718)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2021.04.09",
+          "commits": [
+            {
+              "SHA": "39bdc8e",
+              "Subject": "Prepare for release v2021.04.09 (#172)"
             }
           ]
         }
