@@ -36,6 +36,15 @@
 - [23e24762](https://github.com/stashed/postgres/commit/23e24762) Move docs into stashed/docs repo + Cleanup (#723)
 
 
+### [11.9-v6](https://github.com/stashed/postgres/releases/tag/11.9-v6)
+
+- [ccf2b20e](https://github.com/stashed/postgres/commit/ccf2b20e) Prepare for release 11.9-v6 (#741)
+- [9f1c4f5e](https://github.com/stashed/postgres/commit/9f1c4f5e) [cherry-pick] Update license verifier to v0.8.0 (#736)
+- [59907d93](https://github.com/stashed/postgres/commit/59907d93) [cherry-pick] Update license verifier (#731)
+- [45ecd27f](https://github.com/stashed/postgres/commit/45ecd27f) Prepare for release 11.9-v5 (#725)
+- [e7c1360f](https://github.com/stashed/postgres/commit/e7c1360f) Move docs into stashed/docs repo + Cleanup (#723)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
