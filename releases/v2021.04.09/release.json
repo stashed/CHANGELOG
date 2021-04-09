@@ -132,6 +132,7 @@
           "make gen fmt",
           "helm dependency update charts/stash"
         ],
+        "release_branch": "release-${TAG}",
         "sub_projects": null
       }
     },
