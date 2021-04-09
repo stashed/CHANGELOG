@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.04.09",
-  "release_date": "2021-04-09T08:44:45.59137091Z",
+  "release_date": "2021-04-09T08:44:51.279022492Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.04.09",
   "kubernetes_version": "1.14+",
@@ -321,6 +321,27 @@
             },
             {
               "SHA": "fc2e6da5",
+              "Subject": "Move docs into stashed/docs repo + Cleanup (#855)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v7",
+          "commits": [
+            {
+              "SHA": "4976afaf",
+              "Subject": "Prepare for release 4.0.5-v7 (#880)"
+            },
+            {
+              "SHA": "091ba134",
+              "Subject": "[cherry-pick] Update license verifier to v0.8.0 (#869)"
+            },
+            {
+              "SHA": "f3b618ac",
+              "Subject": "[cherry-pick] Update license verifier (#862)"
+            },
+            {
+              "SHA": "69d29d04",
               "Subject": "Move docs into stashed/docs repo + Cleanup (#855)"
             }
           ]
