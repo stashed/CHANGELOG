@@ -192,6 +192,14 @@
 - [9ee9e47](https://github.com/stashed/mysql/commit/9ee9e47) Move docs into stashed/docs repo + Cleanup (#355)
 
 
+### [8.0.3-v8](https://github.com/stashed/mysql/releases/tag/8.0.3-v8)
+
+- [363bcab](https://github.com/stashed/mysql/commit/363bcab) Prepare for release 8.0.3-v8 (#367)
+- [174f01c](https://github.com/stashed/mysql/commit/174f01c) [cherry-pick] Update license verifier to v0.8.0 (#363)
+- [42f6d9d](https://github.com/stashed/mysql/commit/42f6d9d) [cherry-pick] Update license verifier (#359)
+- [10c6a6f](https://github.com/stashed/mysql/commit/10c6a6f) Move docs into stashed/docs repo + Cleanup (#355)
+
+
 ### [8.0.14-v8](https://github.com/stashed/mysql/releases/tag/8.0.14-v8)
 
 - [ef07360](https://github.com/stashed/mysql/commit/ef07360) Prepare for release 8.0.14-v8 (#365)
