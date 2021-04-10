@@ -119,6 +119,12 @@
 - [3e95bb83](https://github.com/stashed/mongodb/commit/3e95bb83) [cherry-pick] Use license-verifier v0.8.1 (#891)
 
 
+### [4.1.13-v8](https://github.com/stashed/mongodb/releases/tag/4.1.13-v8)
+
+- [391d1cd5](https://github.com/stashed/mongodb/commit/391d1cd5) Use license-verifier v0.8.1 (#907)
+- [f6519aa2](https://github.com/stashed/mongodb/commit/f6519aa2) Prepare for release 4.1.13-v8 (#902)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
