@@ -152,6 +152,11 @@
 - [da866ee](https://github.com/stashed/mysql/commit/da866ee) [cherry-pick] Use license-verifier v0.8.1 (#369)
 
 
+### [8.0.3-v9](https://github.com/stashed/mysql/releases/tag/8.0.3-v9)
+
+- [3f2b1b0](https://github.com/stashed/mysql/commit/3f2b1b0) Prepare for release 8.0.3-v9 (#375)
+
+
 ### [8.0.14-v9](https://github.com/stashed/mysql/releases/tag/8.0.14-v9)
 
 - [5af1e60](https://github.com/stashed/mysql/commit/5af1e60) Prepare for release 8.0.14-v9 (#373)
