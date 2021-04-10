@@ -68,6 +68,11 @@
 - [4830e6d2](https://github.com/stashed/elasticsearch/commit/4830e6d2) Prepare for release 7.2.0-v9 (#755)
 
 
+### [7.3.2-v9](https://github.com/stashed/elasticsearch/releases/tag/7.3.2-v9)
+
+- [9dc99760](https://github.com/stashed/elasticsearch/commit/9dc99760) Prepare for release 7.3.2-v9 (#756)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
