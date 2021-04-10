@@ -1,11 +1,29 @@
 {
   "product_line": "Stash",
   "release": "v2021.04.12",
-  "release_date": "2021-04-10T10:24:37.79320979Z",
+  "release_date": "2021-04-10T10:35:04.733183135Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.04.12",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.12.3",
+          "commits": [
+            {
+              "SHA": "4511a60f",
+              "Subject": "Prepare for release v0.12.3 (#91)"
+            },
+            {
+              "SHA": "d84a4d5b",
+              "Subject": "Use license-verifier v0.8.1"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/apimachinery",
       "releases": [

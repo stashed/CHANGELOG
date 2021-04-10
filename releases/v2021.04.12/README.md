@@ -1,6 +1,15 @@
 # Stash v2021.04.12 (2021-04-10)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.12.3](https://github.com/appscode/stash-enterprise/releases/tag/v0.12.3)
+
+- [4511a60f](https://github.com/appscode/stash-enterprise/commit/4511a60f) Prepare for release v0.12.3 (#91)
+- [d84a4d5b](https://github.com/appscode/stash-enterprise/commit/d84a4d5b) Use license-verifier v0.8.1
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.12.3](https://github.com/stashed/apimachinery/releases/tag/v0.12.3)
