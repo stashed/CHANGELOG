@@ -74,6 +74,15 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v8](https://github.com/stashed/mongodb/releases/tag/3.4.17-v8)
+
+- [08dbb5de](https://github.com/stashed/mongodb/commit/08dbb5de) Prepare for release 3.4.17-v8 (#895)
+- [4794aac5](https://github.com/stashed/mongodb/commit/4794aac5) [cherry-pick] Use license-verifier v0.8.1 (#887)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v7](https://github.com/stashed/postgres/releases/tag/9.6.19-v7)

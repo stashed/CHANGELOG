@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.04.12",
-  "release_date": "2021-04-10T10:59:04.414920753Z",
+  "release_date": "2021-04-10T12:43:48.783183075Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.04.12",
   "kubernetes_version": "1.14+",
@@ -144,6 +144,24 @@
             {
               "SHA": "9dc99760",
               "Subject": "Prepare for release 7.3.2-v9 (#756)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v8",
+          "commits": [
+            {
+              "SHA": "08dbb5de",
+              "Subject": "Prepare for release 3.4.17-v8 (#895)"
+            },
+            {
+              "SHA": "4794aac5",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#887)"
             }
           ]
         }
