@@ -26,6 +26,14 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2021.04.12](https://github.com/stashed/docs/releases/tag/v2021.04.12)
+
+- [e68ad82](https://github.com/stashed/docs/commit/e68ad82) Prepare for release v2021.04.12 (#138)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v9](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v9)
