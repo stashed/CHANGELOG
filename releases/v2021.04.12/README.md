@@ -125,6 +125,12 @@
 - [0f0c448e](https://github.com/stashed/mongodb/commit/0f0c448e) Prepare for release 4.1.4-v8 (#903)
 
 
+### [4.1.7-v8](https://github.com/stashed/mongodb/releases/tag/4.1.7-v8)
+
+- [584b22c9](https://github.com/stashed/mongodb/commit/584b22c9) Use license-verifier v0.8.1 (#906)
+- [c37c8f8d](https://github.com/stashed/mongodb/commit/c37c8f8d) Prepare for release 4.1.7-v8 (#904)
+
+
 ### [4.1.13-v8](https://github.com/stashed/mongodb/releases/tag/4.1.13-v8)
 
 - [391d1cd5](https://github.com/stashed/mongodb/commit/391d1cd5) Use license-verifier v0.8.1 (#907)
