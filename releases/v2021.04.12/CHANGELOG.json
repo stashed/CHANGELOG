@@ -1,0 +1,490 @@
+{
+  "product_line": "Stash",
+  "release": "v2021.04.12",
+  "release_date": "2021-04-10T13:36:09.256412699Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2021.04.12",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.12.3",
+          "commits": [
+            {
+              "SHA": "4511a60f",
+              "Subject": "Prepare for release v0.12.3 (#91)"
+            },
+            {
+              "SHA": "d84a4d5b",
+              "Subject": "Use license-verifier v0.8.1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.12.3",
+          "commits": [
+            {
+              "SHA": "02428080",
+              "Subject": "Update readme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.04.12",
+          "commits": [
+            {
+              "SHA": "6edb5d5",
+              "Subject": "Prepare for release v2021.04.12 (#43)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.12.3",
+          "commits": [
+            {
+              "SHA": "2dfae90",
+              "Subject": "Prepare for release v0.12.3 (#117)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.04.12",
+          "commits": [
+            {
+              "SHA": "e68ad82",
+              "Subject": "Prepare for release v2021.04.12 (#138)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v9",
+          "commits": [
+            {
+              "SHA": "4418b9be",
+              "Subject": "Prepare for release 5.6.4-v9 (#749)"
+            },
+            {
+              "SHA": "4472510b",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#744)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v9",
+          "commits": [
+            {
+              "SHA": "20b4c3ad",
+              "Subject": "Prepare for release 6.2.4-v9 (#750)"
+            },
+            {
+              "SHA": "dbd0843d",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#745)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v9",
+          "commits": [
+            {
+              "SHA": "f2a8bfd1",
+              "Subject": "Prepare for release 6.3.0-v9 (#751)"
+            },
+            {
+              "SHA": "13983884",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#746)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v9",
+          "commits": [
+            {
+              "SHA": "c24d3b01",
+              "Subject": "Prepare for release 6.4.0-v9 (#752)"
+            },
+            {
+              "SHA": "6852abf1",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#747)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v9",
+          "commits": [
+            {
+              "SHA": "7a6fbe57",
+              "Subject": "Prepare for release 6.5.3-v9 (#753)"
+            },
+            {
+              "SHA": "66955dcb",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#748)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v9",
+          "commits": [
+            {
+              "SHA": "94e32907",
+              "Subject": "Prepare for release 6.8.0-v9 (#754)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v9",
+          "commits": [
+            {
+              "SHA": "4830e6d2",
+              "Subject": "Prepare for release 7.2.0-v9 (#755)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v9",
+          "commits": [
+            {
+              "SHA": "9dc99760",
+              "Subject": "Prepare for release 7.3.2-v9 (#756)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2021.04.12",
+          "commits": [
+            {
+              "SHA": "2814743",
+              "Subject": "Prepare for release v2021.04.12 (#173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v3",
+          "commits": [
+            {
+              "SHA": "978701f",
+              "Subject": "Prepare for release 10.5.8-v3 (#95)"
+            },
+            {
+              "SHA": "365ef64",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#94)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v8",
+          "commits": [
+            {
+              "SHA": "08dbb5de",
+              "Subject": "Prepare for release 3.4.17-v8 (#895)"
+            },
+            {
+              "SHA": "4794aac5",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#887)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v8",
+          "commits": [
+            {
+              "SHA": "fd4313cf",
+              "Subject": "Prepare for release 3.4.22-v8 (#896)"
+            },
+            {
+              "SHA": "cc166dc9",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#888)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v8",
+          "commits": [
+            {
+              "SHA": "5a1413b3",
+              "Subject": "Prepare for release 3.6.8-v8 (#898)"
+            },
+            {
+              "SHA": "3188dd06",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#890)"
+            },
+            {
+              "SHA": "1687801d",
+              "Subject": "Update license verifier to v0.8.0 (#885)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v8",
+          "commits": [
+            {
+              "SHA": "1ed5ecde",
+              "Subject": "Prepare for release 3.6.13-v8 (#897)"
+            },
+            {
+              "SHA": "e41bdcaf",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#889)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v8",
+          "commits": [
+            {
+              "SHA": "8df38a7f",
+              "Subject": "Prepare for release 4.0.3-v8 (#900)"
+            },
+            {
+              "SHA": "8ac8b340",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#892)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v8",
+          "commits": [
+            {
+              "SHA": "e7ce9e4b",
+              "Subject": "Prepare for release 4.0.5-v8 (#901)"
+            },
+            {
+              "SHA": "90f5bb72",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#893)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v8",
+          "commits": [
+            {
+              "SHA": "2000f928",
+              "Subject": "Prepare for release 4.0.11-v8 (#899)"
+            },
+            {
+              "SHA": "3e95bb83",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#891)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v8",
+          "commits": [
+            {
+              "SHA": "be030cab",
+              "Subject": "Use license-verifier v0.8.1 (#905)"
+            },
+            {
+              "SHA": "0f0c448e",
+              "Subject": "Prepare for release 4.1.4-v8 (#903)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v8",
+          "commits": [
+            {
+              "SHA": "584b22c9",
+              "Subject": "Use license-verifier v0.8.1 (#906)"
+            },
+            {
+              "SHA": "c37c8f8d",
+              "Subject": "Prepare for release 4.1.7-v8 (#904)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v8",
+          "commits": [
+            {
+              "SHA": "391d1cd5",
+              "Subject": "Use license-verifier v0.8.1 (#907)"
+            },
+            {
+              "SHA": "f6519aa2",
+              "Subject": "Prepare for release 4.1.13-v8 (#902)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v8",
+          "commits": [
+            {
+              "SHA": "67b1ba2d",
+              "Subject": "Prepare for release 4.2.3-v8 (#908)"
+            },
+            {
+              "SHA": "2a2a8e00",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#894)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v9",
+          "commits": [
+            {
+              "SHA": "1a963f9",
+              "Subject": "Prepare for release 5.7.25-v9 (#372)"
+            },
+            {
+              "SHA": "da866ee",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#369)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v9",
+          "commits": [
+            {
+              "SHA": "3f2b1b0",
+              "Subject": "Prepare for release 8.0.3-v9 (#375)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v9",
+          "commits": [
+            {
+              "SHA": "5af1e60",
+              "Subject": "Prepare for release 8.0.14-v9 (#373)"
+            },
+            {
+              "SHA": "0ebdaa8",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#370)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v3",
+          "commits": [
+            {
+              "SHA": "9ca99ac",
+              "Subject": "Prepare for release 8.0.21-v3 (#374)"
+            },
+            {
+              "SHA": "b953faf",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#371)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v7",
+          "commits": [
+            {
+              "SHA": "a1704ca0",
+              "Subject": "Prepare for release 9.6.19-v7 (#751)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v7",
+          "commits": [
+            {
+              "SHA": "b55e8661",
+              "Subject": "Prepare for release 10.14-v7 (#747)"
+            },
+            {
+              "SHA": "33b87ceb",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#746)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v7",
+          "commits": [
+            {
+              "SHA": "b93b6c20",
+              "Subject": "Prepare for release 11.9-v7 (#748)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v7",
+          "commits": [
+            {
+              "SHA": "2461f64e",
+              "Subject": "Prepare for release 12.4-v7 (#749)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v4",
+          "commits": [
+            {
+              "SHA": "b324dc20",
+              "Subject": "Prepare for release 13.1-v4 (#750)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.12.3",
+          "commits": [
+            {
+              "SHA": "28a86cae",
+              "Subject": "Prepare for release v0.12.3 (#1339)"
+            },
+            {
+              "SHA": "2af7d576",
+              "Subject": "Use license-verifier v0.8.1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
