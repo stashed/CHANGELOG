@@ -52,6 +52,12 @@
 - [6852abf1](https://github.com/stashed/elasticsearch/commit/6852abf1) [cherry-pick] Use license-verifier v0.8.1 (#747)
 
 
+### [6.5.3-v9](https://github.com/stashed/elasticsearch/releases/tag/6.5.3-v9)
+
+- [7a6fbe57](https://github.com/stashed/elasticsearch/commit/7a6fbe57) Prepare for release 6.5.3-v9 (#753)
+- [66955dcb](https://github.com/stashed/elasticsearch/commit/66955dcb) [cherry-pick] Use license-verifier v0.8.1 (#748)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
