@@ -74,6 +74,15 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v3](https://github.com/stashed/mariadb/releases/tag/10.5.8-v3)
+
+- [978701f](https://github.com/stashed/mariadb/commit/978701f) Prepare for release 10.5.8-v3 (#95)
+- [365ef64](https://github.com/stashed/mariadb/commit/365ef64) [cherry-pick] Use license-verifier v0.8.1 (#94)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v8](https://github.com/stashed/mongodb/releases/tag/3.4.17-v8)
