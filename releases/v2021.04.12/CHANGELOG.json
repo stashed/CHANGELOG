@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.04.12",
-  "release_date": "2021-04-10T12:43:57.355118422Z",
+  "release_date": "2021-04-10T12:44:00.344028756Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.04.12",
   "kubernetes_version": "1.14+",
@@ -205,6 +205,19 @@
             {
               "SHA": "e41bdcaf",
               "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#889)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v8",
+          "commits": [
+            {
+              "SHA": "2000f928",
+              "Subject": "Prepare for release 4.0.11-v8 (#899)"
+            },
+            {
+              "SHA": "3e95bb83",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#891)"
             }
           ]
         }
