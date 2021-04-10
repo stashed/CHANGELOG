@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.04.12",
-  "release_date": "2021-04-10T12:59:47.825931204Z",
+  "release_date": "2021-04-10T13:10:23.073893532Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.04.12",
   "kubernetes_version": "1.14+",
@@ -144,6 +144,20 @@
             {
               "SHA": "9dc99760",
               "Subject": "Prepare for release 7.3.2-v9 (#756)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2021.04.12",
+          "commits": [
+            {
+              "SHA": "2814743",
+              "Subject": "Prepare for release v2021.04.12 (#173)"
             }
           ]
         }
