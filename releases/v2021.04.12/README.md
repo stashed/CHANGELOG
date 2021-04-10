@@ -26,6 +26,15 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.14-v7](https://github.com/stashed/postgres/releases/tag/10.14-v7)
+
+- [b55e8661](https://github.com/stashed/postgres/commit/b55e8661) Prepare for release 10.14-v7 (#747)
+- [33b87ceb](https://github.com/stashed/postgres/commit/33b87ceb) [cherry-pick] Use license-verifier v0.8.1 (#746)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.12.3](https://github.com/stashed/stash/releases/tag/v0.12.3)
