@@ -144,6 +144,15 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v9](https://github.com/stashed/mysql/releases/tag/5.7.25-v9)
+
+- [1a963f9](https://github.com/stashed/mysql/commit/1a963f9) Prepare for release 5.7.25-v9 (#372)
+- [da866ee](https://github.com/stashed/mysql/commit/da866ee) [cherry-pick] Use license-verifier v0.8.1 (#369)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v7](https://github.com/stashed/postgres/releases/tag/9.6.19-v7)
