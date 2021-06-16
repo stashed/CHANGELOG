@@ -116,6 +116,16 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2021.6.18](https://github.com/stashed/installer/releases/tag/v2021.6.18)
+
+- [2082d2d](https://github.com/stashed/installer/commit/2082d2d) Prepare for release v2021.6.18 (#177)
+- [1a0fccb](https://github.com/stashed/installer/commit/1a0fccb) Update user-roles for v1beta1 APIs (#176)
+- [3334ea0](https://github.com/stashed/installer/commit/3334ea0) Use k8s 1.21.0 toolchain (#175)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v9](https://github.com/stashed/mongodb/releases/tag/3.4.17-v9)

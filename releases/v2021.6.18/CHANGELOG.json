@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.6.18",
-  "release_date": "2021-06-16T10:48:09.900493019Z",
+  "release_date": "2021-06-16T10:57:52.913842555Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.6.18",
   "kubernetes_version": "1.14+",
@@ -312,6 +312,28 @@
             {
               "SHA": "bfab7862",
               "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2021.6.18",
+          "commits": [
+            {
+              "SHA": "2082d2d",
+              "Subject": "Prepare for release v2021.6.18 (#177)"
+            },
+            {
+              "SHA": "1a0fccb",
+              "Subject": "Update user-roles for v1beta1 APIs (#176)"
+            },
+            {
+              "SHA": "3334ea0",
+              "Subject": "Use k8s 1.21.0 toolchain (#175)"
             }
           ]
         }
