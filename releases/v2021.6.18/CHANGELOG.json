@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.6.18",
-  "release_date": "2021-06-16T09:31:31.257662619Z",
+  "release_date": "2021-06-16T09:39:13.822301657Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.6.18",
   "kubernetes_version": "1.14+",
@@ -97,6 +97,48 @@
             {
               "SHA": "1157edb1",
               "Subject": "Cleanup dependencies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "ceef781",
+              "Subject": "Prepare for release v0.14.0 (#124)"
+            },
+            {
+              "SHA": "7e1fb45",
+              "Subject": "Use klog/v2 (#123)"
+            },
+            {
+              "SHA": "4eee2a0",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "5de2bb5",
+              "Subject": "Use klog/v2 (#122)"
+            },
+            {
+              "SHA": "6a110fc",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#121)"
+            },
+            {
+              "SHA": "bea398c",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#120)"
+            },
+            {
+              "SHA": "8f1a18f",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#119)"
+            },
+            {
+              "SHA": "45b1b13",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#118)"
             }
           ]
         }

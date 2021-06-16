@@ -34,6 +34,21 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.14.0](https://github.com/stashed/cli/releases/tag/v0.14.0)
+
+- [ceef781](https://github.com/stashed/cli/commit/ceef781) Prepare for release v0.14.0 (#124)
+- [7e1fb45](https://github.com/stashed/cli/commit/7e1fb45) Use klog/v2 (#123)
+- [4eee2a0](https://github.com/stashed/cli/commit/4eee2a0) Use kglog helper
+- [5de2bb5](https://github.com/stashed/cli/commit/5de2bb5) Use klog/v2 (#122)
+- [6a110fc](https://github.com/stashed/cli/commit/6a110fc) Use Kubernetes v1.21.0 toolchain (#121)
+- [bea398c](https://github.com/stashed/cli/commit/bea398c) Use Kubernetes v1.21.0 toolchain (#120)
+- [8f1a18f](https://github.com/stashed/cli/commit/8f1a18f) Use Kubernetes v1.21.0 toolchain (#119)
+- [45b1b13](https://github.com/stashed/cli/commit/45b1b13) Update Kubernetes toolchain to v1.21.0 (#118)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.14.0](https://github.com/stashed/stash/releases/tag/v0.14.0)
