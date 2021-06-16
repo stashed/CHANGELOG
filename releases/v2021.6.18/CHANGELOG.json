@@ -1,0 +1,56 @@
+{
+  "product_line": "Stash",
+  "release": "v2021.6.18",
+  "release_date": "2021-06-16T08:48:19.496432137Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2021.6.18",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.13.1",
+          "commits": [
+            {
+              "SHA": "a382bbe2",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "0d9f6eec",
+              "Subject": "Update dependencies (#101)"
+            },
+            {
+              "SHA": "6abdb1e2",
+              "Subject": "Replace go-bindata with //go:embed (#100)"
+            },
+            {
+              "SHA": "974fc12c",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "ae165464",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "15d8c532",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "06ac37bd",
+              "Subject": "Only depend on klog/v2"
+            },
+            {
+              "SHA": "79f9a3fe",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#98)"
+            },
+            {
+              "SHA": "1157edb1",
+              "Subject": "Cleanup dependencies"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
