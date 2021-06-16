@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.6.18",
-  "release_date": "2021-06-16T10:38:42.051221464Z",
+  "release_date": "2021-06-16T10:48:09.900493019Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.6.18",
   "kubernetes_version": "1.14+",
@@ -682,6 +682,140 @@
             {
               "SHA": "c6999cf0",
               "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v5",
+          "commits": [
+            {
+              "SHA": "1e66b08",
+              "Subject": "Prepare for release 5.7-v5 (#181)"
+            },
+            {
+              "SHA": "dedc120",
+              "Subject": "[cherry-pick] Use klog/v2 (#179) (#180)"
+            },
+            {
+              "SHA": "95cc309",
+              "Subject": "[cherry-pick] Use kglog helper (#178)"
+            },
+            {
+              "SHA": "a8338c8",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            },
+            {
+              "SHA": "a0a9785",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#168)"
+            },
+            {
+              "SHA": "1f9029a",
+              "Subject": "[cherry-pick] Update license verifier to v0.8.0 (#167)"
+            },
+            {
+              "SHA": "0dd44c3",
+              "Subject": "[cherry-pick] Update license verifier (#166)"
+            },
+            {
+              "SHA": "20481d6",
+              "Subject": "[cherry-pick] Fix spelling (#165)"
+            },
+            {
+              "SHA": "0fd7b26",
+              "Subject": "Move docs into stashed/docs repo + Cleanup (#164)"
+            },
+            {
+              "SHA": "bc52132",
+              "Subject": "Prepare for release 5.7.0-v2 (#161)"
+            },
+            {
+              "SHA": "68eb8b6",
+              "Subject": "[cherry-pick] Update repository config (#159) (#160)"
+            },
+            {
+              "SHA": "aaecf26",
+              "Subject": "Support multiple commands in backup/restore pipeline (#157) (#158)"
+            },
+            {
+              "SHA": "4c6a086",
+              "Subject": "Update repository config (#153) (#154)"
+            },
+            {
+              "SHA": "22f48d0",
+              "Subject": "Use restic 0.12.0 (#150) (#151)"
+            },
+            {
+              "SHA": "a3645ac",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#148) (#149)"
+            },
+            {
+              "SHA": "affd376",
+              "Subject": "[cherry-pick] Check codespan schema (#146) (#147)"
+            },
+            {
+              "SHA": "0c3d3ad",
+              "Subject": "[cherry-pick] Update repository config (#141) (#142)"
+            },
+            {
+              "SHA": "937cfc8",
+              "Subject": "[cherry-pick] Update repository config (#139) (#140)"
+            },
+            {
+              "SHA": "8d03640",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#137) (#138)"
+            },
+            {
+              "SHA": "d6442e5",
+              "Subject": "[cherry-pick] Update repository config (#134) (#135)"
+            },
+            {
+              "SHA": "301bd0a",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#132) (#133)"
+            },
+            {
+              "SHA": "b9865e8",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#130) (#131)"
+            },
+            {
+              "SHA": "5ab3eaa",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#128) (#129)"
+            },
+            {
+              "SHA": "3e48d47",
+              "Subject": "Prepare for release 5.7.0-v1 (#126)"
+            },
+            {
+              "SHA": "42458b3",
+              "Subject": "Use port from AppBinding (#120) (#125)"
+            },
+            {
+              "SHA": "70d872d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#123) (#124)"
+            },
+            {
+              "SHA": "2927d77",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#121) (#122)"
+            },
+            {
+              "SHA": "fadf2d3",
+              "Subject": "Prepare for release 5.7.0 (#118)"
+            },
+            {
+              "SHA": "4ea69c8",
+              "Subject": "[cherry-pick] Update repository config (#116) (#117)"
+            },
+            {
+              "SHA": "a133516",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#114) (#115)"
+            },
+            {
+              "SHA": "1b7be58",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#112) (#113)"
             }
           ]
         }

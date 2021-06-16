@@ -256,6 +256,44 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v5](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v5)
+
+- [1e66b08](https://github.com/stashed/percona-xtradb/commit/1e66b08) Prepare for release 5.7-v5 (#181)
+- [dedc120](https://github.com/stashed/percona-xtradb/commit/dedc120) [cherry-pick] Use klog/v2 (#179) (#180)
+- [95cc309](https://github.com/stashed/percona-xtradb/commit/95cc309) [cherry-pick] Use kglog helper (#178)
+- [a8338c8](https://github.com/stashed/percona-xtradb/commit/a8338c8) Use k8s 1.21.0 toolchain
+- [a0a9785](https://github.com/stashed/percona-xtradb/commit/a0a9785) [cherry-pick] Use license-verifier v0.8.1 (#168)
+- [1f9029a](https://github.com/stashed/percona-xtradb/commit/1f9029a) [cherry-pick] Update license verifier to v0.8.0 (#167)
+- [0dd44c3](https://github.com/stashed/percona-xtradb/commit/0dd44c3) [cherry-pick] Update license verifier (#166)
+- [20481d6](https://github.com/stashed/percona-xtradb/commit/20481d6) [cherry-pick] Fix spelling (#165)
+- [0fd7b26](https://github.com/stashed/percona-xtradb/commit/0fd7b26) Move docs into stashed/docs repo + Cleanup (#164)
+- [bc52132](https://github.com/stashed/percona-xtradb/commit/bc52132) Prepare for release 5.7.0-v2 (#161)
+- [68eb8b6](https://github.com/stashed/percona-xtradb/commit/68eb8b6) [cherry-pick] Update repository config (#159) (#160)
+- [aaecf26](https://github.com/stashed/percona-xtradb/commit/aaecf26) Support multiple commands in backup/restore pipeline (#157) (#158)
+- [4c6a086](https://github.com/stashed/percona-xtradb/commit/4c6a086) Update repository config (#153) (#154)
+- [22f48d0](https://github.com/stashed/percona-xtradb/commit/22f48d0) Use restic 0.12.0 (#150) (#151)
+- [a3645ac](https://github.com/stashed/percona-xtradb/commit/a3645ac) Update Kubernetes v1.18.9 dependencies (#148) (#149)
+- [affd376](https://github.com/stashed/percona-xtradb/commit/affd376) [cherry-pick] Check codespan schema (#146) (#147)
+- [0c3d3ad](https://github.com/stashed/percona-xtradb/commit/0c3d3ad) [cherry-pick] Update repository config (#141) (#142)
+- [937cfc8](https://github.com/stashed/percona-xtradb/commit/937cfc8) [cherry-pick] Update repository config (#139) (#140)
+- [8d03640](https://github.com/stashed/percona-xtradb/commit/8d03640) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#137) (#138)
+- [d6442e5](https://github.com/stashed/percona-xtradb/commit/d6442e5) [cherry-pick] Update repository config (#134) (#135)
+- [301bd0a](https://github.com/stashed/percona-xtradb/commit/301bd0a) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#132) (#133)
+- [b9865e8](https://github.com/stashed/percona-xtradb/commit/b9865e8) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#130) (#131)
+- [5ab3eaa](https://github.com/stashed/percona-xtradb/commit/5ab3eaa) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#128) (#129)
+- [3e48d47](https://github.com/stashed/percona-xtradb/commit/3e48d47) Prepare for release 5.7.0-v1 (#126)
+- [42458b3](https://github.com/stashed/percona-xtradb/commit/42458b3) Use port from AppBinding (#120) (#125)
+- [70d872d](https://github.com/stashed/percona-xtradb/commit/70d872d) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#123) (#124)
+- [2927d77](https://github.com/stashed/percona-xtradb/commit/2927d77) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#121) (#122)
+- [fadf2d3](https://github.com/stashed/percona-xtradb/commit/fadf2d3) Prepare for release 5.7.0 (#118)
+- [4ea69c8](https://github.com/stashed/percona-xtradb/commit/4ea69c8) [cherry-pick] Update repository config (#116) (#117)
+- [a133516](https://github.com/stashed/percona-xtradb/commit/a133516) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#114) (#115)
+- [1b7be58](https://github.com/stashed/percona-xtradb/commit/1b7be58) [cherry-pick] Update Kubernetes v1.18.9 dependencies (#112) (#113)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v8](https://github.com/stashed/postgres/releases/tag/9.6.19-v8)
