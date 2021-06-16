@@ -78,6 +78,15 @@
 - [4d4a1fb8](https://github.com/stashed/postgres/commit/4d4a1fb8) Use k8s 1.21.0 toolchain
 
 
+### [13.1-v5](https://github.com/stashed/postgres/releases/tag/13.1-v5)
+
+- [20973db6](https://github.com/stashed/postgres/commit/20973db6) Prepare for release 13.1-v5 (#798)
+- [85fac622](https://github.com/stashed/postgres/commit/85fac622) [cherry-pick] Use gomodules.xyz/go-sh (#789) (#793)
+- [a903b4df](https://github.com/stashed/postgres/commit/a903b4df) [cherry-pick] Use klog/v2 (#783) (#787)
+- [9c91b43d](https://github.com/stashed/postgres/commit/9c91b43d) [cherry-pick] Use kglog helper (#781)
+- [dc1f023f](https://github.com/stashed/postgres/commit/dc1f023f) Use k8s 1.21.0 toolchain
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
