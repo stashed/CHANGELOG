@@ -235,6 +235,16 @@
 - [cbfe8255](https://github.com/stashed/mysql/commit/cbfe8255) [cherry-pick] Update Kubernetes toolchain to v1.21.0 (#377) (#379)
 
 
+### [8.0.21-v4](https://github.com/stashed/mysql/releases/tag/8.0.21-v4)
+
+- [784b9d43](https://github.com/stashed/mysql/commit/784b9d43) Prepare for release 8.0.21-v4 (#425)
+- [00cebf5b](https://github.com/stashed/mysql/commit/00cebf5b) [cherry-pick] Bring back the wait loop (#418) (#421)
+- [061cb623](https://github.com/stashed/mysql/commit/061cb623) Merge pull request #416 from stashed/master-b0db4d5e-8.0.21
+- [e2b260b6](https://github.com/stashed/mysql/commit/e2b260b6) Use klog/v2 (#413)
+- [c56b36ef](https://github.com/stashed/mysql/commit/c56b36ef) [cherry-pick] Use kglog helper (#411)
+- [c6999cf0](https://github.com/stashed/mysql/commit/c6999cf0) Use k8s 1.21.0 toolchain
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
