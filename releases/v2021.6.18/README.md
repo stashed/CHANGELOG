@@ -49,6 +49,17 @@
 
 
 
+## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
+
+### [5.6.4-v10](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v10)
+
+- [00e2fb3b](https://github.com/stashed/elasticsearch/commit/00e2fb3b) Prepare for release 5.6.4-v10 (#819)
+- [d3954cad](https://github.com/stashed/elasticsearch/commit/d3954cad) [cherry-pick] Use klog/v2 (#810) (#811)
+- [51f5e943](https://github.com/stashed/elasticsearch/commit/51f5e943) [cherry-pick] Use kglog helper (#802)
+- [bb125283](https://github.com/stashed/elasticsearch/commit/bb125283) Use k8s 1.21.0 toolchain
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v8](https://github.com/stashed/postgres/releases/tag/9.6.19-v8)
