@@ -150,6 +150,14 @@
 - [07d09f0d](https://github.com/stashed/mongodb/commit/07d09f0d) Use k8s 1.21.0 toolchain
 
 
+### [4.0.11-v9](https://github.com/stashed/mongodb/releases/tag/4.0.11-v9)
+
+- [7b685c24](https://github.com/stashed/mongodb/commit/7b685c24) Prepare for release 4.0.11-v9 (#985)
+- [7fdf52db](https://github.com/stashed/mongodb/commit/7fdf52db) [cherry-pick] Use klog/v2 (#969) (#974)
+- [880ba142](https://github.com/stashed/mongodb/commit/880ba142) [cherry-pick] Use kglog helper (#962)
+- [d555bcd5](https://github.com/stashed/mongodb/commit/d555bcd5) Use k8s 1.21.0 toolchain
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
