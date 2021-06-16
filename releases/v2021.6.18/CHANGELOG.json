@@ -1,11 +1,61 @@
 {
   "product_line": "Stash",
   "release": "v2021.6.18",
-  "release_date": "2021-06-16T09:25:59.924490501Z",
+  "release_date": "2021-06-16T09:31:31.257662619Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.6.18",
   "kubernetes_version": "1.14+",
   "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "6d2613e7",
+              "Subject": "Prepare for release v0.14.0 (#100)"
+            },
+            {
+              "SHA": "f8afa76d",
+              "Subject": "Send audit events when analytics are enabled (#99)"
+            },
+            {
+              "SHA": "cdb3b3fe",
+              "Subject": "Fix operator crash + E2E tests (#98)"
+            },
+            {
+              "SHA": "4288f0c2",
+              "Subject": "Use namespace when looking up running BackupSessions for Invoker (#97)"
+            },
+            {
+              "SHA": "64c7d7c9",
+              "Subject": "Create auditor if license file is provided (#96)"
+            },
+            {
+              "SHA": "5e193ea9",
+              "Subject": "Disable api priortiy and fairness feature for webhook server (#95)"
+            },
+            {
+              "SHA": "b4fcc0b6",
+              "Subject": "Publish audit events (#94)"
+            },
+            {
+              "SHA": "d785fec3",
+              "Subject": "Use klog/v2 (#93)"
+            },
+            {
+              "SHA": "324e9aa4",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "8b4c6fd6",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#92)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/apimachinery",
       "releases": [
