@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.6.18",
-  "release_date": "2021-06-16T10:38:29.06809044Z",
+  "release_date": "2021-06-16T10:38:33.356596277Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.6.18",
   "kubernetes_version": "1.14+",
@@ -591,6 +591,39 @@
             {
               "SHA": "c430ec91",
               "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v10",
+          "commits": [
+            {
+              "SHA": "deeb3b99",
+              "Subject": "Prepare for release 8.0.14-v10 (#424)"
+            },
+            {
+              "SHA": "dca508ca",
+              "Subject": "[cherry-pick] Bring back the wait loop (#418) (#420)"
+            },
+            {
+              "SHA": "1c547c34",
+              "Subject": "Merge pull request #415 from stashed/master-b0db4d5e-8.0.14"
+            },
+            {
+              "SHA": "62b23b52",
+              "Subject": "Use klog/v2 (#413)"
+            },
+            {
+              "SHA": "ce373065",
+              "Subject": "[cherry-pick] Use kglog helper (#410)"
+            },
+            {
+              "SHA": "274264cc",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            },
+            {
+              "SHA": "cbfe8255",
+              "Subject": "[cherry-pick] Update Kubernetes toolchain to v1.21.0 (#377) (#379)"
             }
           ]
         }
