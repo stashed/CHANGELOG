@@ -1,0 +1,1054 @@
+{
+  "product_line": "Stash",
+  "release": "v2021.6.18",
+  "release_date": "2021-06-16T13:04:06.527847798Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2021.6.18",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "6d2613e7",
+              "Subject": "Prepare for release v0.14.0 (#100)"
+            },
+            {
+              "SHA": "f8afa76d",
+              "Subject": "Send audit events when analytics are enabled (#99)"
+            },
+            {
+              "SHA": "cdb3b3fe",
+              "Subject": "Fix operator crash + E2E tests (#98)"
+            },
+            {
+              "SHA": "4288f0c2",
+              "Subject": "Use namespace when looking up running BackupSessions for Invoker (#97)"
+            },
+            {
+              "SHA": "64c7d7c9",
+              "Subject": "Create auditor if license file is provided (#96)"
+            },
+            {
+              "SHA": "5e193ea9",
+              "Subject": "Disable api priortiy and fairness feature for webhook server (#95)"
+            },
+            {
+              "SHA": "b4fcc0b6",
+              "Subject": "Publish audit events (#94)"
+            },
+            {
+              "SHA": "d785fec3",
+              "Subject": "Use klog/v2 (#93)"
+            },
+            {
+              "SHA": "324e9aa4",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "8b4c6fd6",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#92)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "a382bbe2",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "0d9f6eec",
+              "Subject": "Update dependencies (#101)"
+            },
+            {
+              "SHA": "6abdb1e2",
+              "Subject": "Replace go-bindata with //go:embed (#100)"
+            },
+            {
+              "SHA": "974fc12c",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "ae165464",
+              "Subject": "Fix build"
+            },
+            {
+              "SHA": "15d8c532",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "06ac37bd",
+              "Subject": "Only depend on klog/v2"
+            },
+            {
+              "SHA": "79f9a3fe",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#98)"
+            },
+            {
+              "SHA": "1157edb1",
+              "Subject": "Cleanup dependencies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.6.18",
+          "commits": [
+            {
+              "SHA": "a34cc18",
+              "Subject": "Prepare for release v2021.6.18 (#44)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "ceef781",
+              "Subject": "Prepare for release v0.14.0 (#124)"
+            },
+            {
+              "SHA": "7e1fb45",
+              "Subject": "Use klog/v2 (#123)"
+            },
+            {
+              "SHA": "4eee2a0",
+              "Subject": "Use kglog helper"
+            },
+            {
+              "SHA": "5de2bb5",
+              "Subject": "Use klog/v2 (#122)"
+            },
+            {
+              "SHA": "6a110fc",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#121)"
+            },
+            {
+              "SHA": "bea398c",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#120)"
+            },
+            {
+              "SHA": "8f1a18f",
+              "Subject": "Use Kubernetes v1.21.0 toolchain (#119)"
+            },
+            {
+              "SHA": "45b1b13",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.6.18",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v10",
+          "commits": [
+            {
+              "SHA": "00e2fb3b",
+              "Subject": "Prepare for release 5.6.4-v10 (#819)"
+            },
+            {
+              "SHA": "d3954cad",
+              "Subject": "[cherry-pick] Use klog/v2 (#810) (#811)"
+            },
+            {
+              "SHA": "51f5e943",
+              "Subject": "[cherry-pick] Use kglog helper (#802)"
+            },
+            {
+              "SHA": "bb125283",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v10",
+          "commits": [
+            {
+              "SHA": "6cd15ccb",
+              "Subject": "Prepare for release 6.2.4-v10 (#820)"
+            },
+            {
+              "SHA": "e6a3e186",
+              "Subject": "[cherry-pick] Use klog/v2 (#810) (#812)"
+            },
+            {
+              "SHA": "d969c43d",
+              "Subject": "[cherry-pick] Use kglog helper (#803)"
+            },
+            {
+              "SHA": "b7cc8f39",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v10",
+          "commits": [
+            {
+              "SHA": "3368493b",
+              "Subject": "Prepare for release 6.3.0-v10 (#821)"
+            },
+            {
+              "SHA": "134b13c9",
+              "Subject": "[cherry-pick] Use klog/v2 (#810) (#813)"
+            },
+            {
+              "SHA": "0b48f103",
+              "Subject": "[cherry-pick] Use kglog helper (#804)"
+            },
+            {
+              "SHA": "ac207bc9",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v10",
+          "commits": [
+            {
+              "SHA": "fe813d50",
+              "Subject": "Prepare for release 6.4.0-v10 (#822)"
+            },
+            {
+              "SHA": "d69452ab",
+              "Subject": "[cherry-pick] Use klog/v2 (#810) (#814)"
+            },
+            {
+              "SHA": "74afb891",
+              "Subject": "[cherry-pick] Use kglog helper (#805)"
+            },
+            {
+              "SHA": "9b94b942",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v10",
+          "commits": [
+            {
+              "SHA": "a101ccaa",
+              "Subject": "Prepare for release 6.5.3-v10 (#823)"
+            },
+            {
+              "SHA": "73230f53",
+              "Subject": "[cherry-pick] Use klog/v2 (#810) (#815)"
+            },
+            {
+              "SHA": "023a0131",
+              "Subject": "[cherry-pick] Use kglog helper (#806)"
+            },
+            {
+              "SHA": "a4d28503",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v10",
+          "commits": [
+            {
+              "SHA": "8a683935",
+              "Subject": "Prepare for release 6.8.0-v10 (#824)"
+            },
+            {
+              "SHA": "db27f0d1",
+              "Subject": "[cherry-pick] Use klog/v2 (#810) (#816)"
+            },
+            {
+              "SHA": "970ef1a1",
+              "Subject": "[cherry-pick] Use kglog helper (#807)"
+            },
+            {
+              "SHA": "e1e24ec7",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v10",
+          "commits": [
+            {
+              "SHA": "4eac1ea9",
+              "Subject": "Prepare for release 7.2.0-v10 (#825)"
+            },
+            {
+              "SHA": "2aa02a10",
+              "Subject": "[cherry-pick] Use klog/v2 (#810) (#817)"
+            },
+            {
+              "SHA": "9dd713c7",
+              "Subject": "[cherry-pick] Use kglog helper (#808)"
+            },
+            {
+              "SHA": "1495f883",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v10",
+          "commits": [
+            {
+              "SHA": "2808b0ba",
+              "Subject": "Prepare for release 7.3.2-v10 (#826)"
+            },
+            {
+              "SHA": "478a1f1d",
+              "Subject": "[cherry-pick] Use klog/v2 (#810) (#818)"
+            },
+            {
+              "SHA": "68236dc9",
+              "Subject": "[cherry-pick] Use kglog helper (#809)"
+            },
+            {
+              "SHA": "bfab7862",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2021.6.18",
+          "commits": [
+            {
+              "SHA": "2082d2d",
+              "Subject": "Prepare for release v2021.6.18 (#177)"
+            },
+            {
+              "SHA": "1a0fccb",
+              "Subject": "Update user-roles for v1beta1 APIs (#176)"
+            },
+            {
+              "SHA": "3334ea0",
+              "Subject": "Use k8s 1.21.0 toolchain (#175)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v9",
+          "commits": [
+            {
+              "SHA": "3c439686",
+              "Subject": "Prepare for release 3.4.17-v9 (#981)"
+            },
+            {
+              "SHA": "767e3e91",
+              "Subject": "[cherry-pick] Use klog/v2 (#969) (#970)"
+            },
+            {
+              "SHA": "18054cc7",
+              "Subject": "[cherry-pick] Use kglog helper (#958)"
+            },
+            {
+              "SHA": "27c8e858",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v9",
+          "commits": [
+            {
+              "SHA": "d79dd9fa",
+              "Subject": "Prepare for release 3.4.22-v9 (#982)"
+            },
+            {
+              "SHA": "5af76acd",
+              "Subject": "[cherry-pick] Use klog/v2 (#969) (#971)"
+            },
+            {
+              "SHA": "07acc184",
+              "Subject": "[cherry-pick] Use kglog helper (#959)"
+            },
+            {
+              "SHA": "b1607397",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v9",
+          "commits": [
+            {
+              "SHA": "5b8ba177",
+              "Subject": "Prepare for release 3.6.8-v9 (#984)"
+            },
+            {
+              "SHA": "1c02bbf8",
+              "Subject": "[cherry-pick] Use klog/v2 (#969) (#973)"
+            },
+            {
+              "SHA": "c580d161",
+              "Subject": "[cherry-pick] Use kglog helper (#961)"
+            },
+            {
+              "SHA": "b13bf55e",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v9",
+          "commits": [
+            {
+              "SHA": "d947b446",
+              "Subject": "Prepare for release 3.6.13-v9 (#983)"
+            },
+            {
+              "SHA": "b2f4a881",
+              "Subject": "[cherry-pick] Use klog/v2 (#969) (#972)"
+            },
+            {
+              "SHA": "0551d36c",
+              "Subject": "[cherry-pick] Use kglog helper (#960)"
+            },
+            {
+              "SHA": "07d09f0d",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v9",
+          "commits": [
+            {
+              "SHA": "401bc9aa",
+              "Subject": "Prepare for release 4.0.3-v9 (#986)"
+            },
+            {
+              "SHA": "fcdd878e",
+              "Subject": "[cherry-pick] Use klog/v2 (#969) (#975)"
+            },
+            {
+              "SHA": "ab65b810",
+              "Subject": "[cherry-pick] Use kglog helper (#963)"
+            },
+            {
+              "SHA": "184f230e",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v9",
+          "commits": [
+            {
+              "SHA": "ae5c3955",
+              "Subject": "Prepare for release 4.0.5-v9 (#987)"
+            },
+            {
+              "SHA": "09acaf2c",
+              "Subject": "[cherry-pick] Use klog/v2 (#969) (#976)"
+            },
+            {
+              "SHA": "a9519e31",
+              "Subject": "[cherry-pick] Use kglog helper (#964)"
+            },
+            {
+              "SHA": "e1bf6ac9",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v9",
+          "commits": [
+            {
+              "SHA": "7b685c24",
+              "Subject": "Prepare for release 4.0.11-v9 (#985)"
+            },
+            {
+              "SHA": "7fdf52db",
+              "Subject": "[cherry-pick] Use klog/v2 (#969) (#974)"
+            },
+            {
+              "SHA": "880ba142",
+              "Subject": "[cherry-pick] Use kglog helper (#962)"
+            },
+            {
+              "SHA": "d555bcd5",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v9",
+          "commits": [
+            {
+              "SHA": "6e674543",
+              "Subject": "Prepare for release 4.1.4-v9 (#989)"
+            },
+            {
+              "SHA": "84241d32",
+              "Subject": "[cherry-pick] Use klog/v2 (#969) (#978)"
+            },
+            {
+              "SHA": "795b28db",
+              "Subject": "[cherry-pick] Use kglog helper (#966)"
+            },
+            {
+              "SHA": "784b8616",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v9",
+          "commits": [
+            {
+              "SHA": "42699cc7",
+              "Subject": "Prepare for release 4.1.7-v9 (#990)"
+            },
+            {
+              "SHA": "8e77beec",
+              "Subject": "[cherry-pick] Use klog/v2 (#969) (#979)"
+            },
+            {
+              "SHA": "6e078f0b",
+              "Subject": "[cherry-pick] Use kglog helper (#967)"
+            },
+            {
+              "SHA": "ff4a14a3",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v9",
+          "commits": [
+            {
+              "SHA": "178750b5",
+              "Subject": "Prepare for release 4.1.13-v9 (#988)"
+            },
+            {
+              "SHA": "378f5fb7",
+              "Subject": "[cherry-pick] Use klog/v2 (#969) (#977)"
+            },
+            {
+              "SHA": "0571b8fd",
+              "Subject": "[cherry-pick] Use kglog helper (#965)"
+            },
+            {
+              "SHA": "af3b544f",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v9",
+          "commits": [
+            {
+              "SHA": "54bf57ea",
+              "Subject": "Prepare for release 4.2.3-v9 (#991)"
+            },
+            {
+              "SHA": "f6276ddd",
+              "Subject": "[cherry-pick] Use klog/v2 (#969) (#980)"
+            },
+            {
+              "SHA": "8ead06e7",
+              "Subject": "[cherry-pick] Use kglog helper (#968)"
+            },
+            {
+              "SHA": "1be76961",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6",
+          "commits": [
+            {
+              "SHA": "cf1ad82d",
+              "Subject": "Stash addon for 4.4.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v10",
+          "commits": [
+            {
+              "SHA": "fbbdea8e",
+              "Subject": "Prepare for release 5.7.25-v10 (#423)"
+            },
+            {
+              "SHA": "9dbc56ef",
+              "Subject": "[cherry-pick] Bring back the wait loop (#418) (#419)"
+            },
+            {
+              "SHA": "27d3b793",
+              "Subject": "Merge pull request #414 from stashed/master-b0db4d5e-5.7.25"
+            },
+            {
+              "SHA": "363734fc",
+              "Subject": "Use klog/v2 (#413)"
+            },
+            {
+              "SHA": "84f0a160",
+              "Subject": "[cherry-pick] Use kglog helper (#409)"
+            },
+            {
+              "SHA": "c430ec91",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v10",
+          "commits": [
+            {
+              "SHA": "30d727cb",
+              "Subject": "Prepare for release 8.0.3-v10 (#426)"
+            },
+            {
+              "SHA": "641cdaab",
+              "Subject": "[cherry-pick] Bring back the wait loop (#418) (#422)"
+            },
+            {
+              "SHA": "abe44d1a",
+              "Subject": "Merge pull request #417 from stashed/master-b0db4d5e-8.0.3"
+            },
+            {
+              "SHA": "2208a806",
+              "Subject": "Use klog/v2 (#413)"
+            },
+            {
+              "SHA": "5d71f395",
+              "Subject": "[cherry-pick] Use kglog helper (#412)"
+            },
+            {
+              "SHA": "37726d79",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v10",
+          "commits": [
+            {
+              "SHA": "deeb3b99",
+              "Subject": "Prepare for release 8.0.14-v10 (#424)"
+            },
+            {
+              "SHA": "dca508ca",
+              "Subject": "[cherry-pick] Bring back the wait loop (#418) (#420)"
+            },
+            {
+              "SHA": "1c547c34",
+              "Subject": "Merge pull request #415 from stashed/master-b0db4d5e-8.0.14"
+            },
+            {
+              "SHA": "62b23b52",
+              "Subject": "Use klog/v2 (#413)"
+            },
+            {
+              "SHA": "ce373065",
+              "Subject": "[cherry-pick] Use kglog helper (#410)"
+            },
+            {
+              "SHA": "274264cc",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            },
+            {
+              "SHA": "cbfe8255",
+              "Subject": "[cherry-pick] Update Kubernetes toolchain to v1.21.0 (#377) (#379)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v4",
+          "commits": [
+            {
+              "SHA": "784b9d43",
+              "Subject": "Prepare for release 8.0.21-v4 (#425)"
+            },
+            {
+              "SHA": "00cebf5b",
+              "Subject": "[cherry-pick] Bring back the wait loop (#418) (#421)"
+            },
+            {
+              "SHA": "061cb623",
+              "Subject": "Merge pull request #416 from stashed/master-b0db4d5e-8.0.21"
+            },
+            {
+              "SHA": "e2b260b6",
+              "Subject": "Use klog/v2 (#413)"
+            },
+            {
+              "SHA": "c56b36ef",
+              "Subject": "[cherry-pick] Use kglog helper (#411)"
+            },
+            {
+              "SHA": "c6999cf0",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v5",
+          "commits": [
+            {
+              "SHA": "1e66b08",
+              "Subject": "Prepare for release 5.7-v5 (#181)"
+            },
+            {
+              "SHA": "dedc120",
+              "Subject": "[cherry-pick] Use klog/v2 (#179) (#180)"
+            },
+            {
+              "SHA": "95cc309",
+              "Subject": "[cherry-pick] Use kglog helper (#178)"
+            },
+            {
+              "SHA": "a8338c8",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            },
+            {
+              "SHA": "a0a9785",
+              "Subject": "[cherry-pick] Use license-verifier v0.8.1 (#168)"
+            },
+            {
+              "SHA": "1f9029a",
+              "Subject": "[cherry-pick] Update license verifier to v0.8.0 (#167)"
+            },
+            {
+              "SHA": "0dd44c3",
+              "Subject": "[cherry-pick] Update license verifier (#166)"
+            },
+            {
+              "SHA": "20481d6",
+              "Subject": "[cherry-pick] Fix spelling (#165)"
+            },
+            {
+              "SHA": "0fd7b26",
+              "Subject": "Move docs into stashed/docs repo + Cleanup (#164)"
+            },
+            {
+              "SHA": "bc52132",
+              "Subject": "Prepare for release 5.7.0-v2 (#161)"
+            },
+            {
+              "SHA": "68eb8b6",
+              "Subject": "[cherry-pick] Update repository config (#159) (#160)"
+            },
+            {
+              "SHA": "aaecf26",
+              "Subject": "Support multiple commands in backup/restore pipeline (#157) (#158)"
+            },
+            {
+              "SHA": "4c6a086",
+              "Subject": "Update repository config (#153) (#154)"
+            },
+            {
+              "SHA": "22f48d0",
+              "Subject": "Use restic 0.12.0 (#150) (#151)"
+            },
+            {
+              "SHA": "a3645ac",
+              "Subject": "Update Kubernetes v1.18.9 dependencies (#148) (#149)"
+            },
+            {
+              "SHA": "affd376",
+              "Subject": "[cherry-pick] Check codespan schema (#146) (#147)"
+            },
+            {
+              "SHA": "0c3d3ad",
+              "Subject": "[cherry-pick] Update repository config (#141) (#142)"
+            },
+            {
+              "SHA": "937cfc8",
+              "Subject": "[cherry-pick] Update repository config (#139) (#140)"
+            },
+            {
+              "SHA": "8d03640",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#137) (#138)"
+            },
+            {
+              "SHA": "d6442e5",
+              "Subject": "[cherry-pick] Update repository config (#134) (#135)"
+            },
+            {
+              "SHA": "301bd0a",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#132) (#133)"
+            },
+            {
+              "SHA": "b9865e8",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#130) (#131)"
+            },
+            {
+              "SHA": "5ab3eaa",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#128) (#129)"
+            },
+            {
+              "SHA": "3e48d47",
+              "Subject": "Prepare for release 5.7.0-v1 (#126)"
+            },
+            {
+              "SHA": "42458b3",
+              "Subject": "Use port from AppBinding (#120) (#125)"
+            },
+            {
+              "SHA": "70d872d",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#123) (#124)"
+            },
+            {
+              "SHA": "2927d77",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#121) (#122)"
+            },
+            {
+              "SHA": "fadf2d3",
+              "Subject": "Prepare for release 5.7.0 (#118)"
+            },
+            {
+              "SHA": "4ea69c8",
+              "Subject": "[cherry-pick] Update repository config (#116) (#117)"
+            },
+            {
+              "SHA": "a133516",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#114) (#115)"
+            },
+            {
+              "SHA": "1b7be58",
+              "Subject": "[cherry-pick] Update Kubernetes v1.18.9 dependencies (#112) (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v8",
+          "commits": [
+            {
+              "SHA": "788fde1b",
+              "Subject": "Prepare for release 9.6.19-v8 (#799)"
+            },
+            {
+              "SHA": "173bb49a",
+              "Subject": "[cherry-pick] Use gomodules.xyz/go-sh (#789) (#794)"
+            },
+            {
+              "SHA": "e1192aa4",
+              "Subject": "[cherry-pick] Use klog/v2 (#783) (#788)"
+            },
+            {
+              "SHA": "d936ce1b",
+              "Subject": "[cherry-pick] Use kglog helper (#782)"
+            },
+            {
+              "SHA": "aef3ed32",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v8",
+          "commits": [
+            {
+              "SHA": "2032c1f6",
+              "Subject": "Prepare for release 10.14-v8 (#795)"
+            },
+            {
+              "SHA": "ba31a9af",
+              "Subject": "[cherry-pick] Use gomodules.xyz/go-sh (#789) (#790)"
+            },
+            {
+              "SHA": "986207ab",
+              "Subject": "[cherry-pick] Use klog/v2 (#783) (#784)"
+            },
+            {
+              "SHA": "497c60cb",
+              "Subject": "[cherry-pick] Use kglog helper (#778)"
+            },
+            {
+              "SHA": "45c6ea73",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v8",
+          "commits": [
+            {
+              "SHA": "531246ba",
+              "Subject": "Prepare for release 11.9-v8 (#796)"
+            },
+            {
+              "SHA": "abebf170",
+              "Subject": "[cherry-pick] Use gomodules.xyz/go-sh (#789) (#791)"
+            },
+            {
+              "SHA": "7d51c48b",
+              "Subject": "[cherry-pick] Use klog/v2 (#783) (#785)"
+            },
+            {
+              "SHA": "65c3506e",
+              "Subject": "[cherry-pick] Use kglog helper (#779)"
+            },
+            {
+              "SHA": "984994b5",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v8",
+          "commits": [
+            {
+              "SHA": "f8a784c1",
+              "Subject": "Prepare for release 12.4-v8 (#797)"
+            },
+            {
+              "SHA": "0de72265",
+              "Subject": "[cherry-pick] Use gomodules.xyz/go-sh (#789) (#792)"
+            },
+            {
+              "SHA": "5d325eb4",
+              "Subject": "[cherry-pick] Use klog/v2 (#783) (#786)"
+            },
+            {
+              "SHA": "74d0b192",
+              "Subject": "[cherry-pick] Use kglog helper (#780)"
+            },
+            {
+              "SHA": "4d4a1fb8",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v5",
+          "commits": [
+            {
+              "SHA": "20973db6",
+              "Subject": "Prepare for release 13.1-v5 (#798)"
+            },
+            {
+              "SHA": "85fac622",
+              "Subject": "[cherry-pick] Use gomodules.xyz/go-sh (#789) (#793)"
+            },
+            {
+              "SHA": "a903b4df",
+              "Subject": "[cherry-pick] Use klog/v2 (#783) (#787)"
+            },
+            {
+              "SHA": "9c91b43d",
+              "Subject": "[cherry-pick] Use kglog helper (#781)"
+            },
+            {
+              "SHA": "dc1f023f",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "028736ed",
+              "Subject": "Prepare for release v0.14.0 (#1354)"
+            },
+            {
+              "SHA": "dc602c0d",
+              "Subject": "Prepare for release v0.13.1 (#1353)"
+            },
+            {
+              "SHA": "5d8b403f",
+              "Subject": "Send audit events when analytics are enabled (#1352)"
+            },
+            {
+              "SHA": "0d934ce8",
+              "Subject": "Use ImagePullPolicy \"IfNotPresent\" instead of \"Always\" for addons (#1351)"
+            },
+            {
+              "SHA": "e9f48ec4",
+              "Subject": "Use namespace when looking up running BackupSessions for Invoker (#1343)"
+            },
+            {
+              "SHA": "f79218f1",
+              "Subject": "Create auditor if license file is provided (#1350)"
+            },
+            {
+              "SHA": "a53710bf",
+              "Subject": "Disable api priortiy and fairness feature for webhook server (#1349)"
+            },
+            {
+              "SHA": "2780fbc6",
+              "Subject": "Publish audit events (#1348)"
+            },
+            {
+              "SHA": "ca26878d",
+              "Subject": "Use klog/v2 (#1347)"
+            },
+            {
+              "SHA": "f8b0c245",
+              "Subject": "Use kglog helpers"
+            },
+            {
+              "SHA": "e9fec332",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#1344)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
