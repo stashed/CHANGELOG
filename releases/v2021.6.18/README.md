@@ -206,6 +206,11 @@
 - [1be76961](https://github.com/stashed/mongodb/commit/1be76961) Use k8s 1.21.0 toolchain
 
 
+### [4.4.6](https://github.com/stashed/mongodb/releases/tag/4.4.6)
+
+- [cf1ad82d](https://github.com/stashed/mongodb/commit/cf1ad82d) Stash addon for 4.4.6
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
