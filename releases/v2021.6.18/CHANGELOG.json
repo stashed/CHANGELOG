@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.6.18",
-  "release_date": "2021-06-16T10:27:27.064868443Z",
+  "release_date": "2021-06-16T10:27:31.822757636Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.6.18",
   "kubernetes_version": "1.14+",
@@ -400,6 +400,27 @@
             },
             {
               "SHA": "07d09f0d",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v9",
+          "commits": [
+            {
+              "SHA": "401bc9aa",
+              "Subject": "Prepare for release 4.0.3-v9 (#986)"
+            },
+            {
+              "SHA": "fcdd878e",
+              "Subject": "[cherry-pick] Use klog/v2 (#969) (#975)"
+            },
+            {
+              "SHA": "ab65b810",
+              "Subject": "[cherry-pick] Use kglog helper (#963)"
+            },
+            {
+              "SHA": "184f230e",
               "Subject": "Use k8s 1.21.0 toolchain"
             }
           ]
