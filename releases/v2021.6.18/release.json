@@ -193,11 +193,6 @@
         "make add-license fmt"
       ]
     },
-    "github.com/kubedb/installer": {
-      "commands": [
-        "make fmt"
-      ]
-    },
     "github.com/kubedb/mariadb": {
       "commands": [
         "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=STASH_VERSION=${STASHED_STASH_TAG} --vars=STASH_CATALOG_VERSION=${STASH_CATALOG_VERSION} --vars=CHART_REGISTRY=${CHART_REGISTRY} --vars=CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
