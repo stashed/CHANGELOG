@@ -6,7 +6,7 @@
   "projects": [
     {
       "github.com/stashed/apimachinery": {
-        "tag": "v0.13.0",
+        "tag": "v0.13.1",
         "chartNames": [
           "stash-crds"
         ]
@@ -15,7 +15,7 @@
     {
       "github.com/stashed/stash": {
         "key": "stash-community",
-        "tag": "v0.13.0",
+        "tag": "v0.13.1",
         "chartNames": [
           "stash-community"
         ]
@@ -24,7 +24,7 @@
     {
       "github.com/appscode/stash-enterprise": {
         "key": "stash-enterprise",
-        "tag": "v0.13.0",
+        "tag": "v0.13.1",
         "chartNames": [
           "stash-enterprise",
           "stash-catalog"
@@ -34,7 +34,7 @@
     {
       "github.com/stashed/cli": {
         "key": "stash-cli",
-        "tag": "v0.13.0"
+        "tag": "v0.13.1"
       }
     },
     {
