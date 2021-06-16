@@ -99,6 +99,14 @@
 - [e1e24ec7](https://github.com/stashed/elasticsearch/commit/e1e24ec7) Use k8s 1.21.0 toolchain
 
 
+### [7.2.0-v10](https://github.com/stashed/elasticsearch/releases/tag/7.2.0-v10)
+
+- [4eac1ea9](https://github.com/stashed/elasticsearch/commit/4eac1ea9) Prepare for release 7.2.0-v10 (#825)
+- [2aa02a10](https://github.com/stashed/elasticsearch/commit/2aa02a10) [cherry-pick] Use klog/v2 (#810) (#817)
+- [9dd713c7](https://github.com/stashed/elasticsearch/commit/9dd713c7) [cherry-pick] Use kglog helper (#808)
+- [1495f883](https://github.com/stashed/elasticsearch/commit/1495f883) Use k8s 1.21.0 toolchain
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
