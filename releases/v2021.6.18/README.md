@@ -134,6 +134,14 @@
 - [b1607397](https://github.com/stashed/mongodb/commit/b1607397) Use k8s 1.21.0 toolchain
 
 
+### [3.6.8-v9](https://github.com/stashed/mongodb/releases/tag/3.6.8-v9)
+
+- [5b8ba177](https://github.com/stashed/mongodb/commit/5b8ba177) Prepare for release 3.6.8-v9 (#984)
+- [1c02bbf8](https://github.com/stashed/mongodb/commit/1c02bbf8) [cherry-pick] Use klog/v2 (#969) (#973)
+- [c580d161](https://github.com/stashed/mongodb/commit/c580d161) [cherry-pick] Use kglog helper (#961)
+- [b13bf55e](https://github.com/stashed/mongodb/commit/b13bf55e) Use k8s 1.21.0 toolchain
+
+
 ### [3.6.13-v9](https://github.com/stashed/mongodb/releases/tag/3.6.13-v9)
 
 - [d947b446](https://github.com/stashed/mongodb/commit/d947b446) Prepare for release 3.6.13-v9 (#983)
