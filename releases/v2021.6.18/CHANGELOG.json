@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.6.18",
-  "release_date": "2021-06-16T09:10:34.984838559Z",
+  "release_date": "2021-06-16T09:25:59.924490501Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.6.18",
   "kubernetes_version": "1.14+",
@@ -47,6 +47,60 @@
             {
               "SHA": "1157edb1",
               "Subject": "Cleanup dependencies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "028736ed",
+              "Subject": "Prepare for release v0.14.0 (#1354)"
+            },
+            {
+              "SHA": "dc602c0d",
+              "Subject": "Prepare for release v0.13.1 (#1353)"
+            },
+            {
+              "SHA": "5d8b403f",
+              "Subject": "Send audit events when analytics are enabled (#1352)"
+            },
+            {
+              "SHA": "0d934ce8",
+              "Subject": "Use ImagePullPolicy \"IfNotPresent\" instead of \"Always\" for addons (#1351)"
+            },
+            {
+              "SHA": "e9f48ec4",
+              "Subject": "Use namespace when looking up running BackupSessions for Invoker (#1343)"
+            },
+            {
+              "SHA": "f79218f1",
+              "Subject": "Create auditor if license file is provided (#1350)"
+            },
+            {
+              "SHA": "a53710bf",
+              "Subject": "Disable api priortiy and fairness feature for webhook server (#1349)"
+            },
+            {
+              "SHA": "2780fbc6",
+              "Subject": "Publish audit events (#1348)"
+            },
+            {
+              "SHA": "ca26878d",
+              "Subject": "Use klog/v2 (#1347)"
+            },
+            {
+              "SHA": "f8b0c245",
+              "Subject": "Use kglog helpers"
+            },
+            {
+              "SHA": "e9fec332",
+              "Subject": "Update Kubernetes toolchain to v1.21.0 (#1344)"
             }
           ]
         }

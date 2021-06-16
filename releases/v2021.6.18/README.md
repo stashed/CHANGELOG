@@ -17,3 +17,21 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.14.0](https://github.com/stashed/stash/releases/tag/v0.14.0)
+
+- [028736ed](https://github.com/stashed/stash/commit/028736ed) Prepare for release v0.14.0 (#1354)
+- [dc602c0d](https://github.com/stashed/stash/commit/dc602c0d) Prepare for release v0.13.1 (#1353)
+- [5d8b403f](https://github.com/stashed/stash/commit/5d8b403f) Send audit events when analytics are enabled (#1352)
+- [0d934ce8](https://github.com/stashed/stash/commit/0d934ce8) Use ImagePullPolicy "IfNotPresent" instead of "Always" for addons (#1351)
+- [e9f48ec4](https://github.com/stashed/stash/commit/e9f48ec4) Use namespace when looking up running BackupSessions for Invoker (#1343)
+- [f79218f1](https://github.com/stashed/stash/commit/f79218f1) Create auditor if license file is provided (#1350)
+- [a53710bf](https://github.com/stashed/stash/commit/a53710bf) Disable api priortiy and fairness feature for webhook server (#1349)
+- [2780fbc6](https://github.com/stashed/stash/commit/2780fbc6) Publish audit events (#1348)
+- [ca26878d](https://github.com/stashed/stash/commit/ca26878d) Use klog/v2 (#1347)
+- [f8b0c245](https://github.com/stashed/stash/commit/f8b0c245) Use kglog helpers
+- [e9fec332](https://github.com/stashed/stash/commit/e9fec332) Update Kubernetes toolchain to v1.21.0 (#1344)
+
+
+
