@@ -49,6 +49,13 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2021.6.18](https://github.com/stashed/docs/releases/tag/v2021.6.18)
+
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v10](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v10)
