@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.6.18",
-  "release_date": "2021-06-16T09:39:13.822301657Z",
+  "release_date": "2021-06-16T09:49:05.717473829Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.6.18",
   "kubernetes_version": "1.14+",
@@ -139,6 +139,36 @@
             {
               "SHA": "45b1b13",
               "Subject": "Update Kubernetes toolchain to v1.21.0 (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "10.14-v8",
+          "commits": [
+            {
+              "SHA": "2032c1f6",
+              "Subject": "Prepare for release 10.14-v8 (#795)"
+            },
+            {
+              "SHA": "ba31a9af",
+              "Subject": "[cherry-pick] Use gomodules.xyz/go-sh (#789) (#790)"
+            },
+            {
+              "SHA": "986207ab",
+              "Subject": "[cherry-pick] Use klog/v2 (#783) (#784)"
+            },
+            {
+              "SHA": "497c60cb",
+              "Subject": "[cherry-pick] Use kglog helper (#778)"
+            },
+            {
+              "SHA": "45c6ea73",
+              "Subject": "Use k8s 1.21.0 toolchain"
             }
           ]
         }
