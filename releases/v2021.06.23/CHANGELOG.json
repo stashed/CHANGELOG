@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.06.23",
-  "release_date": "2021-06-18T20:19:53.122839409Z",
+  "release_date": "2021-06-18T20:19:58.010482335Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.06.23",
   "kubernetes_version": "1.14+",
@@ -110,6 +110,23 @@
             {
               "SHA": "893fad13",
               "Subject": "[cherry-pick] Only set \"PGSSLMODE\" mode env variable when SSL is enabled (#801) (#803)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v9",
+          "commits": [
+            {
+              "SHA": "29bf3c21",
+              "Subject": "Prepare for release 12.4-v9 (#815)"
+            },
+            {
+              "SHA": "1599bb4a",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#807) (#810)"
+            },
+            {
+              "SHA": "3148acf1",
+              "Subject": "[cherry-pick] Only set \"PGSSLMODE\" mode env variable when SSL is enabled (#801) (#804)"
             }
           ]
         }

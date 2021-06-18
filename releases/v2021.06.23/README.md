@@ -48,6 +48,13 @@
 - [893fad13](https://github.com/stashed/postgres/commit/893fad13) [cherry-pick] Only set "PGSSLMODE" mode env variable when SSL is enabled (#801) (#803)
 
 
+### [12.4-v9](https://github.com/stashed/postgres/releases/tag/12.4-v9)
+
+- [29bf3c21](https://github.com/stashed/postgres/commit/29bf3c21) Prepare for release 12.4-v9 (#815)
+- [1599bb4a](https://github.com/stashed/postgres/commit/1599bb4a) [cherry-pick] Use k8s 1.21.1 toolchain (#807) (#810)
+- [3148acf1](https://github.com/stashed/postgres/commit/3148acf1) [cherry-pick] Only set "PGSSLMODE" mode env variable when SSL is enabled (#801) (#804)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
