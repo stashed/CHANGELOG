@@ -89,6 +89,17 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v4](https://github.com/stashed/mariadb/releases/tag/10.5.8-v4)
+
+- [87947d2](https://github.com/stashed/mariadb/commit/87947d2) Prepare for release 10.5.8-v4 (#110)
+- [32b93aa](https://github.com/stashed/mariadb/commit/32b93aa) [cherry-pick] Use k8s 1.21.1 toolchain (#108) (#109)
+- [35f57b9](https://github.com/stashed/mariadb/commit/35f57b9) [cherry-pick] Use klog/v2 (#106) (#107)
+- [318f49c](https://github.com/stashed/mariadb/commit/318f49c) Use k8s 1.21.0 toolchain
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v10](https://github.com/stashed/mongodb/releases/tag/3.4.17-v10)
