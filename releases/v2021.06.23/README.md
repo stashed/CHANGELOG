@@ -82,6 +82,12 @@
 - [dc90a100](https://github.com/stashed/elasticsearch/commit/dc90a100) Update README.md
 
 
+### [7.3.2-v11](https://github.com/stashed/elasticsearch/releases/tag/7.3.2-v11)
+
+- [40e5c14d](https://github.com/stashed/elasticsearch/commit/40e5c14d) Prepare for release 7.3.2-v11 (#844)
+- [94c66a0a](https://github.com/stashed/elasticsearch/commit/94c66a0a) [cherry-pick] Use k8s 1.21.1 toolchain (#828) (#836)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
