@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.06.23",
-  "release_date": "2021-06-18T20:30:07.148924933Z",
+  "release_date": "2021-06-18T20:42:30.752029683Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.06.23",
   "kubernetes_version": "1.14+",
@@ -204,6 +204,28 @@
             {
               "SHA": "94c66a0a",
               "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#828) (#836)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v10",
+          "commits": [
+            {
+              "SHA": "d80bee20",
+              "Subject": "Prepare for release 3.4.17-v10 (#1007)"
+            },
+            {
+              "SHA": "97e2e07f",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#995)"
+            },
+            {
+              "SHA": "e7a3161a",
+              "Subject": "Update README.md"
             }
           ]
         }
