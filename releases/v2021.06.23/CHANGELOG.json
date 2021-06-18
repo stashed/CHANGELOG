@@ -1,0 +1,697 @@
+{
+  "product_line": "Stash",
+  "release": "v2021.06.23",
+  "release_date": "2021-06-18T21:51:09.523236828Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2021.06.23",
+  "kubernetes_version": "1.14+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.14.1",
+          "commits": [
+            {
+              "SHA": "324ca10e",
+              "Subject": "Prepare for release v0.14.1 (#102)"
+            },
+            {
+              "SHA": "917d2608",
+              "Subject": "Update audit event attributes"
+            },
+            {
+              "SHA": "8ecfe211",
+              "Subject": "Use dynamic resource mapper"
+            },
+            {
+              "SHA": "4e0584d5",
+              "Subject": "Use Kubernetes 1.21.1 toolchain"
+            },
+            {
+              "SHA": "4a9ace9c",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "960c4dbc",
+              "Subject": "Create resilient event publisher (#101)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.14.1",
+          "commits": [
+            {
+              "SHA": "0cae462d",
+              "Subject": "Use Kubernetes 1.21.1 toolchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.06.23",
+          "commits": [
+            {
+              "SHA": "97c3e9a",
+              "Subject": "Prepare for release v2021.06.23 (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.14.1",
+          "commits": [
+            {
+              "SHA": "cd0a22a",
+              "Subject": "Prepare for release v0.14.1 (#125)"
+            },
+            {
+              "SHA": "f8937bb",
+              "Subject": "Use Kubernetes 1.21.1 toolchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.06.23",
+          "commits": [
+            {
+              "SHA": "6776139",
+              "Subject": "Prepare for release v2021.06.23 (#161)"
+            },
+            {
+              "SHA": "acadfaa",
+              "Subject": "Update docs for stashed/cli@eba049ef (#160)"
+            },
+            {
+              "SHA": "5de4105",
+              "Subject": "Update docs for stashed/stash@f86c22bf (#159)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v11",
+          "commits": [
+            {
+              "SHA": "7bc688cc",
+              "Subject": "Prepare for release 5.6.4-v11 (#837)"
+            },
+            {
+              "SHA": "cb7338af",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#828) (#829)"
+            },
+            {
+              "SHA": "9dfe4c77",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v11",
+          "commits": [
+            {
+              "SHA": "fda1bafa",
+              "Subject": "Prepare for release 6.2.4-v11 (#838)"
+            },
+            {
+              "SHA": "678023d8",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#828) (#830)"
+            },
+            {
+              "SHA": "738515d8",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v11",
+          "commits": [
+            {
+              "SHA": "d3ab747e",
+              "Subject": "Prepare for release 6.3.0-v11 (#839)"
+            },
+            {
+              "SHA": "02ed39b4",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#828) (#831)"
+            },
+            {
+              "SHA": "0ec95b34",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v11",
+          "commits": [
+            {
+              "SHA": "a2bcfc9e",
+              "Subject": "Prepare for release 6.4.0-v11 (#840)"
+            },
+            {
+              "SHA": "d91b7e05",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#828) (#832)"
+            },
+            {
+              "SHA": "8349500c",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v11",
+          "commits": [
+            {
+              "SHA": "651f9a49",
+              "Subject": "Prepare for release 6.5.3-v11 (#841)"
+            },
+            {
+              "SHA": "34491027",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#828) (#833)"
+            },
+            {
+              "SHA": "506d776e",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v11",
+          "commits": [
+            {
+              "SHA": "a577ae04",
+              "Subject": "Prepare for release 6.8.0-v11 (#842)"
+            },
+            {
+              "SHA": "8c39d538",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#828) (#834)"
+            },
+            {
+              "SHA": "d0dddbe5",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v11",
+          "commits": [
+            {
+              "SHA": "6ba76941",
+              "Subject": "Prepare for release 7.2.0-v11 (#843)"
+            },
+            {
+              "SHA": "919991cd",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#828) (#835)"
+            },
+            {
+              "SHA": "dc90a100",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v11",
+          "commits": [
+            {
+              "SHA": "40e5c14d",
+              "Subject": "Prepare for release 7.3.2-v11 (#844)"
+            },
+            {
+              "SHA": "94c66a0a",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#828) (#836)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2021.06.23",
+          "commits": [
+            {
+              "SHA": "3667d8a",
+              "Subject": "Prepare for release v2021.06.23 (#179)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v4",
+          "commits": [
+            {
+              "SHA": "87947d2",
+              "Subject": "Prepare for release 10.5.8-v4 (#110)"
+            },
+            {
+              "SHA": "32b93aa",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#108) (#109)"
+            },
+            {
+              "SHA": "35f57b9",
+              "Subject": "[cherry-pick] Use klog/v2 (#106) (#107)"
+            },
+            {
+              "SHA": "318f49c",
+              "Subject": "Use k8s 1.21.0 toolchain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v10",
+          "commits": [
+            {
+              "SHA": "d80bee20",
+              "Subject": "Prepare for release 3.4.17-v10 (#1007)"
+            },
+            {
+              "SHA": "97e2e07f",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#995)"
+            },
+            {
+              "SHA": "e7a3161a",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v10",
+          "commits": [
+            {
+              "SHA": "5b3c7c83",
+              "Subject": "Prepare for release 3.4.22-v10 (#1008)"
+            },
+            {
+              "SHA": "b98e6cad",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#996)"
+            },
+            {
+              "SHA": "36abd30e",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v10",
+          "commits": [
+            {
+              "SHA": "9b3182f1",
+              "Subject": "Prepare for release 3.6.8-v10 (#1010)"
+            },
+            {
+              "SHA": "b07985df",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#998)"
+            },
+            {
+              "SHA": "0455e209",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v10",
+          "commits": [
+            {
+              "SHA": "52b38e73",
+              "Subject": "Prepare for release 3.6.13-v10 (#1009)"
+            },
+            {
+              "SHA": "822cdadb",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#997)"
+            },
+            {
+              "SHA": "a83b7764",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v10",
+          "commits": [
+            {
+              "SHA": "b3f4d1d6",
+              "Subject": "Prepare for release 4.0.3-v10 (#1012)"
+            },
+            {
+              "SHA": "adf02d15",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#1000)"
+            },
+            {
+              "SHA": "4510d54e",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v10",
+          "commits": [
+            {
+              "SHA": "5f1cc079",
+              "Subject": "Prepare for release 4.0.5-v10 (#1013)"
+            },
+            {
+              "SHA": "5b05f3a3",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#1001)"
+            },
+            {
+              "SHA": "036fde58",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v10",
+          "commits": [
+            {
+              "SHA": "ca1407ef",
+              "Subject": "Prepare for release 4.0.11-v10 (#1011)"
+            },
+            {
+              "SHA": "8bda3737",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#999)"
+            },
+            {
+              "SHA": "3a773347",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v10",
+          "commits": [
+            {
+              "SHA": "77d5a66e",
+              "Subject": "Prepare for release 4.1.4-v10 (#1015)"
+            },
+            {
+              "SHA": "442197d9",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#1003)"
+            },
+            {
+              "SHA": "3bb97952",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v10",
+          "commits": [
+            {
+              "SHA": "1a0160a2",
+              "Subject": "Prepare for release 4.1.7-v10 (#1016)"
+            },
+            {
+              "SHA": "1e47a843",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#1004)"
+            },
+            {
+              "SHA": "5f1a80f5",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v10",
+          "commits": [
+            {
+              "SHA": "01e88ef5",
+              "Subject": "Prepare for release 4.1.13-v10 (#1014)"
+            },
+            {
+              "SHA": "56de5495",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#1002)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v10",
+          "commits": [
+            {
+              "SHA": "0dbaebb9",
+              "Subject": "Prepare for release 4.2.3-v10 (#1017)"
+            },
+            {
+              "SHA": "b2fcf2a0",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#1005)"
+            },
+            {
+              "SHA": "49254247",
+              "Subject": "Update README.md"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v1",
+          "commits": [
+            {
+              "SHA": "13dd847b",
+              "Subject": "Prepare for release 4.4.6-v1 (#1018)"
+            },
+            {
+              "SHA": "fc0f1c1a",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#1006)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v11",
+          "commits": [
+            {
+              "SHA": "f8e0fdc9",
+              "Subject": "Prepare for release 5.7.25-v11 (#433)"
+            },
+            {
+              "SHA": "12edbc10",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#428) (#429)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v11",
+          "commits": [
+            {
+              "SHA": "100bede4",
+              "Subject": "Prepare for release 8.0.3-v11 (#436)"
+            },
+            {
+              "SHA": "0c38d8b4",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#428) (#432)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v11",
+          "commits": [
+            {
+              "SHA": "98b64068",
+              "Subject": "Prepare for release 8.0.14-v11 (#434)"
+            },
+            {
+              "SHA": "3d73812c",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#428) (#430)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v5",
+          "commits": [
+            {
+              "SHA": "52ee3f21",
+              "Subject": "Prepare for release 8.0.21-v5 (#435)"
+            },
+            {
+              "SHA": "89fc5316",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#428) (#431)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v6",
+          "commits": [
+            {
+              "SHA": "33b788d",
+              "Subject": "Prepare for release 5.7-v6 (#184)"
+            },
+            {
+              "SHA": "7809f18",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#183)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v9",
+          "commits": [
+            {
+              "SHA": "07ed8ee1",
+              "Subject": "Prepare for release 9.6.19-v9 (#817)"
+            },
+            {
+              "SHA": "45bfe257",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#807) (#812)"
+            },
+            {
+              "SHA": "b30cecfe",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "d91ecdbf",
+              "Subject": "[cherry-pick] Only set \"PGSSLMODE\" mode env variable when SSL is enabled (#801) (#806)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v9",
+          "commits": [
+            {
+              "SHA": "457e2b3c",
+              "Subject": "Prepare for release 10.14-v9 (#813)"
+            },
+            {
+              "SHA": "75f06514",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#807) (#808)"
+            },
+            {
+              "SHA": "d7999008",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "8ae4a408",
+              "Subject": "[cherry-pick] Only set \"PGSSLMODE\" mode env variable when SSL is enabled (#801) (#802)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v9",
+          "commits": [
+            {
+              "SHA": "de7d67f5",
+              "Subject": "Prepare for release 11.9-v9 (#814)"
+            },
+            {
+              "SHA": "e866dbfd",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#807) (#809)"
+            },
+            {
+              "SHA": "893fad13",
+              "Subject": "[cherry-pick] Only set \"PGSSLMODE\" mode env variable when SSL is enabled (#801) (#803)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v9",
+          "commits": [
+            {
+              "SHA": "29bf3c21",
+              "Subject": "Prepare for release 12.4-v9 (#815)"
+            },
+            {
+              "SHA": "1599bb4a",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#807) (#810)"
+            },
+            {
+              "SHA": "3148acf1",
+              "Subject": "[cherry-pick] Only set \"PGSSLMODE\" mode env variable when SSL is enabled (#801) (#804)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v6",
+          "commits": [
+            {
+              "SHA": "473db0aa",
+              "Subject": "Prepare for release 13.1-v6 (#816)"
+            },
+            {
+              "SHA": "dd4c2230",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#807) (#811)"
+            },
+            {
+              "SHA": "c9d8f903",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "5b0142cf",
+              "Subject": "[cherry-pick] Only set \"PGSSLMODE\" mode env variable when SSL is enabled (#801) (#805)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.14.1",
+          "commits": [
+            {
+              "SHA": "03aba1ac",
+              "Subject": "Prepare for release v0.14.1 (#1356)"
+            },
+            {
+              "SHA": "78147be0",
+              "Subject": "Make audit event attributes match cloudevents spec"
+            },
+            {
+              "SHA": "f49850d4",
+              "Subject": "Use dynamic resource mapper"
+            },
+            {
+              "SHA": "147525ef",
+              "Subject": "Use Kubernetes 1.21.1 toolchain"
+            },
+            {
+              "SHA": "f86c22bf",
+              "Subject": "Create resilient event publisher (#1355)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
