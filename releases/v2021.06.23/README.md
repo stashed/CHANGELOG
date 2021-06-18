@@ -167,6 +167,12 @@
 - [49254247](https://github.com/stashed/mongodb/commit/49254247) Update README.md
 
 
+### [4.4.6-v1](https://github.com/stashed/mongodb/releases/tag/4.4.6-v1)
+
+- [13dd847b](https://github.com/stashed/mongodb/commit/13dd847b) Prepare for release 4.4.6-v1 (#1018)
+- [fc0f1c1a](https://github.com/stashed/mongodb/commit/fc0f1c1a) [cherry-pick] Use k8s 1.21.1 toolchain (#994) (#1006)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
