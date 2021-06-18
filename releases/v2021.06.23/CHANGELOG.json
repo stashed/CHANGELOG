@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.06.23",
-  "release_date": "2021-06-18T20:43:18.481966138Z",
+  "release_date": "2021-06-18T20:52:37.858147519Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.06.23",
   "kubernetes_version": "1.14+",
@@ -405,6 +405,24 @@
             {
               "SHA": "fc0f1c1a",
               "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#994) (#1006)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v11",
+          "commits": [
+            {
+              "SHA": "f8e0fdc9",
+              "Subject": "Prepare for release 5.7.25-v11 (#433)"
+            },
+            {
+              "SHA": "12edbc10",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#428) (#429)"
             }
           ]
         }
