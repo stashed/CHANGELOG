@@ -188,6 +188,12 @@
 - [3d73812c](https://github.com/stashed/mysql/commit/3d73812c) [cherry-pick] Use k8s 1.21.1 toolchain (#428) (#430)
 
 
+### [8.0.21-v5](https://github.com/stashed/mysql/releases/tag/8.0.21-v5)
+
+- [52ee3f21](https://github.com/stashed/mysql/commit/52ee3f21) Prepare for release 8.0.21-v5 (#435)
+- [89fc5316](https://github.com/stashed/mysql/commit/89fc5316) [cherry-pick] Use k8s 1.21.1 toolchain (#428) (#431)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
