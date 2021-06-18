@@ -160,6 +160,13 @@
 - [56de5495](https://github.com/stashed/mongodb/commit/56de5495) [cherry-pick] Use k8s 1.21.1 toolchain (#994) (#1002)
 
 
+### [4.2.3-v10](https://github.com/stashed/mongodb/releases/tag/4.2.3-v10)
+
+- [0dbaebb9](https://github.com/stashed/mongodb/commit/0dbaebb9) Prepare for release 4.2.3-v10 (#1017)
+- [b2fcf2a0](https://github.com/stashed/mongodb/commit/b2fcf2a0) [cherry-pick] Use k8s 1.21.1 toolchain (#994) (#1005)
+- [49254247](https://github.com/stashed/mongodb/commit/49254247) Update README.md
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
