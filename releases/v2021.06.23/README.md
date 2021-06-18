@@ -33,6 +33,14 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v9](https://github.com/stashed/postgres/releases/tag/9.6.19-v9)
+
+- [07ed8ee1](https://github.com/stashed/postgres/commit/07ed8ee1) Prepare for release 9.6.19-v9 (#817)
+- [45bfe257](https://github.com/stashed/postgres/commit/45bfe257) [cherry-pick] Use k8s 1.21.1 toolchain (#807) (#812)
+- [b30cecfe](https://github.com/stashed/postgres/commit/b30cecfe) Update README.md
+- [d91ecdbf](https://github.com/stashed/postgres/commit/d91ecdbf) [cherry-pick] Only set "PGSSLMODE" mode env variable when SSL is enabled (#801) (#806)
+
+
 ### [10.14-v9](https://github.com/stashed/postgres/releases/tag/10.14-v9)
 
 - [457e2b3c](https://github.com/stashed/postgres/commit/457e2b3c) Prepare for release 10.14-v9 (#813)

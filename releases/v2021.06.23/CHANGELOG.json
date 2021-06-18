@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.06.23",
-  "release_date": "2021-06-18T20:20:02.940537655Z",
+  "release_date": "2021-06-18T20:20:08.643054956Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.06.23",
   "kubernetes_version": "1.14+",
@@ -75,6 +75,27 @@
     {
       "url": "github.com/stashed/postgres",
       "releases": [
+        {
+          "tag": "9.6.19-v9",
+          "commits": [
+            {
+              "SHA": "07ed8ee1",
+              "Subject": "Prepare for release 9.6.19-v9 (#817)"
+            },
+            {
+              "SHA": "45bfe257",
+              "Subject": "[cherry-pick] Use k8s 1.21.1 toolchain (#807) (#812)"
+            },
+            {
+              "SHA": "b30cecfe",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "d91ecdbf",
+              "Subject": "[cherry-pick] Only set \"PGSSLMODE\" mode env variable when SSL is enabled (#801) (#806)"
+            }
+          ]
+        },
         {
           "tag": "10.14-v9",
           "commits": [
