@@ -75,6 +75,13 @@
 - [d0dddbe5](https://github.com/stashed/elasticsearch/commit/d0dddbe5) Update README.md
 
 
+### [7.2.0-v11](https://github.com/stashed/elasticsearch/releases/tag/7.2.0-v11)
+
+- [6ba76941](https://github.com/stashed/elasticsearch/commit/6ba76941) Prepare for release 7.2.0-v11 (#843)
+- [919991cd](https://github.com/stashed/elasticsearch/commit/919991cd) [cherry-pick] Use k8s 1.21.1 toolchain (#828) (#835)
+- [dc90a100](https://github.com/stashed/elasticsearch/commit/dc90a100) Update README.md
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
