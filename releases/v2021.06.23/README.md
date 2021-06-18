@@ -212,6 +212,15 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v6](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v6)
+
+- [33b788d](https://github.com/stashed/percona-xtradb/commit/33b788d) Prepare for release 5.7-v6 (#184)
+- [7809f18](https://github.com/stashed/percona-xtradb/commit/7809f18) [cherry-pick] Use k8s 1.21.1 toolchain (#183)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v9](https://github.com/stashed/postgres/releases/tag/9.6.19-v9)
