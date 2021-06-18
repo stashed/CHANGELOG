@@ -22,6 +22,14 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2021.06.23](https://github.com/stashed/bundles/releases/tag/v2021.06.23)
+
+- [97c3e9a](https://github.com/stashed/bundles/commit/97c3e9a) Prepare for release v2021.06.23 (#45)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.14.1](https://github.com/stashed/cli/releases/tag/v0.14.1)
