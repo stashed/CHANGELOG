@@ -105,6 +105,13 @@
 - [36abd30e](https://github.com/stashed/mongodb/commit/36abd30e) Update README.md
 
 
+### [3.6.8-v10](https://github.com/stashed/mongodb/releases/tag/3.6.8-v10)
+
+- [9b3182f1](https://github.com/stashed/mongodb/commit/9b3182f1) Prepare for release 3.6.8-v10 (#1010)
+- [b07985df](https://github.com/stashed/mongodb/commit/b07985df) [cherry-pick] Use k8s 1.21.1 toolchain (#994) (#998)
+- [0455e209](https://github.com/stashed/mongodb/commit/0455e209) Update README.md
+
+
 ### [3.6.13-v10](https://github.com/stashed/mongodb/releases/tag/3.6.13-v10)
 
 - [52b38e73](https://github.com/stashed/mongodb/commit/52b38e73) Prepare for release 3.6.13-v10 (#1009)
