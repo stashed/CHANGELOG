@@ -22,6 +22,15 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.14.1](https://github.com/stashed/cli/releases/tag/v0.14.1)
+
+- [cd0a22a](https://github.com/stashed/cli/commit/cd0a22a) Prepare for release v0.14.1 (#125)
+- [f8937bb](https://github.com/stashed/cli/commit/f8937bb) Use Kubernetes 1.21.1 toolchain
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.14.1](https://github.com/stashed/stash/releases/tag/v0.14.1)
