@@ -31,6 +31,16 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2021.06.23](https://github.com/stashed/docs/releases/tag/v2021.06.23)
+
+- [6776139](https://github.com/stashed/docs/commit/6776139) Prepare for release v2021.06.23 (#161)
+- [acadfaa](https://github.com/stashed/docs/commit/acadfaa) Update docs for stashed/cli@eba049ef (#160)
+- [5de4105](https://github.com/stashed/docs/commit/5de4105) Update docs for stashed/stash@f86c22bf (#159)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v11](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v11)
