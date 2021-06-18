@@ -31,6 +31,16 @@
 
 
 
+## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
+
+### [5.6.4-v11](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v11)
+
+- [7bc688cc](https://github.com/stashed/elasticsearch/commit/7bc688cc) Prepare for release 5.6.4-v11 (#837)
+- [cb7338af](https://github.com/stashed/elasticsearch/commit/cb7338af) [cherry-pick] Use k8s 1.21.1 toolchain (#828) (#829)
+- [9dfe4c77](https://github.com/stashed/elasticsearch/commit/9dfe4c77) Update README.md
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v9](https://github.com/stashed/postgres/releases/tag/9.6.19-v9)
