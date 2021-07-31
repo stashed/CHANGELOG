@@ -138,6 +138,14 @@
 - [7da6b51f](https://github.com/stashed/mongodb/commit/7da6b51f) [cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1023)
 
 
+### [4.0.3-v11](https://github.com/stashed/mongodb/releases/tag/4.0.3-v11)
+
+- [5bb0e7fc](https://github.com/stashed/mongodb/commit/5bb0e7fc) Prepare for release 4.0.3-v11 (#1066)
+- [790fe330](https://github.com/stashed/mongodb/commit/790fe330) [cherry-pick] Update repository config (#1048) (#1054)
+- [d98a2c49](https://github.com/stashed/mongodb/commit/d98a2c49) [cherry-pick] Update dependencies (#1035) (#1041)
+- [5415505d](https://github.com/stashed/mongodb/commit/5415505d) [cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1026)
+
+
 ### [4.0.11-v11](https://github.com/stashed/mongodb/releases/tag/4.0.11-v11)
 
 - [77011222](https://github.com/stashed/mongodb/commit/77011222) Prepare for release 4.0.11-v11 (#1065)
