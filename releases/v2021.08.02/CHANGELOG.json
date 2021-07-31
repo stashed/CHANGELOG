@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.08.02",
-  "release_date": "2021-07-31T06:45:06.407904439Z",
+  "release_date": "2021-07-31T06:54:48.31097794Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.08.02",
   "kubernetes_version": "1.16+",
@@ -91,6 +91,32 @@
             {
               "SHA": "0501282",
               "Subject": "Update dependencies (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "10.14-v10",
+          "commits": [
+            {
+              "SHA": "3687c604",
+              "Subject": "Prepare for release 10.14-v10 (#839)"
+            },
+            {
+              "SHA": "a48fb0b2",
+              "Subject": "[cherry-pick] Update repository config (#833) (#834)"
+            },
+            {
+              "SHA": "72793d2a",
+              "Subject": "[cherry-pick] Update dependencies (#827) (#828)"
+            },
+            {
+              "SHA": "b0ef05d7",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#819) (#820)"
             }
           ]
         }
