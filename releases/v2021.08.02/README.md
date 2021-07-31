@@ -104,6 +104,17 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v5](https://github.com/stashed/mariadb/releases/tag/10.5.8-v5)
+
+- [4c5a5a6](https://github.com/stashed/mariadb/commit/4c5a5a6) Prepare for release 10.5.8-v5 (#120)
+- [bc22c03](https://github.com/stashed/mariadb/commit/bc22c03) [cherry-pick] Update repository config (#118) (#119)
+- [23101f3](https://github.com/stashed/mariadb/commit/23101f3) [cherry-pick] Update dependencies (#116) (#117)
+- [989e214](https://github.com/stashed/mariadb/commit/989e214) [cherry-pick] Use restic v0.12.0-ac.20210727 (#112) (#113)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v11](https://github.com/stashed/mongodb/releases/tag/3.4.17-v11)
