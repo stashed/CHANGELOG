@@ -212,6 +212,14 @@
 - [6b633d68](https://github.com/stashed/mysql/commit/6b633d68) [cherry-pick] Use restic v0.12.0-ac.20210727 (#438) (#439)
 
 
+### [8.0.3-v12](https://github.com/stashed/mysql/releases/tag/8.0.3-v12)
+
+- [10f7c4b7](https://github.com/stashed/mysql/commit/10f7c4b7) Prepare for release 8.0.3-v12 (#458)
+- [eb0c962a](https://github.com/stashed/mysql/commit/eb0c962a) [cherry-pick] Update repository config (#450) (#454)
+- [cb1fa41d](https://github.com/stashed/mysql/commit/cb1fa41d) [cherry-pick] Update dependencies (#445) (#449)
+- [705a5eb3](https://github.com/stashed/mysql/commit/705a5eb3) [cherry-pick] Use restic v0.12.0-ac.20210727 (#438) (#442)
+
+
 ### [8.0.14-v12](https://github.com/stashed/mysql/releases/tag/8.0.14-v12)
 
 - [8dcf9109](https://github.com/stashed/mysql/commit/8dcf9109) Prepare for release 8.0.14-v12 (#456)
