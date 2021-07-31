@@ -1,0 +1,44 @@
+{
+  "product_line": "Stash",
+  "release": "v2021.08.02",
+  "release_date": "2021-07-31T06:15:44.343238862Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2021.08.02",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "68cf54c0",
+              "Subject": "Update dependencies (#108)"
+            },
+            {
+              "SHA": "5405dc7e",
+              "Subject": "Use restic v0.12.0-ac.20210727 (#105)"
+            },
+            {
+              "SHA": "9609d465",
+              "Subject": "Test crds (#104)"
+            },
+            {
+              "SHA": "f9affe2f",
+              "Subject": "Add `Duration` column in BackupSession and RestoreSession (#103)"
+            },
+            {
+              "SHA": "0229e0bd",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "53996371",
+              "Subject": "Only generate crd v1 yamls (#102)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
