@@ -14,3 +14,18 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.15.0](https://github.com/stashed/stash/releases/tag/v0.15.0)
+
+- [f1484b5d](https://github.com/stashed/stash/commit/f1484b5d) Prepare for release v0.15.0 (#1372)
+- [20291868](https://github.com/stashed/stash/commit/20291868) Improve duration format in BackupSession and RestoreSession (#1370)
+- [99e2624b](https://github.com/stashed/stash/commit/99e2624b) Update repository config (#1371)
+- [90686853](https://github.com/stashed/stash/commit/90686853) Update dependencies (#1369)
+- [3c7b0593](https://github.com/stashed/stash/commit/3c7b0593) Use restic v0.12.0-ac.20210727 (#1366)
+- [76715e4c](https://github.com/stashed/stash/commit/76715e4c) Remove repetitive 403 errors from validator and mutators
+- [c987ee1a](https://github.com/stashed/stash/commit/c987ee1a) Pass `region` flag in the built-in functions (#1363)
+- [fc2e7fb4](https://github.com/stashed/stash/commit/fc2e7fb4) Stop using deprecated apis in k8s 1.22 (#1362)
+
+
+

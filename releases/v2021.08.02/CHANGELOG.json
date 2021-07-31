@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.08.02",
-  "release_date": "2021-07-31T06:15:44.343238862Z",
+  "release_date": "2021-07-31T06:31:57.953374218Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.08.02",
   "kubernetes_version": "1.16+",
@@ -35,6 +35,48 @@
             {
               "SHA": "53996371",
               "Subject": "Only generate crd v1 yamls (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "f1484b5d",
+              "Subject": "Prepare for release v0.15.0 (#1372)"
+            },
+            {
+              "SHA": "20291868",
+              "Subject": "Improve duration format in BackupSession and RestoreSession (#1370)"
+            },
+            {
+              "SHA": "99e2624b",
+              "Subject": "Update repository config (#1371)"
+            },
+            {
+              "SHA": "90686853",
+              "Subject": "Update dependencies (#1369)"
+            },
+            {
+              "SHA": "3c7b0593",
+              "Subject": "Use restic v0.12.0-ac.20210727 (#1366)"
+            },
+            {
+              "SHA": "76715e4c",
+              "Subject": "Remove repetitive 403 errors from validator and mutators"
+            },
+            {
+              "SHA": "c987ee1a",
+              "Subject": "Pass `region` flag in the built-in functions (#1363)"
+            },
+            {
+              "SHA": "fc2e7fb4",
+              "Subject": "Stop using deprecated apis in k8s 1.22 (#1362)"
             }
           ]
         }
