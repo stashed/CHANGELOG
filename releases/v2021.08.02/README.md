@@ -47,6 +47,14 @@
 - [b0ef05d7](https://github.com/stashed/postgres/commit/b0ef05d7) [cherry-pick] Use restic v0.12.0-ac.20210727 (#819) (#820)
 
 
+### [11.9-v10](https://github.com/stashed/postgres/releases/tag/11.9-v10)
+
+- [ab70837f](https://github.com/stashed/postgres/commit/ab70837f) Prepare for release 11.9-v10 (#840)
+- [496f0c91](https://github.com/stashed/postgres/commit/496f0c91) [cherry-pick] Update repository config (#833) (#835)
+- [3f0af053](https://github.com/stashed/postgres/commit/3f0af053) [cherry-pick] Update dependencies (#827) (#829)
+- [6f82d7cd](https://github.com/stashed/postgres/commit/6f82d7cd) [cherry-pick] Use restic v0.12.0-ac.20210727 (#819) (#821)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
