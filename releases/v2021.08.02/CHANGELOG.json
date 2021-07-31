@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.08.02",
-  "release_date": "2021-07-31T07:59:04.310777243Z",
+  "release_date": "2021-07-31T07:59:08.943478895Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.08.02",
   "kubernetes_version": "1.16+",
@@ -770,6 +770,10 @@
               "Subject": "Make Redis addon ready to use (#1)"
             }
           ]
+        },
+        {
+          "tag": "6.2.5",
+          "commits": null
         }
       ]
     },

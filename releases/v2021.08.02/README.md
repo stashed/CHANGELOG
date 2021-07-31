@@ -301,6 +301,10 @@
 - [7d4bfee](https://github.com/stashed/redis/commit/7d4bfee) Make Redis addon ready to use (#1)
 
 
+### [6.2.5](https://github.com/stashed/redis/releases/tag/6.2.5)
+
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
