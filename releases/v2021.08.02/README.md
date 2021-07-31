@@ -104,6 +104,27 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2021.08.02](https://github.com/stashed/installer/releases/tag/v2021.08.02)
+
+- [a156259](https://github.com/stashed/installer/commit/a156259) Prepare for release v2021.08.02 (#191)
+- [236344e](https://github.com/stashed/installer/commit/236344e) removed duplicate yaml key (#185)
+- [e4360b9](https://github.com/stashed/installer/commit/e4360b9) Add Redis catalog (#189)
+- [8ebc75b](https://github.com/stashed/installer/commit/8ebc75b) Update repository config (#190)
+- [08533b1](https://github.com/stashed/installer/commit/08533b1) Update dependencies (#188)
+- [1dec446](https://github.com/stashed/installer/commit/1dec446) Update chart docs
+- [e538a4a](https://github.com/stashed/installer/commit/e538a4a) Update stash chart dependencies via Makefile (#184)
+- [79185b4](https://github.com/stashed/installer/commit/79185b4) Stop using deprecated apis in k8s 1.22 (#183)
+- [3cb28a0](https://github.com/stashed/installer/commit/3cb28a0) Sort crd yamls by GK
+- [2e1bc42](https://github.com/stashed/installer/commit/2e1bc42) Merge metrics chart into crds chart
+- [2f22aee](https://github.com/stashed/installer/commit/2f22aee) Test against Kubernetes 1.21.1 (#182)
+- [51b9e39](https://github.com/stashed/installer/commit/51b9e39) Allow overriding image pull secrets from unified chart (#181)
+- [bab2a32](https://github.com/stashed/installer/commit/bab2a32) Rename user-roles.yaml to metrics-user-roles.yaml
+- [7f59770](https://github.com/stashed/installer/commit/7f59770) Add stash-metrics chart (#180)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v5](https://github.com/stashed/mariadb/releases/tag/10.5.8-v5)

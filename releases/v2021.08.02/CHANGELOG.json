@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.08.02",
-  "release_date": "2021-07-31T08:08:48.433598611Z",
+  "release_date": "2021-07-31T10:24:27.203983835Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.08.02",
   "kubernetes_version": "1.16+",
@@ -264,6 +264,72 @@
             {
               "SHA": "1082c0b4",
               "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#846) (#854)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2021.08.02",
+          "commits": [
+            {
+              "SHA": "a156259",
+              "Subject": "Prepare for release v2021.08.02 (#191)"
+            },
+            {
+              "SHA": "236344e",
+              "Subject": "removed duplicate yaml key (#185)"
+            },
+            {
+              "SHA": "e4360b9",
+              "Subject": "Add Redis catalog (#189)"
+            },
+            {
+              "SHA": "8ebc75b",
+              "Subject": "Update repository config (#190)"
+            },
+            {
+              "SHA": "08533b1",
+              "Subject": "Update dependencies (#188)"
+            },
+            {
+              "SHA": "1dec446",
+              "Subject": "Update chart docs"
+            },
+            {
+              "SHA": "e538a4a",
+              "Subject": "Update stash chart dependencies via Makefile (#184)"
+            },
+            {
+              "SHA": "79185b4",
+              "Subject": "Stop using deprecated apis in k8s 1.22 (#183)"
+            },
+            {
+              "SHA": "3cb28a0",
+              "Subject": "Sort crd yamls by GK"
+            },
+            {
+              "SHA": "2e1bc42",
+              "Subject": "Merge metrics chart into crds chart"
+            },
+            {
+              "SHA": "2f22aee",
+              "Subject": "Test against Kubernetes 1.21.1 (#182)"
+            },
+            {
+              "SHA": "51b9e39",
+              "Subject": "Allow overriding image pull secrets from unified chart (#181)"
+            },
+            {
+              "SHA": "bab2a32",
+              "Subject": "Rename user-roles.yaml to metrics-user-roles.yaml"
+            },
+            {
+              "SHA": "7f59770",
+              "Subject": "Add stash-metrics chart (#180)"
             }
           ]
         }
