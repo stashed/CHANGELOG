@@ -1,6 +1,20 @@
 # Stash v2021.08.02 (2021-07-31)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.15.0](https://github.com/appscode/stash-enterprise/releases/tag/v0.15.0)
+
+- [40cadc89](https://github.com/appscode/stash-enterprise/commit/40cadc89) Prepare for release v0.15.0 (#110)
+- [bd4ca856](https://github.com/appscode/stash-enterprise/commit/bd4ca856) Improve duration format in BackupSession and RestoreSession (#109)
+- [1d9cc4dd](https://github.com/appscode/stash-enterprise/commit/1d9cc4dd) Update dependencies (#108)
+- [8af6b01b](https://github.com/appscode/stash-enterprise/commit/8af6b01b) Use restic 0.12.0-ac.20210727 (#105)
+- [38dea1e2](https://github.com/appscode/stash-enterprise/commit/38dea1e2) Remove repetitive 403 errors from validator and mutators
+- [deb96432](https://github.com/appscode/stash-enterprise/commit/deb96432) Pass `region` flag in built-in Functions (#104)
+- [d7c5b0ab](https://github.com/appscode/stash-enterprise/commit/d7c5b0ab) Stop using deprecated apis in k8s 1.22 (#103)
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.15.0](https://github.com/stashed/apimachinery/releases/tag/v0.15.0)

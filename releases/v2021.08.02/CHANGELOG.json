@@ -1,11 +1,49 @@
 {
   "product_line": "Stash",
   "release": "v2021.08.02",
-  "release_date": "2021-07-31T06:31:57.953374218Z",
+  "release_date": "2021-07-31T06:36:45.62432338Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.08.02",
   "kubernetes_version": "1.16+",
   "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "40cadc89",
+              "Subject": "Prepare for release v0.15.0 (#110)"
+            },
+            {
+              "SHA": "bd4ca856",
+              "Subject": "Improve duration format in BackupSession and RestoreSession (#109)"
+            },
+            {
+              "SHA": "1d9cc4dd",
+              "Subject": "Update dependencies (#108)"
+            },
+            {
+              "SHA": "8af6b01b",
+              "Subject": "Use restic 0.12.0-ac.20210727 (#105)"
+            },
+            {
+              "SHA": "38dea1e2",
+              "Subject": "Remove repetitive 403 errors from validator and mutators"
+            },
+            {
+              "SHA": "deb96432",
+              "Subject": "Pass `region` flag in built-in Functions (#104)"
+            },
+            {
+              "SHA": "d7c5b0ab",
+              "Subject": "Stop using deprecated apis in k8s 1.22 (#103)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/apimachinery",
       "releases": [
