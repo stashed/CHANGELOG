@@ -1,0 +1,951 @@
+{
+  "product_line": "Stash",
+  "release": "v2021.08.02",
+  "release_date": "2021-07-31T12:00:45.649602184Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2021.08.02",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "40cadc89",
+              "Subject": "Prepare for release v0.15.0 (#110)"
+            },
+            {
+              "SHA": "bd4ca856",
+              "Subject": "Improve duration format in BackupSession and RestoreSession (#109)"
+            },
+            {
+              "SHA": "1d9cc4dd",
+              "Subject": "Update dependencies (#108)"
+            },
+            {
+              "SHA": "8af6b01b",
+              "Subject": "Use restic 0.12.0-ac.20210727 (#105)"
+            },
+            {
+              "SHA": "38dea1e2",
+              "Subject": "Remove repetitive 403 errors from validator and mutators"
+            },
+            {
+              "SHA": "deb96432",
+              "Subject": "Pass `region` flag in built-in Functions (#104)"
+            },
+            {
+              "SHA": "d7c5b0ab",
+              "Subject": "Stop using deprecated apis in k8s 1.22 (#103)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "68cf54c0",
+              "Subject": "Update dependencies (#108)"
+            },
+            {
+              "SHA": "5405dc7e",
+              "Subject": "Use restic v0.12.0-ac.20210727 (#105)"
+            },
+            {
+              "SHA": "9609d465",
+              "Subject": "Test crds (#104)"
+            },
+            {
+              "SHA": "f9affe2f",
+              "Subject": "Add `Duration` column in BackupSession and RestoreSession (#103)"
+            },
+            {
+              "SHA": "0229e0bd",
+              "Subject": "Update README.md"
+            },
+            {
+              "SHA": "53996371",
+              "Subject": "Only generate crd v1 yamls (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.08.02",
+          "commits": [
+            {
+              "SHA": "548a106",
+              "Subject": "Prepare for release v2021.08.02 (#47)"
+            },
+            {
+              "SHA": "74110c8",
+              "Subject": "Update repository config (#46)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "f5ebe84",
+              "Subject": "Prepare for release v0.15.0 (#129)"
+            },
+            {
+              "SHA": "0501282",
+              "Subject": "Update dependencies (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.08.02",
+          "commits": [
+            {
+              "SHA": "65ad325",
+              "Subject": "Prepare for release v2021.08.02 (#165)"
+            },
+            {
+              "SHA": "0b7eb26",
+              "Subject": "Add Redis Addon Docs (#164)"
+            },
+            {
+              "SHA": "cb815a1",
+              "Subject": "Update catalog crd yaml path (#163)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v12",
+          "commits": [
+            {
+              "SHA": "f6cd9a3f",
+              "Subject": "Prepare for release 5.6.4-v12 (#875)"
+            },
+            {
+              "SHA": "6d5daef1",
+              "Subject": "[cherry-pick] Update repository config (#866) (#867)"
+            },
+            {
+              "SHA": "22b224ab",
+              "Subject": "[cherry-pick] Update dependencies (#857) (#858)"
+            },
+            {
+              "SHA": "60b47d34",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#846) (#847)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v12",
+          "commits": [
+            {
+              "SHA": "113226e5",
+              "Subject": "Prepare for release 6.2.4-v12 (#876)"
+            },
+            {
+              "SHA": "dd90de07",
+              "Subject": "[cherry-pick] Update repository config (#866) (#868)"
+            },
+            {
+              "SHA": "c93e9745",
+              "Subject": "[cherry-pick] Update dependencies (#857) (#859)"
+            },
+            {
+              "SHA": "22e606ae",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#846) (#848)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v12",
+          "commits": [
+            {
+              "SHA": "3a249c88",
+              "Subject": "Prepare for release 6.3.0-v12 (#877)"
+            },
+            {
+              "SHA": "41bd96ed",
+              "Subject": "[cherry-pick] Update repository config (#866) (#869)"
+            },
+            {
+              "SHA": "c718b116",
+              "Subject": "[cherry-pick] Update dependencies (#857) (#860)"
+            },
+            {
+              "SHA": "8c4a5c26",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#846) (#849)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v12",
+          "commits": [
+            {
+              "SHA": "34b940ec",
+              "Subject": "Prepare for release 6.4.0-v12 (#878)"
+            },
+            {
+              "SHA": "f0b7aa39",
+              "Subject": "[cherry-pick] Update repository config (#866) (#870)"
+            },
+            {
+              "SHA": "12a3a75d",
+              "Subject": "[cherry-pick] Update dependencies (#857) (#861)"
+            },
+            {
+              "SHA": "01ead31a",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#846) (#850)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v12",
+          "commits": [
+            {
+              "SHA": "c994843d",
+              "Subject": "Prepare for release 6.5.3-v12 (#879)"
+            },
+            {
+              "SHA": "5bc88545",
+              "Subject": "[cherry-pick] Update repository config (#866) (#871)"
+            },
+            {
+              "SHA": "1e31a002",
+              "Subject": "[cherry-pick] Update dependencies (#857) (#862)"
+            },
+            {
+              "SHA": "4d07f828",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#846) (#851)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v12",
+          "commits": [
+            {
+              "SHA": "f09dd827",
+              "Subject": "Prepare for release 6.8.0-v12 (#880)"
+            },
+            {
+              "SHA": "f35f8ca3",
+              "Subject": "[cherry-pick] Update repository config (#866) (#872)"
+            },
+            {
+              "SHA": "782c1fc4",
+              "Subject": "[cherry-pick] Update dependencies (#857) (#863)"
+            },
+            {
+              "SHA": "6e8b2884",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#846) (#852)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v12",
+          "commits": [
+            {
+              "SHA": "b55c27fe",
+              "Subject": "Prepare for release 7.2.0-v12 (#881)"
+            },
+            {
+              "SHA": "c7f76787",
+              "Subject": "[cherry-pick] Update repository config (#866) (#873)"
+            },
+            {
+              "SHA": "038294c6",
+              "Subject": "[cherry-pick] Update dependencies (#857) (#864)"
+            },
+            {
+              "SHA": "5cdc2c37",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#846) (#853)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v12",
+          "commits": [
+            {
+              "SHA": "36bd2685",
+              "Subject": "Prepare for release 7.3.2-v12 (#882)"
+            },
+            {
+              "SHA": "c910d845",
+              "Subject": "[cherry-pick] Update repository config (#866) (#874)"
+            },
+            {
+              "SHA": "3a2c26f4",
+              "Subject": "[cherry-pick] Update dependencies (#857) (#865)"
+            },
+            {
+              "SHA": "1082c0b4",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#846) (#854)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2021.08.02",
+          "commits": [
+            {
+              "SHA": "a156259",
+              "Subject": "Prepare for release v2021.08.02 (#191)"
+            },
+            {
+              "SHA": "236344e",
+              "Subject": "removed duplicate yaml key (#185)"
+            },
+            {
+              "SHA": "e4360b9",
+              "Subject": "Add Redis catalog (#189)"
+            },
+            {
+              "SHA": "8ebc75b",
+              "Subject": "Update repository config (#190)"
+            },
+            {
+              "SHA": "08533b1",
+              "Subject": "Update dependencies (#188)"
+            },
+            {
+              "SHA": "1dec446",
+              "Subject": "Update chart docs"
+            },
+            {
+              "SHA": "e538a4a",
+              "Subject": "Update stash chart dependencies via Makefile (#184)"
+            },
+            {
+              "SHA": "79185b4",
+              "Subject": "Stop using deprecated apis in k8s 1.22 (#183)"
+            },
+            {
+              "SHA": "3cb28a0",
+              "Subject": "Sort crd yamls by GK"
+            },
+            {
+              "SHA": "2e1bc42",
+              "Subject": "Merge metrics chart into crds chart"
+            },
+            {
+              "SHA": "2f22aee",
+              "Subject": "Test against Kubernetes 1.21.1 (#182)"
+            },
+            {
+              "SHA": "51b9e39",
+              "Subject": "Allow overriding image pull secrets from unified chart (#181)"
+            },
+            {
+              "SHA": "bab2a32",
+              "Subject": "Rename user-roles.yaml to metrics-user-roles.yaml"
+            },
+            {
+              "SHA": "7f59770",
+              "Subject": "Add stash-metrics chart (#180)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v5",
+          "commits": [
+            {
+              "SHA": "4c5a5a6",
+              "Subject": "Prepare for release 10.5.8-v5 (#120)"
+            },
+            {
+              "SHA": "bc22c03",
+              "Subject": "[cherry-pick] Update repository config (#118) (#119)"
+            },
+            {
+              "SHA": "23101f3",
+              "Subject": "[cherry-pick] Update dependencies (#116) (#117)"
+            },
+            {
+              "SHA": "989e214",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#112) (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v11",
+          "commits": [
+            {
+              "SHA": "df1a5ee9",
+              "Subject": "Prepare for release 3.4.17-v11 (#1061)"
+            },
+            {
+              "SHA": "f345dade",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1049)"
+            },
+            {
+              "SHA": "66be6780",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1036)"
+            },
+            {
+              "SHA": "9ceabf04",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1021)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v11",
+          "commits": [
+            {
+              "SHA": "a3b281da",
+              "Subject": "Prepare for release 3.4.22-v11 (#1062)"
+            },
+            {
+              "SHA": "dc10d71e",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1050)"
+            },
+            {
+              "SHA": "fbfb625d",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1037)"
+            },
+            {
+              "SHA": "2c3233ac",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1022)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v11",
+          "commits": [
+            {
+              "SHA": "bc0d14bf",
+              "Subject": "Prepare for release 3.6.8-v11 (#1064)"
+            },
+            {
+              "SHA": "011a6f25",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1052)"
+            },
+            {
+              "SHA": "0d27847f",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1039)"
+            },
+            {
+              "SHA": "0f97d428",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1024)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v11",
+          "commits": [
+            {
+              "SHA": "cc1fc58f",
+              "Subject": "Prepare for release 3.6.13-v11 (#1063)"
+            },
+            {
+              "SHA": "5db9d0e8",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1051)"
+            },
+            {
+              "SHA": "65bb29b5",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1038)"
+            },
+            {
+              "SHA": "7da6b51f",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1023)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v11",
+          "commits": [
+            {
+              "SHA": "5bb0e7fc",
+              "Subject": "Prepare for release 4.0.3-v11 (#1066)"
+            },
+            {
+              "SHA": "790fe330",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1054)"
+            },
+            {
+              "SHA": "d98a2c49",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1041)"
+            },
+            {
+              "SHA": "5415505d",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1026)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v11",
+          "commits": [
+            {
+              "SHA": "8dcb1644",
+              "Subject": "Prepare for release 4.0.5-v11 (#1067)"
+            },
+            {
+              "SHA": "47025315",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1055)"
+            },
+            {
+              "SHA": "9dfdc8f3",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1042)"
+            },
+            {
+              "SHA": "14570445",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1027)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v11",
+          "commits": [
+            {
+              "SHA": "77011222",
+              "Subject": "Prepare for release 4.0.11-v11 (#1065)"
+            },
+            {
+              "SHA": "ff0a8612",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1053)"
+            },
+            {
+              "SHA": "e0f0aa94",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1040)"
+            },
+            {
+              "SHA": "37097340",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1025)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v11",
+          "commits": [
+            {
+              "SHA": "124f47e8",
+              "Subject": "Prepare for release 4.1.4-v11 (#1069)"
+            },
+            {
+              "SHA": "6f46f97e",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1057)"
+            },
+            {
+              "SHA": "162e6c00",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1044)"
+            },
+            {
+              "SHA": "b32b9b9b",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1029)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v11",
+          "commits": [
+            {
+              "SHA": "4f7007a4",
+              "Subject": "Prepare for release 4.1.7-v11 (#1070)"
+            },
+            {
+              "SHA": "021825ea",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1058)"
+            },
+            {
+              "SHA": "786843bc",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1045)"
+            },
+            {
+              "SHA": "bb3640a0",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1030)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v11",
+          "commits": [
+            {
+              "SHA": "d1e1bb66",
+              "Subject": "Prepare for release 4.1.13-v11 (#1068)"
+            },
+            {
+              "SHA": "cf602e44",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1056)"
+            },
+            {
+              "SHA": "617ff56d",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1043)"
+            },
+            {
+              "SHA": "c223aa7b",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1028)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v11",
+          "commits": [
+            {
+              "SHA": "0565d9c9",
+              "Subject": "Prepare for release 4.2.3-v11 (#1071)"
+            },
+            {
+              "SHA": "3d52ffd2",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1059)"
+            },
+            {
+              "SHA": "983dc6b0",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1046)"
+            },
+            {
+              "SHA": "df3c1e5b",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1031)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v2",
+          "commits": [
+            {
+              "SHA": "ccdb092c",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1060)"
+            },
+            {
+              "SHA": "e54137e6",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1047)"
+            },
+            {
+              "SHA": "8c036539",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1032)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v12",
+          "commits": [
+            {
+              "SHA": "48b8c389",
+              "Subject": "Prepare for release 5.7.25-v12 (#455)"
+            },
+            {
+              "SHA": "2228e027",
+              "Subject": "[cherry-pick] Update repository config (#450) (#451)"
+            },
+            {
+              "SHA": "da7063a4",
+              "Subject": "[cherry-pick] Update dependencies (#445) (#446)"
+            },
+            {
+              "SHA": "6b633d68",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#438) (#439)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v12",
+          "commits": [
+            {
+              "SHA": "10f7c4b7",
+              "Subject": "Prepare for release 8.0.3-v12 (#458)"
+            },
+            {
+              "SHA": "eb0c962a",
+              "Subject": "[cherry-pick] Update repository config (#450) (#454)"
+            },
+            {
+              "SHA": "cb1fa41d",
+              "Subject": "[cherry-pick] Update dependencies (#445) (#449)"
+            },
+            {
+              "SHA": "705a5eb3",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#438) (#442)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v12",
+          "commits": [
+            {
+              "SHA": "8dcf9109",
+              "Subject": "Prepare for release 8.0.14-v12 (#456)"
+            },
+            {
+              "SHA": "0b899336",
+              "Subject": "[cherry-pick] Update repository config (#450) (#452)"
+            },
+            {
+              "SHA": "156e4650",
+              "Subject": "[cherry-pick] Update dependencies (#445) (#447)"
+            },
+            {
+              "SHA": "373511ed",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#438) (#440)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v6",
+          "commits": [
+            {
+              "SHA": "2a424f32",
+              "Subject": "Prepare for release 8.0.21-v6 (#457)"
+            },
+            {
+              "SHA": "545ab090",
+              "Subject": "[cherry-pick] Update repository config (#450) (#453)"
+            },
+            {
+              "SHA": "01144457",
+              "Subject": "[cherry-pick] Update dependencies (#445) (#448)"
+            },
+            {
+              "SHA": "64ba0a79",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#438) (#441)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v7",
+          "commits": [
+            {
+              "SHA": "4b3634a7",
+              "Subject": "Prepare for release 5.7-v7 (#193)"
+            },
+            {
+              "SHA": "22f2e507",
+              "Subject": "[cherry-pick] Update repository config (#191) (#192)"
+            },
+            {
+              "SHA": "7a67ec51",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#186) (#187)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v10",
+          "commits": [
+            {
+              "SHA": "c87db716",
+              "Subject": "Prepare for release 9.6.19-v10 (#843)"
+            },
+            {
+              "SHA": "0e241018",
+              "Subject": "[cherry-pick] Update repository config (#833) (#838)"
+            },
+            {
+              "SHA": "b076f970",
+              "Subject": "[cherry-pick] Update dependencies (#827) (#832)"
+            },
+            {
+              "SHA": "2e6829c1",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#819) (#824)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v10",
+          "commits": [
+            {
+              "SHA": "3687c604",
+              "Subject": "Prepare for release 10.14-v10 (#839)"
+            },
+            {
+              "SHA": "a48fb0b2",
+              "Subject": "[cherry-pick] Update repository config (#833) (#834)"
+            },
+            {
+              "SHA": "72793d2a",
+              "Subject": "[cherry-pick] Update dependencies (#827) (#828)"
+            },
+            {
+              "SHA": "b0ef05d7",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#819) (#820)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v10",
+          "commits": [
+            {
+              "SHA": "ab70837f",
+              "Subject": "Prepare for release 11.9-v10 (#840)"
+            },
+            {
+              "SHA": "496f0c91",
+              "Subject": "[cherry-pick] Update repository config (#833) (#835)"
+            },
+            {
+              "SHA": "3f0af053",
+              "Subject": "[cherry-pick] Update dependencies (#827) (#829)"
+            },
+            {
+              "SHA": "6f82d7cd",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#819) (#821)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v10",
+          "commits": [
+            {
+              "SHA": "1a911490",
+              "Subject": "Prepare for release 12.4-v10 (#841)"
+            },
+            {
+              "SHA": "1319792a",
+              "Subject": "[cherry-pick] Update repository config (#833) (#836)"
+            },
+            {
+              "SHA": "79b20b79",
+              "Subject": "[cherry-pick] Update dependencies (#827) (#830)"
+            },
+            {
+              "SHA": "a7cf8a2b",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#819) (#822)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v7",
+          "commits": [
+            {
+              "SHA": "949be085",
+              "Subject": "Prepare for release 13.1-v7 (#842)"
+            },
+            {
+              "SHA": "2c2642d1",
+              "Subject": "[cherry-pick] Update repository config (#833) (#837)"
+            },
+            {
+              "SHA": "2dc6e0e3",
+              "Subject": "[cherry-pick] Update dependencies (#827) (#831)"
+            },
+            {
+              "SHA": "f07a6f91",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#819) (#823)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13",
+          "commits": [
+            {
+              "SHA": "8aef207",
+              "Subject": "Prepare for release 5.0.13 (#5)"
+            },
+            {
+              "SHA": "eef7933",
+              "Subject": "Update repository config (#2) (#3)"
+            },
+            {
+              "SHA": "628dbb1",
+              "Subject": "Use redis:5.0.13 as base image"
+            },
+            {
+              "SHA": "7d4bfee",
+              "Subject": "Make Redis addon ready to use (#1)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "f1484b5d",
+              "Subject": "Prepare for release v0.15.0 (#1372)"
+            },
+            {
+              "SHA": "20291868",
+              "Subject": "Improve duration format in BackupSession and RestoreSession (#1370)"
+            },
+            {
+              "SHA": "99e2624b",
+              "Subject": "Update repository config (#1371)"
+            },
+            {
+              "SHA": "90686853",
+              "Subject": "Update dependencies (#1369)"
+            },
+            {
+              "SHA": "3c7b0593",
+              "Subject": "Use restic v0.12.0-ac.20210727 (#1366)"
+            },
+            {
+              "SHA": "76715e4c",
+              "Subject": "Remove repetitive 403 errors from validator and mutators"
+            },
+            {
+              "SHA": "c987ee1a",
+              "Subject": "Pass `region` flag in the built-in functions (#1363)"
+            },
+            {
+              "SHA": "fc2e7fb4",
+              "Subject": "Stop using deprecated apis in k8s 1.22 (#1362)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
