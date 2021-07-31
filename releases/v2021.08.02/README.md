@@ -37,6 +37,16 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2021.08.02](https://github.com/stashed/docs/releases/tag/v2021.08.02)
+
+- [65ad325](https://github.com/stashed/docs/commit/65ad325) Prepare for release v2021.08.02 (#165)
+- [0b7eb26](https://github.com/stashed/docs/commit/0b7eb26) Add Redis Addon Docs (#164)
+- [cb815a1](https://github.com/stashed/docs/commit/cb815a1) Update catalog crd yaml path (#163)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v12](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v12)

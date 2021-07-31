@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.08.02",
-  "release_date": "2021-07-31T10:24:27.203983835Z",
+  "release_date": "2021-07-31T11:52:13.918927394Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.08.02",
   "kubernetes_version": "1.16+",
@@ -91,6 +91,28 @@
             {
               "SHA": "0501282",
               "Subject": "Update dependencies (#128)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.08.02",
+          "commits": [
+            {
+              "SHA": "65ad325",
+              "Subject": "Prepare for release v2021.08.02 (#165)"
+            },
+            {
+              "SHA": "0b7eb26",
+              "Subject": "Add Redis Addon Docs (#164)"
+            },
+            {
+              "SHA": "cb815a1",
+              "Subject": "Update catalog crd yaml path (#163)"
             }
           ]
         }
