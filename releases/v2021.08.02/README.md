@@ -28,6 +28,15 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2021.08.02](https://github.com/stashed/bundles/releases/tag/v2021.08.02)
+
+- [548a106](https://github.com/stashed/bundles/commit/548a106) Prepare for release v2021.08.02 (#47)
+- [74110c8](https://github.com/stashed/bundles/commit/74110c8) Update repository config (#46)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.15.0](https://github.com/stashed/cli/releases/tag/v0.15.0)

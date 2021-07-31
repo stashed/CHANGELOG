@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.08.02",
-  "release_date": "2021-07-31T11:52:13.918927394Z",
+  "release_date": "2021-07-31T12:00:45.649602184Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.08.02",
   "kubernetes_version": "1.16+",
@@ -73,6 +73,24 @@
             {
               "SHA": "53996371",
               "Subject": "Only generate crd v1 yamls (#102)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.08.02",
+          "commits": [
+            {
+              "SHA": "548a106",
+              "Subject": "Prepare for release v2021.08.02 (#47)"
+            },
+            {
+              "SHA": "74110c8",
+              "Subject": "Update repository config (#46)"
             }
           ]
         }
