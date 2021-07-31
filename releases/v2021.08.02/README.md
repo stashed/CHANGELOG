@@ -95,6 +95,14 @@
 - [5cdc2c37](https://github.com/stashed/elasticsearch/commit/5cdc2c37) [cherry-pick] Use restic v0.12.0-ac.20210727 (#846) (#853)
 
 
+### [7.3.2-v12](https://github.com/stashed/elasticsearch/releases/tag/7.3.2-v12)
+
+- [36bd2685](https://github.com/stashed/elasticsearch/commit/36bd2685) Prepare for release 7.3.2-v12 (#882)
+- [c910d845](https://github.com/stashed/elasticsearch/commit/c910d845) [cherry-pick] Update repository config (#866) (#874)
+- [3a2c26f4](https://github.com/stashed/elasticsearch/commit/3a2c26f4) [cherry-pick] Update dependencies (#857) (#865)
+- [1082c0b4](https://github.com/stashed/elasticsearch/commit/1082c0b4) [cherry-pick] Use restic v0.12.0-ac.20210727 (#846) (#854)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
