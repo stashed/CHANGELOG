@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.08.02",
-  "release_date": "2021-07-31T07:33:05.04797124Z",
+  "release_date": "2021-07-31T07:33:09.285967028Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.08.02",
   "kubernetes_version": "1.16+",
@@ -500,6 +500,23 @@
             {
               "SHA": "df3c1e5b",
               "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1031)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v2",
+          "commits": [
+            {
+              "SHA": "ccdb092c",
+              "Subject": "[cherry-pick] Update repository config (#1048) (#1060)"
+            },
+            {
+              "SHA": "e54137e6",
+              "Subject": "[cherry-pick] Update dependencies (#1035) (#1047)"
+            },
+            {
+              "SHA": "8c036539",
+              "Subject": "[cherry-pick] Use restic v0.12.0-ac.20210727 (#1020) (#1032)"
             }
           ]
         }
