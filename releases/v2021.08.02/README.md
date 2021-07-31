@@ -291,6 +291,17 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13](https://github.com/stashed/redis/releases/tag/5.0.13)
+
+- [8aef207](https://github.com/stashed/redis/commit/8aef207) Prepare for release 5.0.13 (#5)
+- [eef7933](https://github.com/stashed/redis/commit/eef7933) Update repository config (#2) (#3)
+- [628dbb1](https://github.com/stashed/redis/commit/628dbb1) Use redis:5.0.13 as base image
+- [7d4bfee](https://github.com/stashed/redis/commit/7d4bfee) Make Redis addon ready to use (#1)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.15.0](https://github.com/stashed/stash/releases/tag/v0.15.0)
