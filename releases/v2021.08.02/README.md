@@ -248,6 +248,16 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v7](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v7)
+
+- [4b3634a7](https://github.com/stashed/percona-xtradb/commit/4b3634a7) Prepare for release 5.7-v7 (#193)
+- [22f2e507](https://github.com/stashed/percona-xtradb/commit/22f2e507) [cherry-pick] Update repository config (#191) (#192)
+- [7a67ec51](https://github.com/stashed/percona-xtradb/commit/7a67ec51) [cherry-pick] Use restic v0.12.0-ac.20210727 (#186) (#187)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v10](https://github.com/stashed/postgres/releases/tag/9.6.19-v10)
