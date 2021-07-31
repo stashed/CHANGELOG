@@ -28,6 +28,15 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.15.0](https://github.com/stashed/cli/releases/tag/v0.15.0)
+
+- [f5ebe84](https://github.com/stashed/cli/commit/f5ebe84) Prepare for release v0.15.0 (#129)
+- [0501282](https://github.com/stashed/cli/commit/0501282) Update dependencies (#128)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.15.0](https://github.com/stashed/stash/releases/tag/v0.15.0)
