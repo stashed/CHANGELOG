@@ -1,0 +1,132 @@
+{
+  "product_line": "Stash",
+  "release": "v2021.10.11",
+  "release_date": "2021-10-09T13:23:35.586652048Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2021.10.11",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "e5b1aaea",
+              "Subject": "Fix jwt-go security vulnerability (#129)"
+            },
+            {
+              "SHA": "065a6d36",
+              "Subject": "Fix jwt-go security vulnerability (#128)"
+            },
+            {
+              "SHA": "561988c6",
+              "Subject": "Add condition for indicating restore completion (#127)"
+            },
+            {
+              "SHA": "3ddabb57",
+              "Subject": "Add \"Running\" phase for the individual restore host (#126)"
+            },
+            {
+              "SHA": "1c75b4ce",
+              "Subject": "Support passing arguments to restic backup/restore command (#121)"
+            },
+            {
+              "SHA": "307b411a",
+              "Subject": "Update dependencies to publish SiteInfo (#125)"
+            },
+            {
+              "SHA": "ce72641a",
+              "Subject": "Update dependencies to publish SiteInfo (#124)"
+            },
+            {
+              "SHA": "322437d9",
+              "Subject": "Show actual repo size instead of logical size (#123)"
+            },
+            {
+              "SHA": "5e773145",
+              "Subject": "Return new labels by EnsureKubeDBIntegration function  (#122)"
+            },
+            {
+              "SHA": "908628b7",
+              "Subject": "Update repository config (#120)"
+            },
+            {
+              "SHA": "a7994a77",
+              "Subject": "Add `ADDON_IMAGE` variable for Etcd Addons"
+            },
+            {
+              "SHA": "16529919",
+              "Subject": "Run `make fmt`"
+            },
+            {
+              "SHA": "78077d32",
+              "Subject": "Merge branch 'master' into etcd-flag"
+            },
+            {
+              "SHA": "163e7863",
+              "Subject": "Set RESTIC_PROGRESS_FPS in restic wrapper shell"
+            },
+            {
+              "SHA": "b0983010",
+              "Subject": "Merge branch 'master' into progress-fps"
+            },
+            {
+              "SHA": "72b73523",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#119)"
+            },
+            {
+              "SHA": "2eecfe50",
+              "Subject": "Merge branch 'master' into etcd-flag"
+            },
+            {
+              "SHA": "b0141c12",
+              "Subject": "Add addon image flag"
+            },
+            {
+              "SHA": "c1e37507",
+              "Subject": "Set RESTIC_PROGRESS_FPS in restic wrapper shell"
+            },
+            {
+              "SHA": "fda29913",
+              "Subject": "Merge pull request #116 from stashed/fix-cronjob-name-prefix"
+            },
+            {
+              "SHA": "8cbe8b9d",
+              "Subject": "Add constants for backup triggering CronJob"
+            },
+            {
+              "SHA": "78e6bc8c",
+              "Subject": "Use official restic v0.12.1 (#115)"
+            },
+            {
+              "SHA": "01704d74",
+              "Subject": "Update repository config (#114)"
+            },
+            {
+              "SHA": "d9f1899d",
+              "Subject": "Update dependencies (#113)"
+            },
+            {
+              "SHA": "639e36ec",
+              "Subject": "Update dependencies (#112)"
+            },
+            {
+              "SHA": "ffb5a0c7",
+              "Subject": "Update dependencies (#111)"
+            },
+            {
+              "SHA": "cdbb8e52",
+              "Subject": "Update repository config (#110)"
+            },
+            {
+              "SHA": "ae94693a",
+              "Subject": "Update repository config (#109)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
