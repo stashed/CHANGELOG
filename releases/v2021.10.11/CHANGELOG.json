@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.10.11",
-  "release_date": "2021-10-09T13:23:35.586652048Z",
+  "release_date": "2021-10-09T13:36:51.696041708Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.10.11",
   "kubernetes_version": "1.16+",
@@ -123,6 +123,80 @@
             {
               "SHA": "ae94693a",
               "Subject": "Update repository config (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "535efca8",
+              "Subject": "Prepare for release v0.16.0 (#1394)"
+            },
+            {
+              "SHA": "7c26c7dd",
+              "Subject": "Fix jwt-go security vulnerability (#1393)"
+            },
+            {
+              "SHA": "8f63f724",
+              "Subject": "Add support for ETCD restore flow (#1392)"
+            },
+            {
+              "SHA": "5665ea7e",
+              "Subject": "Use nats.go v1.13.0 (#1391)"
+            },
+            {
+              "SHA": "cc2da916",
+              "Subject": "Setup SiteInfo publisher (#1390)"
+            },
+            {
+              "SHA": "8daab52d",
+              "Subject": "Update dependencies to publish SiteInfo (#1389)"
+            },
+            {
+              "SHA": "50b58218",
+              "Subject": "Support passing args to restic backup/restore command (#1385)"
+            },
+            {
+              "SHA": "28d878ed",
+              "Subject": "Update dependencies to publish SiteInfo (#1387)"
+            },
+            {
+              "SHA": "c063a536",
+              "Subject": "Fix license-reader ClusterRoleBinding not cleaning up properly  (#1386)"
+            },
+            {
+              "SHA": "e09bd7b0",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#1383)"
+            },
+            {
+              "SHA": "3da6094c",
+              "Subject": "Use stash-trigger as backup triggering CronJob name prefix #1382"
+            },
+            {
+              "SHA": "e08ce8f6",
+              "Subject": "Use `stash-trigger` as backup triggering CronJob name prefix"
+            },
+            {
+              "SHA": "5027ae41",
+              "Subject": "Use official restic v0.12.1 (#1381)"
+            },
+            {
+              "SHA": "f23d8f42",
+              "Subject": "Update repository config (#1379)"
+            },
+            {
+              "SHA": "0348419d",
+              "Subject": "Update dependencies (#1378)"
+            },
+            {
+              "SHA": "0f6400d5",
+              "Subject": "Update repository config (#1375)"
             }
           ]
         }

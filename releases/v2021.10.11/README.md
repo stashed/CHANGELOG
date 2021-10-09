@@ -36,3 +36,26 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.16.0](https://github.com/stashed/stash/releases/tag/v0.16.0)
+
+- [535efca8](https://github.com/stashed/stash/commit/535efca8) Prepare for release v0.16.0 (#1394)
+- [7c26c7dd](https://github.com/stashed/stash/commit/7c26c7dd) Fix jwt-go security vulnerability (#1393)
+- [8f63f724](https://github.com/stashed/stash/commit/8f63f724) Add support for ETCD restore flow (#1392)
+- [5665ea7e](https://github.com/stashed/stash/commit/5665ea7e) Use nats.go v1.13.0 (#1391)
+- [cc2da916](https://github.com/stashed/stash/commit/cc2da916) Setup SiteInfo publisher (#1390)
+- [8daab52d](https://github.com/stashed/stash/commit/8daab52d) Update dependencies to publish SiteInfo (#1389)
+- [50b58218](https://github.com/stashed/stash/commit/50b58218) Support passing args to restic backup/restore command (#1385)
+- [28d878ed](https://github.com/stashed/stash/commit/28d878ed) Update dependencies to publish SiteInfo (#1387)
+- [c063a536](https://github.com/stashed/stash/commit/c063a536) Fix license-reader ClusterRoleBinding not cleaning up properly  (#1386)
+- [e09bd7b0](https://github.com/stashed/stash/commit/e09bd7b0) Log warning if Community License is used with non-demo namespace (#1383)
+- [3da6094c](https://github.com/stashed/stash/commit/3da6094c) Use stash-trigger as backup triggering CronJob name prefix #1382
+- [e08ce8f6](https://github.com/stashed/stash/commit/e08ce8f6) Use `stash-trigger` as backup triggering CronJob name prefix
+- [5027ae41](https://github.com/stashed/stash/commit/5027ae41) Use official restic v0.12.1 (#1381)
+- [f23d8f42](https://github.com/stashed/stash/commit/f23d8f42) Update repository config (#1379)
+- [0348419d](https://github.com/stashed/stash/commit/0348419d) Update dependencies (#1378)
+- [0f6400d5](https://github.com/stashed/stash/commit/0f6400d5) Update repository config (#1375)
+
+
+
