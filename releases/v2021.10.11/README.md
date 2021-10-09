@@ -471,6 +471,28 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v13](https://github.com/stashed/mysql/releases/tag/5.7.25-v13)
+
+- [aff6e370](https://github.com/stashed/mysql/commit/aff6e370) Prepare for release 5.7.25-v13 (#528)
+- [60ddc272](https://github.com/stashed/mysql/commit/60ddc272) [cherry-pick] Fix jwt-go security vulnerability (#523) (#524)
+- [799720cb](https://github.com/stashed/mysql/commit/799720cb) [cherry-pick] Fix jwt-go security vulnerability (#518) (#519)
+- [008b2bf5](https://github.com/stashed/mysql/commit/008b2bf5) [cherry-pick] Update dependencies to publish SiteInfo (#513) (#514)
+- [fdedb6d1](https://github.com/stashed/mysql/commit/fdedb6d1) [cherry-pick] Update dependencies to publish SiteInfo (#508) (#509)
+- [28533a79](https://github.com/stashed/mysql/commit/28533a79) [cherry-pick] Log warning if Community License is used with non-demo namespace (#503) (#504)
+- [d905ccbb](https://github.com/stashed/mysql/commit/d905ccbb) [cherry-pick] Use official restic v0.12.1 (#498) (#499)
+- [9582cc54](https://github.com/stashed/mysql/commit/9582cc54) [cherry-pick] Update repository config (#493) (#494)
+- [0ae1d9a0](https://github.com/stashed/mysql/commit/0ae1d9a0) [cherry-pick] Update dependencies (#488) (#489)
+- [07722857](https://github.com/stashed/mysql/commit/07722857) [cherry-pick] Update dependencies (#483) (#484)
+- [2a177d7d](https://github.com/stashed/mysql/commit/2a177d7d) [cherry-pick] Update dependencies (#478) (#479)
+- [fdf16b05](https://github.com/stashed/mysql/commit/fdf16b05) [cherry-pick] Use user nobody (#474)
+- [6b54b57d](https://github.com/stashed/mysql/commit/6b54b57d) [cherry-pick] Update repository config (#469) (#470)
+- [5c9a5e36](https://github.com/stashed/mysql/commit/5c9a5e36) [cherry-pick] Update repository config (#464) (#465)
+- [7c10a203](https://github.com/stashed/mysql/commit/7c10a203) [cherry-pick] Update README.md (#460)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v11](https://github.com/stashed/postgres/releases/tag/9.6.19-v11)
