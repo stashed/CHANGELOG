@@ -492,6 +492,25 @@
 - [7c10a203](https://github.com/stashed/mysql/commit/7c10a203) [cherry-pick] Update README.md (#460)
 
 
+### [8.0.3-v13](https://github.com/stashed/mysql/releases/tag/8.0.3-v13)
+
+- [eec051ee](https://github.com/stashed/mysql/commit/eec051ee) Prepare for release 8.0.3-v13 (#531)
+- [1660e950](https://github.com/stashed/mysql/commit/1660e950) [cherry-pick] Fix jwt-go security vulnerability (#523) (#527)
+- [71cf139d](https://github.com/stashed/mysql/commit/71cf139d) [cherry-pick] Fix jwt-go security vulnerability (#518) (#522)
+- [0140594b](https://github.com/stashed/mysql/commit/0140594b) [cherry-pick] Update dependencies to publish SiteInfo (#513) (#517)
+- [891c4a0c](https://github.com/stashed/mysql/commit/891c4a0c) [cherry-pick] Update dependencies to publish SiteInfo (#508) (#512)
+- [5eb9b26f](https://github.com/stashed/mysql/commit/5eb9b26f) [cherry-pick] Log warning if Community License is used with non-demo namespace (#503) (#507)
+- [e8f12efd](https://github.com/stashed/mysql/commit/e8f12efd) [cherry-pick] Use official restic v0.12.1 (#498) (#502)
+- [0a607cb4](https://github.com/stashed/mysql/commit/0a607cb4) [cherry-pick] Update repository config (#493) (#497)
+- [8d7a17ae](https://github.com/stashed/mysql/commit/8d7a17ae) [cherry-pick] Update dependencies (#488) (#492)
+- [03c31af6](https://github.com/stashed/mysql/commit/03c31af6) [cherry-pick] Update dependencies (#483) (#487)
+- [b4aacc9c](https://github.com/stashed/mysql/commit/b4aacc9c) [cherry-pick] Update dependencies (#478) (#482)
+- [d1bcfc4b](https://github.com/stashed/mysql/commit/d1bcfc4b) [cherry-pick] Use user nobody (#477)
+- [79ede44f](https://github.com/stashed/mysql/commit/79ede44f) [cherry-pick] Update repository config (#469) (#473)
+- [7fad3905](https://github.com/stashed/mysql/commit/7fad3905) [cherry-pick] Update repository config (#464) (#468)
+- [06308914](https://github.com/stashed/mysql/commit/06308914) [cherry-pick] Update README.md (#463)
+
+
 ### [8.0.14-v13](https://github.com/stashed/mysql/releases/tag/8.0.14-v13)
 
 - [04d8f7d9](https://github.com/stashed/mysql/commit/04d8f7d9) Prepare for release 8.0.14-v13 (#529)
