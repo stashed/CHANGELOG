@@ -159,6 +159,10 @@
 - [08392aad](https://github.com/stashed/postgres/commit/08392aad) [cherry-pick] Update README.md (#848)
 
 
+### [14.0](https://github.com/stashed/postgres/releases/tag/14.0)
+
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
