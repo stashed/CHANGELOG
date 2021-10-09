@@ -572,6 +572,28 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v8](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v8)
+
+- [42564482](https://github.com/stashed/percona-xtradb/commit/42564482) Prepare for release 5.7-v8 (#221)
+- [22f43849](https://github.com/stashed/percona-xtradb/commit/22f43849) [cherry-pick] Fix jwt-go security vulnerability (#219) (#220)
+- [26dbbe0d](https://github.com/stashed/percona-xtradb/commit/26dbbe0d) [cherry-pick] Fix jwt-go security vulnerability (#217) (#218)
+- [cfa5e989](https://github.com/stashed/percona-xtradb/commit/cfa5e989) [cherry-pick] Update dependencies to publish SiteInfo (#215) (#216)
+- [645df7c7](https://github.com/stashed/percona-xtradb/commit/645df7c7) Update dependencies to publish SiteInfo (#213) (#214)
+- [327484ce](https://github.com/stashed/percona-xtradb/commit/327484ce) [cherry-pick] Log warning if Community License is used with non-demo namespace (#211) (#212)
+- [70e361f6](https://github.com/stashed/percona-xtradb/commit/70e361f6) [cherry-pick] Use official restic v0.12.1 (#209) (#210)
+- [0568a599](https://github.com/stashed/percona-xtradb/commit/0568a599) [cherry-pick] Update repository config (#207) (#208)
+- [541cafce](https://github.com/stashed/percona-xtradb/commit/541cafce) [cherry-pick] Update dependencies (#205) (#206)
+- [42914499](https://github.com/stashed/percona-xtradb/commit/42914499) [cherry-pick] Update dependencies (#203) (#204)
+- [f5d39489](https://github.com/stashed/percona-xtradb/commit/f5d39489) [cherry-pick] Update dependencies (#201) (#202)
+- [3b0f52a5](https://github.com/stashed/percona-xtradb/commit/3b0f52a5) [cherry-pick] Use user nobody (#200)
+- [91a6d048](https://github.com/stashed/percona-xtradb/commit/91a6d048) [cherry-pick] Update repository config (#198) (#199)
+- [27ea0703](https://github.com/stashed/percona-xtradb/commit/27ea0703) [cherry-pick] Update repository config (#196) (#197)
+- [3a9ec481](https://github.com/stashed/percona-xtradb/commit/3a9ec481) [cherry-pick] Update README.md (#195)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v11](https://github.com/stashed/postgres/releases/tag/9.6.19-v11)
