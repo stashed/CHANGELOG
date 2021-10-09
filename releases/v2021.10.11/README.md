@@ -236,6 +236,28 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v6](https://github.com/stashed/mariadb/releases/tag/10.5.8-v6)
+
+- [a4773a3](https://github.com/stashed/mariadb/commit/a4773a3) Prepare for release 10.5.8-v6 (#148)
+- [eca6402](https://github.com/stashed/mariadb/commit/eca6402) [cherry-pick] Fix jwt-go security vulnerability (#146) (#147)
+- [9570bdf](https://github.com/stashed/mariadb/commit/9570bdf) [cherry-pick] Fix jwt-go security vulnerability (#144) (#145)
+- [f18b738](https://github.com/stashed/mariadb/commit/f18b738) Update dependencies to publish SiteInfo (#142) (#143)
+- [df6e78c](https://github.com/stashed/mariadb/commit/df6e78c) [cherry-pick] Update dependencies to publish SiteInfo (#140) (#141)
+- [3de3692](https://github.com/stashed/mariadb/commit/3de3692) [cherry-pick] Log warning if Community License is used with non-demo namespace (#138) (#139)
+- [0f17ca3](https://github.com/stashed/mariadb/commit/0f17ca3) [cherry-pick] Use official restic v0.12.1 (#136) (#137)
+- [197f346](https://github.com/stashed/mariadb/commit/197f346) [cherry-pick] Update repository config (#134) (#135)
+- [7bc7aed](https://github.com/stashed/mariadb/commit/7bc7aed) [cherry-pick] Update dependencies (#132) (#133)
+- [210ba94](https://github.com/stashed/mariadb/commit/210ba94) [cherry-pick] Update dependencies (#130) (#131)
+- [1f29ad8](https://github.com/stashed/mariadb/commit/1f29ad8) [cherry-pick] Update dependencies (#128) (#129)
+- [7342a45](https://github.com/stashed/mariadb/commit/7342a45) [cherry-pick] Use user nobody (#127)
+- [3c1f773](https://github.com/stashed/mariadb/commit/3c1f773) [cherry-pick] Update repository config (#125) (#126)
+- [a54da2f](https://github.com/stashed/mariadb/commit/a54da2f) [cherry-pick] Update repository config (#123) (#124)
+- [ce30084](https://github.com/stashed/mariadb/commit/ce30084) [cherry-pick] Update README.md (#122)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v12](https://github.com/stashed/mongodb/releases/tag/3.4.17-v12)
