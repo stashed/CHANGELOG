@@ -511,6 +511,25 @@
 - [168469fe](https://github.com/stashed/mysql/commit/168469fe) [cherry-pick] Update README.md (#461)
 
 
+### [8.0.21-v7](https://github.com/stashed/mysql/releases/tag/8.0.21-v7)
+
+- [e5ea20ba](https://github.com/stashed/mysql/commit/e5ea20ba) Prepare for release 8.0.21-v7 (#530)
+- [5db2b531](https://github.com/stashed/mysql/commit/5db2b531) [cherry-pick] Fix jwt-go security vulnerability (#523) (#526)
+- [52cd9513](https://github.com/stashed/mysql/commit/52cd9513) [cherry-pick] Fix jwt-go security vulnerability (#518) (#521)
+- [7d004545](https://github.com/stashed/mysql/commit/7d004545) [cherry-pick] Update dependencies to publish SiteInfo (#513) (#516)
+- [6abc719c](https://github.com/stashed/mysql/commit/6abc719c) [cherry-pick] Update dependencies to publish SiteInfo (#508) (#511)
+- [cd79c2de](https://github.com/stashed/mysql/commit/cd79c2de) [cherry-pick] Log warning if Community License is used with non-demo namespace (#503) (#506)
+- [d974fafb](https://github.com/stashed/mysql/commit/d974fafb) [cherry-pick] Use official restic v0.12.1 (#498) (#501)
+- [3828e7d3](https://github.com/stashed/mysql/commit/3828e7d3) [cherry-pick] Update repository config (#493) (#496)
+- [2fd7d488](https://github.com/stashed/mysql/commit/2fd7d488) [cherry-pick] Update dependencies (#488) (#491)
+- [2c28a324](https://github.com/stashed/mysql/commit/2c28a324) [cherry-pick] Update dependencies (#483) (#486)
+- [b54ef541](https://github.com/stashed/mysql/commit/b54ef541) [cherry-pick] Update dependencies (#478) (#481)
+- [249af93e](https://github.com/stashed/mysql/commit/249af93e) [cherry-pick] Use user nobody (#476)
+- [b3d0bf71](https://github.com/stashed/mysql/commit/b3d0bf71) [cherry-pick] Update repository config (#469) (#472)
+- [1f7e61fd](https://github.com/stashed/mysql/commit/1f7e61fd) [cherry-pick] Update repository config (#464) (#467)
+- [436e0ab6](https://github.com/stashed/mysql/commit/436e0ab6) [cherry-pick] Update README.md (#462)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
