@@ -81,6 +81,25 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2021.10.11](https://github.com/stashed/docs/releases/tag/v2021.10.11)
+
+- [a33f913](https://github.com/stashed/docs/commit/a33f913) Prepare for release v2021.10.11 (#175)
+- [915a75d](https://github.com/stashed/docs/commit/915a75d) Fix docs
+- [ae24248](https://github.com/stashed/docs/commit/ae24248) Add Nats docs (#171)
+- [1adf209](https://github.com/stashed/docs/commit/1adf209) Update docs for stashed/cli@fc3ffb8d (#174)
+- [5527a89](https://github.com/stashed/docs/commit/5527a89) Fix rook links
+- [44d6110](https://github.com/stashed/docs/commit/44d6110) Fix instruction for enabling network volume accessor helper (#173)
+- [792d0c7](https://github.com/stashed/docs/commit/792d0c7) Add Stash Grafana dashboard doc for v1beta1 API
+- [7675546](https://github.com/stashed/docs/commit/7675546) Update overview doc
+- [1f57664](https://github.com/stashed/docs/commit/1f57664) Update instruction for enabling Prometheus monitoring in Stash
+- [4689187](https://github.com/stashed/docs/commit/4689187) Add Stash Grafana dashboard doc for v1beta1 API
+- [055df44](https://github.com/stashed/docs/commit/055df44) Update repository config (#170)
+- [6e08af7](https://github.com/stashed/docs/commit/6e08af7) Update repository config (#169)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v13](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v13)

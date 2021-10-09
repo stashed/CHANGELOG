@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.10.11",
-  "release_date": "2021-10-09T21:04:46.195372761Z",
+  "release_date": "2021-10-09T21:25:53.502623039Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.10.11",
   "kubernetes_version": "1.16+",
@@ -267,6 +267,64 @@
             {
               "SHA": "b2331c7",
               "Subject": "Update README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.10.11",
+          "commits": [
+            {
+              "SHA": "a33f913",
+              "Subject": "Prepare for release v2021.10.11 (#175)"
+            },
+            {
+              "SHA": "915a75d",
+              "Subject": "Fix docs"
+            },
+            {
+              "SHA": "ae24248",
+              "Subject": "Add Nats docs (#171)"
+            },
+            {
+              "SHA": "1adf209",
+              "Subject": "Update docs for stashed/cli@fc3ffb8d (#174)"
+            },
+            {
+              "SHA": "5527a89",
+              "Subject": "Fix rook links"
+            },
+            {
+              "SHA": "44d6110",
+              "Subject": "Fix instruction for enabling network volume accessor helper (#173)"
+            },
+            {
+              "SHA": "792d0c7",
+              "Subject": "Add Stash Grafana dashboard doc for v1beta1 API"
+            },
+            {
+              "SHA": "7675546",
+              "Subject": "Update overview doc"
+            },
+            {
+              "SHA": "1f57664",
+              "Subject": "Update instruction for enabling Prometheus monitoring in Stash"
+            },
+            {
+              "SHA": "4689187",
+              "Subject": "Add Stash Grafana dashboard doc for v1beta1 API"
+            },
+            {
+              "SHA": "055df44",
+              "Subject": "Update repository config (#170)"
+            },
+            {
+              "SHA": "6e08af7",
+              "Subject": "Update repository config (#169)"
             }
           ]
         }
