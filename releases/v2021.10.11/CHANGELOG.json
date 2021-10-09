@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.10.11",
-  "release_date": "2021-10-09T20:27:12.630963491Z",
+  "release_date": "2021-10-09T20:44:06.061587116Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.10.11",
   "kubernetes_version": "1.16+",
@@ -1916,6 +1916,76 @@
             {
               "SHA": "436e0ab6",
               "Subject": "[cherry-pick] Update README.md (#462)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1",
+          "commits": [
+            {
+              "SHA": "898dc86",
+              "Subject": "Prepare for release 2.6.1 (#9)"
+            },
+            {
+              "SHA": "b54316d",
+              "Subject": "Fix jwt-go security vulnerability (#7) (#8)"
+            },
+            {
+              "SHA": "dba8685",
+              "Subject": "Use nats.go v1.13.0 (#6)"
+            },
+            {
+              "SHA": "324241b",
+              "Subject": "Update TLS constants #5"
+            },
+            {
+              "SHA": "2077d6f",
+              "Subject": "Append args  (#4)"
+            },
+            {
+              "SHA": "e7dc55d",
+              "Subject": "Update repository config (#3)"
+            },
+            {
+              "SHA": "4e97bdc",
+              "Subject": "Add nats Stash addon (#2)"
+            },
+            {
+              "SHA": "48941bd",
+              "Subject": "Merge pull request #1 from stashed/global-replace"
+            },
+            {
+              "SHA": "ff46ec0",
+              "Subject": "Global replace Redis with NATS"
+            },
+            {
+              "SHA": "6d880e0",
+              "Subject": "Use user nobody"
+            },
+            {
+              "SHA": "5252385",
+              "Subject": "Update repository config (#11)"
+            },
+            {
+              "SHA": "f6dc027",
+              "Subject": "Update repository config (#8)"
+            },
+            {
+              "SHA": "d68710e",
+              "Subject": "Prepare for release v2021.08.02 (#7)"
+            },
+            {
+              "SHA": "1772bc7",
+              "Subject": "Update repository config (#2)"
+            },
+            {
+              "SHA": "7d4bfee",
+              "Subject": "Make Redis addon ready to use (#1)"
             }
           ]
         }

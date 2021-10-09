@@ -572,6 +572,28 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1](https://github.com/stashed/nats/releases/tag/2.6.1)
+
+- [898dc86](https://github.com/stashed/nats/commit/898dc86) Prepare for release 2.6.1 (#9)
+- [b54316d](https://github.com/stashed/nats/commit/b54316d) Fix jwt-go security vulnerability (#7) (#8)
+- [dba8685](https://github.com/stashed/nats/commit/dba8685) Use nats.go v1.13.0 (#6)
+- [324241b](https://github.com/stashed/nats/commit/324241b) Update TLS constants #5
+- [2077d6f](https://github.com/stashed/nats/commit/2077d6f) Append args  (#4)
+- [e7dc55d](https://github.com/stashed/nats/commit/e7dc55d) Update repository config (#3)
+- [4e97bdc](https://github.com/stashed/nats/commit/4e97bdc) Add nats Stash addon (#2)
+- [48941bd](https://github.com/stashed/nats/commit/48941bd) Merge pull request #1 from stashed/global-replace
+- [ff46ec0](https://github.com/stashed/nats/commit/ff46ec0) Global replace Redis with NATS
+- [6d880e0](https://github.com/stashed/nats/commit/6d880e0) Use user nobody
+- [5252385](https://github.com/stashed/nats/commit/5252385) Update repository config (#11)
+- [f6dc027](https://github.com/stashed/nats/commit/f6dc027) Update repository config (#8)
+- [d68710e](https://github.com/stashed/nats/commit/d68710e) Prepare for release v2021.08.02 (#7)
+- [1772bc7](https://github.com/stashed/nats/commit/1772bc7) Update repository config (#2)
+- [7d4bfee](https://github.com/stashed/nats/commit/7d4bfee) Make Redis addon ready to use (#1)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v8](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v8)
