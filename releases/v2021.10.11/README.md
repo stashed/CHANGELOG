@@ -60,6 +60,19 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2021.10.11](https://github.com/stashed/bundles/releases/tag/v2021.10.11)
+
+- [533e084](https://github.com/stashed/bundles/commit/533e084) Prepare for release v2021.10.11 (#52)
+- [740276a](https://github.com/stashed/bundles/commit/740276a) Update repository config (#51)
+- [fb0fc08](https://github.com/stashed/bundles/commit/fb0fc08) Update repository config (#50)
+- [ab82d14](https://github.com/stashed/bundles/commit/ab82d14) Update repository config (#49)
+- [875bb0a](https://github.com/stashed/bundles/commit/875bb0a) Update repository config (#48)
+- [b539ef4](https://github.com/stashed/bundles/commit/b539ef4) Update README.md
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.16.0](https://github.com/stashed/cli/releases/tag/v0.16.0)

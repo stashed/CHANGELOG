@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.10.11",
-  "release_date": "2021-10-09T21:25:53.502623039Z",
+  "release_date": "2021-10-09T21:34:55.429456411Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.10.11",
   "kubernetes_version": "1.16+",
@@ -201,6 +201,40 @@
             {
               "SHA": "ae94693a",
               "Subject": "Update repository config (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.10.11",
+          "commits": [
+            {
+              "SHA": "533e084",
+              "Subject": "Prepare for release v2021.10.11 (#52)"
+            },
+            {
+              "SHA": "740276a",
+              "Subject": "Update repository config (#51)"
+            },
+            {
+              "SHA": "fb0fc08",
+              "Subject": "Update repository config (#50)"
+            },
+            {
+              "SHA": "ab82d14",
+              "Subject": "Update repository config (#49)"
+            },
+            {
+              "SHA": "875bb0a",
+              "Subject": "Update repository config (#48)"
+            },
+            {
+              "SHA": "b539ef4",
+              "Subject": "Update README.md"
             }
           ]
         }
