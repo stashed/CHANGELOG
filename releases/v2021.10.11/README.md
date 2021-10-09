@@ -81,6 +81,28 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.14-v11](https://github.com/stashed/postgres/releases/tag/10.14-v11)
+
+- [022910d2](https://github.com/stashed/postgres/commit/022910d2) Prepare for release 10.14-v11 (#930)
+- [df4ea88e](https://github.com/stashed/postgres/commit/df4ea88e) [cherry-pick] Fix jwt-go security vulnerability (#923) (#924)
+- [37492e25](https://github.com/stashed/postgres/commit/37492e25) [cherry-pick] Fix jwt-go security vulnerability (#916) (#917)
+- [c36fd40d](https://github.com/stashed/postgres/commit/c36fd40d) [cherry-pick] Update dependencies to publish SiteInfo (#910) (#911)
+- [40364b31](https://github.com/stashed/postgres/commit/40364b31) [cherry-pick] Update dependencies to publish SiteInfo (#904) (#905)
+- [c7e6e42d](https://github.com/stashed/postgres/commit/c7e6e42d) [cherry-pick] Log warning if Community License is used with non-demo namespace (#897) (#898)
+- [a7a14804](https://github.com/stashed/postgres/commit/a7a14804) [cherry-pick] Use official restic v0.12.1 (#891) (#892)
+- [62f39a5a](https://github.com/stashed/postgres/commit/62f39a5a) [cherry-pick] Update repository config (#885) (#886)
+- [c8c626dd](https://github.com/stashed/postgres/commit/c8c626dd) [cherry-pick] Update dependencies (#879) (#880)
+- [8cca6897](https://github.com/stashed/postgres/commit/8cca6897) [cherry-pick] Update dependencies (#873) (#874)
+- [2b8823ac](https://github.com/stashed/postgres/commit/2b8823ac) [cherry-pick] Update dependencies (#867) (#868)
+- [de1290b4](https://github.com/stashed/postgres/commit/de1290b4) [cherry-pick] Use user nobody (#862)
+- [9d8e96ed](https://github.com/stashed/postgres/commit/9d8e96ed) [cherry-pick] Update repository config (#856) (#857)
+- [49ab6354](https://github.com/stashed/postgres/commit/49ab6354) [cherry-pick] Update repository config (#850) (#851)
+- [ac88e3c1](https://github.com/stashed/postgres/commit/ac88e3c1) [cherry-pick] Update README.md (#845)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.16.0](https://github.com/stashed/stash/releases/tag/v0.16.0)
