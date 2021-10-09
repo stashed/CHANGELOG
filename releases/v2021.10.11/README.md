@@ -236,6 +236,28 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v12](https://github.com/stashed/mongodb/releases/tag/3.4.17-v12)
+
+- [69628a86](https://github.com/stashed/mongodb/commit/69628a86) Prepare for release 3.4.17-v12 (#1264)
+- [97ba7285](https://github.com/stashed/mongodb/commit/97ba7285) [cherry-pick] Fix jwt-go security vulnerability (#1250) (#1251)
+- [325a3bd0](https://github.com/stashed/mongodb/commit/325a3bd0) [cherry-pick] Fix jwt-go security vulnerability (#1236) (#1237)
+- [22a5fab9](https://github.com/stashed/mongodb/commit/22a5fab9) [cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1223)
+- [8bf670e1](https://github.com/stashed/mongodb/commit/8bf670e1) [cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1209)
+- [a431846c](https://github.com/stashed/mongodb/commit/a431846c) [cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1195)
+- [c99cad39](https://github.com/stashed/mongodb/commit/c99cad39) [cherry-pick] Use official restic v0.12.1 (#1180) (#1181)
+- [b0aefc96](https://github.com/stashed/mongodb/commit/b0aefc96) [cherry-pick] Update repository config (#1166) (#1167)
+- [b930d20d](https://github.com/stashed/mongodb/commit/b930d20d) [cherry-pick] Update dependencies (#1152) (#1153)
+- [56417b38](https://github.com/stashed/mongodb/commit/56417b38) [cherry-pick] Update dependencies (#1138) (#1139)
+- [7bdd0832](https://github.com/stashed/mongodb/commit/7bdd0832) [cherry-pick] Update dependencies (#1124) (#1125)
+- [867a70f1](https://github.com/stashed/mongodb/commit/867a70f1) [cherry-pick] Use user nobody (#1112)
+- [528e1529](https://github.com/stashed/mongodb/commit/528e1529) [cherry-pick] Update repository config (#1099) (#1100)
+- [0606c894](https://github.com/stashed/mongodb/commit/0606c894) [cherry-pick] Update repository config (#1086) (#1087)
+- [2a9d8768](https://github.com/stashed/mongodb/commit/2a9d8768) [cherry-pick] Update README.md (#1074)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v11](https://github.com/stashed/postgres/releases/tag/9.6.19-v11)
