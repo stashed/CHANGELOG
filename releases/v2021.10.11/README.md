@@ -60,6 +60,27 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.16.0](https://github.com/stashed/cli/releases/tag/v0.16.0)
+
+- [1fb811f](https://github.com/stashed/cli/commit/1fb811f) Prepare for release v0.16.0 (#142)
+- [c1b8251](https://github.com/stashed/cli/commit/c1b8251) Fix jwt-go security vulnerability (#141)
+- [23689bb](https://github.com/stashed/cli/commit/23689bb) Fix jwt-go security vulnerability (#140)
+- [fc3ffb8](https://github.com/stashed/cli/commit/fc3ffb8) Set restic docker image tag from Makefile during build (#137)
+- [56a8b85](https://github.com/stashed/cli/commit/56a8b85) Update dependencies to publish SiteInfo (#139)
+- [d8df9e8](https://github.com/stashed/cli/commit/d8df9e8) Update dependencies to publish SiteInfo (#138)
+- [c7fb370](https://github.com/stashed/cli/commit/c7fb370) Log warning if Community License is used with non-demo namespace (#136)
+- [11397c0](https://github.com/stashed/cli/commit/11397c0) Use official restic v0.12.1 (#135)
+- [24ae84f](https://github.com/stashed/cli/commit/24ae84f) Update dependencies (#134)
+- [91ab122](https://github.com/stashed/cli/commit/91ab122) Update repository config (#133)
+- [47ca564](https://github.com/stashed/cli/commit/47ca564) Update dependencies (#132)
+- [3d1a293](https://github.com/stashed/cli/commit/3d1a293) Update dependencies (#131)
+- [f9b4bcc](https://github.com/stashed/cli/commit/f9b4bcc) Update dependencies (#130)
+- [b2331c7](https://github.com/stashed/cli/commit/b2331c7) Update README.md
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.16.0](https://github.com/stashed/stash/releases/tag/v0.16.0)

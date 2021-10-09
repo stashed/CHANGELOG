@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.10.11",
-  "release_date": "2021-10-09T13:43:33.382933508Z",
+  "release_date": "2021-10-09T13:51:42.386320557Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.10.11",
   "kubernetes_version": "1.16+",
@@ -201,6 +201,72 @@
             {
               "SHA": "ae94693a",
               "Subject": "Update repository config (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "1fb811f",
+              "Subject": "Prepare for release v0.16.0 (#142)"
+            },
+            {
+              "SHA": "c1b8251",
+              "Subject": "Fix jwt-go security vulnerability (#141)"
+            },
+            {
+              "SHA": "23689bb",
+              "Subject": "Fix jwt-go security vulnerability (#140)"
+            },
+            {
+              "SHA": "fc3ffb8",
+              "Subject": "Set restic docker image tag from Makefile during build (#137)"
+            },
+            {
+              "SHA": "56a8b85",
+              "Subject": "Update dependencies to publish SiteInfo (#139)"
+            },
+            {
+              "SHA": "d8df9e8",
+              "Subject": "Update dependencies to publish SiteInfo (#138)"
+            },
+            {
+              "SHA": "c7fb370",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#136)"
+            },
+            {
+              "SHA": "11397c0",
+              "Subject": "Use official restic v0.12.1 (#135)"
+            },
+            {
+              "SHA": "24ae84f",
+              "Subject": "Update dependencies (#134)"
+            },
+            {
+              "SHA": "91ab122",
+              "Subject": "Update repository config (#133)"
+            },
+            {
+              "SHA": "47ca564",
+              "Subject": "Update dependencies (#132)"
+            },
+            {
+              "SHA": "3d1a293",
+              "Subject": "Update dependencies (#131)"
+            },
+            {
+              "SHA": "f9b4bcc",
+              "Subject": "Update dependencies (#130)"
+            },
+            {
+              "SHA": "b2331c7",
+              "Subject": "Update README.md"
             }
           ]
         }
