@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.10.11",
-  "release_date": "2021-10-09T20:44:06.061587116Z",
+  "release_date": "2021-10-09T20:53:32.828250276Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.10.11",
   "kubernetes_version": "1.16+",
@@ -792,6 +792,72 @@
             {
               "SHA": "17519e39",
               "Subject": "[cherry-pick] Update README.md (#891)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0",
+          "commits": [
+            {
+              "SHA": "4c83a10",
+              "Subject": "Prepare for release 3.5.0 (#9)"
+            },
+            {
+              "SHA": "1dbf3b1",
+              "Subject": "Fix jwt-go security vulnerability (#7) (#8)"
+            },
+            {
+              "SHA": "fbcc997",
+              "Subject": "Fix jwt-go security vulnerability (#5) (#6)"
+            },
+            {
+              "SHA": "e0919f1",
+              "Subject": "Use restic 0.12.1 (#4)"
+            },
+            {
+              "SHA": "f7b65eb",
+              "Subject": "Update repository config (#3)"
+            },
+            {
+              "SHA": "a2e9055",
+              "Subject": "Add etcd v3.5.0 addon to Stash (#2)"
+            },
+            {
+              "SHA": "517d580",
+              "Subject": "Merge pull request #1 from stashed/global-replace"
+            },
+            {
+              "SHA": "643ff4b",
+              "Subject": "Global replace Redis with Etcd"
+            },
+            {
+              "SHA": "6d880e0",
+              "Subject": "Use user nobody"
+            },
+            {
+              "SHA": "5252385",
+              "Subject": "Update repository config (#11)"
+            },
+            {
+              "SHA": "f6dc027",
+              "Subject": "Update repository config (#8)"
+            },
+            {
+              "SHA": "d68710e",
+              "Subject": "Prepare for release v2021.08.02 (#7)"
+            },
+            {
+              "SHA": "1772bc7",
+              "Subject": "Update repository config (#2)"
+            },
+            {
+              "SHA": "7d4bfee",
+              "Subject": "Make Redis addon ready to use (#1)"
             }
           ]
         }

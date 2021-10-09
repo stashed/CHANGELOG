@@ -236,6 +236,27 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0](https://github.com/stashed/etcd/releases/tag/3.5.0)
+
+- [4c83a10](https://github.com/stashed/etcd/commit/4c83a10) Prepare for release 3.5.0 (#9)
+- [1dbf3b1](https://github.com/stashed/etcd/commit/1dbf3b1) Fix jwt-go security vulnerability (#7) (#8)
+- [fbcc997](https://github.com/stashed/etcd/commit/fbcc997) Fix jwt-go security vulnerability (#5) (#6)
+- [e0919f1](https://github.com/stashed/etcd/commit/e0919f1) Use restic 0.12.1 (#4)
+- [f7b65eb](https://github.com/stashed/etcd/commit/f7b65eb) Update repository config (#3)
+- [a2e9055](https://github.com/stashed/etcd/commit/a2e9055) Add etcd v3.5.0 addon to Stash (#2)
+- [517d580](https://github.com/stashed/etcd/commit/517d580) Merge pull request #1 from stashed/global-replace
+- [643ff4b](https://github.com/stashed/etcd/commit/643ff4b) Global replace Redis with Etcd
+- [6d880e0](https://github.com/stashed/etcd/commit/6d880e0) Use user nobody
+- [5252385](https://github.com/stashed/etcd/commit/5252385) Update repository config (#11)
+- [f6dc027](https://github.com/stashed/etcd/commit/f6dc027) Update repository config (#8)
+- [d68710e](https://github.com/stashed/etcd/commit/d68710e) Prepare for release v2021.08.02 (#7)
+- [1772bc7](https://github.com/stashed/etcd/commit/1772bc7) Update repository config (#2)
+- [7d4bfee](https://github.com/stashed/etcd/commit/7d4bfee) Make Redis addon ready to use (#1)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v6](https://github.com/stashed/mariadb/releases/tag/10.5.8-v6)
