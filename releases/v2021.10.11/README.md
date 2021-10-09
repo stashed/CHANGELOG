@@ -257,6 +257,34 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2021.10.11](https://github.com/stashed/installer/releases/tag/v2021.10.11)
+
+- [0f063ad](https://github.com/stashed/installer/commit/0f063ad) Prepare for release v2021.10.11 (#210)
+- [0092c7e](https://github.com/stashed/installer/commit/0092c7e) Fix jwt-go security vulnerability (#209)
+- [17e1fdc](https://github.com/stashed/installer/commit/17e1fdc) Fix jwt-go security vulnerability (#208)
+- [01bf7cf](https://github.com/stashed/installer/commit/01bf7cf) Switch from nats 2.4.0 to 2.6.1
+- [30c5a63](https://github.com/stashed/installer/commit/30c5a63) Add etcd v3.5.0 addon to Stash (#195)
+- [a088dcd](https://github.com/stashed/installer/commit/a088dcd) Add permission for SiteInfo publisher
+- [a38d2b3](https://github.com/stashed/installer/commit/a38d2b3) Add mongodb `5.0.3` (#207)
+- [bb1d956](https://github.com/stashed/installer/commit/bb1d956) Update dependencies to publish SiteInfo (#206)
+- [48c528c](https://github.com/stashed/installer/commit/48c528c) Add Backup and Restore support for Postgres  v14.0 (#205)
+- [9ffc6aa](https://github.com/stashed/installer/commit/9ffc6aa) Add stash-metrics chart (#202)
+- [0610818](https://github.com/stashed/installer/commit/0610818) Update repository config (#204)
+- [7d3116e](https://github.com/stashed/installer/commit/7d3116e) Log warning if Community License is used with non-demo namespace (#203)
+- [f0da2b3](https://github.com/stashed/installer/commit/f0da2b3) Use official restic v0.12.1 (#201)
+- [01ecae5](https://github.com/stashed/installer/commit/01ecae5) Add mongodb 5.0.2 backup tasks (#200)
+- [37eec67](https://github.com/stashed/installer/commit/37eec67) Add catalogs for NATS addon (#196)
+- [9d585cd](https://github.com/stashed/installer/commit/9d585cd) Update repository config (#199)
+- [ba6c6e8](https://github.com/stashed/installer/commit/ba6c6e8) Update dependencies (#198)
+- [cd8b2d0](https://github.com/stashed/installer/commit/cd8b2d0) Update dependencies (#197)
+- [9d47a48](https://github.com/stashed/installer/commit/9d47a48) Update repository config (#194)
+- [8775569](https://github.com/stashed/installer/commit/8775569) Update repository config (#193)
+- [715ac99](https://github.com/stashed/installer/commit/715ac99) Update README.md
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v6](https://github.com/stashed/mariadb/releases/tag/10.5.8-v6)
