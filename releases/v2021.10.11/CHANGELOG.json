@@ -1,11 +1,89 @@
 {
   "product_line": "Stash",
   "release": "v2021.10.11",
-  "release_date": "2021-10-09T13:36:51.696041708Z",
+  "release_date": "2021-10-09T13:43:33.382933508Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.10.11",
   "kubernetes_version": "1.16+",
   "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "34fe50bb",
+              "Subject": "Prepare for release v0.16.0 (#126)"
+            },
+            {
+              "SHA": "4807ec4c",
+              "Subject": "Fix jwt-go security vulnerability (#125)"
+            },
+            {
+              "SHA": "f1160998",
+              "Subject": "Merge pull request #123 from appscode/etcd-permission"
+            },
+            {
+              "SHA": "ce3cd3f8",
+              "Subject": "Add support for ETCD restore flow"
+            },
+            {
+              "SHA": "834d8c13",
+              "Subject": "Use nats.go v1.13.0 (#124)"
+            },
+            {
+              "SHA": "446ee320",
+              "Subject": "Update dependencies to publish SiteInfo (#122)"
+            },
+            {
+              "SHA": "5d56e0f6",
+              "Subject": "Support passing args to restic backup/restore command (#120)"
+            },
+            {
+              "SHA": "f10ab0dc",
+              "Subject": "Fix license-reader ClusterRoleBinding not cleaning up properly"
+            },
+            {
+              "SHA": "dffe5c41",
+              "Subject": "Update go.mod"
+            },
+            {
+              "SHA": "c124a770",
+              "Subject": "Undo changes of jobs.go"
+            },
+            {
+              "SHA": "cc7f4827",
+              "Subject": "fix clusterrolebinding issue"
+            },
+            {
+              "SHA": "13ed9752",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#119)"
+            },
+            {
+              "SHA": "0026511c",
+              "Subject": "Merge pull request #117 from appscode/fix-cronjob-name-prefix"
+            },
+            {
+              "SHA": "ba3f466c",
+              "Subject": "Use `stash-trigger` as backup triggering CronJob name prefix"
+            },
+            {
+              "SHA": "d353c393",
+              "Subject": "Use official restic v0.12.1 (#116)"
+            },
+            {
+              "SHA": "e9b1db7e",
+              "Subject": "Update repository config (#115)"
+            },
+            {
+              "SHA": "ea1895fc",
+              "Subject": "Update dependencies (#114)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/apimachinery",
       "releases": [

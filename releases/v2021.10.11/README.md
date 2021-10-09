@@ -1,6 +1,30 @@
 # Stash v2021.10.11 (2021-10-09)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.16.0](https://github.com/appscode/stash-enterprise/releases/tag/v0.16.0)
+
+- [34fe50bb](https://github.com/appscode/stash-enterprise/commit/34fe50bb) Prepare for release v0.16.0 (#126)
+- [4807ec4c](https://github.com/appscode/stash-enterprise/commit/4807ec4c) Fix jwt-go security vulnerability (#125)
+- [f1160998](https://github.com/appscode/stash-enterprise/commit/f1160998) Merge pull request #123 from appscode/etcd-permission
+- [ce3cd3f8](https://github.com/appscode/stash-enterprise/commit/ce3cd3f8) Add support for ETCD restore flow
+- [834d8c13](https://github.com/appscode/stash-enterprise/commit/834d8c13) Use nats.go v1.13.0 (#124)
+- [446ee320](https://github.com/appscode/stash-enterprise/commit/446ee320) Update dependencies to publish SiteInfo (#122)
+- [5d56e0f6](https://github.com/appscode/stash-enterprise/commit/5d56e0f6) Support passing args to restic backup/restore command (#120)
+- [f10ab0dc](https://github.com/appscode/stash-enterprise/commit/f10ab0dc) Fix license-reader ClusterRoleBinding not cleaning up properly
+- [dffe5c41](https://github.com/appscode/stash-enterprise/commit/dffe5c41) Update go.mod
+- [c124a770](https://github.com/appscode/stash-enterprise/commit/c124a770) Undo changes of jobs.go
+- [cc7f4827](https://github.com/appscode/stash-enterprise/commit/cc7f4827) fix clusterrolebinding issue
+- [13ed9752](https://github.com/appscode/stash-enterprise/commit/13ed9752) Log warning if Community License is used with non-demo namespace (#119)
+- [0026511c](https://github.com/appscode/stash-enterprise/commit/0026511c) Merge pull request #117 from appscode/fix-cronjob-name-prefix
+- [ba3f466c](https://github.com/appscode/stash-enterprise/commit/ba3f466c) Use `stash-trigger` as backup triggering CronJob name prefix
+- [d353c393](https://github.com/appscode/stash-enterprise/commit/d353c393) Use official restic v0.12.1 (#116)
+- [e9b1db7e](https://github.com/appscode/stash-enterprise/commit/e9b1db7e) Update repository config (#115)
+- [ea1895fc](https://github.com/appscode/stash-enterprise/commit/ea1895fc) Update dependencies (#114)
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.16.0](https://github.com/stashed/apimachinery/releases/tag/v0.16.0)
