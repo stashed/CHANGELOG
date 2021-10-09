@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.10.11",
-  "release_date": "2021-10-09T19:49:18.98471247Z",
+  "release_date": "2021-10-09T19:49:20.312287648Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.10.11",
   "kubernetes_version": "1.16+",
@@ -1057,6 +1057,71 @@
             {
               "SHA": "49dab901",
               "Subject": "[cherry-pick] Update README.md (#1076)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v12",
+          "commits": [
+            {
+              "SHA": "4f36edfd",
+              "Subject": "Prepare for release 4.0.3-v12 (#1269)"
+            },
+            {
+              "SHA": "bea5ee27",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1256)"
+            },
+            {
+              "SHA": "bb787054",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1242)"
+            },
+            {
+              "SHA": "ac0bfd12",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1228)"
+            },
+            {
+              "SHA": "31c7d66c",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1214)"
+            },
+            {
+              "SHA": "ce07bdd7",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1200)"
+            },
+            {
+              "SHA": "102601ee",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1186)"
+            },
+            {
+              "SHA": "e75754f8",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1172)"
+            },
+            {
+              "SHA": "a069745a",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1158)"
+            },
+            {
+              "SHA": "4e7a1e24",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1144)"
+            },
+            {
+              "SHA": "80a75e9c",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1130)"
+            },
+            {
+              "SHA": "319a4947",
+              "Subject": "[cherry-pick] Use user nobody (#1117)"
+            },
+            {
+              "SHA": "bcb3cfd2",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1105)"
+            },
+            {
+              "SHA": "a05dce30",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1092)"
+            },
+            {
+              "SHA": "dd5135b5",
+              "Subject": "[cherry-pick] Update README.md (#1079)"
             }
           ]
         },
