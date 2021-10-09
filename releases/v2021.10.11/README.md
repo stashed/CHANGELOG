@@ -83,6 +83,23 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v11](https://github.com/stashed/postgres/releases/tag/9.6.19-v11)
+
+- [8f1256ef](https://github.com/stashed/postgres/commit/8f1256ef) Prepare for release 9.6.19-v11 (#935)
+- [851efd30](https://github.com/stashed/postgres/commit/851efd30) [cherry-pick] Fix jwt-go security vulnerability (#923) (#929)
+- [132fad16](https://github.com/stashed/postgres/commit/132fad16) [cherry-pick] Fix jwt-go security vulnerability (#916) (#922)
+- [de2c0cd2](https://github.com/stashed/postgres/commit/de2c0cd2) [cherry-pick] Update dependencies to publish SiteInfo (#910) (#915)
+- [8529a78e](https://github.com/stashed/postgres/commit/8529a78e) [cherry-pick] Update dependencies to publish SiteInfo (#904) (#909)
+- [1ec16ab0](https://github.com/stashed/postgres/commit/1ec16ab0) [cherry-pick] Log warning if Community License is used with non-demo namespace (#897) (#902)
+- [a5c59aa8](https://github.com/stashed/postgres/commit/a5c59aa8) [cherry-pick] Use official restic v0.12.1 (#891) (#896)
+- [6042476d](https://github.com/stashed/postgres/commit/6042476d) [cherry-pick] Update repository config (#885) (#890)
+- [062cf691](https://github.com/stashed/postgres/commit/062cf691) [cherry-pick] Update dependencies (#879) (#884)
+- [74f16152](https://github.com/stashed/postgres/commit/74f16152) [cherry-pick] Update dependencies (#873) (#878)
+- [665ff907](https://github.com/stashed/postgres/commit/665ff907) [cherry-pick] Update dependencies (#867) (#872)
+- [51c55130](https://github.com/stashed/postgres/commit/51c55130) [cherry-pick] Use user nobody (#866)
+- [9fd4d8c3](https://github.com/stashed/postgres/commit/9fd4d8c3) [cherry-pick] Update repository config (#856) (#861)
+
+
 ### [10.14-v11](https://github.com/stashed/postgres/releases/tag/10.14-v11)
 
 - [022910d2](https://github.com/stashed/postgres/commit/022910d2) Prepare for release 10.14-v11 (#930)
