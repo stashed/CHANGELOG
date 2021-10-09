@@ -672,6 +672,29 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v1](https://github.com/stashed/redis/releases/tag/5.0.13-v1)
+
+- [2cf8e50](https://github.com/stashed/redis/commit/2cf8e50) Prepare for release 5.0.13-v1 (#52)
+- [19a146f](https://github.com/stashed/redis/commit/19a146f) [cherry-pick] Fix jwt-go security vulnerability (#49) (#50)
+- [89a01a1](https://github.com/stashed/redis/commit/89a01a1) [cherry-pick] Fix jwt-go security vulnerability (#46) (#47)
+- [71ef640](https://github.com/stashed/redis/commit/71ef640) Update dependencies to publish SiteInfo (#43) (#44)
+- [07f2b0a](https://github.com/stashed/redis/commit/07f2b0a) [cherry-pick] Update dependencies to publish SiteInfo (#40) (#41)
+- [c4fe884](https://github.com/stashed/redis/commit/c4fe884) [cherry-pick] Use forked redis-dump-go (#37) (#38)
+- [c857baf](https://github.com/stashed/redis/commit/c857baf) [cherry-pick] Add Support for TLS enabled Redis client (#31) (#35)
+- [fa42bbe](https://github.com/stashed/redis/commit/fa42bbe) [cherry-pick] Log warning if Community License is used with non-demo namespace (#32) (#33)
+- [a14feb6](https://github.com/stashed/redis/commit/a14feb6) [cherry-pick] Use official restic v0.12.1 (#28) (#29)
+- [800ad77](https://github.com/stashed/redis/commit/800ad77) [cherry-pick] Update repository config (#25) (#26)
+- [8472251](https://github.com/stashed/redis/commit/8472251) [cherry-pick] Update dependencies (#22) (#23)
+- [e6bbc7e](https://github.com/stashed/redis/commit/e6bbc7e) [cherry-pick] Update dependencies (#19) (#20)
+- [d81c5d4](https://github.com/stashed/redis/commit/d81c5d4) [cherry-pick] Update dependencies (#16) (#17)
+- [ac57ea0](https://github.com/stashed/redis/commit/ac57ea0) [cherry-pick] Use user nobody (#14)
+- [c65e4af](https://github.com/stashed/redis/commit/c65e4af) [cherry-pick] Update repository config (#11) (#12)
+- [62782d5](https://github.com/stashed/redis/commit/62782d5) [cherry-pick] Update repository config (#8) (#9)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.16.0](https://github.com/stashed/stash/releases/tag/v0.16.0)
