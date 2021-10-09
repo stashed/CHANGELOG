@@ -1,0 +1,2860 @@
+{
+  "product_line": "Stash",
+  "release": "v2021.10.11",
+  "release_date": "2021-10-09T21:34:55.429456411Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2021.10.11",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "34fe50bb",
+              "Subject": "Prepare for release v0.16.0 (#126)"
+            },
+            {
+              "SHA": "4807ec4c",
+              "Subject": "Fix jwt-go security vulnerability (#125)"
+            },
+            {
+              "SHA": "f1160998",
+              "Subject": "Merge pull request #123 from appscode/etcd-permission"
+            },
+            {
+              "SHA": "ce3cd3f8",
+              "Subject": "Add support for ETCD restore flow"
+            },
+            {
+              "SHA": "834d8c13",
+              "Subject": "Use nats.go v1.13.0 (#124)"
+            },
+            {
+              "SHA": "446ee320",
+              "Subject": "Update dependencies to publish SiteInfo (#122)"
+            },
+            {
+              "SHA": "5d56e0f6",
+              "Subject": "Support passing args to restic backup/restore command (#120)"
+            },
+            {
+              "SHA": "f10ab0dc",
+              "Subject": "Fix license-reader ClusterRoleBinding not cleaning up properly"
+            },
+            {
+              "SHA": "dffe5c41",
+              "Subject": "Update go.mod"
+            },
+            {
+              "SHA": "c124a770",
+              "Subject": "Undo changes of jobs.go"
+            },
+            {
+              "SHA": "cc7f4827",
+              "Subject": "fix clusterrolebinding issue"
+            },
+            {
+              "SHA": "13ed9752",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#119)"
+            },
+            {
+              "SHA": "0026511c",
+              "Subject": "Merge pull request #117 from appscode/fix-cronjob-name-prefix"
+            },
+            {
+              "SHA": "ba3f466c",
+              "Subject": "Use `stash-trigger` as backup triggering CronJob name prefix"
+            },
+            {
+              "SHA": "d353c393",
+              "Subject": "Use official restic v0.12.1 (#116)"
+            },
+            {
+              "SHA": "e9b1db7e",
+              "Subject": "Update repository config (#115)"
+            },
+            {
+              "SHA": "ea1895fc",
+              "Subject": "Update dependencies (#114)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "e5b1aaea",
+              "Subject": "Fix jwt-go security vulnerability (#129)"
+            },
+            {
+              "SHA": "065a6d36",
+              "Subject": "Fix jwt-go security vulnerability (#128)"
+            },
+            {
+              "SHA": "561988c6",
+              "Subject": "Add condition for indicating restore completion (#127)"
+            },
+            {
+              "SHA": "3ddabb57",
+              "Subject": "Add \"Running\" phase for the individual restore host (#126)"
+            },
+            {
+              "SHA": "1c75b4ce",
+              "Subject": "Support passing arguments to restic backup/restore command (#121)"
+            },
+            {
+              "SHA": "307b411a",
+              "Subject": "Update dependencies to publish SiteInfo (#125)"
+            },
+            {
+              "SHA": "ce72641a",
+              "Subject": "Update dependencies to publish SiteInfo (#124)"
+            },
+            {
+              "SHA": "322437d9",
+              "Subject": "Show actual repo size instead of logical size (#123)"
+            },
+            {
+              "SHA": "5e773145",
+              "Subject": "Return new labels by EnsureKubeDBIntegration function  (#122)"
+            },
+            {
+              "SHA": "908628b7",
+              "Subject": "Update repository config (#120)"
+            },
+            {
+              "SHA": "a7994a77",
+              "Subject": "Add `ADDON_IMAGE` variable for Etcd Addons"
+            },
+            {
+              "SHA": "16529919",
+              "Subject": "Run `make fmt`"
+            },
+            {
+              "SHA": "78077d32",
+              "Subject": "Merge branch 'master' into etcd-flag"
+            },
+            {
+              "SHA": "163e7863",
+              "Subject": "Set RESTIC_PROGRESS_FPS in restic wrapper shell"
+            },
+            {
+              "SHA": "b0983010",
+              "Subject": "Merge branch 'master' into progress-fps"
+            },
+            {
+              "SHA": "72b73523",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#119)"
+            },
+            {
+              "SHA": "2eecfe50",
+              "Subject": "Merge branch 'master' into etcd-flag"
+            },
+            {
+              "SHA": "b0141c12",
+              "Subject": "Add addon image flag"
+            },
+            {
+              "SHA": "c1e37507",
+              "Subject": "Set RESTIC_PROGRESS_FPS in restic wrapper shell"
+            },
+            {
+              "SHA": "fda29913",
+              "Subject": "Merge pull request #116 from stashed/fix-cronjob-name-prefix"
+            },
+            {
+              "SHA": "8cbe8b9d",
+              "Subject": "Add constants for backup triggering CronJob"
+            },
+            {
+              "SHA": "78e6bc8c",
+              "Subject": "Use official restic v0.12.1 (#115)"
+            },
+            {
+              "SHA": "01704d74",
+              "Subject": "Update repository config (#114)"
+            },
+            {
+              "SHA": "d9f1899d",
+              "Subject": "Update dependencies (#113)"
+            },
+            {
+              "SHA": "639e36ec",
+              "Subject": "Update dependencies (#112)"
+            },
+            {
+              "SHA": "ffb5a0c7",
+              "Subject": "Update dependencies (#111)"
+            },
+            {
+              "SHA": "cdbb8e52",
+              "Subject": "Update repository config (#110)"
+            },
+            {
+              "SHA": "ae94693a",
+              "Subject": "Update repository config (#109)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.10.11",
+          "commits": [
+            {
+              "SHA": "533e084",
+              "Subject": "Prepare for release v2021.10.11 (#52)"
+            },
+            {
+              "SHA": "740276a",
+              "Subject": "Update repository config (#51)"
+            },
+            {
+              "SHA": "fb0fc08",
+              "Subject": "Update repository config (#50)"
+            },
+            {
+              "SHA": "ab82d14",
+              "Subject": "Update repository config (#49)"
+            },
+            {
+              "SHA": "875bb0a",
+              "Subject": "Update repository config (#48)"
+            },
+            {
+              "SHA": "b539ef4",
+              "Subject": "Update README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "1fb811f",
+              "Subject": "Prepare for release v0.16.0 (#142)"
+            },
+            {
+              "SHA": "c1b8251",
+              "Subject": "Fix jwt-go security vulnerability (#141)"
+            },
+            {
+              "SHA": "23689bb",
+              "Subject": "Fix jwt-go security vulnerability (#140)"
+            },
+            {
+              "SHA": "fc3ffb8",
+              "Subject": "Set restic docker image tag from Makefile during build (#137)"
+            },
+            {
+              "SHA": "56a8b85",
+              "Subject": "Update dependencies to publish SiteInfo (#139)"
+            },
+            {
+              "SHA": "d8df9e8",
+              "Subject": "Update dependencies to publish SiteInfo (#138)"
+            },
+            {
+              "SHA": "c7fb370",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#136)"
+            },
+            {
+              "SHA": "11397c0",
+              "Subject": "Use official restic v0.12.1 (#135)"
+            },
+            {
+              "SHA": "24ae84f",
+              "Subject": "Update dependencies (#134)"
+            },
+            {
+              "SHA": "91ab122",
+              "Subject": "Update repository config (#133)"
+            },
+            {
+              "SHA": "47ca564",
+              "Subject": "Update dependencies (#132)"
+            },
+            {
+              "SHA": "3d1a293",
+              "Subject": "Update dependencies (#131)"
+            },
+            {
+              "SHA": "f9b4bcc",
+              "Subject": "Update dependencies (#130)"
+            },
+            {
+              "SHA": "b2331c7",
+              "Subject": "Update README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.10.11",
+          "commits": [
+            {
+              "SHA": "a33f913",
+              "Subject": "Prepare for release v2021.10.11 (#175)"
+            },
+            {
+              "SHA": "915a75d",
+              "Subject": "Fix docs"
+            },
+            {
+              "SHA": "ae24248",
+              "Subject": "Add Nats docs (#171)"
+            },
+            {
+              "SHA": "1adf209",
+              "Subject": "Update docs for stashed/cli@fc3ffb8d (#174)"
+            },
+            {
+              "SHA": "5527a89",
+              "Subject": "Fix rook links"
+            },
+            {
+              "SHA": "44d6110",
+              "Subject": "Fix instruction for enabling network volume accessor helper (#173)"
+            },
+            {
+              "SHA": "792d0c7",
+              "Subject": "Add Stash Grafana dashboard doc for v1beta1 API"
+            },
+            {
+              "SHA": "7675546",
+              "Subject": "Update overview doc"
+            },
+            {
+              "SHA": "1f57664",
+              "Subject": "Update instruction for enabling Prometheus monitoring in Stash"
+            },
+            {
+              "SHA": "4689187",
+              "Subject": "Add Stash Grafana dashboard doc for v1beta1 API"
+            },
+            {
+              "SHA": "055df44",
+              "Subject": "Update repository config (#170)"
+            },
+            {
+              "SHA": "6e08af7",
+              "Subject": "Update repository config (#169)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v13",
+          "commits": [
+            {
+              "SHA": "a5d62837",
+              "Subject": "Prepare for release 5.6.4-v13 (#1008)"
+            },
+            {
+              "SHA": "3ef20d48",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#999) (#1000)"
+            },
+            {
+              "SHA": "39c89194",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#990) (#991)"
+            },
+            {
+              "SHA": "574f3b1e",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#981) (#982)"
+            },
+            {
+              "SHA": "ec0d1986",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#972) (#973)"
+            },
+            {
+              "SHA": "55047964",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#963) (#964)"
+            },
+            {
+              "SHA": "18921116",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#954) (#955)"
+            },
+            {
+              "SHA": "2b482d40",
+              "Subject": "[cherry-pick] Update repository config (#945) (#946)"
+            },
+            {
+              "SHA": "99db22ab",
+              "Subject": "[cherry-pick] Update dependencies (#936) (#937)"
+            },
+            {
+              "SHA": "e7432088",
+              "Subject": "[cherry-pick] Update dependencies (#927) (#928)"
+            },
+            {
+              "SHA": "d996b55c",
+              "Subject": "[cherry-pick] Update dependencies (#918) (#919)"
+            },
+            {
+              "SHA": "6f441147",
+              "Subject": "[cherry-pick] Use user nobody (#910)"
+            },
+            {
+              "SHA": "82d15a3c",
+              "Subject": "[cherry-pick] Update repository config (#901) (#902)"
+            },
+            {
+              "SHA": "6f9313e9",
+              "Subject": "[cherry-pick] Update repository config (#892) (#893)"
+            },
+            {
+              "SHA": "dce43d88",
+              "Subject": "[cherry-pick] Update README.md (#884)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v13",
+          "commits": [
+            {
+              "SHA": "6a8aa63a",
+              "Subject": "Prepare for release 6.2.4-v13 (#1009)"
+            },
+            {
+              "SHA": "728caef7",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#999) (#1001)"
+            },
+            {
+              "SHA": "c3732a8d",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#990) (#992)"
+            },
+            {
+              "SHA": "4a661d0d",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#981) (#983)"
+            },
+            {
+              "SHA": "b25f24a1",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#972) (#974)"
+            },
+            {
+              "SHA": "34810993",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#963) (#965)"
+            },
+            {
+              "SHA": "e712025c",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#954) (#956)"
+            },
+            {
+              "SHA": "5dc9f263",
+              "Subject": "[cherry-pick] Update repository config (#945) (#947)"
+            },
+            {
+              "SHA": "dfe8fea8",
+              "Subject": "[cherry-pick] Update dependencies (#936) (#938)"
+            },
+            {
+              "SHA": "80b9a9e1",
+              "Subject": "[cherry-pick] Update dependencies (#927) (#929)"
+            },
+            {
+              "SHA": "fb0de16f",
+              "Subject": "[cherry-pick] Update dependencies (#918) (#920)"
+            },
+            {
+              "SHA": "5fe518c1",
+              "Subject": "[cherry-pick] Use user nobody (#911)"
+            },
+            {
+              "SHA": "894726f9",
+              "Subject": "[cherry-pick] Update repository config (#901) (#903)"
+            },
+            {
+              "SHA": "ce7890c4",
+              "Subject": "[cherry-pick] Update repository config (#892) (#894)"
+            },
+            {
+              "SHA": "26be85b5",
+              "Subject": "[cherry-pick] Update README.md (#885)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v13",
+          "commits": [
+            {
+              "SHA": "44e2c7ff",
+              "Subject": "Prepare for release 6.3.0-v13 (#1010)"
+            },
+            {
+              "SHA": "dcddfb30",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#999) (#1002)"
+            },
+            {
+              "SHA": "c1dc901b",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#990) (#993)"
+            },
+            {
+              "SHA": "40735b41",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#981) (#984)"
+            },
+            {
+              "SHA": "06771a08",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#972) (#975)"
+            },
+            {
+              "SHA": "391387dd",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#963) (#966)"
+            },
+            {
+              "SHA": "45848135",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#954) (#957)"
+            },
+            {
+              "SHA": "06071809",
+              "Subject": "[cherry-pick] Update repository config (#945) (#948)"
+            },
+            {
+              "SHA": "c0126494",
+              "Subject": "[cherry-pick] Update dependencies (#936) (#939)"
+            },
+            {
+              "SHA": "43c57d7b",
+              "Subject": "[cherry-pick] Update dependencies (#927) (#930)"
+            },
+            {
+              "SHA": "48f21786",
+              "Subject": "[cherry-pick] Update dependencies (#918) (#921)"
+            },
+            {
+              "SHA": "72ef8aa8",
+              "Subject": "[cherry-pick] Use user nobody (#912)"
+            },
+            {
+              "SHA": "dd22de7f",
+              "Subject": "[cherry-pick] Update repository config (#901) (#904)"
+            },
+            {
+              "SHA": "24f633df",
+              "Subject": "[cherry-pick] Update repository config (#892) (#895)"
+            },
+            {
+              "SHA": "5c79be0b",
+              "Subject": "[cherry-pick] Update README.md (#886)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v13",
+          "commits": [
+            {
+              "SHA": "707710bb",
+              "Subject": "Prepare for release 6.4.0-v13 (#1011)"
+            },
+            {
+              "SHA": "77479b55",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#999) (#1003)"
+            },
+            {
+              "SHA": "fc6a5ced",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#990) (#994)"
+            },
+            {
+              "SHA": "5969c9f8",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#981) (#985)"
+            },
+            {
+              "SHA": "262a6e36",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#972) (#976)"
+            },
+            {
+              "SHA": "d38bd407",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#963) (#967)"
+            },
+            {
+              "SHA": "3de0c455",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#954) (#958)"
+            },
+            {
+              "SHA": "27182793",
+              "Subject": "[cherry-pick] Update repository config (#945) (#949)"
+            },
+            {
+              "SHA": "5d10b2a3",
+              "Subject": "[cherry-pick] Update dependencies (#936) (#940)"
+            },
+            {
+              "SHA": "e95882f5",
+              "Subject": "[cherry-pick] Update dependencies (#927) (#931)"
+            },
+            {
+              "SHA": "772ccfa0",
+              "Subject": "[cherry-pick] Update dependencies (#918) (#922)"
+            },
+            {
+              "SHA": "aa751b23",
+              "Subject": "[cherry-pick] Use user nobody (#913)"
+            },
+            {
+              "SHA": "73980641",
+              "Subject": "[cherry-pick] Update repository config (#901) (#905)"
+            },
+            {
+              "SHA": "02407a60",
+              "Subject": "[cherry-pick] Update repository config (#892) (#896)"
+            },
+            {
+              "SHA": "0265d8de",
+              "Subject": "[cherry-pick] Update README.md (#887)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v13",
+          "commits": [
+            {
+              "SHA": "9d2383dd",
+              "Subject": "Prepare for release 6.5.3-v13 (#1012)"
+            },
+            {
+              "SHA": "79fd12e8",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#999) (#1004)"
+            },
+            {
+              "SHA": "a2e64544",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#990) (#995)"
+            },
+            {
+              "SHA": "abf9549c",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#981) (#986)"
+            },
+            {
+              "SHA": "b2b0b18e",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#972) (#977)"
+            },
+            {
+              "SHA": "faac9e7d",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#963) (#968)"
+            },
+            {
+              "SHA": "09962313",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#954) (#959)"
+            },
+            {
+              "SHA": "c71ba67a",
+              "Subject": "[cherry-pick] Update repository config (#945) (#950)"
+            },
+            {
+              "SHA": "58f1375a",
+              "Subject": "[cherry-pick] Update dependencies (#936) (#941)"
+            },
+            {
+              "SHA": "b5ed5ab1",
+              "Subject": "[cherry-pick] Update dependencies (#927) (#932)"
+            },
+            {
+              "SHA": "ab50d2f2",
+              "Subject": "[cherry-pick] Update dependencies (#918) (#923)"
+            },
+            {
+              "SHA": "4d19922a",
+              "Subject": "[cherry-pick] Use user nobody (#914)"
+            },
+            {
+              "SHA": "dc86a75d",
+              "Subject": "[cherry-pick] Update repository config (#901) (#906)"
+            },
+            {
+              "SHA": "66505f2b",
+              "Subject": "[cherry-pick] Update repository config (#892) (#897)"
+            },
+            {
+              "SHA": "637c07d9",
+              "Subject": "[cherry-pick] Update README.md (#888)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v13",
+          "commits": [
+            {
+              "SHA": "db01c3b5",
+              "Subject": "Prepare for release 6.8.0-v13 (#1013)"
+            },
+            {
+              "SHA": "5812e424",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#999) (#1005)"
+            },
+            {
+              "SHA": "20c76b9f",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#990) (#996)"
+            },
+            {
+              "SHA": "439837e1",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#981) (#987)"
+            },
+            {
+              "SHA": "1899770a",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#972) (#978)"
+            },
+            {
+              "SHA": "4ca69b25",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#963) (#969)"
+            },
+            {
+              "SHA": "0612ea32",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#954) (#960)"
+            },
+            {
+              "SHA": "b832eeba",
+              "Subject": "[cherry-pick] Update repository config (#945) (#951)"
+            },
+            {
+              "SHA": "0438c6cd",
+              "Subject": "[cherry-pick] Update dependencies (#936) (#942)"
+            },
+            {
+              "SHA": "a2f87a3c",
+              "Subject": "[cherry-pick] Update dependencies (#927) (#933)"
+            },
+            {
+              "SHA": "08c0717e",
+              "Subject": "[cherry-pick] Update dependencies (#918) (#924)"
+            },
+            {
+              "SHA": "04cc7905",
+              "Subject": "[cherry-pick] Use user nobody (#915)"
+            },
+            {
+              "SHA": "a9f017dc",
+              "Subject": "[cherry-pick] Update repository config (#901) (#907)"
+            },
+            {
+              "SHA": "4f505600",
+              "Subject": "[cherry-pick] Update repository config (#892) (#898)"
+            },
+            {
+              "SHA": "1a64b3ee",
+              "Subject": "[cherry-pick] Update README.md (#889)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v13",
+          "commits": [
+            {
+              "SHA": "55abc7a5",
+              "Subject": "Prepare for release 7.2.0-v13 (#1014)"
+            },
+            {
+              "SHA": "aa2b8e05",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#999) (#1006)"
+            },
+            {
+              "SHA": "8b4d6db6",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#990) (#997)"
+            },
+            {
+              "SHA": "d7fb74a3",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#981) (#988)"
+            },
+            {
+              "SHA": "fc8fd676",
+              "Subject": "Update dependencies to publish SiteInfo (#972) (#979)"
+            },
+            {
+              "SHA": "7a3b314c",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#963) (#970)"
+            },
+            {
+              "SHA": "d37ac3ba",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#954) (#961)"
+            },
+            {
+              "SHA": "bf69bd17",
+              "Subject": "[cherry-pick] Update repository config (#945) (#952)"
+            },
+            {
+              "SHA": "7b9d74d0",
+              "Subject": "[cherry-pick] Update dependencies (#936) (#943)"
+            },
+            {
+              "SHA": "50dd7353",
+              "Subject": "[cherry-pick] Update dependencies (#927) (#934)"
+            },
+            {
+              "SHA": "bc45e6a3",
+              "Subject": "[cherry-pick] Update dependencies (#918) (#925)"
+            },
+            {
+              "SHA": "7ef1c360",
+              "Subject": "[cherry-pick] Use user nobody (#916)"
+            },
+            {
+              "SHA": "1ddfc17c",
+              "Subject": "[cherry-pick] Update repository config (#901) (#908)"
+            },
+            {
+              "SHA": "87806973",
+              "Subject": "[cherry-pick] Update repository config (#892) (#899)"
+            },
+            {
+              "SHA": "c30a871f",
+              "Subject": "[cherry-pick] Update README.md (#890)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v13",
+          "commits": [
+            {
+              "SHA": "f5019d83",
+              "Subject": "Prepare for release 7.3.2-v13 (#1015)"
+            },
+            {
+              "SHA": "5e2009c0",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#999) (#1007)"
+            },
+            {
+              "SHA": "2aa85efa",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#990) (#998)"
+            },
+            {
+              "SHA": "bd6bd091",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#981) (#989)"
+            },
+            {
+              "SHA": "50138325",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#972) (#980)"
+            },
+            {
+              "SHA": "a8647cc3",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#963) (#971)"
+            },
+            {
+              "SHA": "317f6480",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#954) (#962)"
+            },
+            {
+              "SHA": "c237ef12",
+              "Subject": "[cherry-pick] Update repository config (#945) (#953)"
+            },
+            {
+              "SHA": "db0796c2",
+              "Subject": "[cherry-pick] Update dependencies (#936) (#944)"
+            },
+            {
+              "SHA": "b35640e9",
+              "Subject": "[cherry-pick] Update dependencies (#927) (#935)"
+            },
+            {
+              "SHA": "d7364e5f",
+              "Subject": "[cherry-pick] Update dependencies (#918) (#926)"
+            },
+            {
+              "SHA": "b6bc1e06",
+              "Subject": "[cherry-pick] Use user nobody (#917)"
+            },
+            {
+              "SHA": "8f275fc7",
+              "Subject": "[cherry-pick] Update repository config (#901) (#909)"
+            },
+            {
+              "SHA": "204da528",
+              "Subject": "[cherry-pick] Update repository config (#892) (#900)"
+            },
+            {
+              "SHA": "17519e39",
+              "Subject": "[cherry-pick] Update README.md (#891)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0",
+          "commits": [
+            {
+              "SHA": "4c83a10",
+              "Subject": "Prepare for release 3.5.0 (#9)"
+            },
+            {
+              "SHA": "1dbf3b1",
+              "Subject": "Fix jwt-go security vulnerability (#7) (#8)"
+            },
+            {
+              "SHA": "fbcc997",
+              "Subject": "Fix jwt-go security vulnerability (#5) (#6)"
+            },
+            {
+              "SHA": "e0919f1",
+              "Subject": "Use restic 0.12.1 (#4)"
+            },
+            {
+              "SHA": "f7b65eb",
+              "Subject": "Update repository config (#3)"
+            },
+            {
+              "SHA": "a2e9055",
+              "Subject": "Add etcd v3.5.0 addon to Stash (#2)"
+            },
+            {
+              "SHA": "517d580",
+              "Subject": "Merge pull request #1 from stashed/global-replace"
+            },
+            {
+              "SHA": "643ff4b",
+              "Subject": "Global replace Redis with Etcd"
+            },
+            {
+              "SHA": "6d880e0",
+              "Subject": "Use user nobody"
+            },
+            {
+              "SHA": "5252385",
+              "Subject": "Update repository config (#11)"
+            },
+            {
+              "SHA": "f6dc027",
+              "Subject": "Update repository config (#8)"
+            },
+            {
+              "SHA": "d68710e",
+              "Subject": "Prepare for release v2021.08.02 (#7)"
+            },
+            {
+              "SHA": "1772bc7",
+              "Subject": "Update repository config (#2)"
+            },
+            {
+              "SHA": "7d4bfee",
+              "Subject": "Make Redis addon ready to use (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2021.10.11",
+          "commits": [
+            {
+              "SHA": "0f063ad",
+              "Subject": "Prepare for release v2021.10.11 (#210)"
+            },
+            {
+              "SHA": "0092c7e",
+              "Subject": "Fix jwt-go security vulnerability (#209)"
+            },
+            {
+              "SHA": "17e1fdc",
+              "Subject": "Fix jwt-go security vulnerability (#208)"
+            },
+            {
+              "SHA": "01bf7cf",
+              "Subject": "Switch from nats 2.4.0 to 2.6.1"
+            },
+            {
+              "SHA": "30c5a63",
+              "Subject": "Add etcd v3.5.0 addon to Stash (#195)"
+            },
+            {
+              "SHA": "a088dcd",
+              "Subject": "Add permission for SiteInfo publisher"
+            },
+            {
+              "SHA": "a38d2b3",
+              "Subject": "Add mongodb `5.0.3` (#207)"
+            },
+            {
+              "SHA": "bb1d956",
+              "Subject": "Update dependencies to publish SiteInfo (#206)"
+            },
+            {
+              "SHA": "48c528c",
+              "Subject": "Add Backup and Restore support for Postgres  v14.0 (#205)"
+            },
+            {
+              "SHA": "9ffc6aa",
+              "Subject": "Add stash-metrics chart (#202)"
+            },
+            {
+              "SHA": "0610818",
+              "Subject": "Update repository config (#204)"
+            },
+            {
+              "SHA": "7d3116e",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#203)"
+            },
+            {
+              "SHA": "f0da2b3",
+              "Subject": "Use official restic v0.12.1 (#201)"
+            },
+            {
+              "SHA": "01ecae5",
+              "Subject": "Add mongodb 5.0.2 backup tasks (#200)"
+            },
+            {
+              "SHA": "37eec67",
+              "Subject": "Add catalogs for NATS addon (#196)"
+            },
+            {
+              "SHA": "9d585cd",
+              "Subject": "Update repository config (#199)"
+            },
+            {
+              "SHA": "ba6c6e8",
+              "Subject": "Update dependencies (#198)"
+            },
+            {
+              "SHA": "cd8b2d0",
+              "Subject": "Update dependencies (#197)"
+            },
+            {
+              "SHA": "9d47a48",
+              "Subject": "Update repository config (#194)"
+            },
+            {
+              "SHA": "8775569",
+              "Subject": "Update repository config (#193)"
+            },
+            {
+              "SHA": "715ac99",
+              "Subject": "Update README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v6",
+          "commits": [
+            {
+              "SHA": "a4773a3",
+              "Subject": "Prepare for release 10.5.8-v6 (#148)"
+            },
+            {
+              "SHA": "eca6402",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#146) (#147)"
+            },
+            {
+              "SHA": "9570bdf",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#144) (#145)"
+            },
+            {
+              "SHA": "f18b738",
+              "Subject": "Update dependencies to publish SiteInfo (#142) (#143)"
+            },
+            {
+              "SHA": "df6e78c",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#140) (#141)"
+            },
+            {
+              "SHA": "3de3692",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#138) (#139)"
+            },
+            {
+              "SHA": "0f17ca3",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#136) (#137)"
+            },
+            {
+              "SHA": "197f346",
+              "Subject": "[cherry-pick] Update repository config (#134) (#135)"
+            },
+            {
+              "SHA": "7bc7aed",
+              "Subject": "[cherry-pick] Update dependencies (#132) (#133)"
+            },
+            {
+              "SHA": "210ba94",
+              "Subject": "[cherry-pick] Update dependencies (#130) (#131)"
+            },
+            {
+              "SHA": "1f29ad8",
+              "Subject": "[cherry-pick] Update dependencies (#128) (#129)"
+            },
+            {
+              "SHA": "7342a45",
+              "Subject": "[cherry-pick] Use user nobody (#127)"
+            },
+            {
+              "SHA": "3c1f773",
+              "Subject": "[cherry-pick] Update repository config (#125) (#126)"
+            },
+            {
+              "SHA": "a54da2f",
+              "Subject": "[cherry-pick] Update repository config (#123) (#124)"
+            },
+            {
+              "SHA": "ce30084",
+              "Subject": "[cherry-pick] Update README.md (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v12",
+          "commits": [
+            {
+              "SHA": "69628a86",
+              "Subject": "Prepare for release 3.4.17-v12 (#1264)"
+            },
+            {
+              "SHA": "97ba7285",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1251)"
+            },
+            {
+              "SHA": "325a3bd0",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1237)"
+            },
+            {
+              "SHA": "22a5fab9",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1223)"
+            },
+            {
+              "SHA": "8bf670e1",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1209)"
+            },
+            {
+              "SHA": "a431846c",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1195)"
+            },
+            {
+              "SHA": "c99cad39",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1181)"
+            },
+            {
+              "SHA": "b0aefc96",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1167)"
+            },
+            {
+              "SHA": "b930d20d",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1153)"
+            },
+            {
+              "SHA": "56417b38",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1139)"
+            },
+            {
+              "SHA": "7bdd0832",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1125)"
+            },
+            {
+              "SHA": "867a70f1",
+              "Subject": "[cherry-pick] Use user nobody (#1112)"
+            },
+            {
+              "SHA": "528e1529",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1100)"
+            },
+            {
+              "SHA": "0606c894",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1087)"
+            },
+            {
+              "SHA": "2a9d8768",
+              "Subject": "[cherry-pick] Update README.md (#1074)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v12",
+          "commits": [
+            {
+              "SHA": "06b5f60f",
+              "Subject": "Prepare for release 3.4.22-v12 (#1265)"
+            },
+            {
+              "SHA": "7c5cf34a",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1252)"
+            },
+            {
+              "SHA": "ec1b6cd9",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1238)"
+            },
+            {
+              "SHA": "bfef68dd",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1224)"
+            },
+            {
+              "SHA": "0360c8a4",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1210)"
+            },
+            {
+              "SHA": "b3978742",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1196)"
+            },
+            {
+              "SHA": "076e1c7f",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1182)"
+            },
+            {
+              "SHA": "5c2a16bc",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1168)"
+            },
+            {
+              "SHA": "ad1058d8",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1154)"
+            },
+            {
+              "SHA": "1d0b2d12",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1140)"
+            },
+            {
+              "SHA": "9014381f",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1126)"
+            },
+            {
+              "SHA": "3ce9f548",
+              "Subject": "[cherry-pick] Use user nobody (#1113)"
+            },
+            {
+              "SHA": "9d1a648b",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1101)"
+            },
+            {
+              "SHA": "ebd987d5",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1088)"
+            },
+            {
+              "SHA": "58baff2d",
+              "Subject": "[cherry-pick] Update README.md (#1075)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v12",
+          "commits": [
+            {
+              "SHA": "37362a0a",
+              "Subject": "Prepare for release 3.6.8-v12 (#1267)"
+            },
+            {
+              "SHA": "3638de4c",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1254)"
+            },
+            {
+              "SHA": "ffd0e227",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1240)"
+            },
+            {
+              "SHA": "f2b1f979",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1226)"
+            },
+            {
+              "SHA": "d4b8f157",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1212)"
+            },
+            {
+              "SHA": "17c91aa8",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1198)"
+            },
+            {
+              "SHA": "4b2717a0",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1184)"
+            },
+            {
+              "SHA": "3f0f514c",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1170)"
+            },
+            {
+              "SHA": "faba0d40",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1156)"
+            },
+            {
+              "SHA": "62300371",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1142)"
+            },
+            {
+              "SHA": "f4075d20",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1128)"
+            },
+            {
+              "SHA": "24e77c90",
+              "Subject": "[cherry-pick] Use user nobody (#1115)"
+            },
+            {
+              "SHA": "386140af",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1103)"
+            },
+            {
+              "SHA": "f69c1d0f",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1090)"
+            },
+            {
+              "SHA": "86c0b41b",
+              "Subject": "[cherry-pick] Update README.md (#1077)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v12",
+          "commits": [
+            {
+              "SHA": "532e72c7",
+              "Subject": "Prepare for release 3.6.13-v12 (#1266)"
+            },
+            {
+              "SHA": "b62cf94b",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1253)"
+            },
+            {
+              "SHA": "644f22b3",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1239)"
+            },
+            {
+              "SHA": "dd2424be",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1225)"
+            },
+            {
+              "SHA": "c5b0e852",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1211)"
+            },
+            {
+              "SHA": "b9e008b9",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1197)"
+            },
+            {
+              "SHA": "7e832b9d",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1183)"
+            },
+            {
+              "SHA": "9c515527",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1169)"
+            },
+            {
+              "SHA": "6e59e006",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1155)"
+            },
+            {
+              "SHA": "f168d3f3",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1141)"
+            },
+            {
+              "SHA": "e758e8e0",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1127)"
+            },
+            {
+              "SHA": "8a8d96e7",
+              "Subject": "[cherry-pick] Use user nobody (#1114)"
+            },
+            {
+              "SHA": "45ab9d0c",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1102)"
+            },
+            {
+              "SHA": "22e5dd21",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1089)"
+            },
+            {
+              "SHA": "49dab901",
+              "Subject": "[cherry-pick] Update README.md (#1076)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v12",
+          "commits": [
+            {
+              "SHA": "4f36edfd",
+              "Subject": "Prepare for release 4.0.3-v12 (#1269)"
+            },
+            {
+              "SHA": "bea5ee27",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1256)"
+            },
+            {
+              "SHA": "bb787054",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1242)"
+            },
+            {
+              "SHA": "ac0bfd12",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1228)"
+            },
+            {
+              "SHA": "31c7d66c",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1214)"
+            },
+            {
+              "SHA": "ce07bdd7",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1200)"
+            },
+            {
+              "SHA": "102601ee",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1186)"
+            },
+            {
+              "SHA": "e75754f8",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1172)"
+            },
+            {
+              "SHA": "a069745a",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1158)"
+            },
+            {
+              "SHA": "4e7a1e24",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1144)"
+            },
+            {
+              "SHA": "80a75e9c",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1130)"
+            },
+            {
+              "SHA": "319a4947",
+              "Subject": "[cherry-pick] Use user nobody (#1117)"
+            },
+            {
+              "SHA": "bcb3cfd2",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1105)"
+            },
+            {
+              "SHA": "a05dce30",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1092)"
+            },
+            {
+              "SHA": "dd5135b5",
+              "Subject": "[cherry-pick] Update README.md (#1079)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v12",
+          "commits": [
+            {
+              "SHA": "6b691d1f",
+              "Subject": "Prepare for release 4.0.5-v12 (#1270)"
+            },
+            {
+              "SHA": "39f10575",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1257)"
+            },
+            {
+              "SHA": "53beff3b",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1243)"
+            },
+            {
+              "SHA": "136c6960",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1229)"
+            },
+            {
+              "SHA": "6207c465",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1215)"
+            },
+            {
+              "SHA": "e7e139d3",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1201)"
+            },
+            {
+              "SHA": "30a94da7",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1187)"
+            },
+            {
+              "SHA": "f59c5a6c",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1173)"
+            },
+            {
+              "SHA": "dd14094c",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1159)"
+            },
+            {
+              "SHA": "636296f1",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1145)"
+            },
+            {
+              "SHA": "0ccc1b8b",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1131)"
+            },
+            {
+              "SHA": "43dc654f",
+              "Subject": "[cherry-pick] Use user nobody (#1118)"
+            },
+            {
+              "SHA": "099f6ea5",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1106)"
+            },
+            {
+              "SHA": "6595c0cb",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1093)"
+            },
+            {
+              "SHA": "b18af069",
+              "Subject": "[cherry-pick] Update README.md (#1080)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v12",
+          "commits": [
+            {
+              "SHA": "5ae4abe4",
+              "Subject": "Prepare for release 4.0.11-v12 (#1268)"
+            },
+            {
+              "SHA": "86255e75",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1255)"
+            },
+            {
+              "SHA": "bd4ed817",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1241)"
+            },
+            {
+              "SHA": "079e1c84",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1227)"
+            },
+            {
+              "SHA": "872c68cd",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1213)"
+            },
+            {
+              "SHA": "8407c055",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1199)"
+            },
+            {
+              "SHA": "223707c8",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1185)"
+            },
+            {
+              "SHA": "cc711ac3",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1171)"
+            },
+            {
+              "SHA": "2581d408",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1157)"
+            },
+            {
+              "SHA": "243f28a0",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1143)"
+            },
+            {
+              "SHA": "b706066b",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1129)"
+            },
+            {
+              "SHA": "20423b74",
+              "Subject": "[cherry-pick] Use user nobody (#1116)"
+            },
+            {
+              "SHA": "d4b269d8",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1104)"
+            },
+            {
+              "SHA": "f795ab01",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1091)"
+            },
+            {
+              "SHA": "9360ba4e",
+              "Subject": "[cherry-pick] Update README.md (#1078)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v12",
+          "commits": [
+            {
+              "SHA": "fb2cb972",
+              "Subject": "Prepare for release 4.1.4-v12 (#1272)"
+            },
+            {
+              "SHA": "828c9c33",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1259)"
+            },
+            {
+              "SHA": "f7421dfe",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1245)"
+            },
+            {
+              "SHA": "e7f3389f",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1231)"
+            },
+            {
+              "SHA": "412cac39",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1217)"
+            },
+            {
+              "SHA": "2885f7b7",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1203)"
+            },
+            {
+              "SHA": "45880326",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1189)"
+            },
+            {
+              "SHA": "4e0e4040",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1175)"
+            },
+            {
+              "SHA": "947563a4",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1161)"
+            },
+            {
+              "SHA": "a386cc6a",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1147)"
+            },
+            {
+              "SHA": "94a94df5",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1133)"
+            },
+            {
+              "SHA": "b60fe1d7",
+              "Subject": "[cherry-pick] Use user nobody (#1120)"
+            },
+            {
+              "SHA": "90649dd7",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1108)"
+            },
+            {
+              "SHA": "147d0b08",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1095)"
+            },
+            {
+              "SHA": "570b7984",
+              "Subject": "[cherry-pick] Update README.md (#1082)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v12",
+          "commits": [
+            {
+              "SHA": "55d3315e",
+              "Subject": "Prepare for release 4.1.7-v12 (#1273)"
+            },
+            {
+              "SHA": "363724f2",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1260)"
+            },
+            {
+              "SHA": "a2ddb368",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1246)"
+            },
+            {
+              "SHA": "cb493707",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1232)"
+            },
+            {
+              "SHA": "7eaac8e1",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1218)"
+            },
+            {
+              "SHA": "c93130b6",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1204)"
+            },
+            {
+              "SHA": "604501cf",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1190)"
+            },
+            {
+              "SHA": "63f1385e",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1176)"
+            },
+            {
+              "SHA": "a530f03f",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1162)"
+            },
+            {
+              "SHA": "910a4581",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1148)"
+            },
+            {
+              "SHA": "0cb4b9e3",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1134)"
+            },
+            {
+              "SHA": "aeab96a9",
+              "Subject": "[cherry-pick] Use user nobody (#1121)"
+            },
+            {
+              "SHA": "8768b338",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1109)"
+            },
+            {
+              "SHA": "c139f365",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1096)"
+            },
+            {
+              "SHA": "3e57b806",
+              "Subject": "[cherry-pick] Update README.md (#1083)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v12",
+          "commits": [
+            {
+              "SHA": "fd8c4934",
+              "Subject": "Prepare for release 4.1.13-v12 (#1271)"
+            },
+            {
+              "SHA": "3aa25931",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1258)"
+            },
+            {
+              "SHA": "671bb974",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1244)"
+            },
+            {
+              "SHA": "289a843b",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1230)"
+            },
+            {
+              "SHA": "9efdc589",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1216)"
+            },
+            {
+              "SHA": "ae5780bb",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1202)"
+            },
+            {
+              "SHA": "6928de7f",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1188)"
+            },
+            {
+              "SHA": "4d82ec2e",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1174)"
+            },
+            {
+              "SHA": "a76a5f8e",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1160)"
+            },
+            {
+              "SHA": "1462c0c1",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1146)"
+            },
+            {
+              "SHA": "1ce4bb55",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1132)"
+            },
+            {
+              "SHA": "0d7ee1bb",
+              "Subject": "[cherry-pick] Use user nobody (#1119)"
+            },
+            {
+              "SHA": "60dd402b",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1107)"
+            },
+            {
+              "SHA": "76e4d9e0",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1094)"
+            },
+            {
+              "SHA": "887de5c0",
+              "Subject": "[cherry-pick] Update README.md (#1081)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v12",
+          "commits": [
+            {
+              "SHA": "c584cacc",
+              "Subject": "Prepare for release 4.2.3-v12 (#1274)"
+            },
+            {
+              "SHA": "4fe9a550",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1261)"
+            },
+            {
+              "SHA": "a6a4b593",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1247)"
+            },
+            {
+              "SHA": "632f8e76",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1233)"
+            },
+            {
+              "SHA": "f4cbabdc",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1219)"
+            },
+            {
+              "SHA": "d8bbe636",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1205)"
+            },
+            {
+              "SHA": "3dffe923",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1191)"
+            },
+            {
+              "SHA": "04f73554",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1177)"
+            },
+            {
+              "SHA": "42cc8004",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1163)"
+            },
+            {
+              "SHA": "a75b0f27",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1149)"
+            },
+            {
+              "SHA": "1446f267",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1135)"
+            },
+            {
+              "SHA": "c51ba8d9",
+              "Subject": "[cherry-pick] Use user nobody (#1122)"
+            },
+            {
+              "SHA": "ce4e30fd",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1110)"
+            },
+            {
+              "SHA": "4f0a3d52",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1097)"
+            },
+            {
+              "SHA": "5cfa63c2",
+              "Subject": "[cherry-pick] Update README.md (#1084)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v3",
+          "commits": [
+            {
+              "SHA": "20eadfb9",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1250) (#1262)"
+            },
+            {
+              "SHA": "c8175506",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#1236) (#1248)"
+            },
+            {
+              "SHA": "63e5fb56",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1234)"
+            },
+            {
+              "SHA": "14c357e4",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1220)"
+            },
+            {
+              "SHA": "d8b33503",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1206)"
+            },
+            {
+              "SHA": "73382bec",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#1180) (#1192)"
+            },
+            {
+              "SHA": "a48b9a92",
+              "Subject": "[cherry-pick] Update repository config (#1166) (#1178)"
+            },
+            {
+              "SHA": "84480622",
+              "Subject": "[cherry-pick] Update dependencies (#1152) (#1164)"
+            },
+            {
+              "SHA": "4be17009",
+              "Subject": "[cherry-pick] Update dependencies (#1138) (#1150)"
+            },
+            {
+              "SHA": "995b5d7a",
+              "Subject": "[cherry-pick] Update dependencies (#1124) (#1136)"
+            },
+            {
+              "SHA": "915c10a3",
+              "Subject": "[cherry-pick] Use user nobody (#1123)"
+            },
+            {
+              "SHA": "aa7416c2",
+              "Subject": "[cherry-pick] Update repository config (#1099) (#1111)"
+            },
+            {
+              "SHA": "fe1d8892",
+              "Subject": "[cherry-pick] Update repository config (#1086) (#1098)"
+            },
+            {
+              "SHA": "3955f424",
+              "Subject": "[cherry-pick] Update README.md (#1085)"
+            },
+            {
+              "SHA": "2061ae6f",
+              "Subject": "Prepare for release 4.4.6-v2 (#1072)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v13",
+          "commits": [
+            {
+              "SHA": "aff6e370",
+              "Subject": "Prepare for release 5.7.25-v13 (#528)"
+            },
+            {
+              "SHA": "60ddc272",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#523) (#524)"
+            },
+            {
+              "SHA": "799720cb",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#518) (#519)"
+            },
+            {
+              "SHA": "008b2bf5",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#513) (#514)"
+            },
+            {
+              "SHA": "fdedb6d1",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#508) (#509)"
+            },
+            {
+              "SHA": "28533a79",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#503) (#504)"
+            },
+            {
+              "SHA": "d905ccbb",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#498) (#499)"
+            },
+            {
+              "SHA": "9582cc54",
+              "Subject": "[cherry-pick] Update repository config (#493) (#494)"
+            },
+            {
+              "SHA": "0ae1d9a0",
+              "Subject": "[cherry-pick] Update dependencies (#488) (#489)"
+            },
+            {
+              "SHA": "07722857",
+              "Subject": "[cherry-pick] Update dependencies (#483) (#484)"
+            },
+            {
+              "SHA": "2a177d7d",
+              "Subject": "[cherry-pick] Update dependencies (#478) (#479)"
+            },
+            {
+              "SHA": "fdf16b05",
+              "Subject": "[cherry-pick] Use user nobody (#474)"
+            },
+            {
+              "SHA": "6b54b57d",
+              "Subject": "[cherry-pick] Update repository config (#469) (#470)"
+            },
+            {
+              "SHA": "5c9a5e36",
+              "Subject": "[cherry-pick] Update repository config (#464) (#465)"
+            },
+            {
+              "SHA": "7c10a203",
+              "Subject": "[cherry-pick] Update README.md (#460)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v13",
+          "commits": [
+            {
+              "SHA": "eec051ee",
+              "Subject": "Prepare for release 8.0.3-v13 (#531)"
+            },
+            {
+              "SHA": "1660e950",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#523) (#527)"
+            },
+            {
+              "SHA": "71cf139d",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#518) (#522)"
+            },
+            {
+              "SHA": "0140594b",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#513) (#517)"
+            },
+            {
+              "SHA": "891c4a0c",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#508) (#512)"
+            },
+            {
+              "SHA": "5eb9b26f",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#503) (#507)"
+            },
+            {
+              "SHA": "e8f12efd",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#498) (#502)"
+            },
+            {
+              "SHA": "0a607cb4",
+              "Subject": "[cherry-pick] Update repository config (#493) (#497)"
+            },
+            {
+              "SHA": "8d7a17ae",
+              "Subject": "[cherry-pick] Update dependencies (#488) (#492)"
+            },
+            {
+              "SHA": "03c31af6",
+              "Subject": "[cherry-pick] Update dependencies (#483) (#487)"
+            },
+            {
+              "SHA": "b4aacc9c",
+              "Subject": "[cherry-pick] Update dependencies (#478) (#482)"
+            },
+            {
+              "SHA": "d1bcfc4b",
+              "Subject": "[cherry-pick] Use user nobody (#477)"
+            },
+            {
+              "SHA": "79ede44f",
+              "Subject": "[cherry-pick] Update repository config (#469) (#473)"
+            },
+            {
+              "SHA": "7fad3905",
+              "Subject": "[cherry-pick] Update repository config (#464) (#468)"
+            },
+            {
+              "SHA": "06308914",
+              "Subject": "[cherry-pick] Update README.md (#463)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v13",
+          "commits": [
+            {
+              "SHA": "04d8f7d9",
+              "Subject": "Prepare for release 8.0.14-v13 (#529)"
+            },
+            {
+              "SHA": "235005d4",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#523) (#525)"
+            },
+            {
+              "SHA": "ff9e8eb9",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#518) (#520)"
+            },
+            {
+              "SHA": "b0ad3407",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#513) (#515)"
+            },
+            {
+              "SHA": "e5ce9e5a",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#508) (#510)"
+            },
+            {
+              "SHA": "6879bc7f",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#503) (#505)"
+            },
+            {
+              "SHA": "9d021bf3",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#498) (#500)"
+            },
+            {
+              "SHA": "23a8405c",
+              "Subject": "[cherry-pick] Update repository config (#493) (#495)"
+            },
+            {
+              "SHA": "ef9bd7a3",
+              "Subject": "[cherry-pick] Update dependencies (#488) (#490)"
+            },
+            {
+              "SHA": "753cf713",
+              "Subject": "[cherry-pick] Update dependencies (#483) (#485)"
+            },
+            {
+              "SHA": "fe5dbd4e",
+              "Subject": "[cherry-pick] Update dependencies (#478) (#480)"
+            },
+            {
+              "SHA": "c8090a9b",
+              "Subject": "[cherry-pick] Use user nobody (#475)"
+            },
+            {
+              "SHA": "36c9a151",
+              "Subject": "[cherry-pick] Update repository config (#469) (#471)"
+            },
+            {
+              "SHA": "9bdfdeeb",
+              "Subject": "[cherry-pick] Update repository config (#464) (#466)"
+            },
+            {
+              "SHA": "168469fe",
+              "Subject": "[cherry-pick] Update README.md (#461)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v7",
+          "commits": [
+            {
+              "SHA": "e5ea20ba",
+              "Subject": "Prepare for release 8.0.21-v7 (#530)"
+            },
+            {
+              "SHA": "5db2b531",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#523) (#526)"
+            },
+            {
+              "SHA": "52cd9513",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#518) (#521)"
+            },
+            {
+              "SHA": "7d004545",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#513) (#516)"
+            },
+            {
+              "SHA": "6abc719c",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#508) (#511)"
+            },
+            {
+              "SHA": "cd79c2de",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#503) (#506)"
+            },
+            {
+              "SHA": "d974fafb",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#498) (#501)"
+            },
+            {
+              "SHA": "3828e7d3",
+              "Subject": "[cherry-pick] Update repository config (#493) (#496)"
+            },
+            {
+              "SHA": "2fd7d488",
+              "Subject": "[cherry-pick] Update dependencies (#488) (#491)"
+            },
+            {
+              "SHA": "2c28a324",
+              "Subject": "[cherry-pick] Update dependencies (#483) (#486)"
+            },
+            {
+              "SHA": "b54ef541",
+              "Subject": "[cherry-pick] Update dependencies (#478) (#481)"
+            },
+            {
+              "SHA": "249af93e",
+              "Subject": "[cherry-pick] Use user nobody (#476)"
+            },
+            {
+              "SHA": "b3d0bf71",
+              "Subject": "[cherry-pick] Update repository config (#469) (#472)"
+            },
+            {
+              "SHA": "1f7e61fd",
+              "Subject": "[cherry-pick] Update repository config (#464) (#467)"
+            },
+            {
+              "SHA": "436e0ab6",
+              "Subject": "[cherry-pick] Update README.md (#462)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1",
+          "commits": [
+            {
+              "SHA": "898dc86",
+              "Subject": "Prepare for release 2.6.1 (#9)"
+            },
+            {
+              "SHA": "b54316d",
+              "Subject": "Fix jwt-go security vulnerability (#7) (#8)"
+            },
+            {
+              "SHA": "dba8685",
+              "Subject": "Use nats.go v1.13.0 (#6)"
+            },
+            {
+              "SHA": "324241b",
+              "Subject": "Update TLS constants #5"
+            },
+            {
+              "SHA": "2077d6f",
+              "Subject": "Append args  (#4)"
+            },
+            {
+              "SHA": "e7dc55d",
+              "Subject": "Update repository config (#3)"
+            },
+            {
+              "SHA": "4e97bdc",
+              "Subject": "Add nats Stash addon (#2)"
+            },
+            {
+              "SHA": "48941bd",
+              "Subject": "Merge pull request #1 from stashed/global-replace"
+            },
+            {
+              "SHA": "ff46ec0",
+              "Subject": "Global replace Redis with NATS"
+            },
+            {
+              "SHA": "6d880e0",
+              "Subject": "Use user nobody"
+            },
+            {
+              "SHA": "5252385",
+              "Subject": "Update repository config (#11)"
+            },
+            {
+              "SHA": "f6dc027",
+              "Subject": "Update repository config (#8)"
+            },
+            {
+              "SHA": "d68710e",
+              "Subject": "Prepare for release v2021.08.02 (#7)"
+            },
+            {
+              "SHA": "1772bc7",
+              "Subject": "Update repository config (#2)"
+            },
+            {
+              "SHA": "7d4bfee",
+              "Subject": "Make Redis addon ready to use (#1)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v8",
+          "commits": [
+            {
+              "SHA": "42564482",
+              "Subject": "Prepare for release 5.7-v8 (#221)"
+            },
+            {
+              "SHA": "22f43849",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#219) (#220)"
+            },
+            {
+              "SHA": "26dbbe0d",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#217) (#218)"
+            },
+            {
+              "SHA": "cfa5e989",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#215) (#216)"
+            },
+            {
+              "SHA": "645df7c7",
+              "Subject": "Update dependencies to publish SiteInfo (#213) (#214)"
+            },
+            {
+              "SHA": "327484ce",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#211) (#212)"
+            },
+            {
+              "SHA": "70e361f6",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#209) (#210)"
+            },
+            {
+              "SHA": "0568a599",
+              "Subject": "[cherry-pick] Update repository config (#207) (#208)"
+            },
+            {
+              "SHA": "541cafce",
+              "Subject": "[cherry-pick] Update dependencies (#205) (#206)"
+            },
+            {
+              "SHA": "42914499",
+              "Subject": "[cherry-pick] Update dependencies (#203) (#204)"
+            },
+            {
+              "SHA": "f5d39489",
+              "Subject": "[cherry-pick] Update dependencies (#201) (#202)"
+            },
+            {
+              "SHA": "3b0f52a5",
+              "Subject": "[cherry-pick] Use user nobody (#200)"
+            },
+            {
+              "SHA": "91a6d048",
+              "Subject": "[cherry-pick] Update repository config (#198) (#199)"
+            },
+            {
+              "SHA": "27ea0703",
+              "Subject": "[cherry-pick] Update repository config (#196) (#197)"
+            },
+            {
+              "SHA": "3a9ec481",
+              "Subject": "[cherry-pick] Update README.md (#195)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v11",
+          "commits": [
+            {
+              "SHA": "8f1256ef",
+              "Subject": "Prepare for release 9.6.19-v11 (#935)"
+            },
+            {
+              "SHA": "851efd30",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#923) (#929)"
+            },
+            {
+              "SHA": "132fad16",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#916) (#922)"
+            },
+            {
+              "SHA": "de2c0cd2",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#910) (#915)"
+            },
+            {
+              "SHA": "8529a78e",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#904) (#909)"
+            },
+            {
+              "SHA": "1ec16ab0",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#897) (#902)"
+            },
+            {
+              "SHA": "a5c59aa8",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#891) (#896)"
+            },
+            {
+              "SHA": "6042476d",
+              "Subject": "[cherry-pick] Update repository config (#885) (#890)"
+            },
+            {
+              "SHA": "062cf691",
+              "Subject": "[cherry-pick] Update dependencies (#879) (#884)"
+            },
+            {
+              "SHA": "74f16152",
+              "Subject": "[cherry-pick] Update dependencies (#873) (#878)"
+            },
+            {
+              "SHA": "665ff907",
+              "Subject": "[cherry-pick] Update dependencies (#867) (#872)"
+            },
+            {
+              "SHA": "51c55130",
+              "Subject": "[cherry-pick] Use user nobody (#866)"
+            },
+            {
+              "SHA": "9fd4d8c3",
+              "Subject": "[cherry-pick] Update repository config (#856) (#861)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v11",
+          "commits": [
+            {
+              "SHA": "022910d2",
+              "Subject": "Prepare for release 10.14-v11 (#930)"
+            },
+            {
+              "SHA": "df4ea88e",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#923) (#924)"
+            },
+            {
+              "SHA": "37492e25",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#916) (#917)"
+            },
+            {
+              "SHA": "c36fd40d",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#910) (#911)"
+            },
+            {
+              "SHA": "40364b31",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#904) (#905)"
+            },
+            {
+              "SHA": "c7e6e42d",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#897) (#898)"
+            },
+            {
+              "SHA": "a7a14804",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#891) (#892)"
+            },
+            {
+              "SHA": "62f39a5a",
+              "Subject": "[cherry-pick] Update repository config (#885) (#886)"
+            },
+            {
+              "SHA": "c8c626dd",
+              "Subject": "[cherry-pick] Update dependencies (#879) (#880)"
+            },
+            {
+              "SHA": "8cca6897",
+              "Subject": "[cherry-pick] Update dependencies (#873) (#874)"
+            },
+            {
+              "SHA": "2b8823ac",
+              "Subject": "[cherry-pick] Update dependencies (#867) (#868)"
+            },
+            {
+              "SHA": "de1290b4",
+              "Subject": "[cherry-pick] Use user nobody (#862)"
+            },
+            {
+              "SHA": "9d8e96ed",
+              "Subject": "[cherry-pick] Update repository config (#856) (#857)"
+            },
+            {
+              "SHA": "49ab6354",
+              "Subject": "[cherry-pick] Update repository config (#850) (#851)"
+            },
+            {
+              "SHA": "ac88e3c1",
+              "Subject": "[cherry-pick] Update README.md (#845)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v11",
+          "commits": [
+            {
+              "SHA": "809eb881",
+              "Subject": "Prepare for release 11.9-v11 (#931)"
+            },
+            {
+              "SHA": "f8df2138",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#923) (#925)"
+            },
+            {
+              "SHA": "a5fcf2d7",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#916) (#918)"
+            },
+            {
+              "SHA": "bc9b05a7",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#910) (#912)"
+            },
+            {
+              "SHA": "eba577ca",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#904) (#906)"
+            },
+            {
+              "SHA": "dd7e5b3c",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#897) (#899)"
+            },
+            {
+              "SHA": "dbc851fe",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#891) (#893)"
+            },
+            {
+              "SHA": "96c10215",
+              "Subject": "[cherry-pick] Update repository config (#885) (#887)"
+            },
+            {
+              "SHA": "89f96f4f",
+              "Subject": "[cherry-pick] Update dependencies (#879) (#881)"
+            },
+            {
+              "SHA": "540665e0",
+              "Subject": "[cherry-pick] Update dependencies (#873) (#875)"
+            },
+            {
+              "SHA": "89108c2e",
+              "Subject": "[cherry-pick] Update dependencies (#867) (#869)"
+            },
+            {
+              "SHA": "6fb330f8",
+              "Subject": "[cherry-pick] Use user nobody (#863)"
+            },
+            {
+              "SHA": "057473bc",
+              "Subject": "[cherry-pick] Update repository config (#856) (#858)"
+            },
+            {
+              "SHA": "9387dbe7",
+              "Subject": "[cherry-pick] Update repository config (#850) (#852)"
+            },
+            {
+              "SHA": "0dda31f0",
+              "Subject": "[cherry-pick] Update README.md (#846)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v11",
+          "commits": [
+            {
+              "SHA": "b6980ee7",
+              "Subject": "Prepare for release 12.4-v11 (#932)"
+            },
+            {
+              "SHA": "409eb663",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#923) (#926)"
+            },
+            {
+              "SHA": "1f593322",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#916) (#919)"
+            },
+            {
+              "SHA": "b19d3f18",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#910) (#913)"
+            },
+            {
+              "SHA": "8135d138",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#904) (#907)"
+            },
+            {
+              "SHA": "105bcabe",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#897) (#900)"
+            },
+            {
+              "SHA": "51a7933d",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#891) (#894)"
+            },
+            {
+              "SHA": "b49bb69f",
+              "Subject": "[cherry-pick] Update repository config (#885) (#888)"
+            },
+            {
+              "SHA": "bc4490f3",
+              "Subject": "[cherry-pick] Update dependencies (#879) (#882)"
+            },
+            {
+              "SHA": "7ec191fd",
+              "Subject": "[cherry-pick] Update dependencies (#873) (#876)"
+            },
+            {
+              "SHA": "16a2ee1d",
+              "Subject": "[cherry-pick] Update dependencies (#867) (#870)"
+            },
+            {
+              "SHA": "9d392dfa",
+              "Subject": "[cherry-pick] Use user nobody (#864)"
+            },
+            {
+              "SHA": "c142e39c",
+              "Subject": "[cherry-pick] Update repository config (#856) (#859)"
+            },
+            {
+              "SHA": "d8e8c2d2",
+              "Subject": "[cherry-pick] Update repository config (#850) (#853)"
+            },
+            {
+              "SHA": "3221e02a",
+              "Subject": "[cherry-pick] Update README.md (#847)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v8",
+          "commits": [
+            {
+              "SHA": "9211494b",
+              "Subject": "Prepare for release 13.1-v8 (#933)"
+            },
+            {
+              "SHA": "199edbf1",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#923) (#927)"
+            },
+            {
+              "SHA": "3efe6ad3",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#916) (#920)"
+            },
+            {
+              "SHA": "f6d36c5f",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#910) (#914)"
+            },
+            {
+              "SHA": "9721595a",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#904) (#908)"
+            },
+            {
+              "SHA": "7b9c8fa6",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#897) (#901)"
+            },
+            {
+              "SHA": "a71c6929",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#891) (#895)"
+            },
+            {
+              "SHA": "f795f28e",
+              "Subject": "[cherry-pick] Update repository config (#885) (#889)"
+            },
+            {
+              "SHA": "927c795c",
+              "Subject": "[cherry-pick] Update dependencies (#879) (#883)"
+            },
+            {
+              "SHA": "72f86c43",
+              "Subject": "[cherry-pick] Update dependencies (#873) (#877)"
+            },
+            {
+              "SHA": "3bc7ed49",
+              "Subject": "[cherry-pick] Update dependencies (#867) (#871)"
+            },
+            {
+              "SHA": "6cf5b484",
+              "Subject": "[cherry-pick] Use user nobody (#865)"
+            },
+            {
+              "SHA": "f0c36245",
+              "Subject": "[cherry-pick] Update repository config (#856) (#860)"
+            },
+            {
+              "SHA": "f73a8fdc",
+              "Subject": "[cherry-pick] Update repository config (#850) (#854)"
+            },
+            {
+              "SHA": "08392aad",
+              "Subject": "[cherry-pick] Update README.md (#848)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v1",
+          "commits": [
+            {
+              "SHA": "2cf8e50",
+              "Subject": "Prepare for release 5.0.13-v1 (#52)"
+            },
+            {
+              "SHA": "19a146f",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#49) (#50)"
+            },
+            {
+              "SHA": "89a01a1",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#46) (#47)"
+            },
+            {
+              "SHA": "71ef640",
+              "Subject": "Update dependencies to publish SiteInfo (#43) (#44)"
+            },
+            {
+              "SHA": "07f2b0a",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#40) (#41)"
+            },
+            {
+              "SHA": "c4fe884",
+              "Subject": "[cherry-pick] Use forked redis-dump-go (#37) (#38)"
+            },
+            {
+              "SHA": "c857baf",
+              "Subject": "[cherry-pick] Add Support for TLS enabled Redis client (#31) (#35)"
+            },
+            {
+              "SHA": "fa42bbe",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#32) (#33)"
+            },
+            {
+              "SHA": "a14feb6",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#28) (#29)"
+            },
+            {
+              "SHA": "800ad77",
+              "Subject": "[cherry-pick] Update repository config (#25) (#26)"
+            },
+            {
+              "SHA": "8472251",
+              "Subject": "[cherry-pick] Update dependencies (#22) (#23)"
+            },
+            {
+              "SHA": "e6bbc7e",
+              "Subject": "[cherry-pick] Update dependencies (#19) (#20)"
+            },
+            {
+              "SHA": "d81c5d4",
+              "Subject": "[cherry-pick] Update dependencies (#16) (#17)"
+            },
+            {
+              "SHA": "ac57ea0",
+              "Subject": "[cherry-pick] Use user nobody (#14)"
+            },
+            {
+              "SHA": "c65e4af",
+              "Subject": "[cherry-pick] Update repository config (#11) (#12)"
+            },
+            {
+              "SHA": "62782d5",
+              "Subject": "[cherry-pick] Update repository config (#8) (#9)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v1",
+          "commits": [
+            {
+              "SHA": "5882057",
+              "Subject": "Prepare for release 6.2.5-v1 (#53)"
+            },
+            {
+              "SHA": "59eeffa",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#49) (#51)"
+            },
+            {
+              "SHA": "55237a0",
+              "Subject": "[cherry-pick] Fix jwt-go security vulnerability (#46) (#48)"
+            },
+            {
+              "SHA": "149186e",
+              "Subject": "Update dependencies to publish SiteInfo (#43) (#45)"
+            },
+            {
+              "SHA": "1935030",
+              "Subject": "[cherry-pick] Update dependencies to publish SiteInfo (#40) (#42)"
+            },
+            {
+              "SHA": "07a1317",
+              "Subject": "[cherry-pick] Use forked redis-dump-go (#37) (#39)"
+            },
+            {
+              "SHA": "ed58c90",
+              "Subject": "[cherry-pick] Add Support for TLS enabled Redis client (#31) (#36)"
+            },
+            {
+              "SHA": "11a3fb3",
+              "Subject": "[cherry-pick] Log warning if Community License is used with non-demo namespace (#32) (#34)"
+            },
+            {
+              "SHA": "71bd761",
+              "Subject": "[cherry-pick] Use official restic v0.12.1 (#28) (#30)"
+            },
+            {
+              "SHA": "281c595",
+              "Subject": "[cherry-pick] Update repository config (#25) (#27)"
+            },
+            {
+              "SHA": "7beb611",
+              "Subject": "[cherry-pick] Update dependencies (#22) (#24)"
+            },
+            {
+              "SHA": "39852fa",
+              "Subject": "[cherry-pick] Update dependencies (#19) (#21)"
+            },
+            {
+              "SHA": "ee90e7c",
+              "Subject": "[cherry-pick] Update dependencies (#16) (#18)"
+            },
+            {
+              "SHA": "085749d",
+              "Subject": "[cherry-pick] Use user nobody (#15)"
+            },
+            {
+              "SHA": "6bd0302",
+              "Subject": "[cherry-pick] Update repository config (#11) (#13)"
+            },
+            {
+              "SHA": "81550b0",
+              "Subject": "[cherry-pick] Update repository config (#8) (#10)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "535efca8",
+              "Subject": "Prepare for release v0.16.0 (#1394)"
+            },
+            {
+              "SHA": "7c26c7dd",
+              "Subject": "Fix jwt-go security vulnerability (#1393)"
+            },
+            {
+              "SHA": "8f63f724",
+              "Subject": "Add support for ETCD restore flow (#1392)"
+            },
+            {
+              "SHA": "5665ea7e",
+              "Subject": "Use nats.go v1.13.0 (#1391)"
+            },
+            {
+              "SHA": "cc2da916",
+              "Subject": "Setup SiteInfo publisher (#1390)"
+            },
+            {
+              "SHA": "8daab52d",
+              "Subject": "Update dependencies to publish SiteInfo (#1389)"
+            },
+            {
+              "SHA": "50b58218",
+              "Subject": "Support passing args to restic backup/restore command (#1385)"
+            },
+            {
+              "SHA": "28d878ed",
+              "Subject": "Update dependencies to publish SiteInfo (#1387)"
+            },
+            {
+              "SHA": "c063a536",
+              "Subject": "Fix license-reader ClusterRoleBinding not cleaning up properly  (#1386)"
+            },
+            {
+              "SHA": "e09bd7b0",
+              "Subject": "Log warning if Community License is used with non-demo namespace (#1383)"
+            },
+            {
+              "SHA": "3da6094c",
+              "Subject": "Use stash-trigger as backup triggering CronJob name prefix #1382"
+            },
+            {
+              "SHA": "e08ce8f6",
+              "Subject": "Use `stash-trigger` as backup triggering CronJob name prefix"
+            },
+            {
+              "SHA": "5027ae41",
+              "Subject": "Use official restic v0.12.1 (#1381)"
+            },
+            {
+              "SHA": "f23d8f42",
+              "Subject": "Update repository config (#1379)"
+            },
+            {
+              "SHA": "0348419d",
+              "Subject": "Update dependencies (#1378)"
+            },
+            {
+              "SHA": "0f6400d5",
+              "Subject": "Update repository config (#1375)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
