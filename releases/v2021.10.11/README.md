@@ -121,6 +121,25 @@
 - [26be85b5](https://github.com/stashed/elasticsearch/commit/26be85b5) [cherry-pick] Update README.md (#885)
 
 
+### [6.3.0-v13](https://github.com/stashed/elasticsearch/releases/tag/6.3.0-v13)
+
+- [44e2c7ff](https://github.com/stashed/elasticsearch/commit/44e2c7ff) Prepare for release 6.3.0-v13 (#1010)
+- [dcddfb30](https://github.com/stashed/elasticsearch/commit/dcddfb30) [cherry-pick] Fix jwt-go security vulnerability (#999) (#1002)
+- [c1dc901b](https://github.com/stashed/elasticsearch/commit/c1dc901b) [cherry-pick] Fix jwt-go security vulnerability (#990) (#993)
+- [40735b41](https://github.com/stashed/elasticsearch/commit/40735b41) [cherry-pick] Update dependencies to publish SiteInfo (#981) (#984)
+- [06771a08](https://github.com/stashed/elasticsearch/commit/06771a08) [cherry-pick] Update dependencies to publish SiteInfo (#972) (#975)
+- [391387dd](https://github.com/stashed/elasticsearch/commit/391387dd) [cherry-pick] Log warning if Community License is used with non-demo namespace (#963) (#966)
+- [45848135](https://github.com/stashed/elasticsearch/commit/45848135) [cherry-pick] Use official restic v0.12.1 (#954) (#957)
+- [06071809](https://github.com/stashed/elasticsearch/commit/06071809) [cherry-pick] Update repository config (#945) (#948)
+- [c0126494](https://github.com/stashed/elasticsearch/commit/c0126494) [cherry-pick] Update dependencies (#936) (#939)
+- [43c57d7b](https://github.com/stashed/elasticsearch/commit/43c57d7b) [cherry-pick] Update dependencies (#927) (#930)
+- [48f21786](https://github.com/stashed/elasticsearch/commit/48f21786) [cherry-pick] Update dependencies (#918) (#921)
+- [72ef8aa8](https://github.com/stashed/elasticsearch/commit/72ef8aa8) [cherry-pick] Use user nobody (#912)
+- [dd22de7f](https://github.com/stashed/elasticsearch/commit/dd22de7f) [cherry-pick] Update repository config (#901) (#904)
+- [24f633df](https://github.com/stashed/elasticsearch/commit/24f633df) [cherry-pick] Update repository config (#892) (#895)
+- [5c79be0b](https://github.com/stashed/elasticsearch/commit/5c79be0b) [cherry-pick] Update README.md (#886)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
