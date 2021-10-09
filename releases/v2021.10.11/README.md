@@ -694,6 +694,26 @@
 - [62782d5](https://github.com/stashed/redis/commit/62782d5) [cherry-pick] Update repository config (#8) (#9)
 
 
+### [6.2.5-v1](https://github.com/stashed/redis/releases/tag/6.2.5-v1)
+
+- [5882057](https://github.com/stashed/redis/commit/5882057) Prepare for release 6.2.5-v1 (#53)
+- [59eeffa](https://github.com/stashed/redis/commit/59eeffa) [cherry-pick] Fix jwt-go security vulnerability (#49) (#51)
+- [55237a0](https://github.com/stashed/redis/commit/55237a0) [cherry-pick] Fix jwt-go security vulnerability (#46) (#48)
+- [149186e](https://github.com/stashed/redis/commit/149186e) Update dependencies to publish SiteInfo (#43) (#45)
+- [1935030](https://github.com/stashed/redis/commit/1935030) [cherry-pick] Update dependencies to publish SiteInfo (#40) (#42)
+- [07a1317](https://github.com/stashed/redis/commit/07a1317) [cherry-pick] Use forked redis-dump-go (#37) (#39)
+- [ed58c90](https://github.com/stashed/redis/commit/ed58c90) [cherry-pick] Add Support for TLS enabled Redis client (#31) (#36)
+- [11a3fb3](https://github.com/stashed/redis/commit/11a3fb3) [cherry-pick] Log warning if Community License is used with non-demo namespace (#32) (#34)
+- [71bd761](https://github.com/stashed/redis/commit/71bd761) [cherry-pick] Use official restic v0.12.1 (#28) (#30)
+- [281c595](https://github.com/stashed/redis/commit/281c595) [cherry-pick] Update repository config (#25) (#27)
+- [7beb611](https://github.com/stashed/redis/commit/7beb611) [cherry-pick] Update dependencies (#22) (#24)
+- [39852fa](https://github.com/stashed/redis/commit/39852fa) [cherry-pick] Update dependencies (#19) (#21)
+- [ee90e7c](https://github.com/stashed/redis/commit/ee90e7c) [cherry-pick] Update dependencies (#16) (#18)
+- [085749d](https://github.com/stashed/redis/commit/085749d) [cherry-pick] Use user nobody (#15)
+- [6bd0302](https://github.com/stashed/redis/commit/6bd0302) [cherry-pick] Update repository config (#11) (#13)
+- [81550b0](https://github.com/stashed/redis/commit/81550b0) [cherry-pick] Update repository config (#8) (#10)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
