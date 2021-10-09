@@ -447,6 +447,25 @@
 - [5cfa63c2](https://github.com/stashed/mongodb/commit/5cfa63c2) [cherry-pick] Update README.md (#1084)
 
 
+### [4.4.6-v3](https://github.com/stashed/mongodb/releases/tag/4.4.6-v3)
+
+- [20eadfb9](https://github.com/stashed/mongodb/commit/20eadfb9) [cherry-pick] Fix jwt-go security vulnerability (#1250) (#1262)
+- [c8175506](https://github.com/stashed/mongodb/commit/c8175506) [cherry-pick] Fix jwt-go security vulnerability (#1236) (#1248)
+- [63e5fb56](https://github.com/stashed/mongodb/commit/63e5fb56) [cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1234)
+- [14c357e4](https://github.com/stashed/mongodb/commit/14c357e4) [cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1220)
+- [d8b33503](https://github.com/stashed/mongodb/commit/d8b33503) [cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1206)
+- [73382bec](https://github.com/stashed/mongodb/commit/73382bec) [cherry-pick] Use official restic v0.12.1 (#1180) (#1192)
+- [a48b9a92](https://github.com/stashed/mongodb/commit/a48b9a92) [cherry-pick] Update repository config (#1166) (#1178)
+- [84480622](https://github.com/stashed/mongodb/commit/84480622) [cherry-pick] Update dependencies (#1152) (#1164)
+- [4be17009](https://github.com/stashed/mongodb/commit/4be17009) [cherry-pick] Update dependencies (#1138) (#1150)
+- [995b5d7a](https://github.com/stashed/mongodb/commit/995b5d7a) [cherry-pick] Update dependencies (#1124) (#1136)
+- [915c10a3](https://github.com/stashed/mongodb/commit/915c10a3) [cherry-pick] Use user nobody (#1123)
+- [aa7416c2](https://github.com/stashed/mongodb/commit/aa7416c2) [cherry-pick] Update repository config (#1099) (#1111)
+- [fe1d8892](https://github.com/stashed/mongodb/commit/fe1d8892) [cherry-pick] Update repository config (#1086) (#1098)
+- [3955f424](https://github.com/stashed/mongodb/commit/3955f424) [cherry-pick] Update README.md (#1085)
+- [2061ae6f](https://github.com/stashed/mongodb/commit/2061ae6f) Prepare for release 4.4.6-v2 (#1072)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
