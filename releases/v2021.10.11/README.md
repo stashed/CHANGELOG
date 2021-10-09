@@ -492,6 +492,25 @@
 - [7c10a203](https://github.com/stashed/mysql/commit/7c10a203) [cherry-pick] Update README.md (#460)
 
 
+### [8.0.14-v13](https://github.com/stashed/mysql/releases/tag/8.0.14-v13)
+
+- [04d8f7d9](https://github.com/stashed/mysql/commit/04d8f7d9) Prepare for release 8.0.14-v13 (#529)
+- [235005d4](https://github.com/stashed/mysql/commit/235005d4) [cherry-pick] Fix jwt-go security vulnerability (#523) (#525)
+- [ff9e8eb9](https://github.com/stashed/mysql/commit/ff9e8eb9) [cherry-pick] Fix jwt-go security vulnerability (#518) (#520)
+- [b0ad3407](https://github.com/stashed/mysql/commit/b0ad3407) [cherry-pick] Update dependencies to publish SiteInfo (#513) (#515)
+- [e5ce9e5a](https://github.com/stashed/mysql/commit/e5ce9e5a) [cherry-pick] Update dependencies to publish SiteInfo (#508) (#510)
+- [6879bc7f](https://github.com/stashed/mysql/commit/6879bc7f) [cherry-pick] Log warning if Community License is used with non-demo namespace (#503) (#505)
+- [9d021bf3](https://github.com/stashed/mysql/commit/9d021bf3) [cherry-pick] Use official restic v0.12.1 (#498) (#500)
+- [23a8405c](https://github.com/stashed/mysql/commit/23a8405c) [cherry-pick] Update repository config (#493) (#495)
+- [ef9bd7a3](https://github.com/stashed/mysql/commit/ef9bd7a3) [cherry-pick] Update dependencies (#488) (#490)
+- [753cf713](https://github.com/stashed/mysql/commit/753cf713) [cherry-pick] Update dependencies (#483) (#485)
+- [fe5dbd4e](https://github.com/stashed/mysql/commit/fe5dbd4e) [cherry-pick] Update dependencies (#478) (#480)
+- [c8090a9b](https://github.com/stashed/mysql/commit/c8090a9b) [cherry-pick] Use user nobody (#475)
+- [36c9a151](https://github.com/stashed/mysql/commit/36c9a151) [cherry-pick] Update repository config (#469) (#471)
+- [9bdfdeeb](https://github.com/stashed/mysql/commit/9bdfdeeb) [cherry-pick] Update repository config (#464) (#466)
+- [168469fe](https://github.com/stashed/mysql/commit/168469fe) [cherry-pick] Update README.md (#461)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
