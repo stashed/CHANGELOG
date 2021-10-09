@@ -102,6 +102,25 @@
 - [ac88e3c1](https://github.com/stashed/postgres/commit/ac88e3c1) [cherry-pick] Update README.md (#845)
 
 
+### [11.9-v11](https://github.com/stashed/postgres/releases/tag/11.9-v11)
+
+- [809eb881](https://github.com/stashed/postgres/commit/809eb881) Prepare for release 11.9-v11 (#931)
+- [f8df2138](https://github.com/stashed/postgres/commit/f8df2138) [cherry-pick] Fix jwt-go security vulnerability (#923) (#925)
+- [a5fcf2d7](https://github.com/stashed/postgres/commit/a5fcf2d7) [cherry-pick] Fix jwt-go security vulnerability (#916) (#918)
+- [bc9b05a7](https://github.com/stashed/postgres/commit/bc9b05a7) [cherry-pick] Update dependencies to publish SiteInfo (#910) (#912)
+- [eba577ca](https://github.com/stashed/postgres/commit/eba577ca) [cherry-pick] Update dependencies to publish SiteInfo (#904) (#906)
+- [dd7e5b3c](https://github.com/stashed/postgres/commit/dd7e5b3c) [cherry-pick] Log warning if Community License is used with non-demo namespace (#897) (#899)
+- [dbc851fe](https://github.com/stashed/postgres/commit/dbc851fe) [cherry-pick] Use official restic v0.12.1 (#891) (#893)
+- [96c10215](https://github.com/stashed/postgres/commit/96c10215) [cherry-pick] Update repository config (#885) (#887)
+- [89f96f4f](https://github.com/stashed/postgres/commit/89f96f4f) [cherry-pick] Update dependencies (#879) (#881)
+- [540665e0](https://github.com/stashed/postgres/commit/540665e0) [cherry-pick] Update dependencies (#873) (#875)
+- [89108c2e](https://github.com/stashed/postgres/commit/89108c2e) [cherry-pick] Update dependencies (#867) (#869)
+- [6fb330f8](https://github.com/stashed/postgres/commit/6fb330f8) [cherry-pick] Use user nobody (#863)
+- [057473bc](https://github.com/stashed/postgres/commit/057473bc) [cherry-pick] Update repository config (#856) (#858)
+- [9387dbe7](https://github.com/stashed/postgres/commit/9387dbe7) [cherry-pick] Update repository config (#850) (#852)
+- [0dda31f0](https://github.com/stashed/postgres/commit/0dda31f0) [cherry-pick] Update README.md (#846)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
