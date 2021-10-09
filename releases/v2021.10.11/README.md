@@ -390,6 +390,25 @@
 - [570b7984](https://github.com/stashed/mongodb/commit/570b7984) [cherry-pick] Update README.md (#1082)
 
 
+### [4.1.7-v12](https://github.com/stashed/mongodb/releases/tag/4.1.7-v12)
+
+- [55d3315e](https://github.com/stashed/mongodb/commit/55d3315e) Prepare for release 4.1.7-v12 (#1273)
+- [363724f2](https://github.com/stashed/mongodb/commit/363724f2) [cherry-pick] Fix jwt-go security vulnerability (#1250) (#1260)
+- [a2ddb368](https://github.com/stashed/mongodb/commit/a2ddb368) [cherry-pick] Fix jwt-go security vulnerability (#1236) (#1246)
+- [cb493707](https://github.com/stashed/mongodb/commit/cb493707) [cherry-pick] Update dependencies to publish SiteInfo (#1222) (#1232)
+- [7eaac8e1](https://github.com/stashed/mongodb/commit/7eaac8e1) [cherry-pick] Update dependencies to publish SiteInfo (#1208) (#1218)
+- [c93130b6](https://github.com/stashed/mongodb/commit/c93130b6) [cherry-pick] Log warning if Community License is used with non-demo namespace (#1194) (#1204)
+- [604501cf](https://github.com/stashed/mongodb/commit/604501cf) [cherry-pick] Use official restic v0.12.1 (#1180) (#1190)
+- [63f1385e](https://github.com/stashed/mongodb/commit/63f1385e) [cherry-pick] Update repository config (#1166) (#1176)
+- [a530f03f](https://github.com/stashed/mongodb/commit/a530f03f) [cherry-pick] Update dependencies (#1152) (#1162)
+- [910a4581](https://github.com/stashed/mongodb/commit/910a4581) [cherry-pick] Update dependencies (#1138) (#1148)
+- [0cb4b9e3](https://github.com/stashed/mongodb/commit/0cb4b9e3) [cherry-pick] Update dependencies (#1124) (#1134)
+- [aeab96a9](https://github.com/stashed/mongodb/commit/aeab96a9) [cherry-pick] Use user nobody (#1121)
+- [8768b338](https://github.com/stashed/mongodb/commit/8768b338) [cherry-pick] Update repository config (#1099) (#1109)
+- [c139f365](https://github.com/stashed/mongodb/commit/c139f365) [cherry-pick] Update repository config (#1086) (#1096)
+- [3e57b806](https://github.com/stashed/mongodb/commit/3e57b806) [cherry-pick] Update README.md (#1083)
+
+
 ### [4.1.13-v12](https://github.com/stashed/mongodb/releases/tag/4.1.13-v12)
 
 - [fd8c4934](https://github.com/stashed/mongodb/commit/fd8c4934) Prepare for release 4.1.13-v12 (#1271)
