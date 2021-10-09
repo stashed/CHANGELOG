@@ -81,6 +81,28 @@
 
 
 
+## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
+
+### [5.6.4-v13](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v13)
+
+- [a5d62837](https://github.com/stashed/elasticsearch/commit/a5d62837) Prepare for release 5.6.4-v13 (#1008)
+- [3ef20d48](https://github.com/stashed/elasticsearch/commit/3ef20d48) [cherry-pick] Fix jwt-go security vulnerability (#999) (#1000)
+- [39c89194](https://github.com/stashed/elasticsearch/commit/39c89194) [cherry-pick] Fix jwt-go security vulnerability (#990) (#991)
+- [574f3b1e](https://github.com/stashed/elasticsearch/commit/574f3b1e) [cherry-pick] Update dependencies to publish SiteInfo (#981) (#982)
+- [ec0d1986](https://github.com/stashed/elasticsearch/commit/ec0d1986) [cherry-pick] Update dependencies to publish SiteInfo (#972) (#973)
+- [55047964](https://github.com/stashed/elasticsearch/commit/55047964) [cherry-pick] Log warning if Community License is used with non-demo namespace (#963) (#964)
+- [18921116](https://github.com/stashed/elasticsearch/commit/18921116) [cherry-pick] Use official restic v0.12.1 (#954) (#955)
+- [2b482d40](https://github.com/stashed/elasticsearch/commit/2b482d40) [cherry-pick] Update repository config (#945) (#946)
+- [99db22ab](https://github.com/stashed/elasticsearch/commit/99db22ab) [cherry-pick] Update dependencies (#936) (#937)
+- [e7432088](https://github.com/stashed/elasticsearch/commit/e7432088) [cherry-pick] Update dependencies (#927) (#928)
+- [d996b55c](https://github.com/stashed/elasticsearch/commit/d996b55c) [cherry-pick] Update dependencies (#918) (#919)
+- [6f441147](https://github.com/stashed/elasticsearch/commit/6f441147) [cherry-pick] Use user nobody (#910)
+- [82d15a3c](https://github.com/stashed/elasticsearch/commit/82d15a3c) [cherry-pick] Update repository config (#901) (#902)
+- [6f9313e9](https://github.com/stashed/elasticsearch/commit/6f9313e9) [cherry-pick] Update repository config (#892) (#893)
+- [dce43d88](https://github.com/stashed/elasticsearch/commit/dce43d88) [cherry-pick] Update README.md (#884)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v11](https://github.com/stashed/postgres/releases/tag/9.6.19-v11)
