@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.10.11",
-  "release_date": "2021-10-09T19:49:28.294157284Z",
+  "release_date": "2021-10-09T19:49:29.61047241Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.10.11",
   "kubernetes_version": "1.16+",
@@ -1579,6 +1579,10 @@
               "Subject": "Prepare for release 4.4.6-v2 (#1072)"
             }
           ]
+        },
+        {
+          "tag": "5.0.3",
+          "commits": null
         }
       ]
     },

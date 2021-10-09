@@ -466,6 +466,10 @@
 - [2061ae6f](https://github.com/stashed/mongodb/commit/2061ae6f) Prepare for release 4.4.6-v2 (#1072)
 
 
+### [5.0.3](https://github.com/stashed/mongodb/releases/tag/5.0.3)
+
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
