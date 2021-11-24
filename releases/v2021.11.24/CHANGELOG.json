@@ -1,0 +1,1198 @@
+{
+  "product_line": "Stash",
+  "release": "v2021.11.24",
+  "release_date": "2021-11-24T13:46:56.985480403Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2021.11.24",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "85b094e2",
+              "Subject": "Prepare for release v0.17.0 (#135)"
+            },
+            {
+              "SHA": "d1a1d9ae",
+              "Subject": "Fix SiteInfo publishing (#134)"
+            },
+            {
+              "SHA": "c2a4af81",
+              "Subject": "Update license verifier (#132)"
+            },
+            {
+              "SHA": "d14efa79",
+              "Subject": "Update license header"
+            },
+            {
+              "SHA": "402386a8",
+              "Subject": "Remove Google Analytics (#131)"
+            },
+            {
+              "SHA": "4e9d2787",
+              "Subject": "Update repository config (#130)"
+            },
+            {
+              "SHA": "0a8bd900",
+              "Subject": "Update dependencies (#129)"
+            },
+            {
+              "SHA": "ec75311b",
+              "Subject": "Fix satori/go.uuid security vulnerability (#128)"
+            },
+            {
+              "SHA": "66e31a4d",
+              "Subject": "Apply all the pod level runtime settings to the CronJob"
+            },
+            {
+              "SHA": "ce457efc",
+              "Subject": "Apply all the pod level runtime settings to the CronJob"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "dce6be25",
+              "Subject": "Update dependencies (#133)"
+            },
+            {
+              "SHA": "dcf13de6",
+              "Subject": "Update Makefile for controller-tools@v0.7.0"
+            },
+            {
+              "SHA": "82122921",
+              "Subject": "Update repository config (#132)"
+            },
+            {
+              "SHA": "30fa542d",
+              "Subject": "Update dependencies (#131)"
+            },
+            {
+              "SHA": "026be21a",
+              "Subject": "Fix satori/go.uuid security vulnerability (#130)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2021.11.24",
+          "commits": [
+            {
+              "SHA": "25853ad",
+              "Subject": "Prepare for release v2021.11.24 (#54)"
+            },
+            {
+              "SHA": "ad9bbea",
+              "Subject": "Update repository config (#53)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "7060e6f",
+              "Subject": "Prepare for release v0.17.0 (#147)"
+            },
+            {
+              "SHA": "de80418",
+              "Subject": "Update dependencies (#146)"
+            },
+            {
+              "SHA": "ed6657a",
+              "Subject": "Remove Google Analytics (#145)"
+            },
+            {
+              "SHA": "f2c9aa4",
+              "Subject": "Update dependencies (#144)"
+            },
+            {
+              "SHA": "a1fcc30",
+              "Subject": "Fix satori/go.uuid security vulnerability (#143)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.11.24",
+          "commits": [
+            {
+              "SHA": "d74e8a1",
+              "Subject": "Prepare for release v2021.11.24 (#181)"
+            },
+            {
+              "SHA": "b63407e",
+              "Subject": "Remove --enable-analytics flag"
+            },
+            {
+              "SHA": "de7d0ca",
+              "Subject": "Update docs for catalog (#180)"
+            },
+            {
+              "SHA": "61eaaed",
+              "Subject": "Update docs for stashed/stash@ff417d95 (#178)"
+            },
+            {
+              "SHA": "e400720",
+              "Subject": "Update docs for stashed/cli@ed6657aa (#179)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v14",
+          "commits": [
+            {
+              "SHA": "0e144118",
+              "Subject": "Prepare for release 5.6.4-v14 (#1059)"
+            },
+            {
+              "SHA": "ab859dbf",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1049) (#1050)"
+            },
+            {
+              "SHA": "9379b2b1",
+              "Subject": "[cherry-pick] Update dependencies (#1040) (#1041)"
+            },
+            {
+              "SHA": "3ee7e34c",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1031) (#1032)"
+            },
+            {
+              "SHA": "9fc75414",
+              "Subject": "[cherry-pick] Update dependencies (#1021) (#1022)"
+            },
+            {
+              "SHA": "6aad03dd",
+              "Subject": "[cherry-pick] Fix satori/go.uuid security vulnerability (#1017) (#1018)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v14",
+          "commits": [
+            {
+              "SHA": "5ba72d61",
+              "Subject": "Prepare for release 6.2.4-v14 (#1060)"
+            },
+            {
+              "SHA": "b9d05541",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1049) (#1051)"
+            },
+            {
+              "SHA": "e6d3eae2",
+              "Subject": "[cherry-pick] Update dependencies (#1040) (#1042)"
+            },
+            {
+              "SHA": "c8a14048",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1031) (#1033)"
+            },
+            {
+              "SHA": "3d05b804",
+              "Subject": "Update dependencies (#1021) (#1023)"
+            },
+            {
+              "SHA": "e7e8c52a",
+              "Subject": "[cherry-pick] Fix satori/go.uuid security vulnerability (#1017) (#1019)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v14",
+          "commits": [
+            {
+              "SHA": "d4201b7e",
+              "Subject": "Prepare for release 6.3.0-v14 (#1061)"
+            },
+            {
+              "SHA": "0b729a37",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1049) (#1052)"
+            },
+            {
+              "SHA": "5ce16921",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1031) (#1034)"
+            },
+            {
+              "SHA": "49a75d1d",
+              "Subject": "Update dependencies (#1021) (#1024)"
+            },
+            {
+              "SHA": "546aa0c5",
+              "Subject": "[cherry-pick] Fix satori/go.uuid security vulnerability (#1017) (#1020)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v14",
+          "commits": [
+            {
+              "SHA": "7d7da202",
+              "Subject": "Prepare for release 6.4.0-v14 (#1062)"
+            },
+            {
+              "SHA": "50e2e801",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1049) (#1053)"
+            },
+            {
+              "SHA": "48209723",
+              "Subject": "[cherry-pick] Update dependencies (#1040) (#1043)"
+            },
+            {
+              "SHA": "dae6bf84",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1031) (#1035)"
+            },
+            {
+              "SHA": "4aaab48e",
+              "Subject": "Update dependencies (#1021) (#1025)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v14",
+          "commits": [
+            {
+              "SHA": "35ef5d49",
+              "Subject": "Prepare for release 6.5.3-v14 (#1063)"
+            },
+            {
+              "SHA": "d8a4c476",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1049) (#1054)"
+            },
+            {
+              "SHA": "9512b200",
+              "Subject": "[cherry-pick] Update dependencies (#1040) (#1044)"
+            },
+            {
+              "SHA": "3d3d0783",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1031) (#1036)"
+            },
+            {
+              "SHA": "5d45c1c6",
+              "Subject": "Update dependencies (#1021) (#1026)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v14",
+          "commits": [
+            {
+              "SHA": "c253b5d2",
+              "Subject": "Prepare for release 6.8.0-v14 (#1064)"
+            },
+            {
+              "SHA": "716e21ec",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1049) (#1055)"
+            },
+            {
+              "SHA": "4bc83924",
+              "Subject": "[cherry-pick] Update dependencies (#1040) (#1045)"
+            },
+            {
+              "SHA": "97e40f8d",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1031) (#1037)"
+            },
+            {
+              "SHA": "1a764e16",
+              "Subject": "[cherry-pick] Update dependencies (#1021) (#1027)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v14",
+          "commits": [
+            {
+              "SHA": "7ddc15df",
+              "Subject": "Prepare for release 7.2.0-v14 (#1066)"
+            },
+            {
+              "SHA": "8b83e76f",
+              "Subject": "Fix SiteInfo publishing (#1049) (#1057)"
+            },
+            {
+              "SHA": "295c2092",
+              "Subject": "[cherry-pick] Update dependencies (#1040) (#1047)"
+            },
+            {
+              "SHA": "0efd2e29",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1031) (#1038)"
+            },
+            {
+              "SHA": "199bd4da",
+              "Subject": "[cherry-pick] Update dependencies (#1021) (#1028)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v14",
+          "commits": [
+            {
+              "SHA": "3e524ee1",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1049) (#1056)"
+            },
+            {
+              "SHA": "b052040a",
+              "Subject": "[cherry-pick] Update dependencies (#1040) (#1048)"
+            },
+            {
+              "SHA": "42ca2c7a",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1031) (#1039)"
+            },
+            {
+              "SHA": "efd3d876",
+              "Subject": "[cherry-pick] Update dependencies (#1021) (#1029)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v1",
+          "commits": [
+            {
+              "SHA": "b9ce791",
+              "Subject": "Prepare for release 3.5.0-v1 (#18)"
+            },
+            {
+              "SHA": "fbaaa64",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#16) (#17)"
+            },
+            {
+              "SHA": "38d8c50",
+              "Subject": "[cherry-pick] Update dependencies (#14) (#15)"
+            },
+            {
+              "SHA": "450272c",
+              "Subject": "[cherry-pick] Remove Google Analytics (#12) (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2021.11.24",
+          "commits": [
+            {
+              "SHA": "4dd8553",
+              "Subject": "Prepare for release v2021.11.24 (#217)"
+            },
+            {
+              "SHA": "e1f85c4",
+              "Subject": "Update dependencies (#216)"
+            },
+            {
+              "SHA": "d35bb37",
+              "Subject": "Remove Google Analytics (#215)"
+            },
+            {
+              "SHA": "bcbb9ea",
+              "Subject": "Add support for Elasticsearch 7.14.0 (#214)"
+            },
+            {
+              "SHA": "f31eaaf",
+              "Subject": "Update Makefile for controller-tools@v0.7.0"
+            },
+            {
+              "SHA": "6f10ba7",
+              "Subject": "Update repository config (#213)"
+            },
+            {
+              "SHA": "7d86750",
+              "Subject": "Update dependencies (#212)"
+            },
+            {
+              "SHA": "d957af5",
+              "Subject": "Fix satori/go.uuid security vulnerability (#211)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v7",
+          "commits": [
+            {
+              "SHA": "c31170b",
+              "Subject": "Prepare for release 10.5.8-v7 (#159)"
+            },
+            {
+              "SHA": "c428c5a",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#157) (#158)"
+            },
+            {
+              "SHA": "fb9ea57",
+              "Subject": "[cherry-pick] Update dependencies (#155) (#156)"
+            },
+            {
+              "SHA": "16bb2df",
+              "Subject": "[cherry-pick] Remove Google Analytics (#153) (#154)"
+            },
+            {
+              "SHA": "263083f",
+              "Subject": "[cherry-pick] Update dependencies (#151) (#152)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v13",
+          "commits": [
+            {
+              "SHA": "bebf0289",
+              "Subject": "Prepare for release 3.4.17-v13 (#1337)"
+            },
+            {
+              "SHA": "c3be77d2",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1324)"
+            },
+            {
+              "SHA": "2b1d2af8",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1311)"
+            },
+            {
+              "SHA": "af5f4646",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1297)"
+            },
+            {
+              "SHA": "4092dd65",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1283)"
+            },
+            {
+              "SHA": "4a607d83",
+              "Subject": "[cherry-pick] Fix satori/go.uuid security vulnerability (#1278) (#1279)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v13",
+          "commits": [
+            {
+              "SHA": "57a441dd",
+              "Subject": "Prepare for release 3.4.22-v13 (#1338)"
+            },
+            {
+              "SHA": "f2ecc5b2",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1325)"
+            },
+            {
+              "SHA": "e252351d",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1312)"
+            },
+            {
+              "SHA": "8b24f555",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1298)"
+            },
+            {
+              "SHA": "919b8342",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1284)"
+            },
+            {
+              "SHA": "712b63d5",
+              "Subject": "[cherry-pick] Fix satori/go.uuid security vulnerability (#1278) (#1280)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v13",
+          "commits": [
+            {
+              "SHA": "46bb9249",
+              "Subject": "Prepare for release 3.6.8-v13 (#1340)"
+            },
+            {
+              "SHA": "d57604e8",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1327)"
+            },
+            {
+              "SHA": "db3a4260",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1314)"
+            },
+            {
+              "SHA": "5d46225e",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1300)"
+            },
+            {
+              "SHA": "ab7f7d38",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1286)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v13",
+          "commits": [
+            {
+              "SHA": "1b56e134",
+              "Subject": "Prepare for release 3.6.13-v13 (#1339)"
+            },
+            {
+              "SHA": "610c36e4",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1326)"
+            },
+            {
+              "SHA": "59231f32",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1313)"
+            },
+            {
+              "SHA": "b3a2048e",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1299)"
+            },
+            {
+              "SHA": "9b4f53bc",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1285)"
+            },
+            {
+              "SHA": "76c701a1",
+              "Subject": "[cherry-pick] Fix satori/go.uuid security vulnerability (#1278) (#1281)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v13",
+          "commits": [
+            {
+              "SHA": "5c1bde68",
+              "Subject": "Prepare for release 4.0.3-v13 (#1342)"
+            },
+            {
+              "SHA": "2de0c6c3",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1328)"
+            },
+            {
+              "SHA": "88ce93c2",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1315)"
+            },
+            {
+              "SHA": "836f5dc0",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1302)"
+            },
+            {
+              "SHA": "721fcf81",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1288)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v13",
+          "commits": [
+            {
+              "SHA": "db7f658c",
+              "Subject": "Prepare for release 4.0.5-v13 (#1343)"
+            },
+            {
+              "SHA": "403f30c5",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1329)"
+            },
+            {
+              "SHA": "2514268e",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1316)"
+            },
+            {
+              "SHA": "fdeb0ff2",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1303)"
+            },
+            {
+              "SHA": "dfc34ecc",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1289)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v13",
+          "commits": [
+            {
+              "SHA": "9e7ba040",
+              "Subject": "Prepare for release 4.0.11-v13 (#1341)"
+            },
+            {
+              "SHA": "16ca1fa2",
+              "Subject": "Fix SiteInfo publishing (#1323) (#1336)"
+            },
+            {
+              "SHA": "f65fdb46",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1301)"
+            },
+            {
+              "SHA": "af34b99f",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1287)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v13",
+          "commits": [
+            {
+              "SHA": "7ae5a2ad",
+              "Subject": "Prepare for release 4.1.4-v13 (#1345)"
+            },
+            {
+              "SHA": "1fbfdc18",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1331)"
+            },
+            {
+              "SHA": "3e4c83b4",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1318)"
+            },
+            {
+              "SHA": "556bfba7",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1305)"
+            },
+            {
+              "SHA": "45a4763d",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1291)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v13",
+          "commits": [
+            {
+              "SHA": "d6a8db2d",
+              "Subject": "Prepare for release 4.1.7-v13 (#1346)"
+            },
+            {
+              "SHA": "4778b673",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1332)"
+            },
+            {
+              "SHA": "309254e4",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1319)"
+            },
+            {
+              "SHA": "b5023e73",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1306)"
+            },
+            {
+              "SHA": "97ae840f",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1292)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v13",
+          "commits": [
+            {
+              "SHA": "23386af7",
+              "Subject": "Prepare for release 4.1.13-v13 (#1344)"
+            },
+            {
+              "SHA": "3d729113",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1330)"
+            },
+            {
+              "SHA": "64d99f5e",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1317)"
+            },
+            {
+              "SHA": "75f44f15",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1304)"
+            },
+            {
+              "SHA": "e0f1430a",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1290)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v13",
+          "commits": [
+            {
+              "SHA": "b939c08e",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1333)"
+            },
+            {
+              "SHA": "90919d62",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1320)"
+            },
+            {
+              "SHA": "71bf43c6",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1307)"
+            },
+            {
+              "SHA": "2de25d86",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1293)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v4",
+          "commits": [
+            {
+              "SHA": "6659f5bc",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1334)"
+            },
+            {
+              "SHA": "b3ad89fd",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1321)"
+            },
+            {
+              "SHA": "a6744d43",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1308)"
+            },
+            {
+              "SHA": "8ef2690c",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1294)"
+            },
+            {
+              "SHA": "a138a55c",
+              "Subject": "Prepare for release 4.4.6-v3 (#1275)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v1",
+          "commits": [
+            {
+              "SHA": "362d74c5",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1335)"
+            },
+            {
+              "SHA": "7243d8e6",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1322)"
+            },
+            {
+              "SHA": "232ecd8c",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1309)"
+            },
+            {
+              "SHA": "dca0617b",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1295)"
+            },
+            {
+              "SHA": "7fb75a3a",
+              "Subject": "Prepare for release 5.0.3 (#1276)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v14",
+          "commits": [
+            {
+              "SHA": "264b3f89",
+              "Subject": "Prepare for release 5.7.25-v14 (#554)"
+            },
+            {
+              "SHA": "c711f471",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#549) (#550)"
+            },
+            {
+              "SHA": "5a5dca7d",
+              "Subject": "[cherry-pick] Update dependencies (#544) (#545)"
+            },
+            {
+              "SHA": "3f7d49ec",
+              "Subject": "[cherry-pick] Remove Google Analytics (#539) (#540)"
+            },
+            {
+              "SHA": "45e25c49",
+              "Subject": "[cherry-pick] Update dependencies (#534) (#535)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v14",
+          "commits": [
+            {
+              "SHA": "3cea90bb",
+              "Subject": "Prepare for release 8.0.3-v14 (#557)"
+            },
+            {
+              "SHA": "680c3392",
+              "Subject": "Fix SiteInfo publishing (#549) (#553)"
+            },
+            {
+              "SHA": "7c7e3048",
+              "Subject": "[cherry-pick] Update dependencies (#544) (#548)"
+            },
+            {
+              "SHA": "d4de462d",
+              "Subject": "[cherry-pick] Remove Google Analytics (#539) (#543)"
+            },
+            {
+              "SHA": "cb20e05d",
+              "Subject": "[cherry-pick] Update dependencies (#534) (#538)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v14",
+          "commits": [
+            {
+              "SHA": "9364b2bf",
+              "Subject": "Prepare for release 8.0.14-v14 (#555)"
+            },
+            {
+              "SHA": "9c30475f",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#549) (#551)"
+            },
+            {
+              "SHA": "ca2762a4",
+              "Subject": "[cherry-pick] Update dependencies (#544) (#546)"
+            },
+            {
+              "SHA": "77358f6e",
+              "Subject": "[cherry-pick] Remove Google Analytics (#539) (#541)"
+            },
+            {
+              "SHA": "fcc79b69",
+              "Subject": "[cherry-pick] Update dependencies (#534) (#536)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v8",
+          "commits": [
+            {
+              "SHA": "494bf1ba",
+              "Subject": "Prepare for release 8.0.21-v8 (#556)"
+            },
+            {
+              "SHA": "7cede8cb",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#549) (#552)"
+            },
+            {
+              "SHA": "712512d6",
+              "Subject": "[cherry-pick] Update dependencies (#544) (#547)"
+            },
+            {
+              "SHA": "3b2abd07",
+              "Subject": "[cherry-pick] Remove Google Analytics (#539) (#542)"
+            },
+            {
+              "SHA": "b672201c",
+              "Subject": "[cherry-pick] Update dependencies (#534) (#537)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v1",
+          "commits": [
+            {
+              "SHA": "f806fbb",
+              "Subject": "Prepare for release 2.6.1-v1 (#19)"
+            },
+            {
+              "SHA": "b78d2bb",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#17) (#18)"
+            },
+            {
+              "SHA": "fe9d006",
+              "Subject": "[cherry-pick] Update dependencies (#15) (#16)"
+            },
+            {
+              "SHA": "7c794b4",
+              "Subject": "[cherry-pick] Remove Google Analytics (#13) (#14)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v9",
+          "commits": [
+            {
+              "SHA": "72372b84",
+              "Subject": "Prepare for release 5.7-v9 (#230)"
+            },
+            {
+              "SHA": "b70396c7",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#228) (#229)"
+            },
+            {
+              "SHA": "ee91a0a4",
+              "Subject": "[cherry-pick] Update dependencies (#226) (#227)"
+            },
+            {
+              "SHA": "010bc77e",
+              "Subject": "[cherry-pick] Remove Google Analytics (#224) (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v12",
+          "commits": [
+            {
+              "SHA": "42c89586",
+              "Subject": "Prepare for release 9.6.19-v12 (#964)"
+            },
+            {
+              "SHA": "b7deaf65",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#952) (#956)"
+            },
+            {
+              "SHA": "45fd4b54",
+              "Subject": "[cherry-pick] Update dependencies (#945) (#951)"
+            },
+            {
+              "SHA": "6b0eed64",
+              "Subject": "[cherry-pick] Remove Google Analytics (#938) (#944)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v12",
+          "commits": [
+            {
+              "SHA": "ebdef975",
+              "Subject": "Prepare for release 10.14-v12 (#959)"
+            },
+            {
+              "SHA": "3c4118cf",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#952) (#953)"
+            },
+            {
+              "SHA": "e0c893c6",
+              "Subject": "[cherry-pick] Update dependencies (#945) (#946)"
+            },
+            {
+              "SHA": "5a773cde",
+              "Subject": "[cherry-pick] Remove Google Analytics (#938) (#939)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v12",
+          "commits": [
+            {
+              "SHA": "c98dd3fa",
+              "Subject": "Prepare for release 11.9-v12 (#960)"
+            },
+            {
+              "SHA": "323002ba",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#952) (#954)"
+            },
+            {
+              "SHA": "07b87ef8",
+              "Subject": "[cherry-pick] Update dependencies (#945) (#947)"
+            },
+            {
+              "SHA": "f7e632c1",
+              "Subject": "[cherry-pick] Remove Google Analytics (#938) (#940)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v12",
+          "commits": [
+            {
+              "SHA": "8bfeb538",
+              "Subject": "Prepare for release 12.4-v12 (#961)"
+            },
+            {
+              "SHA": "7ab310cb",
+              "Subject": "Fix SiteInfo publishing (#952) (#957)"
+            },
+            {
+              "SHA": "dd32b9eb",
+              "Subject": "[cherry-pick] Update dependencies (#945) (#948)"
+            },
+            {
+              "SHA": "4004b647",
+              "Subject": "[cherry-pick] Remove Google Analytics (#938) (#941)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v9",
+          "commits": [
+            {
+              "SHA": "b2ab0cec",
+              "Subject": "Prepare for release 13.1-v9 (#962)"
+            },
+            {
+              "SHA": "a912d10f",
+              "Subject": "Fix SiteInfo publishing (#952) (#958)"
+            },
+            {
+              "SHA": "6dbbfce1",
+              "Subject": "[cherry-pick] Update dependencies (#945) (#949)"
+            },
+            {
+              "SHA": "5f8ea3d8",
+              "Subject": "[cherry-pick] Remove Google Analytics (#938) (#942)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v1",
+          "commits": [
+            {
+              "SHA": "94c0d679",
+              "Subject": "Prepare for release 14.0-v1 (#963)"
+            },
+            {
+              "SHA": "ced1f471",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#952) (#955)"
+            },
+            {
+              "SHA": "aba33b34",
+              "Subject": "[cherry-pick] Update dependencies (#945) (#950)"
+            },
+            {
+              "SHA": "f5f2db00",
+              "Subject": "[cherry-pick] Remove Google Analytics (#938) (#943)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v2",
+          "commits": [
+            {
+              "SHA": "9191462",
+              "Subject": "Prepare for release 5.0.13-v2 (#67)"
+            },
+            {
+              "SHA": "d1be27a",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#64) (#65)"
+            },
+            {
+              "SHA": "c529e8d",
+              "Subject": "[cherry-pick] Update dependencies (#61) (#62)"
+            },
+            {
+              "SHA": "759c04e",
+              "Subject": "[cherry-pick] Remove Google Analytics (#58) (#59)"
+            },
+            {
+              "SHA": "e563da6",
+              "Subject": "[cherry-pick] Fix satori/go.uuid security vulnerability (#55) (#56)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v2",
+          "commits": [
+            {
+              "SHA": "a27b1fb",
+              "Subject": "Prepare for release 6.2.5-v2 (#68)"
+            },
+            {
+              "SHA": "88133a9",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#64) (#66)"
+            },
+            {
+              "SHA": "e346fc8",
+              "Subject": "[cherry-pick] Update dependencies (#61) (#63)"
+            },
+            {
+              "SHA": "5895da7",
+              "Subject": "[cherry-pick] Remove Google Analytics (#58) (#60)"
+            },
+            {
+              "SHA": "7f3dfff",
+              "Subject": "[cherry-pick] Fix satori/go.uuid security vulnerability (#55) (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "56eeabab",
+              "Subject": "Prepare for release v0.17.0 (#1403)"
+            },
+            {
+              "SHA": "57fea237",
+              "Subject": "Fix SiteInfo publishing (#1402)"
+            },
+            {
+              "SHA": "a3acd499",
+              "Subject": "Update dependencies (#1401)"
+            },
+            {
+              "SHA": "f06740a2",
+              "Subject": "Update license verifier (#1400)"
+            },
+            {
+              "SHA": "ff417d95",
+              "Subject": "Remove Google Analytics (#1399)"
+            },
+            {
+              "SHA": "4e24ba6a",
+              "Subject": "Update repository config (#1398)"
+            },
+            {
+              "SHA": "514e79b9",
+              "Subject": "Fix satori/go.uuid security vulnerability (#1397)"
+            },
+            {
+              "SHA": "a5b7398d",
+              "Subject": "Apply all pod level runtime settings to CronJob (#1396)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
