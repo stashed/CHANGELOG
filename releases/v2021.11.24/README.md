@@ -122,6 +122,18 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v7](https://github.com/stashed/mariadb/releases/tag/10.5.8-v7)
+
+- [c31170b](https://github.com/stashed/mariadb/commit/c31170b) Prepare for release 10.5.8-v7 (#159)
+- [c428c5a](https://github.com/stashed/mariadb/commit/c428c5a) [cherry-pick] Fix SiteInfo publishing (#157) (#158)
+- [fb9ea57](https://github.com/stashed/mariadb/commit/fb9ea57) [cherry-pick] Update dependencies (#155) (#156)
+- [16bb2df](https://github.com/stashed/mariadb/commit/16bb2df) [cherry-pick] Remove Google Analytics (#153) (#154)
+- [263083f](https://github.com/stashed/mariadb/commit/263083f) [cherry-pick] Update dependencies (#151) (#152)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v13](https://github.com/stashed/mongodb/releases/tag/3.4.17-v13)

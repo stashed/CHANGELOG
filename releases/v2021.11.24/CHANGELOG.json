@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T12:18:49.65130822Z",
+  "release_date": "2021-11-24T12:27:43.683487885Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -326,6 +326,36 @@
         {
           "tag": "7.14.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v7",
+          "commits": [
+            {
+              "SHA": "c31170b",
+              "Subject": "Prepare for release 10.5.8-v7 (#159)"
+            },
+            {
+              "SHA": "c428c5a",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#157) (#158)"
+            },
+            {
+              "SHA": "fb9ea57",
+              "Subject": "[cherry-pick] Update dependencies (#155) (#156)"
+            },
+            {
+              "SHA": "16bb2df",
+              "Subject": "[cherry-pick] Remove Google Analytics (#153) (#154)"
+            },
+            {
+              "SHA": "263083f",
+              "Subject": "[cherry-pick] Update dependencies (#151) (#152)"
+            }
+          ]
         }
       ]
     },
