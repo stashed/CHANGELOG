@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T12:07:14.634237526Z",
+  "release_date": "2021-11-24T12:07:16.248061912Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -587,6 +587,27 @@
             {
               "SHA": "e0f1430a",
               "Subject": "[cherry-pick] Update dependencies (#1282) (#1290)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v13",
+          "commits": [
+            {
+              "SHA": "b939c08e",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1323) (#1333)"
+            },
+            {
+              "SHA": "90919d62",
+              "Subject": "[cherry-pick] Update dependencies (#1310) (#1320)"
+            },
+            {
+              "SHA": "71bf43c6",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1296) (#1307)"
+            },
+            {
+              "SHA": "2de25d86",
+              "Subject": "[cherry-pick] Update dependencies (#1282) (#1293)"
             }
           ]
         }
