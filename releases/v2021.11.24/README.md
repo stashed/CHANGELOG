@@ -243,6 +243,18 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v14](https://github.com/stashed/mysql/releases/tag/5.7.25-v14)
+
+- [264b3f89](https://github.com/stashed/mysql/commit/264b3f89) Prepare for release 5.7.25-v14 (#554)
+- [c711f471](https://github.com/stashed/mysql/commit/c711f471) [cherry-pick] Fix SiteInfo publishing (#549) (#550)
+- [5a5dca7d](https://github.com/stashed/mysql/commit/5a5dca7d) [cherry-pick] Update dependencies (#544) (#545)
+- [3f7d49ec](https://github.com/stashed/mysql/commit/3f7d49ec) [cherry-pick] Remove Google Analytics (#539) (#540)
+- [45e25c49](https://github.com/stashed/mysql/commit/45e25c49) [cherry-pick] Update dependencies (#534) (#535)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v12](https://github.com/stashed/postgres/releases/tag/9.6.19-v12)
