@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T13:14:29.431208572Z",
+  "release_date": "2021-11-24T13:37:26.889545144Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -111,6 +111,36 @@
             {
               "SHA": "a1fcc30",
               "Subject": "Fix satori/go.uuid security vulnerability (#143)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2021.11.24",
+          "commits": [
+            {
+              "SHA": "d74e8a1",
+              "Subject": "Prepare for release v2021.11.24 (#181)"
+            },
+            {
+              "SHA": "b63407e",
+              "Subject": "Remove --enable-analytics flag"
+            },
+            {
+              "SHA": "de7d0ca",
+              "Subject": "Update docs for catalog (#180)"
+            },
+            {
+              "SHA": "61eaaed",
+              "Subject": "Update docs for stashed/stash@ff417d95 (#178)"
+            },
+            {
+              "SHA": "e400720",
+              "Subject": "Update docs for stashed/cli@ed6657aa (#179)"
             }
           ]
         }

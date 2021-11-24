@@ -42,6 +42,18 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2021.11.24](https://github.com/stashed/docs/releases/tag/v2021.11.24)
+
+- [d74e8a1](https://github.com/stashed/docs/commit/d74e8a1) Prepare for release v2021.11.24 (#181)
+- [b63407e](https://github.com/stashed/docs/commit/b63407e) Remove --enable-analytics flag
+- [de7d0ca](https://github.com/stashed/docs/commit/de7d0ca) Update docs for catalog (#180)
+- [61eaaed](https://github.com/stashed/docs/commit/61eaaed) Update docs for stashed/stash@ff417d95 (#178)
+- [e400720](https://github.com/stashed/docs/commit/e400720) Update docs for stashed/cli@ed6657aa (#179)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v14](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v14)
