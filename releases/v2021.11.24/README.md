@@ -109,6 +109,14 @@
 - [199bd4da](https://github.com/stashed/elasticsearch/commit/199bd4da) [cherry-pick] Update dependencies (#1021) (#1028)
 
 
+### [7.3.2-v14](https://github.com/stashed/elasticsearch/releases/tag/7.3.2-v14)
+
+- [3e524ee1](https://github.com/stashed/elasticsearch/commit/3e524ee1) [cherry-pick] Fix SiteInfo publishing (#1049) (#1056)
+- [b052040a](https://github.com/stashed/elasticsearch/commit/b052040a) [cherry-pick] Update dependencies (#1040) (#1048)
+- [42ca2c7a](https://github.com/stashed/elasticsearch/commit/42ca2c7a) [cherry-pick] Remove Google Analytics (#1031) (#1039)
+- [efd3d876](https://github.com/stashed/elasticsearch/commit/efd3d876) [cherry-pick] Update dependencies (#1021) (#1029)
+
+
 ### [7.14.0](https://github.com/stashed/elasticsearch/releases/tag/7.14.0)
 
 
