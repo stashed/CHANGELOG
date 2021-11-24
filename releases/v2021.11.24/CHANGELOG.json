@@ -1,11 +1,61 @@
 {
   "product_line": "Stash",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T08:44:33.60396153Z",
+  "release_date": "2021-11-24T10:20:58.307023052Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
   "projects": [
+    {
+      "url": "github.com/appscode/stash-enterprise",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "85b094e2",
+              "Subject": "Prepare for release v0.17.0 (#135)"
+            },
+            {
+              "SHA": "d1a1d9ae",
+              "Subject": "Fix SiteInfo publishing (#134)"
+            },
+            {
+              "SHA": "c2a4af81",
+              "Subject": "Update license verifier (#132)"
+            },
+            {
+              "SHA": "d14efa79",
+              "Subject": "Update license header"
+            },
+            {
+              "SHA": "402386a8",
+              "Subject": "Remove Google Analytics (#131)"
+            },
+            {
+              "SHA": "4e9d2787",
+              "Subject": "Update repository config (#130)"
+            },
+            {
+              "SHA": "0a8bd900",
+              "Subject": "Update dependencies (#129)"
+            },
+            {
+              "SHA": "ec75311b",
+              "Subject": "Fix satori/go.uuid security vulnerability (#128)"
+            },
+            {
+              "SHA": "66e31a4d",
+              "Subject": "Apply all the pod level runtime settings to the CronJob"
+            },
+            {
+              "SHA": "ce457efc",
+              "Subject": "Apply all the pod level runtime settings to the CronJob"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/apimachinery",
       "releases": [

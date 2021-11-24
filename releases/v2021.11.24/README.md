@@ -1,6 +1,23 @@
 # Stash v2021.11.24 (2021-11-24)
 
 
+## [appscode/stash-enterprise](https://github.com/appscode/stash-enterprise)
+
+### [v0.17.0](https://github.com/appscode/stash-enterprise/releases/tag/v0.17.0)
+
+- [85b094e2](https://github.com/appscode/stash-enterprise/commit/85b094e2) Prepare for release v0.17.0 (#135)
+- [d1a1d9ae](https://github.com/appscode/stash-enterprise/commit/d1a1d9ae) Fix SiteInfo publishing (#134)
+- [c2a4af81](https://github.com/appscode/stash-enterprise/commit/c2a4af81) Update license verifier (#132)
+- [d14efa79](https://github.com/appscode/stash-enterprise/commit/d14efa79) Update license header
+- [402386a8](https://github.com/appscode/stash-enterprise/commit/402386a8) Remove Google Analytics (#131)
+- [4e9d2787](https://github.com/appscode/stash-enterprise/commit/4e9d2787) Update repository config (#130)
+- [0a8bd900](https://github.com/appscode/stash-enterprise/commit/0a8bd900) Update dependencies (#129)
+- [ec75311b](https://github.com/appscode/stash-enterprise/commit/ec75311b) Fix satori/go.uuid security vulnerability (#128)
+- [66e31a4d](https://github.com/appscode/stash-enterprise/commit/66e31a4d) Apply all the pod level runtime settings to the CronJob
+- [ce457efc](https://github.com/appscode/stash-enterprise/commit/ce457efc) Apply all the pod level runtime settings to the CronJob
+
+
+
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
 
 ### [v0.17.0](https://github.com/stashed/apimachinery/releases/tag/v0.17.0)
