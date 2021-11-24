@@ -133,6 +133,21 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2021.11.24](https://github.com/stashed/installer/releases/tag/v2021.11.24)
+
+- [4dd8553](https://github.com/stashed/installer/commit/4dd8553) Prepare for release v2021.11.24 (#217)
+- [e1f85c4](https://github.com/stashed/installer/commit/e1f85c4) Update dependencies (#216)
+- [d35bb37](https://github.com/stashed/installer/commit/d35bb37) Remove Google Analytics (#215)
+- [bcbb9ea](https://github.com/stashed/installer/commit/bcbb9ea) Add support for Elasticsearch 7.14.0 (#214)
+- [f31eaaf](https://github.com/stashed/installer/commit/f31eaaf) Update Makefile for controller-tools@v0.7.0
+- [6f10ba7](https://github.com/stashed/installer/commit/6f10ba7) Update repository config (#213)
+- [7d86750](https://github.com/stashed/installer/commit/7d86750) Update dependencies (#212)
+- [d957af5](https://github.com/stashed/installer/commit/d957af5) Fix satori/go.uuid security vulnerability (#211)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v7](https://github.com/stashed/mariadb/releases/tag/10.5.8-v7)

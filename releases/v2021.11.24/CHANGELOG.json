@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T13:03:13.690211598Z",
+  "release_date": "2021-11-24T13:14:29.431208572Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -350,6 +350,48 @@
             {
               "SHA": "450272c",
               "Subject": "[cherry-pick] Remove Google Analytics (#12) (#13)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2021.11.24",
+          "commits": [
+            {
+              "SHA": "4dd8553",
+              "Subject": "Prepare for release v2021.11.24 (#217)"
+            },
+            {
+              "SHA": "e1f85c4",
+              "Subject": "Update dependencies (#216)"
+            },
+            {
+              "SHA": "d35bb37",
+              "Subject": "Remove Google Analytics (#215)"
+            },
+            {
+              "SHA": "bcbb9ea",
+              "Subject": "Add support for Elasticsearch 7.14.0 (#214)"
+            },
+            {
+              "SHA": "f31eaaf",
+              "Subject": "Update Makefile for controller-tools@v0.7.0"
+            },
+            {
+              "SHA": "6f10ba7",
+              "Subject": "Update repository config (#213)"
+            },
+            {
+              "SHA": "7d86750",
+              "Subject": "Update dependencies (#212)"
+            },
+            {
+              "SHA": "d957af5",
+              "Subject": "Fix satori/go.uuid security vulnerability (#211)"
             }
           ]
         }
