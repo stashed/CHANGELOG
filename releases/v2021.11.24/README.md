@@ -30,6 +30,18 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.17.0](https://github.com/stashed/cli/releases/tag/v0.17.0)
+
+- [7060e6f](https://github.com/stashed/cli/commit/7060e6f) Prepare for release v0.17.0 (#147)
+- [de80418](https://github.com/stashed/cli/commit/de80418) Update dependencies (#146)
+- [ed6657a](https://github.com/stashed/cli/commit/ed6657a) Remove Google Analytics (#145)
+- [f2c9aa4](https://github.com/stashed/cli/commit/f2c9aa4) Update dependencies (#144)
+- [a1fcc30](https://github.com/stashed/cli/commit/a1fcc30) Fix satori/go.uuid security vulnerability (#143)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.17.0](https://github.com/stashed/stash/releases/tag/v0.17.0)
