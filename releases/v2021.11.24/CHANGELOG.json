@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T10:38:26.156416299Z",
+  "release_date": "2021-11-24T11:39:48.988430521Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -111,6 +111,40 @@
             {
               "SHA": "a1fcc30",
               "Subject": "Fix satori/go.uuid security vulnerability (#143)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v14",
+          "commits": [
+            {
+              "SHA": "0e144118",
+              "Subject": "Prepare for release 5.6.4-v14 (#1059)"
+            },
+            {
+              "SHA": "ab859dbf",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#1049) (#1050)"
+            },
+            {
+              "SHA": "9379b2b1",
+              "Subject": "[cherry-pick] Update dependencies (#1040) (#1041)"
+            },
+            {
+              "SHA": "3ee7e34c",
+              "Subject": "[cherry-pick] Remove Google Analytics (#1031) (#1032)"
+            },
+            {
+              "SHA": "9fc75414",
+              "Subject": "[cherry-pick] Update dependencies (#1021) (#1022)"
+            },
+            {
+              "SHA": "6aad03dd",
+              "Subject": "[cherry-pick] Fix satori/go.uuid security vulnerability (#1017) (#1018)"
             }
           ]
         }
