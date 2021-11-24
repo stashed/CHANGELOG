@@ -73,6 +73,15 @@
 - [546aa0c5](https://github.com/stashed/elasticsearch/commit/546aa0c5) [cherry-pick] Fix satori/go.uuid security vulnerability (#1017) (#1020)
 
 
+### [6.4.0-v14](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v14)
+
+- [7d7da202](https://github.com/stashed/elasticsearch/commit/7d7da202) Prepare for release 6.4.0-v14 (#1062)
+- [50e2e801](https://github.com/stashed/elasticsearch/commit/50e2e801) [cherry-pick] Fix SiteInfo publishing (#1049) (#1053)
+- [48209723](https://github.com/stashed/elasticsearch/commit/48209723) [cherry-pick] Update dependencies (#1040) (#1043)
+- [dae6bf84](https://github.com/stashed/elasticsearch/commit/dae6bf84) [cherry-pick] Remove Google Analytics (#1031) (#1035)
+- [4aaab48e](https://github.com/stashed/elasticsearch/commit/4aaab48e) Update dependencies (#1021) (#1025)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
