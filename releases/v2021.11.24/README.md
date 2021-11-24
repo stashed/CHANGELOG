@@ -294,6 +294,17 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v1](https://github.com/stashed/nats/releases/tag/2.6.1-v1)
+
+- [f806fbb](https://github.com/stashed/nats/commit/f806fbb) Prepare for release 2.6.1-v1 (#19)
+- [b78d2bb](https://github.com/stashed/nats/commit/b78d2bb) [cherry-pick] Fix SiteInfo publishing (#17) (#18)
+- [fe9d006](https://github.com/stashed/nats/commit/fe9d006) [cherry-pick] Update dependencies (#15) (#16)
+- [7c794b4](https://github.com/stashed/nats/commit/7c794b4) [cherry-pick] Remove Google Analytics (#13) (#14)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v9](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v9)
