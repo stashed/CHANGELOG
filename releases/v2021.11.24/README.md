@@ -294,6 +294,17 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v9](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v9)
+
+- [72372b84](https://github.com/stashed/percona-xtradb/commit/72372b84) Prepare for release 5.7-v9 (#230)
+- [b70396c7](https://github.com/stashed/percona-xtradb/commit/b70396c7) [cherry-pick] Fix SiteInfo publishing (#228) (#229)
+- [ee91a0a4](https://github.com/stashed/percona-xtradb/commit/ee91a0a4) [cherry-pick] Update dependencies (#226) (#227)
+- [010bc77e](https://github.com/stashed/percona-xtradb/commit/010bc77e) [cherry-pick] Remove Google Analytics (#224) (#225)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v12](https://github.com/stashed/postgres/releases/tag/9.6.19-v12)
