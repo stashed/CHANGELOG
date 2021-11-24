@@ -30,6 +30,15 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2021.11.24](https://github.com/stashed/bundles/releases/tag/v2021.11.24)
+
+- [25853ad](https://github.com/stashed/bundles/commit/25853ad) Prepare for release v2021.11.24 (#54)
+- [ad9bbea](https://github.com/stashed/bundles/commit/ad9bbea) Update repository config (#53)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.17.0](https://github.com/stashed/cli/releases/tag/v0.17.0)
