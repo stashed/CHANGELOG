@@ -163,6 +163,14 @@
 - [76c701a1](https://github.com/stashed/mongodb/commit/76c701a1) [cherry-pick] Fix satori/go.uuid security vulnerability (#1278) (#1281)
 
 
+### [4.0.11-v13](https://github.com/stashed/mongodb/releases/tag/4.0.11-v13)
+
+- [9e7ba040](https://github.com/stashed/mongodb/commit/9e7ba040) Prepare for release 4.0.11-v13 (#1341)
+- [16ca1fa2](https://github.com/stashed/mongodb/commit/16ca1fa2) Fix SiteInfo publishing (#1323) (#1336)
+- [f65fdb46](https://github.com/stashed/mongodb/commit/f65fdb46) [cherry-pick] Remove Google Analytics (#1296) (#1301)
+- [af34b99f](https://github.com/stashed/mongodb/commit/af34b99f) [cherry-pick] Update dependencies (#1282) (#1287)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
