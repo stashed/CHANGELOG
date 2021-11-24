@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2021.11.24",
-  "release_date": "2021-11-24T10:28:49.180665653Z",
+  "release_date": "2021-11-24T10:38:16.601239539Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2021.11.24",
   "kubernetes_version": "1.16+",
@@ -111,6 +111,32 @@
             {
               "SHA": "a1fcc30",
               "Subject": "Fix satori/go.uuid security vulnerability (#143)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "10.14-v12",
+          "commits": [
+            {
+              "SHA": "ebdef975",
+              "Subject": "Prepare for release 10.14-v12 (#959)"
+            },
+            {
+              "SHA": "3c4118cf",
+              "Subject": "[cherry-pick] Fix SiteInfo publishing (#952) (#953)"
+            },
+            {
+              "SHA": "e0c893c6",
+              "Subject": "[cherry-pick] Update dependencies (#945) (#946)"
+            },
+            {
+              "SHA": "5a773cde",
+              "Subject": "[cherry-pick] Remove Google Analytics (#938) (#939)"
             }
           ]
         }

@@ -42,6 +42,17 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.14-v12](https://github.com/stashed/postgres/releases/tag/10.14-v12)
+
+- [ebdef975](https://github.com/stashed/postgres/commit/ebdef975) Prepare for release 10.14-v12 (#959)
+- [3c4118cf](https://github.com/stashed/postgres/commit/3c4118cf) [cherry-pick] Fix SiteInfo publishing (#952) (#953)
+- [e0c893c6](https://github.com/stashed/postgres/commit/e0c893c6) [cherry-pick] Update dependencies (#945) (#946)
+- [5a773cde](https://github.com/stashed/postgres/commit/5a773cde) [cherry-pick] Remove Google Analytics (#938) (#939)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.17.0](https://github.com/stashed/stash/releases/tag/v0.17.0)
