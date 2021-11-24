@@ -122,6 +122,17 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v1](https://github.com/stashed/etcd/releases/tag/3.5.0-v1)
+
+- [b9ce791](https://github.com/stashed/etcd/commit/b9ce791) Prepare for release 3.5.0-v1 (#18)
+- [fbaaa64](https://github.com/stashed/etcd/commit/fbaaa64) [cherry-pick] Fix SiteInfo publishing (#16) (#17)
+- [38d8c50](https://github.com/stashed/etcd/commit/38d8c50) [cherry-pick] Update dependencies (#14) (#15)
+- [450272c](https://github.com/stashed/etcd/commit/450272c) [cherry-pick] Remove Google Analytics (#12) (#13)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v7](https://github.com/stashed/mariadb/releases/tag/10.5.8-v7)
