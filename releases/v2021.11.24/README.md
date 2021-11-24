@@ -91,6 +91,15 @@
 - [5d45c1c6](https://github.com/stashed/elasticsearch/commit/5d45c1c6) Update dependencies (#1021) (#1026)
 
 
+### [6.8.0-v14](https://github.com/stashed/elasticsearch/releases/tag/6.8.0-v14)
+
+- [c253b5d2](https://github.com/stashed/elasticsearch/commit/c253b5d2) Prepare for release 6.8.0-v14 (#1064)
+- [716e21ec](https://github.com/stashed/elasticsearch/commit/716e21ec) [cherry-pick] Fix SiteInfo publishing (#1049) (#1055)
+- [4bc83924](https://github.com/stashed/elasticsearch/commit/4bc83924) [cherry-pick] Update dependencies (#1040) (#1045)
+- [97e40f8d](https://github.com/stashed/elasticsearch/commit/97e40f8d) [cherry-pick] Remove Google Analytics (#1031) (#1037)
+- [1a764e16](https://github.com/stashed/elasticsearch/commit/1a764e16) [cherry-pick] Update dependencies (#1021) (#1027)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
