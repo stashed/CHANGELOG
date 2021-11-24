@@ -13,3 +13,18 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.17.0](https://github.com/stashed/stash/releases/tag/v0.17.0)
+
+- [56eeabab](https://github.com/stashed/stash/commit/56eeabab) Prepare for release v0.17.0 (#1403)
+- [57fea237](https://github.com/stashed/stash/commit/57fea237) Fix SiteInfo publishing (#1402)
+- [a3acd499](https://github.com/stashed/stash/commit/a3acd499) Update dependencies (#1401)
+- [f06740a2](https://github.com/stashed/stash/commit/f06740a2) Update license verifier (#1400)
+- [ff417d95](https://github.com/stashed/stash/commit/ff417d95) Remove Google Analytics (#1399)
+- [4e24ba6a](https://github.com/stashed/stash/commit/4e24ba6a) Update repository config (#1398)
+- [514e79b9](https://github.com/stashed/stash/commit/514e79b9) Fix satori/go.uuid security vulnerability (#1397)
+- [a5b7398d](https://github.com/stashed/stash/commit/a5b7398d) Apply all pod level runtime settings to CronJob (#1396)
+
+
+
