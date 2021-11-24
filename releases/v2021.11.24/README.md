@@ -52,6 +52,14 @@
 - [5a773cde](https://github.com/stashed/postgres/commit/5a773cde) [cherry-pick] Remove Google Analytics (#938) (#939)
 
 
+### [11.9-v12](https://github.com/stashed/postgres/releases/tag/11.9-v12)
+
+- [c98dd3fa](https://github.com/stashed/postgres/commit/c98dd3fa) Prepare for release 11.9-v12 (#960)
+- [323002ba](https://github.com/stashed/postgres/commit/323002ba) [cherry-pick] Fix SiteInfo publishing (#952) (#954)
+- [07b87ef8](https://github.com/stashed/postgres/commit/07b87ef8) [cherry-pick] Update dependencies (#945) (#947)
+- [f7e632c1](https://github.com/stashed/postgres/commit/f7e632c1) [cherry-pick] Remove Google Analytics (#938) (#940)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
