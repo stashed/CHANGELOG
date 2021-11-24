@@ -345,6 +345,18 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v2](https://github.com/stashed/redis/releases/tag/5.0.13-v2)
+
+- [9191462](https://github.com/stashed/redis/commit/9191462) Prepare for release 5.0.13-v2 (#67)
+- [d1be27a](https://github.com/stashed/redis/commit/d1be27a) [cherry-pick] Fix SiteInfo publishing (#64) (#65)
+- [c529e8d](https://github.com/stashed/redis/commit/c529e8d) [cherry-pick] Update dependencies (#61) (#62)
+- [759c04e](https://github.com/stashed/redis/commit/759c04e) [cherry-pick] Remove Google Analytics (#58) (#59)
+- [e563da6](https://github.com/stashed/redis/commit/e563da6) [cherry-pick] Fix satori/go.uuid security vulnerability (#55) (#56)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.17.0](https://github.com/stashed/stash/releases/tag/v0.17.0)
