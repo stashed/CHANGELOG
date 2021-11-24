@@ -172,6 +172,15 @@
 - [721fcf81](https://github.com/stashed/mongodb/commit/721fcf81) [cherry-pick] Update dependencies (#1282) (#1288)
 
 
+### [4.0.5-v13](https://github.com/stashed/mongodb/releases/tag/4.0.5-v13)
+
+- [db7f658c](https://github.com/stashed/mongodb/commit/db7f658c) Prepare for release 4.0.5-v13 (#1343)
+- [403f30c5](https://github.com/stashed/mongodb/commit/403f30c5) [cherry-pick] Fix SiteInfo publishing (#1323) (#1329)
+- [2514268e](https://github.com/stashed/mongodb/commit/2514268e) [cherry-pick] Update dependencies (#1310) (#1316)
+- [fdeb0ff2](https://github.com/stashed/mongodb/commit/fdeb0ff2) [cherry-pick] Remove Google Analytics (#1296) (#1303)
+- [dfc34ecc](https://github.com/stashed/mongodb/commit/dfc34ecc) [cherry-pick] Update dependencies (#1282) (#1289)
+
+
 ### [4.0.11-v13](https://github.com/stashed/mongodb/releases/tag/4.0.11-v13)
 
 - [9e7ba040](https://github.com/stashed/mongodb/commit/9e7ba040) Prepare for release 4.0.11-v13 (#1341)
