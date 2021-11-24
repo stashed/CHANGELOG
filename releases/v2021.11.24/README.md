@@ -356,6 +356,15 @@
 - [e563da6](https://github.com/stashed/redis/commit/e563da6) [cherry-pick] Fix satori/go.uuid security vulnerability (#55) (#56)
 
 
+### [6.2.5-v2](https://github.com/stashed/redis/releases/tag/6.2.5-v2)
+
+- [a27b1fb](https://github.com/stashed/redis/commit/a27b1fb) Prepare for release 6.2.5-v2 (#68)
+- [88133a9](https://github.com/stashed/redis/commit/88133a9) [cherry-pick] Fix SiteInfo publishing (#64) (#66)
+- [e346fc8](https://github.com/stashed/redis/commit/e346fc8) [cherry-pick] Update dependencies (#61) (#63)
+- [5895da7](https://github.com/stashed/redis/commit/5895da7) [cherry-pick] Remove Google Analytics (#58) (#60)
+- [7f3dfff](https://github.com/stashed/redis/commit/7f3dfff) [cherry-pick] Fix satori/go.uuid security vulnerability (#55) (#57)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
