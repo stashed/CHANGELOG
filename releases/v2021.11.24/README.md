@@ -263,6 +263,15 @@
 - [fcc79b69](https://github.com/stashed/mysql/commit/fcc79b69) [cherry-pick] Update dependencies (#534) (#536)
 
 
+### [8.0.21-v8](https://github.com/stashed/mysql/releases/tag/8.0.21-v8)
+
+- [494bf1ba](https://github.com/stashed/mysql/commit/494bf1ba) Prepare for release 8.0.21-v8 (#556)
+- [7cede8cb](https://github.com/stashed/mysql/commit/7cede8cb) [cherry-pick] Fix SiteInfo publishing (#549) (#552)
+- [712512d6](https://github.com/stashed/mysql/commit/712512d6) [cherry-pick] Update dependencies (#544) (#547)
+- [3b2abd07](https://github.com/stashed/mysql/commit/3b2abd07) [cherry-pick] Remove Google Analytics (#539) (#542)
+- [b672201c](https://github.com/stashed/mysql/commit/b672201c) [cherry-pick] Update dependencies (#534) (#537)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
