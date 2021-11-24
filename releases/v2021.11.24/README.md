@@ -100,6 +100,10 @@
 - [1a764e16](https://github.com/stashed/elasticsearch/commit/1a764e16) [cherry-pick] Update dependencies (#1021) (#1027)
 
 
+### [7.14.0](https://github.com/stashed/elasticsearch/releases/tag/7.14.0)
+
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
