@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T09:25:07.729179311Z",
+  "release_date": "2022-02-11T09:34:36.841179236Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -715,6 +715,32 @@
             {
               "SHA": "52d5104b",
               "Subject": "Prepare for release 5.0.3-v1 (#1352)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v15",
+          "commits": [
+            {
+              "SHA": "5d1d85ce",
+              "Subject": "Prepare for release 5.7.25-v15 (#574)"
+            },
+            {
+              "SHA": "3e19e8b5",
+              "Subject": "[cherry-pick] Update SiteInfo (#569) (#570)"
+            },
+            {
+              "SHA": "ea59f1e9",
+              "Subject": "Publish GenericResource (#564) (#568)"
+            },
+            {
+              "SHA": "0975295b",
+              "Subject": "Add support for backup and restore from different namespace (#559) (#560)"
             }
           ]
         }

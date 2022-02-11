@@ -257,6 +257,17 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v15](https://github.com/stashed/mysql/releases/tag/5.7.25-v15)
+
+- [5d1d85ce](https://github.com/stashed/mysql/commit/5d1d85ce) Prepare for release 5.7.25-v15 (#574)
+- [3e19e8b5](https://github.com/stashed/mysql/commit/3e19e8b5) [cherry-pick] Update SiteInfo (#569) (#570)
+- [ea59f1e9](https://github.com/stashed/mysql/commit/ea59f1e9) Publish GenericResource (#564) (#568)
+- [0975295b](https://github.com/stashed/mysql/commit/0975295b) Add support for backup and restore from different namespace (#559) (#560)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v13](https://github.com/stashed/postgres/releases/tag/9.6.19-v13)
