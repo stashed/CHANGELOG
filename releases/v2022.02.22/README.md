@@ -40,6 +40,25 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2022.02.22](https://github.com/stashed/docs/releases/tag/v2022.02.22)
+
+- [8c9f07a](https://github.com/stashed/docs/commit/8c9f07a) Prepare for release v2022.02.22 (#198)
+- [2630bfc](https://github.com/stashed/docs/commit/2630bfc) Update docs for stashed/cli@23631716 (#195)
+- [95a066f](https://github.com/stashed/docs/commit/95a066f) Update docs for stashed/stash@eb69ad4e (#194)
+- [713b055](https://github.com/stashed/docs/commit/713b055) Update docs for stashed/cli@c90bfcc7 (#193)
+- [000f8a8](https://github.com/stashed/docs/commit/000f8a8) Cleanup legacy docs (#192)
+- [c649326](https://github.com/stashed/docs/commit/c649326) Update restore customization docs for using snapshot ID. (#188)
+- [60effdd](https://github.com/stashed/docs/commit/60effdd) Update docs for stashed/stash@c81cf41b (#191)
+- [a355073](https://github.com/stashed/docs/commit/a355073) Update docs for stashed/cli@34e30bd2 (#190)
+- [16c68b6](https://github.com/stashed/docs/commit/16c68b6) Update docs for stashed/stash@1e41192e (#189)
+- [ccdecb7](https://github.com/stashed/docs/commit/ccdecb7) Fix version in upgrade instruction
+- [aa2f022](https://github.com/stashed/docs/commit/aa2f022) Add troubleshooting guide for `ciphertext verification` failed issue (#187)
+- [e7e49a0](https://github.com/stashed/docs/commit/e7e49a0) Add troubleshooting guide (#186)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v15](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v15)

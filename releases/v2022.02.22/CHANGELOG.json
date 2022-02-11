@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T12:00:13.203465385Z",
+  "release_date": "2022-02-11T12:32:14.446808224Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -121,6 +121,64 @@
             {
               "SHA": "34e30bd",
               "Subject": "Fix stash broken cli (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "8c9f07a",
+              "Subject": "Prepare for release v2022.02.22 (#198)"
+            },
+            {
+              "SHA": "2630bfc",
+              "Subject": "Update docs for stashed/cli@23631716 (#195)"
+            },
+            {
+              "SHA": "95a066f",
+              "Subject": "Update docs for stashed/stash@eb69ad4e (#194)"
+            },
+            {
+              "SHA": "713b055",
+              "Subject": "Update docs for stashed/cli@c90bfcc7 (#193)"
+            },
+            {
+              "SHA": "000f8a8",
+              "Subject": "Cleanup legacy docs (#192)"
+            },
+            {
+              "SHA": "c649326",
+              "Subject": "Update restore customization docs for using snapshot ID. (#188)"
+            },
+            {
+              "SHA": "60effdd",
+              "Subject": "Update docs for stashed/stash@c81cf41b (#191)"
+            },
+            {
+              "SHA": "a355073",
+              "Subject": "Update docs for stashed/cli@34e30bd2 (#190)"
+            },
+            {
+              "SHA": "16c68b6",
+              "Subject": "Update docs for stashed/stash@1e41192e (#189)"
+            },
+            {
+              "SHA": "ccdecb7",
+              "Subject": "Fix version in upgrade instruction"
+            },
+            {
+              "SHA": "aa2f022",
+              "Subject": "Add troubleshooting guide for `ciphertext verification` failed issue (#187)"
+            },
+            {
+              "SHA": "e7e49a0",
+              "Subject": "Add troubleshooting guide (#186)"
             }
           ]
         }
