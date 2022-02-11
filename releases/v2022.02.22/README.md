@@ -94,6 +94,14 @@
 - [6491c2c7](https://github.com/stashed/postgres/commit/6491c2c7) Add support for backup and restore from different namespace (#966) (#970)
 
 
+### [14.0-v2](https://github.com/stashed/postgres/releases/tag/14.0-v2)
+
+- [6335e10e](https://github.com/stashed/postgres/commit/6335e10e) Prepare for release 14.0-v2 (#990)
+- [fe4c5c2d](https://github.com/stashed/postgres/commit/fe4c5c2d) [cherry-pick] Update SiteInfo (#980) (#984)
+- [a69989d5](https://github.com/stashed/postgres/commit/a69989d5) [cherry-pick] Publish GenericResource (#973) (#978)
+- [bd847a6e](https://github.com/stashed/postgres/commit/bd847a6e) Add support for backup and restore from different namespace (#966) (#971)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
