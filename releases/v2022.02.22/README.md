@@ -267,6 +267,14 @@
 - [0975295b](https://github.com/stashed/mysql/commit/0975295b) Add support for backup and restore from different namespace (#559) (#560)
 
 
+### [8.0.14-v15](https://github.com/stashed/mysql/releases/tag/8.0.14-v15)
+
+- [1fefc3d4](https://github.com/stashed/mysql/commit/1fefc3d4) Prepare for release 8.0.14-v15 (#575)
+- [1bc03e61](https://github.com/stashed/mysql/commit/1bc03e61) [cherry-pick] Update SiteInfo (#569) (#571)
+- [d2400622](https://github.com/stashed/mysql/commit/d2400622) Publish GenericResource (#564) (#567)
+- [e29d03ef](https://github.com/stashed/mysql/commit/e29d03ef) Add support for backup and restore from different namespace (#559) (#561)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
