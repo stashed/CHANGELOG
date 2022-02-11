@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T08:26:58.859824621Z",
+  "release_date": "2022-02-11T08:44:05.313185117Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -83,6 +83,72 @@
             {
               "SHA": "e914179d",
               "Subject": "Update repository config (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "fcf0f4f5",
+              "Subject": "Prepare for release v0.18.0 (#147)"
+            },
+            {
+              "SHA": "55a9a92d",
+              "Subject": "Update UID generation for GenericResource (#146)"
+            },
+            {
+              "SHA": "cb30a32f",
+              "Subject": "Refactor restore process status handling + add cross namespace tests (#145)"
+            },
+            {
+              "SHA": "3f50cb35",
+              "Subject": "Update SiteInfo (#144)"
+            },
+            {
+              "SHA": "ac18da55",
+              "Subject": "Publish GenericResource (#143)"
+            },
+            {
+              "SHA": "efcb6727",
+              "Subject": "Expose original UID for audit events"
+            },
+            {
+              "SHA": "301f2a56",
+              "Subject": "Always set type meta for GenericResource"
+            },
+            {
+              "SHA": "ccfc9ccf",
+              "Subject": "Publish GenericResource (#142)"
+            },
+            {
+              "SHA": "477401a6",
+              "Subject": "Don't register CRDs from operator + allow passing crd-installer tag (#138)"
+            },
+            {
+              "SHA": "fc98dd68",
+              "Subject": "Add validation webhooks for double opt-in check (#137)"
+            },
+            {
+              "SHA": "1fb0d151",
+              "Subject": "Always keep the last completed backup (when `backupHistoryLimit > 0`) even if outside of history limit (#141)"
+            },
+            {
+              "SHA": "db7fdbf3",
+              "Subject": "Add support for custom Pushgateway (#140)"
+            },
+            {
+              "SHA": "83940a05",
+              "Subject": "Use refactored invoker package (#139)"
+            },
+            {
+              "SHA": "7a2d8610",
+              "Subject": "Cleanup legacy code + Support cross namespace Repository reference (#136)"
             }
           ]
         }

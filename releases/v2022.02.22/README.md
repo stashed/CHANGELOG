@@ -26,6 +26,27 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.18.0](https://github.com/stashed/enterprise/releases/tag/v0.18.0)
+
+- [fcf0f4f5](https://github.com/stashed/enterprise/commit/fcf0f4f5) Prepare for release v0.18.0 (#147)
+- [55a9a92d](https://github.com/stashed/enterprise/commit/55a9a92d) Update UID generation for GenericResource (#146)
+- [cb30a32f](https://github.com/stashed/enterprise/commit/cb30a32f) Refactor restore process status handling + add cross namespace tests (#145)
+- [3f50cb35](https://github.com/stashed/enterprise/commit/3f50cb35) Update SiteInfo (#144)
+- [ac18da55](https://github.com/stashed/enterprise/commit/ac18da55) Publish GenericResource (#143)
+- [efcb6727](https://github.com/stashed/enterprise/commit/efcb6727) Expose original UID for audit events
+- [301f2a56](https://github.com/stashed/enterprise/commit/301f2a56) Always set type meta for GenericResource
+- [ccfc9ccf](https://github.com/stashed/enterprise/commit/ccfc9ccf) Publish GenericResource (#142)
+- [477401a6](https://github.com/stashed/enterprise/commit/477401a6) Don't register CRDs from operator + allow passing crd-installer tag (#138)
+- [fc98dd68](https://github.com/stashed/enterprise/commit/fc98dd68) Add validation webhooks for double opt-in check (#137)
+- [1fb0d151](https://github.com/stashed/enterprise/commit/1fb0d151) Always keep the last completed backup (when `backupHistoryLimit > 0`) even if outside of history limit (#141)
+- [db7fdbf3](https://github.com/stashed/enterprise/commit/db7fdbf3) Add support for custom Pushgateway (#140)
+- [83940a05](https://github.com/stashed/enterprise/commit/83940a05) Use refactored invoker package (#139)
+- [7a2d8610](https://github.com/stashed/enterprise/commit/7a2d8610) Cleanup legacy code + Support cross namespace Repository reference (#136)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.18.0](https://github.com/stashed/stash/releases/tag/v0.18.0)
