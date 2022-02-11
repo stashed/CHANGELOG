@@ -303,6 +303,18 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v2](https://github.com/stashed/nats/releases/tag/2.6.1-v2)
+
+- [0a8c599](https://github.com/stashed/nats/commit/0a8c599) Prepare for release 2.6.1-v2 (#28)
+- [101a0b2](https://github.com/stashed/nats/commit/101a0b2) [cherry-pick] Update SiteInfo (#26) (#27)
+- [5eecf9c](https://github.com/stashed/nats/commit/5eecf9c) [cherry-pick] Publish GenericResource (#24) (#25)
+- [032b9da](https://github.com/stashed/nats/commit/032b9da) Refactor code by adding new methods (#23)
+- [3a59f1f](https://github.com/stashed/nats/commit/3a59f1f) Support backup & restore from different namespace and external NATS Server (#21) (#22)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v10](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v10)
