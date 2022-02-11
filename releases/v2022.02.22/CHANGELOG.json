@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T08:51:46.001393079Z",
+  "release_date": "2022-02-11T08:52:25.625776638Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -83,6 +83,44 @@
             {
               "SHA": "e914179d",
               "Subject": "Update repository config (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "fdf799c",
+              "Subject": "Prepare for release v0.18.0 (#155)"
+            },
+            {
+              "SHA": "71d2142",
+              "Subject": "Update SiteInfo (#153)"
+            },
+            {
+              "SHA": "2363171",
+              "Subject": "Add `pause` and  `resume` command (#152)"
+            },
+            {
+              "SHA": "e6d907b",
+              "Subject": "Publish GenericResource (#151)"
+            },
+            {
+              "SHA": "c90bfcc",
+              "Subject": "Use stashed/restic image for darwin/arm64 support (#150)"
+            },
+            {
+              "SHA": "b42d851",
+              "Subject": "Release cli for darwin/arm64 (#149)"
+            },
+            {
+              "SHA": "34e30bd",
+              "Subject": "Fix stash broken cli (#148)"
             }
           ]
         }

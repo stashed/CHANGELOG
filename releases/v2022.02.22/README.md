@@ -26,6 +26,20 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.18.0](https://github.com/stashed/cli/releases/tag/v0.18.0)
+
+- [fdf799c](https://github.com/stashed/cli/commit/fdf799c) Prepare for release v0.18.0 (#155)
+- [71d2142](https://github.com/stashed/cli/commit/71d2142) Update SiteInfo (#153)
+- [2363171](https://github.com/stashed/cli/commit/2363171) Add `pause` and  `resume` command (#152)
+- [e6d907b](https://github.com/stashed/cli/commit/e6d907b) Publish GenericResource (#151)
+- [c90bfcc](https://github.com/stashed/cli/commit/c90bfcc) Use stashed/restic image for darwin/arm64 support (#150)
+- [b42d851](https://github.com/stashed/cli/commit/b42d851) Release cli for darwin/arm64 (#149)
+- [34e30bd](https://github.com/stashed/cli/commit/34e30bd) Fix stash broken cli (#148)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.18.0](https://github.com/stashed/enterprise/releases/tag/v0.18.0)
