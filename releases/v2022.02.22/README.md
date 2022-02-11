@@ -135,6 +135,18 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v14](https://github.com/stashed/mongodb/releases/tag/3.4.17-v14)
+
+- [7fdea5ac](https://github.com/stashed/mongodb/commit/7fdea5ac) Prepare for release 3.4.17-v14 (#1410)
+- [5770d137](https://github.com/stashed/mongodb/commit/5770d137) [cherry-pick] Update SiteInfo (#1397) (#1398)
+- [c97fb271](https://github.com/stashed/mongodb/commit/c97fb271) [cherry-pick] Publish GenericResource (#1383) (#1384)
+- [0869cd91](https://github.com/stashed/mongodb/commit/0869cd91) Replace rs.secondaryOk() with rs.slaveOk() (#1370)
+- [50073b07](https://github.com/stashed/mongodb/commit/50073b07) Add support for backup and restore from different namespace (#1354) (#1355)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v13](https://github.com/stashed/postgres/releases/tag/9.6.19-v13)
