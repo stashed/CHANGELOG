@@ -26,6 +26,16 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2022.02.22](https://github.com/stashed/bundles/releases/tag/v2022.02.22)
+
+- [5d1b12a](https://github.com/stashed/bundles/commit/5d1b12a) Prepare for release v2022.02.22 (#57)
+- [cd25d6b](https://github.com/stashed/bundles/commit/cd25d6b) Update repository config (#56)
+- [fc76827](https://github.com/stashed/bundles/commit/fc76827) Update repository config (#55)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.18.0](https://github.com/stashed/cli/releases/tag/v0.18.0)

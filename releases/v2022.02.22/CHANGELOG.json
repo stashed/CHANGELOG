@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T12:32:14.446808224Z",
+  "release_date": "2022-02-11T12:41:13.907414797Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -83,6 +83,28 @@
             {
               "SHA": "e914179d",
               "Subject": "Update repository config (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "5d1b12a",
+              "Subject": "Prepare for release v2022.02.22 (#57)"
+            },
+            {
+              "SHA": "cd25d6b",
+              "Subject": "Update repository config (#56)"
+            },
+            {
+              "SHA": "fc76827",
+              "Subject": "Update repository config (#55)"
             }
           ]
         }
