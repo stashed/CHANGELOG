@@ -236,6 +236,16 @@
 - [51c4a8dc](https://github.com/stashed/mongodb/commit/51c4a8dc) Prepare for release 4.2.3-v13 (#1350)
 
 
+### [4.4.6-v5](https://github.com/stashed/mongodb/releases/tag/4.4.6-v5)
+
+- [b7533ecb](https://github.com/stashed/mongodb/commit/b7533ecb) Prepare for release 4.4.6-v5 (#1421)
+- [1de5ff46](https://github.com/stashed/mongodb/commit/1de5ff46) [cherry-pick] Update SiteInfo (#1397) (#1408)
+- [ed94bdd8](https://github.com/stashed/mongodb/commit/ed94bdd8) [cherry-pick] Publish GenericResource (#1383) (#1395)
+- [1b2e4091](https://github.com/stashed/mongodb/commit/1b2e4091) Replace `adminCreds` with `mongoCreds` (#1381)
+- [be037ead](https://github.com/stashed/mongodb/commit/be037ead) Add support for backup and restore from different namespace (#1354) (#1366)
+- [e79762be](https://github.com/stashed/mongodb/commit/e79762be) Prepare for release 4.4.6-v4 (#1351)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
