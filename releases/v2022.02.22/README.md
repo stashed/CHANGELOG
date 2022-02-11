@@ -135,6 +135,17 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v8](https://github.com/stashed/mariadb/releases/tag/10.5.8-v8)
+
+- [3241977](https://github.com/stashed/mariadb/commit/3241977) Prepare for release 10.5.8-v8 (#167)
+- [2c34c07](https://github.com/stashed/mariadb/commit/2c34c07) [cherry-pick] Update SiteInfo (#165) (#166)
+- [39d3273](https://github.com/stashed/mariadb/commit/39d3273) [cherry-pick] Publish GenericResource (#163) (#164)
+- [4ad02b8](https://github.com/stashed/mariadb/commit/4ad02b8) Add support for backup and restore from different namespace (#161) (#162)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v14](https://github.com/stashed/mongodb/releases/tag/3.4.17-v14)

@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T09:34:40.73726725Z",
+  "release_date": "2022-02-11T09:42:46.563910931Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -377,6 +377,32 @@
             {
               "SHA": "7a2d8610",
               "Subject": "Cleanup legacy code + Support cross namespace Repository reference (#136)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v8",
+          "commits": [
+            {
+              "SHA": "3241977",
+              "Subject": "Prepare for release 10.5.8-v8 (#167)"
+            },
+            {
+              "SHA": "2c34c07",
+              "Subject": "[cherry-pick] Update SiteInfo (#165) (#166)"
+            },
+            {
+              "SHA": "39d3273",
+              "Subject": "[cherry-pick] Publish GenericResource (#163) (#164)"
+            },
+            {
+              "SHA": "4ad02b8",
+              "Subject": "Add support for backup and restore from different namespace (#161) (#162)"
             }
           ]
         }
