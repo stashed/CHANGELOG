@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T09:25:05.510837443Z",
+  "release_date": "2022-02-11T09:25:07.729179311Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -686,6 +686,35 @@
             {
               "SHA": "e79762be",
               "Subject": "Prepare for release 4.4.6-v4 (#1351)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v2",
+          "commits": [
+            {
+              "SHA": "dd8649d1",
+              "Subject": "Prepare for release 5.0.3-v2 (#1422)"
+            },
+            {
+              "SHA": "db232f1c",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1409)"
+            },
+            {
+              "SHA": "b157e44d",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1396)"
+            },
+            {
+              "SHA": "b45c3ad7",
+              "Subject": "Replace `adminCreds` with `mongoCreds` (#1382)"
+            },
+            {
+              "SHA": "caf4c255",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1367)"
+            },
+            {
+              "SHA": "52d5104b",
+              "Subject": "Prepare for release 5.0.3-v1 (#1352)"
             }
           ]
         }
