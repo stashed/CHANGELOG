@@ -70,3 +70,12 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.1.0](https://github.com/stashed/ui-server/releases/tag/v0.1.0)
+
+- [e2ce681](https://github.com/stashed/ui-server/commit/e2ce681) Prepare for release v0.1.0 (#8)
+- [264756c](https://github.com/stashed/ui-server/commit/264756c) Update dependencies (#7)
+
+
+

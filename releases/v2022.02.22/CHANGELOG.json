@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T08:44:05.313185117Z",
+  "release_date": "2022-02-11T08:51:46.001393079Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -223,6 +223,24 @@
             {
               "SHA": "849c782a",
               "Subject": "Fix invalid task name in restore task resolver (#1406)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "e2ce681",
+              "Subject": "Prepare for release v0.1.0 (#8)"
+            },
+            {
+              "SHA": "264756c",
+              "Subject": "Update dependencies (#7)"
             }
           ]
         }
