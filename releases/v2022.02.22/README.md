@@ -88,6 +88,14 @@
 - [43fb310d](https://github.com/stashed/elasticsearch/commit/43fb310d) Add support for backup and restore from different namespace (#1069) (#1075)
 
 
+### [7.2.0-v15](https://github.com/stashed/elasticsearch/releases/tag/7.2.0-v15)
+
+- [b78c499d](https://github.com/stashed/elasticsearch/commit/b78c499d) Prepare for release 7.2.0-v15 (#1104)
+- [666a162a](https://github.com/stashed/elasticsearch/commit/666a162a) [cherry-pick] Update SiteInfo (#1089) (#1095)
+- [7c39ac5c](https://github.com/stashed/elasticsearch/commit/7c39ac5c) [cherry-pick] Publish GenericResource (#1079) (#1087)
+- [e813c925](https://github.com/stashed/elasticsearch/commit/e813c925) Add support for backup and restore from different namespace (#1069) (#1077)
+
+
 ### [7.14.0-v1](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v1)
 
 - [c2388a12](https://github.com/stashed/elasticsearch/commit/c2388a12) Prepare for release 7.14.0-v1 (#1103)
