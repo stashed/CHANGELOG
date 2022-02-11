@@ -303,6 +303,17 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v10](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v10)
+
+- [25cd0958](https://github.com/stashed/percona-xtradb/commit/25cd0958) Prepare for release 5.7-v10 (#238)
+- [685feb7d](https://github.com/stashed/percona-xtradb/commit/685feb7d) [cherry-pick] Update SiteInfo (#236) (#237)
+- [d265928b](https://github.com/stashed/percona-xtradb/commit/d265928b) [cherry-pick] Publish GenericResource (#234) (#235)
+- [45cc6e62](https://github.com/stashed/percona-xtradb/commit/45cc6e62) Add support for backup and restore from different namespace (#232) (#233)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v13](https://github.com/stashed/postgres/releases/tag/9.6.19-v13)

@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T10:26:09.658342145Z",
+  "release_date": "2022-02-11T10:35:18.687430092Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -830,6 +830,32 @@
             {
               "SHA": "96d2927f",
               "Subject": "Add support for backup and restore from different namespace (#559) (#562)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v10",
+          "commits": [
+            {
+              "SHA": "25cd0958",
+              "Subject": "Prepare for release 5.7-v10 (#238)"
+            },
+            {
+              "SHA": "685feb7d",
+              "Subject": "[cherry-pick] Update SiteInfo (#236) (#237)"
+            },
+            {
+              "SHA": "d265928b",
+              "Subject": "[cherry-pick] Publish GenericResource (#234) (#235)"
+            },
+            {
+              "SHA": "45cc6e62",
+              "Subject": "Add support for backup and restore from different namespace (#232) (#233)"
             }
           ]
         }
