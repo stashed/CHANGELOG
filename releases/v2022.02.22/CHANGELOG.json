@@ -1,0 +1,1349 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.02.22",
+  "release_date": "2022-02-11T12:41:13.907414797Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.02.22",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "79d844fb",
+              "Subject": "Refactor restore invoker status updater logic (#152)"
+            },
+            {
+              "SHA": "49e0fc85",
+              "Subject": "Update SiteInfo (#151)"
+            },
+            {
+              "SHA": "7c80de5c",
+              "Subject": "Publish GenericResource (#150)"
+            },
+            {
+              "SHA": "0906fab7",
+              "Subject": "Add stash-crd-installer image to install CRDs on helm pre-install hook (#145)"
+            },
+            {
+              "SHA": "9c528743",
+              "Subject": "Add phase field to backupconfiguration status. (#144)"
+            },
+            {
+              "SHA": "3e17dd8d",
+              "Subject": "Refactor `metrics.go` file + Add `pushgatewayURL` singletone (#149)"
+            },
+            {
+              "SHA": "553a63a8",
+              "Subject": "Add `GetCaPath()` method (#148)"
+            },
+            {
+              "SHA": "3f6beb6d",
+              "Subject": "Update repository config (#147)"
+            },
+            {
+              "SHA": "d7bf57bf",
+              "Subject": "Refactor invoker package (#146)"
+            },
+            {
+              "SHA": "7da4b19c",
+              "Subject": "Add method to create ResticWrapper from existing shell (#143)"
+            },
+            {
+              "SHA": "68c89614",
+              "Subject": "Show Snapshot ID in kubectl list command (#141)"
+            },
+            {
+              "SHA": "8017cd43",
+              "Subject": "Review ui apis (#142)"
+            },
+            {
+              "SHA": "d19cc472",
+              "Subject": "Modify BackupOverview API (#140)"
+            },
+            {
+              "SHA": "c60601b5",
+              "Subject": "Add helper method for UsagePolicy (#139)"
+            },
+            {
+              "SHA": "bc75d16a",
+              "Subject": "Add support for cross-namespace repository (#136)"
+            },
+            {
+              "SHA": "e845509f",
+              "Subject": "Add ui types (#137)"
+            },
+            {
+              "SHA": "6402d026",
+              "Subject": "Allow cross namespace referencing for Repository + Cleanup old APIs (#135)"
+            },
+            {
+              "SHA": "e914179d",
+              "Subject": "Update repository config (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "5d1b12a",
+              "Subject": "Prepare for release v2022.02.22 (#57)"
+            },
+            {
+              "SHA": "cd25d6b",
+              "Subject": "Update repository config (#56)"
+            },
+            {
+              "SHA": "fc76827",
+              "Subject": "Update repository config (#55)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "fdf799c",
+              "Subject": "Prepare for release v0.18.0 (#155)"
+            },
+            {
+              "SHA": "71d2142",
+              "Subject": "Update SiteInfo (#153)"
+            },
+            {
+              "SHA": "2363171",
+              "Subject": "Add `pause` and  `resume` command (#152)"
+            },
+            {
+              "SHA": "e6d907b",
+              "Subject": "Publish GenericResource (#151)"
+            },
+            {
+              "SHA": "c90bfcc",
+              "Subject": "Use stashed/restic image for darwin/arm64 support (#150)"
+            },
+            {
+              "SHA": "b42d851",
+              "Subject": "Release cli for darwin/arm64 (#149)"
+            },
+            {
+              "SHA": "34e30bd",
+              "Subject": "Fix stash broken cli (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "8c9f07a",
+              "Subject": "Prepare for release v2022.02.22 (#198)"
+            },
+            {
+              "SHA": "2630bfc",
+              "Subject": "Update docs for stashed/cli@23631716 (#195)"
+            },
+            {
+              "SHA": "95a066f",
+              "Subject": "Update docs for stashed/stash@eb69ad4e (#194)"
+            },
+            {
+              "SHA": "713b055",
+              "Subject": "Update docs for stashed/cli@c90bfcc7 (#193)"
+            },
+            {
+              "SHA": "000f8a8",
+              "Subject": "Cleanup legacy docs (#192)"
+            },
+            {
+              "SHA": "c649326",
+              "Subject": "Update restore customization docs for using snapshot ID. (#188)"
+            },
+            {
+              "SHA": "60effdd",
+              "Subject": "Update docs for stashed/stash@c81cf41b (#191)"
+            },
+            {
+              "SHA": "a355073",
+              "Subject": "Update docs for stashed/cli@34e30bd2 (#190)"
+            },
+            {
+              "SHA": "16c68b6",
+              "Subject": "Update docs for stashed/stash@1e41192e (#189)"
+            },
+            {
+              "SHA": "ccdecb7",
+              "Subject": "Fix version in upgrade instruction"
+            },
+            {
+              "SHA": "aa2f022",
+              "Subject": "Add troubleshooting guide for `ciphertext verification` failed issue (#187)"
+            },
+            {
+              "SHA": "e7e49a0",
+              "Subject": "Add troubleshooting guide (#186)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v15",
+          "commits": [
+            {
+              "SHA": "5eafa076",
+              "Subject": "Prepare for release 5.6.4-v15 (#1097)"
+            },
+            {
+              "SHA": "717701f3",
+              "Subject": "[cherry-pick] Update SiteInfo (#1089) (#1090)"
+            },
+            {
+              "SHA": "2dacaf65",
+              "Subject": "[cherry-pick] Publish GenericResource (#1079) (#1080)"
+            },
+            {
+              "SHA": "3097dc28",
+              "Subject": "Add support for backup and restore from different namespace (#1069) (#1070)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v15",
+          "commits": [
+            {
+              "SHA": "7a7c194d",
+              "Subject": "Prepare for release 6.2.4-v15 (#1098)"
+            },
+            {
+              "SHA": "6c41704d",
+              "Subject": "[cherry-pick] Update SiteInfo (#1089) (#1091)"
+            },
+            {
+              "SHA": "398d08d4",
+              "Subject": "[cherry-pick] Publish GenericResource (#1079) (#1081)"
+            },
+            {
+              "SHA": "5b9a3530",
+              "Subject": "Add support for backup and restore from different namespace (#1069) (#1071)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v15",
+          "commits": [
+            {
+              "SHA": "811094fc",
+              "Subject": "Prepare for release 6.3.0-v15 (#1099)"
+            },
+            {
+              "SHA": "7bc3cbe5",
+              "Subject": "[cherry-pick] Update SiteInfo (#1089) (#1092)"
+            },
+            {
+              "SHA": "6027c9da",
+              "Subject": "[cherry-pick] Publish GenericResource (#1079) (#1082)"
+            },
+            {
+              "SHA": "8b486870",
+              "Subject": "Add support for backup and restore from different namespace (#1069) (#1072)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v15",
+          "commits": [
+            {
+              "SHA": "c351d557",
+              "Subject": "Prepare for release 6.4.0-v15 (#1100)"
+            },
+            {
+              "SHA": "12cad4fb",
+              "Subject": "[cherry-pick] Publish GenericResource (#1079) (#1083)"
+            },
+            {
+              "SHA": "ce67978c",
+              "Subject": "Add support for backup and restore from different namespace (#1069) (#1073)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v15",
+          "commits": [
+            {
+              "SHA": "885a5c59",
+              "Subject": "Prepare for release 6.5.3-v15 (#1101)"
+            },
+            {
+              "SHA": "0012c4c5",
+              "Subject": "[cherry-pick] Publish GenericResource (#1079) (#1084)"
+            },
+            {
+              "SHA": "268a0310",
+              "Subject": "Add support for backup and restore from different namespace (#1069) (#1074)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v15",
+          "commits": [
+            {
+              "SHA": "702ac2f8",
+              "Subject": "Prepare for release 6.8.0-v15 (#1102)"
+            },
+            {
+              "SHA": "8c2a442f",
+              "Subject": "[cherry-pick] Update SiteInfo (#1089) (#1093)"
+            },
+            {
+              "SHA": "9d595583",
+              "Subject": "[cherry-pick] Publish GenericResource (#1079) (#1085)"
+            },
+            {
+              "SHA": "43fb310d",
+              "Subject": "Add support for backup and restore from different namespace (#1069) (#1075)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v15",
+          "commits": [
+            {
+              "SHA": "b78c499d",
+              "Subject": "Prepare for release 7.2.0-v15 (#1104)"
+            },
+            {
+              "SHA": "666a162a",
+              "Subject": "[cherry-pick] Update SiteInfo (#1089) (#1095)"
+            },
+            {
+              "SHA": "7c39ac5c",
+              "Subject": "[cherry-pick] Publish GenericResource (#1079) (#1087)"
+            },
+            {
+              "SHA": "e813c925",
+              "Subject": "Add support for backup and restore from different namespace (#1069) (#1077)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v15",
+          "commits": [
+            {
+              "SHA": "ab9c11e5",
+              "Subject": "Prepare for release 7.3.2-v15 (#1105)"
+            },
+            {
+              "SHA": "d49adbf5",
+              "Subject": "[cherry-pick] Update SiteInfo (#1089) (#1096)"
+            },
+            {
+              "SHA": "41b2b371",
+              "Subject": "[cherry-pick] Publish GenericResource (#1079) (#1088)"
+            },
+            {
+              "SHA": "90c57e9b",
+              "Subject": "Add support for backup and restore from different namespace (#1069) (#1078)"
+            },
+            {
+              "SHA": "6ecd2ef3",
+              "Subject": "Prepare for release 7.3.2-v14 (#1067)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v1",
+          "commits": [
+            {
+              "SHA": "c2388a12",
+              "Subject": "Prepare for release 7.14.0-v1 (#1103)"
+            },
+            {
+              "SHA": "2b05ab4a",
+              "Subject": "[cherry-pick] Update SiteInfo (#1089) (#1094)"
+            },
+            {
+              "SHA": "b62eb6a1",
+              "Subject": "[cherry-pick] Publish GenericResource (#1079) (#1086)"
+            },
+            {
+              "SHA": "e6f4b52d",
+              "Subject": "[cherry-pick] Add support for backup and restore from different namespace (#1069) (#1076)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "fcf0f4f5",
+              "Subject": "Prepare for release v0.18.0 (#147)"
+            },
+            {
+              "SHA": "55a9a92d",
+              "Subject": "Update UID generation for GenericResource (#146)"
+            },
+            {
+              "SHA": "cb30a32f",
+              "Subject": "Refactor restore process status handling + add cross namespace tests (#145)"
+            },
+            {
+              "SHA": "3f50cb35",
+              "Subject": "Update SiteInfo (#144)"
+            },
+            {
+              "SHA": "ac18da55",
+              "Subject": "Publish GenericResource (#143)"
+            },
+            {
+              "SHA": "efcb6727",
+              "Subject": "Expose original UID for audit events"
+            },
+            {
+              "SHA": "301f2a56",
+              "Subject": "Always set type meta for GenericResource"
+            },
+            {
+              "SHA": "ccfc9ccf",
+              "Subject": "Publish GenericResource (#142)"
+            },
+            {
+              "SHA": "477401a6",
+              "Subject": "Don't register CRDs from operator + allow passing crd-installer tag (#138)"
+            },
+            {
+              "SHA": "fc98dd68",
+              "Subject": "Add validation webhooks for double opt-in check (#137)"
+            },
+            {
+              "SHA": "1fb0d151",
+              "Subject": "Always keep the last completed backup (when `backupHistoryLimit > 0`) even if outside of history limit (#141)"
+            },
+            {
+              "SHA": "db7fdbf3",
+              "Subject": "Add support for custom Pushgateway (#140)"
+            },
+            {
+              "SHA": "83940a05",
+              "Subject": "Use refactored invoker package (#139)"
+            },
+            {
+              "SHA": "7a2d8610",
+              "Subject": "Cleanup legacy code + Support cross namespace Repository reference (#136)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v2",
+          "commits": [
+            {
+              "SHA": "5127c53",
+              "Subject": "Prepare for release 3.5.0-v2 (#26)"
+            },
+            {
+              "SHA": "f1dd201",
+              "Subject": "[cherry-pick] Update SiteInfo (#24) (#25)"
+            },
+            {
+              "SHA": "b6aa1c1",
+              "Subject": "[cherry-pick] Publish GenericResource (#22) (#23)"
+            },
+            {
+              "SHA": "b14a960",
+              "Subject": "Add support for backup and restore from different namespace (#20) (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "29686b4",
+              "Subject": "Prepare for release v2022.02.22 (#234)"
+            },
+            {
+              "SHA": "31da5db",
+              "Subject": "Update chart version is stash-opscenter chart"
+            },
+            {
+              "SHA": "a341dd1",
+              "Subject": "Update repository config (#233)"
+            },
+            {
+              "SHA": "c417a24",
+              "Subject": "Update stash-ui-server image tag using makefile"
+            },
+            {
+              "SHA": "0b5b92a",
+              "Subject": "Make operator ready for arm64 nodes (#232)"
+            },
+            {
+              "SHA": "fc96a55",
+              "Subject": "Publish GenericResource (#231)"
+            },
+            {
+              "SHA": "ea1d95f",
+              "Subject": "Add crd-installer job (#227)"
+            },
+            {
+              "SHA": "e9b9c1f",
+              "Subject": "Add validating webhook for BackupConfiguration in community chart (#230)"
+            },
+            {
+              "SHA": "c0e15c6",
+              "Subject": "Add support for custom Pushgateway (#229)"
+            },
+            {
+              "SHA": "4ad1c1f",
+              "Subject": "Update repository config (#228)"
+            },
+            {
+              "SHA": "5334b19",
+              "Subject": "Update catalogs chart to support backup and restore from different namespace (#226)"
+            },
+            {
+              "SHA": "419b7c3",
+              "Subject": "Add permission for nonResourceURLs"
+            },
+            {
+              "SHA": "3a5f578",
+              "Subject": "Updated charts after adding some validator webhook. (#222)"
+            },
+            {
+              "SHA": "774a76b",
+              "Subject": "Correctly generate grafana dashboard name (#225)"
+            },
+            {
+              "SHA": "73fde3c",
+              "Subject": "Always pull ui-server (#224)"
+            },
+            {
+              "SHA": "f3d6a22",
+              "Subject": "Add permission for AppBinding & KubeDB resources in ui server chart (#223)"
+            },
+            {
+              "SHA": "cdeac58",
+              "Subject": "Add stash-ui-server chart (#220)"
+            },
+            {
+              "SHA": "bfddb33",
+              "Subject": "Update repository config (#219)"
+            },
+            {
+              "SHA": "dbce5b5",
+              "Subject": "Add k8s.io/group label to grafana dashboards"
+            },
+            {
+              "SHA": "3f07f11",
+              "Subject": "Add Grafana Dashboards (#218)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v8",
+          "commits": [
+            {
+              "SHA": "3241977",
+              "Subject": "Prepare for release 10.5.8-v8 (#167)"
+            },
+            {
+              "SHA": "2c34c07",
+              "Subject": "[cherry-pick] Update SiteInfo (#165) (#166)"
+            },
+            {
+              "SHA": "39d3273",
+              "Subject": "[cherry-pick] Publish GenericResource (#163) (#164)"
+            },
+            {
+              "SHA": "4ad02b8",
+              "Subject": "Add support for backup and restore from different namespace (#161) (#162)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v14",
+          "commits": [
+            {
+              "SHA": "7fdea5ac",
+              "Subject": "Prepare for release 3.4.17-v14 (#1410)"
+            },
+            {
+              "SHA": "5770d137",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1398)"
+            },
+            {
+              "SHA": "c97fb271",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1384)"
+            },
+            {
+              "SHA": "0869cd91",
+              "Subject": "Replace rs.secondaryOk() with rs.slaveOk() (#1370)"
+            },
+            {
+              "SHA": "50073b07",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1355)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v14",
+          "commits": [
+            {
+              "SHA": "256947cb",
+              "Subject": "Prepare for release 3.4.22-v14 (#1411)"
+            },
+            {
+              "SHA": "f37eb065",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1399)"
+            },
+            {
+              "SHA": "2878238c",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1385)"
+            },
+            {
+              "SHA": "234668b6",
+              "Subject": "Replace rs.secondaryOk() with rs.slaveOk() (#1371)"
+            },
+            {
+              "SHA": "7548c1ce",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1356)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v14",
+          "commits": [
+            {
+              "SHA": "8014a998",
+              "Subject": "Prepare for release 3.6.8-v14 (#1413)"
+            },
+            {
+              "SHA": "889e8919",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1401)"
+            },
+            {
+              "SHA": "bc49f316",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1387)"
+            },
+            {
+              "SHA": "0e83032b",
+              "Subject": "Replace rs.secondaryOk() with rs.slaveOk() (#1372)"
+            },
+            {
+              "SHA": "2a315847",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1358)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v14",
+          "commits": [
+            {
+              "SHA": "9bb40904",
+              "Subject": "Prepare for release 3.6.13-v14 (#1412)"
+            },
+            {
+              "SHA": "f684aea1",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1400)"
+            },
+            {
+              "SHA": "1fe57cba",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1386)"
+            },
+            {
+              "SHA": "2ba645e5",
+              "Subject": "Replace rs.secondaryOk() with rs.slaveOk() (#1373)"
+            },
+            {
+              "SHA": "9b3eab86",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1357)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v14",
+          "commits": [
+            {
+              "SHA": "257c6783",
+              "Subject": "Prepare for release 4.0.3-v14 (#1415)"
+            },
+            {
+              "SHA": "7c40ea09",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1403)"
+            },
+            {
+              "SHA": "17fae849",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1389)"
+            },
+            {
+              "SHA": "a0f8b46f",
+              "Subject": "Replace rs.secondaryOk() with rs.slaveOk() (#1374)"
+            },
+            {
+              "SHA": "12958a7d",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1360)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v14",
+          "commits": [
+            {
+              "SHA": "d081d8c2",
+              "Subject": "Prepare for release 4.0.5-v14 (#1416)"
+            },
+            {
+              "SHA": "e8cf5007",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1404)"
+            },
+            {
+              "SHA": "8e3796dc",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1390)"
+            },
+            {
+              "SHA": "64379f10",
+              "Subject": "Replace rs.secondaryOk() with rs.slaveOk() (#1375)"
+            },
+            {
+              "SHA": "5f0670c7",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1361)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v14",
+          "commits": [
+            {
+              "SHA": "9a366c96",
+              "Subject": "Prepare for release 4.0.11-v14 (#1414)"
+            },
+            {
+              "SHA": "7666db40",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1402)"
+            },
+            {
+              "SHA": "17e7281a",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1388)"
+            },
+            {
+              "SHA": "f4535fa3",
+              "Subject": "Replace rs.secondaryOk() with rs.slaveOk() (#1376)"
+            },
+            {
+              "SHA": "06bd1077",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1359)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v14",
+          "commits": [
+            {
+              "SHA": "e2fc99c1",
+              "Subject": "Prepare for release 4.1.4-v14 (#1418)"
+            },
+            {
+              "SHA": "b81412b3",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1405)"
+            },
+            {
+              "SHA": "d0e8bc14",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1392)"
+            },
+            {
+              "SHA": "dc2da4b8",
+              "Subject": "Replace rs.secondaryOk() with rs.slaveOk() (#1377)"
+            },
+            {
+              "SHA": "9a4d21a2",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1363)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v14",
+          "commits": [
+            {
+              "SHA": "ce6044eb",
+              "Subject": "Prepare for release 4.1.7-v14 (#1419)"
+            },
+            {
+              "SHA": "21fff000",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1406)"
+            },
+            {
+              "SHA": "e9036951",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1393)"
+            },
+            {
+              "SHA": "f1a5a8db",
+              "Subject": "Replace rs.secondaryOk() with rs.slaveOk() (#1378)"
+            },
+            {
+              "SHA": "8a495673",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1364)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v14",
+          "commits": [
+            {
+              "SHA": "cb3eb5ce",
+              "Subject": "Prepare for release 4.1.13-v14 (#1417)"
+            },
+            {
+              "SHA": "55690daa",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1391)"
+            },
+            {
+              "SHA": "2743c644",
+              "Subject": "Replace rs.secondaryOk() with rs.slaveOk() (#1379)"
+            },
+            {
+              "SHA": "c5646467",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1362)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v14",
+          "commits": [
+            {
+              "SHA": "fe2ff6dc",
+              "Subject": "Prepare for release 4.2.3-v14 (#1420)"
+            },
+            {
+              "SHA": "680e2e09",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1407)"
+            },
+            {
+              "SHA": "561836a6",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1394)"
+            },
+            {
+              "SHA": "9bbe8802",
+              "Subject": "Replace rs.secondaryOk() with rs.slaveOk() (#1380)"
+            },
+            {
+              "SHA": "37d09b42",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1365)"
+            },
+            {
+              "SHA": "51c4a8dc",
+              "Subject": "Prepare for release 4.2.3-v13 (#1350)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v5",
+          "commits": [
+            {
+              "SHA": "b7533ecb",
+              "Subject": "Prepare for release 4.4.6-v5 (#1421)"
+            },
+            {
+              "SHA": "1de5ff46",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1408)"
+            },
+            {
+              "SHA": "ed94bdd8",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1395)"
+            },
+            {
+              "SHA": "1b2e4091",
+              "Subject": "Replace `adminCreds` with `mongoCreds` (#1381)"
+            },
+            {
+              "SHA": "be037ead",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1366)"
+            },
+            {
+              "SHA": "e79762be",
+              "Subject": "Prepare for release 4.4.6-v4 (#1351)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v2",
+          "commits": [
+            {
+              "SHA": "dd8649d1",
+              "Subject": "Prepare for release 5.0.3-v2 (#1422)"
+            },
+            {
+              "SHA": "db232f1c",
+              "Subject": "[cherry-pick] Update SiteInfo (#1397) (#1409)"
+            },
+            {
+              "SHA": "b157e44d",
+              "Subject": "[cherry-pick] Publish GenericResource (#1383) (#1396)"
+            },
+            {
+              "SHA": "b45c3ad7",
+              "Subject": "Replace `adminCreds` with `mongoCreds` (#1382)"
+            },
+            {
+              "SHA": "caf4c255",
+              "Subject": "Add support for backup and restore from different namespace (#1354) (#1367)"
+            },
+            {
+              "SHA": "52d5104b",
+              "Subject": "Prepare for release 5.0.3-v1 (#1352)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v15",
+          "commits": [
+            {
+              "SHA": "5d1d85ce",
+              "Subject": "Prepare for release 5.7.25-v15 (#574)"
+            },
+            {
+              "SHA": "3e19e8b5",
+              "Subject": "[cherry-pick] Update SiteInfo (#569) (#570)"
+            },
+            {
+              "SHA": "ea59f1e9",
+              "Subject": "Publish GenericResource (#564) (#568)"
+            },
+            {
+              "SHA": "0975295b",
+              "Subject": "Add support for backup and restore from different namespace (#559) (#560)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v15",
+          "commits": [
+            {
+              "SHA": "ea377e4e",
+              "Subject": "Prepare for release 8.0.3-v15 (#577)"
+            },
+            {
+              "SHA": "78289a40",
+              "Subject": "[cherry-pick] Update SiteInfo (#569) (#573)"
+            },
+            {
+              "SHA": "c41d4c88",
+              "Subject": "Publish GenericResource (#564) (#565)"
+            },
+            {
+              "SHA": "810af637",
+              "Subject": "Add support for backup and restore from different namespace (#559) (#563)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v15",
+          "commits": [
+            {
+              "SHA": "1fefc3d4",
+              "Subject": "Prepare for release 8.0.14-v15 (#575)"
+            },
+            {
+              "SHA": "1bc03e61",
+              "Subject": "[cherry-pick] Update SiteInfo (#569) (#571)"
+            },
+            {
+              "SHA": "d2400622",
+              "Subject": "Publish GenericResource (#564) (#567)"
+            },
+            {
+              "SHA": "e29d03ef",
+              "Subject": "Add support for backup and restore from different namespace (#559) (#561)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v9",
+          "commits": [
+            {
+              "SHA": "52988134",
+              "Subject": "Prepare for release 8.0.21-v9 (#576)"
+            },
+            {
+              "SHA": "1b8be622",
+              "Subject": "[cherry-pick] Update SiteInfo (#569) (#572)"
+            },
+            {
+              "SHA": "b6ad6e0a",
+              "Subject": "Publish GenericResource (#564) (#566)"
+            },
+            {
+              "SHA": "96d2927f",
+              "Subject": "Add support for backup and restore from different namespace (#559) (#562)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v2",
+          "commits": [
+            {
+              "SHA": "0a8c599",
+              "Subject": "Prepare for release 2.6.1-v2 (#28)"
+            },
+            {
+              "SHA": "101a0b2",
+              "Subject": "[cherry-pick] Update SiteInfo (#26) (#27)"
+            },
+            {
+              "SHA": "5eecf9c",
+              "Subject": "[cherry-pick] Publish GenericResource (#24) (#25)"
+            },
+            {
+              "SHA": "032b9da",
+              "Subject": "Refactor code by adding new methods (#23)"
+            },
+            {
+              "SHA": "3a59f1f",
+              "Subject": "Support backup & restore from different namespace and external NATS Server (#21) (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v10",
+          "commits": [
+            {
+              "SHA": "25cd0958",
+              "Subject": "Prepare for release 5.7-v10 (#238)"
+            },
+            {
+              "SHA": "685feb7d",
+              "Subject": "[cherry-pick] Update SiteInfo (#236) (#237)"
+            },
+            {
+              "SHA": "d265928b",
+              "Subject": "[cherry-pick] Publish GenericResource (#234) (#235)"
+            },
+            {
+              "SHA": "45cc6e62",
+              "Subject": "Add support for backup and restore from different namespace (#232) (#233)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v13",
+          "commits": [
+            {
+              "SHA": "2e928b1b",
+              "Subject": "Prepare for release 9.6.19-v13 (#991)"
+            },
+            {
+              "SHA": "7bd10a34",
+              "Subject": "[cherry-pick] Update SiteInfo (#980) (#985)"
+            },
+            {
+              "SHA": "23a9982b",
+              "Subject": "[cherry-pick] Publish GenericResource (#973) (#979)"
+            },
+            {
+              "SHA": "0db5519e",
+              "Subject": "Add support for backup and restore from different namespace (#966) (#972)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v13",
+          "commits": [
+            {
+              "SHA": "2813a98a",
+              "Subject": "Prepare for release 10.14-v13 (#986)"
+            },
+            {
+              "SHA": "50dba7d7",
+              "Subject": "[cherry-pick] Update SiteInfo (#980) (#981)"
+            },
+            {
+              "SHA": "616fd1e5",
+              "Subject": "[cherry-pick] Publish GenericResource (#973) (#974)"
+            },
+            {
+              "SHA": "2e46777c",
+              "Subject": "Add support for backup and restore from different namespace (#966) (#967)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v13",
+          "commits": [
+            {
+              "SHA": "91c7414d",
+              "Subject": "Prepare for release 11.9-v13 (#987)"
+            },
+            {
+              "SHA": "32e60021",
+              "Subject": "[cherry-pick] Update SiteInfo (#980) (#982)"
+            },
+            {
+              "SHA": "4e3b5204",
+              "Subject": "[cherry-pick] Publish GenericResource (#973) (#975)"
+            },
+            {
+              "SHA": "c87ee334",
+              "Subject": "Add support for backup and restore from different namespace (#966) (#968)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v13",
+          "commits": [
+            {
+              "SHA": "938c3f3a",
+              "Subject": "Prepare for release 12.4-v13 (#988)"
+            },
+            {
+              "SHA": "57b64ffa",
+              "Subject": "[cherry-pick] Update SiteInfo (#980) (#983)"
+            },
+            {
+              "SHA": "4a123cdf",
+              "Subject": "[cherry-pick] Publish GenericResource (#973) (#976)"
+            },
+            {
+              "SHA": "d375d3e6",
+              "Subject": "Add support for backup and restore from different namespace (#966) (#969)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v10",
+          "commits": [
+            {
+              "SHA": "0e9f274d",
+              "Subject": "Prepare for release 13.1-v10 (#989)"
+            },
+            {
+              "SHA": "933223ea",
+              "Subject": "[cherry-pick] Publish GenericResource (#973) (#977)"
+            },
+            {
+              "SHA": "6491c2c7",
+              "Subject": "Add support for backup and restore from different namespace (#966) (#970)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v2",
+          "commits": [
+            {
+              "SHA": "6335e10e",
+              "Subject": "Prepare for release 14.0-v2 (#990)"
+            },
+            {
+              "SHA": "fe4c5c2d",
+              "Subject": "[cherry-pick] Update SiteInfo (#980) (#984)"
+            },
+            {
+              "SHA": "a69989d5",
+              "Subject": "[cherry-pick] Publish GenericResource (#973) (#978)"
+            },
+            {
+              "SHA": "bd847a6e",
+              "Subject": "Add support for backup and restore from different namespace (#966) (#971)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v3",
+          "commits": [
+            {
+              "SHA": "191fc96",
+              "Subject": "Prepare for release 5.0.13-v3 (#78)"
+            },
+            {
+              "SHA": "38599a8",
+              "Subject": "[cherry-pick] Publish GenericResource (#73) (#74)"
+            },
+            {
+              "SHA": "732fae8",
+              "Subject": "Add support for backup and restore from different namespace (#70) (#71)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v3",
+          "commits": [
+            {
+              "SHA": "ba2bd19",
+              "Subject": "Prepare for release 6.2.5-v3 (#79)"
+            },
+            {
+              "SHA": "6e5f3d2",
+              "Subject": "[cherry-pick] Publish GenericResource (#73) (#75)"
+            },
+            {
+              "SHA": "d837a32",
+              "Subject": "Add support for backup and restore from different namespace (#70) (#72)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "9536bc1b",
+              "Subject": "Prepare for release v0.18.0 (#1421)"
+            },
+            {
+              "SHA": "0c84840e",
+              "Subject": "Update UID generation for GenericResource (#1420)"
+            },
+            {
+              "SHA": "2162c125",
+              "Subject": "Refactor restore process status handling + add cross namespace tests (#1419)"
+            },
+            {
+              "SHA": "080ebfcf",
+              "Subject": "Update SiteInfo (#1418)"
+            },
+            {
+              "SHA": "2727c071",
+              "Subject": "Publish GenericResource (#1416)"
+            },
+            {
+              "SHA": "dd6b10f0",
+              "Subject": "Expose original UID for generic resource"
+            },
+            {
+              "SHA": "a121b8c3",
+              "Subject": "Always set type meta for GenericResource"
+            },
+            {
+              "SHA": "9300292a",
+              "Subject": "Publish GenericResource (#1415)"
+            },
+            {
+              "SHA": "ffe0d847",
+              "Subject": "Don't register CRDs from operator + allow passing crd-installer tag (#1409)"
+            },
+            {
+              "SHA": "eb69ad4e",
+              "Subject": "Port UsagePolicy validation related changes from Enterprise operator (#1414)"
+            },
+            {
+              "SHA": "06988c00",
+              "Subject": "Always keep the last completed BackupSession (when `backupHistoryLimit > 0`) even if outside of history limit (#1413)"
+            },
+            {
+              "SHA": "c81cf41b",
+              "Subject": "Add support for custom Pusgateway (#1412)"
+            },
+            {
+              "SHA": "127017c9",
+              "Subject": "Update repository config (#1411)"
+            },
+            {
+              "SHA": "1e41192e",
+              "Subject": "Cleanup legacy code + Port changes from enterprise operator (#1410)"
+            },
+            {
+              "SHA": "1ca2129b",
+              "Subject": "Update repository config (#1407)"
+            },
+            {
+              "SHA": "849c782a",
+              "Subject": "Fix invalid task name in restore task resolver (#1406)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.1.0",
+          "commits": [
+            {
+              "SHA": "e2ce681",
+              "Subject": "Prepare for release v0.1.0 (#8)"
+            },
+            {
+              "SHA": "264756c",
+              "Subject": "Update dependencies (#7)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
