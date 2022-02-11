@@ -146,6 +146,33 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2022.02.22](https://github.com/stashed/installer/releases/tag/v2022.02.22)
+
+- [29686b4](https://github.com/stashed/installer/commit/29686b4) Prepare for release v2022.02.22 (#234)
+- [31da5db](https://github.com/stashed/installer/commit/31da5db) Update chart version is stash-opscenter chart
+- [a341dd1](https://github.com/stashed/installer/commit/a341dd1) Update repository config (#233)
+- [c417a24](https://github.com/stashed/installer/commit/c417a24) Update stash-ui-server image tag using makefile
+- [0b5b92a](https://github.com/stashed/installer/commit/0b5b92a) Make operator ready for arm64 nodes (#232)
+- [fc96a55](https://github.com/stashed/installer/commit/fc96a55) Publish GenericResource (#231)
+- [ea1d95f](https://github.com/stashed/installer/commit/ea1d95f) Add crd-installer job (#227)
+- [e9b9c1f](https://github.com/stashed/installer/commit/e9b9c1f) Add validating webhook for BackupConfiguration in community chart (#230)
+- [c0e15c6](https://github.com/stashed/installer/commit/c0e15c6) Add support for custom Pushgateway (#229)
+- [4ad1c1f](https://github.com/stashed/installer/commit/4ad1c1f) Update repository config (#228)
+- [5334b19](https://github.com/stashed/installer/commit/5334b19) Update catalogs chart to support backup and restore from different namespace (#226)
+- [419b7c3](https://github.com/stashed/installer/commit/419b7c3) Add permission for nonResourceURLs
+- [3a5f578](https://github.com/stashed/installer/commit/3a5f578) Updated charts after adding some validator webhook. (#222)
+- [774a76b](https://github.com/stashed/installer/commit/774a76b) Correctly generate grafana dashboard name (#225)
+- [73fde3c](https://github.com/stashed/installer/commit/73fde3c) Always pull ui-server (#224)
+- [f3d6a22](https://github.com/stashed/installer/commit/f3d6a22) Add permission for AppBinding & KubeDB resources in ui server chart (#223)
+- [cdeac58](https://github.com/stashed/installer/commit/cdeac58) Add stash-ui-server chart (#220)
+- [bfddb33](https://github.com/stashed/installer/commit/bfddb33) Update repository config (#219)
+- [dbce5b5](https://github.com/stashed/installer/commit/dbce5b5) Add k8s.io/group label to grafana dashboards
+- [3f07f11](https://github.com/stashed/installer/commit/3f07f11) Add Grafana Dashboards (#218)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v8](https://github.com/stashed/mariadb/releases/tag/10.5.8-v8)

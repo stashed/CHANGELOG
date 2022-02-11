@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T11:17:22.634596075Z",
+  "release_date": "2022-02-11T12:00:13.203465385Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -403,6 +403,96 @@
             {
               "SHA": "b14a960",
               "Subject": "Add support for backup and restore from different namespace (#20) (#21)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.02.22",
+          "commits": [
+            {
+              "SHA": "29686b4",
+              "Subject": "Prepare for release v2022.02.22 (#234)"
+            },
+            {
+              "SHA": "31da5db",
+              "Subject": "Update chart version is stash-opscenter chart"
+            },
+            {
+              "SHA": "a341dd1",
+              "Subject": "Update repository config (#233)"
+            },
+            {
+              "SHA": "c417a24",
+              "Subject": "Update stash-ui-server image tag using makefile"
+            },
+            {
+              "SHA": "0b5b92a",
+              "Subject": "Make operator ready for arm64 nodes (#232)"
+            },
+            {
+              "SHA": "fc96a55",
+              "Subject": "Publish GenericResource (#231)"
+            },
+            {
+              "SHA": "ea1d95f",
+              "Subject": "Add crd-installer job (#227)"
+            },
+            {
+              "SHA": "e9b9c1f",
+              "Subject": "Add validating webhook for BackupConfiguration in community chart (#230)"
+            },
+            {
+              "SHA": "c0e15c6",
+              "Subject": "Add support for custom Pushgateway (#229)"
+            },
+            {
+              "SHA": "4ad1c1f",
+              "Subject": "Update repository config (#228)"
+            },
+            {
+              "SHA": "5334b19",
+              "Subject": "Update catalogs chart to support backup and restore from different namespace (#226)"
+            },
+            {
+              "SHA": "419b7c3",
+              "Subject": "Add permission for nonResourceURLs"
+            },
+            {
+              "SHA": "3a5f578",
+              "Subject": "Updated charts after adding some validator webhook. (#222)"
+            },
+            {
+              "SHA": "774a76b",
+              "Subject": "Correctly generate grafana dashboard name (#225)"
+            },
+            {
+              "SHA": "73fde3c",
+              "Subject": "Always pull ui-server (#224)"
+            },
+            {
+              "SHA": "f3d6a22",
+              "Subject": "Add permission for AppBinding & KubeDB resources in ui server chart (#223)"
+            },
+            {
+              "SHA": "cdeac58",
+              "Subject": "Add stash-ui-server chart (#220)"
+            },
+            {
+              "SHA": "bfddb33",
+              "Subject": "Update repository config (#219)"
+            },
+            {
+              "SHA": "dbce5b5",
+              "Subject": "Add k8s.io/group label to grafana dashboards"
+            },
+            {
+              "SHA": "3f07f11",
+              "Subject": "Add Grafana Dashboards (#218)"
             }
           ]
         }
