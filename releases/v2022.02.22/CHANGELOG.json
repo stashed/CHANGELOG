@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T08:52:25.625776638Z",
+  "release_date": "2022-02-11T09:01:51.021003032Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -187,6 +187,32 @@
             {
               "SHA": "7a2d8610",
               "Subject": "Cleanup legacy code + Support cross namespace Repository reference (#136)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "10.14-v13",
+          "commits": [
+            {
+              "SHA": "2813a98a",
+              "Subject": "Prepare for release 10.14-v13 (#986)"
+            },
+            {
+              "SHA": "50dba7d7",
+              "Subject": "[cherry-pick] Update SiteInfo (#980) (#981)"
+            },
+            {
+              "SHA": "616fd1e5",
+              "Subject": "[cherry-pick] Publish GenericResource (#973) (#974)"
+            },
+            {
+              "SHA": "2e46777c",
+              "Subject": "Add support for backup and restore from different namespace (#966) (#967)"
             }
           ]
         }
