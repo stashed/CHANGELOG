@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T07:39:38.943793065Z",
+  "release_date": "2022-02-11T08:26:58.859824621Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -83,6 +83,80 @@
             {
               "SHA": "e914179d",
               "Subject": "Update repository config (#134)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "9536bc1b",
+              "Subject": "Prepare for release v0.18.0 (#1421)"
+            },
+            {
+              "SHA": "0c84840e",
+              "Subject": "Update UID generation for GenericResource (#1420)"
+            },
+            {
+              "SHA": "2162c125",
+              "Subject": "Refactor restore process status handling + add cross namespace tests (#1419)"
+            },
+            {
+              "SHA": "080ebfcf",
+              "Subject": "Update SiteInfo (#1418)"
+            },
+            {
+              "SHA": "2727c071",
+              "Subject": "Publish GenericResource (#1416)"
+            },
+            {
+              "SHA": "dd6b10f0",
+              "Subject": "Expose original UID for generic resource"
+            },
+            {
+              "SHA": "a121b8c3",
+              "Subject": "Always set type meta for GenericResource"
+            },
+            {
+              "SHA": "9300292a",
+              "Subject": "Publish GenericResource (#1415)"
+            },
+            {
+              "SHA": "ffe0d847",
+              "Subject": "Don't register CRDs from operator + allow passing crd-installer tag (#1409)"
+            },
+            {
+              "SHA": "eb69ad4e",
+              "Subject": "Port UsagePolicy validation related changes from Enterprise operator (#1414)"
+            },
+            {
+              "SHA": "06988c00",
+              "Subject": "Always keep the last completed BackupSession (when `backupHistoryLimit > 0`) even if outside of history limit (#1413)"
+            },
+            {
+              "SHA": "c81cf41b",
+              "Subject": "Add support for custom Pusgateway (#1412)"
+            },
+            {
+              "SHA": "127017c9",
+              "Subject": "Update repository config (#1411)"
+            },
+            {
+              "SHA": "1e41192e",
+              "Subject": "Cleanup legacy code + Port changes from enterprise operator (#1410)"
+            },
+            {
+              "SHA": "1ca2129b",
+              "Subject": "Update repository config (#1407)"
+            },
+            {
+              "SHA": "849c782a",
+              "Subject": "Fix invalid task name in restore task resolver (#1406)"
             }
           ]
         }

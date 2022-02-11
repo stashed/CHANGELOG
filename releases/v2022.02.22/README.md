@@ -26,3 +26,26 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.18.0](https://github.com/stashed/stash/releases/tag/v0.18.0)
+
+- [9536bc1b](https://github.com/stashed/stash/commit/9536bc1b) Prepare for release v0.18.0 (#1421)
+- [0c84840e](https://github.com/stashed/stash/commit/0c84840e) Update UID generation for GenericResource (#1420)
+- [2162c125](https://github.com/stashed/stash/commit/2162c125) Refactor restore process status handling + add cross namespace tests (#1419)
+- [080ebfcf](https://github.com/stashed/stash/commit/080ebfcf) Update SiteInfo (#1418)
+- [2727c071](https://github.com/stashed/stash/commit/2727c071) Publish GenericResource (#1416)
+- [dd6b10f0](https://github.com/stashed/stash/commit/dd6b10f0) Expose original UID for generic resource
+- [a121b8c3](https://github.com/stashed/stash/commit/a121b8c3) Always set type meta for GenericResource
+- [9300292a](https://github.com/stashed/stash/commit/9300292a) Publish GenericResource (#1415)
+- [ffe0d847](https://github.com/stashed/stash/commit/ffe0d847) Don't register CRDs from operator + allow passing crd-installer tag (#1409)
+- [eb69ad4e](https://github.com/stashed/stash/commit/eb69ad4e) Port UsagePolicy validation related changes from Enterprise operator (#1414)
+- [06988c00](https://github.com/stashed/stash/commit/06988c00) Always keep the last completed BackupSession (when `backupHistoryLimit > 0`) even if outside of history limit (#1413)
+- [c81cf41b](https://github.com/stashed/stash/commit/c81cf41b) Add support for custom Pusgateway (#1412)
+- [127017c9](https://github.com/stashed/stash/commit/127017c9) Update repository config (#1411)
+- [1e41192e](https://github.com/stashed/stash/commit/1e41192e) Cleanup legacy code + Port changes from enterprise operator (#1410)
+- [1ca2129b](https://github.com/stashed/stash/commit/1ca2129b) Update repository config (#1407)
+- [849c782a](https://github.com/stashed/stash/commit/849c782a) Fix invalid task name in restore task resolver (#1406)
+
+
+
