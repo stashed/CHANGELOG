@@ -1,0 +1,92 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.02.22",
+  "release_date": "2022-02-11T07:39:38.943793065Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.02.22",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.18.0",
+          "commits": [
+            {
+              "SHA": "79d844fb",
+              "Subject": "Refactor restore invoker status updater logic (#152)"
+            },
+            {
+              "SHA": "49e0fc85",
+              "Subject": "Update SiteInfo (#151)"
+            },
+            {
+              "SHA": "7c80de5c",
+              "Subject": "Publish GenericResource (#150)"
+            },
+            {
+              "SHA": "0906fab7",
+              "Subject": "Add stash-crd-installer image to install CRDs on helm pre-install hook (#145)"
+            },
+            {
+              "SHA": "9c528743",
+              "Subject": "Add phase field to backupconfiguration status. (#144)"
+            },
+            {
+              "SHA": "3e17dd8d",
+              "Subject": "Refactor `metrics.go` file + Add `pushgatewayURL` singletone (#149)"
+            },
+            {
+              "SHA": "553a63a8",
+              "Subject": "Add `GetCaPath()` method (#148)"
+            },
+            {
+              "SHA": "3f6beb6d",
+              "Subject": "Update repository config (#147)"
+            },
+            {
+              "SHA": "d7bf57bf",
+              "Subject": "Refactor invoker package (#146)"
+            },
+            {
+              "SHA": "7da4b19c",
+              "Subject": "Add method to create ResticWrapper from existing shell (#143)"
+            },
+            {
+              "SHA": "68c89614",
+              "Subject": "Show Snapshot ID in kubectl list command (#141)"
+            },
+            {
+              "SHA": "8017cd43",
+              "Subject": "Review ui apis (#142)"
+            },
+            {
+              "SHA": "d19cc472",
+              "Subject": "Modify BackupOverview API (#140)"
+            },
+            {
+              "SHA": "c60601b5",
+              "Subject": "Add helper method for UsagePolicy (#139)"
+            },
+            {
+              "SHA": "bc75d16a",
+              "Subject": "Add support for cross-namespace repository (#136)"
+            },
+            {
+              "SHA": "e845509f",
+              "Subject": "Add ui types (#137)"
+            },
+            {
+              "SHA": "6402d026",
+              "Subject": "Allow cross namespace referencing for Repository + Cleanup old APIs (#135)"
+            },
+            {
+              "SHA": "e914179d",
+              "Subject": "Update repository config (#134)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
