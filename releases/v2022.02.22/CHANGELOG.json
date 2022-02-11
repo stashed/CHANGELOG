@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T10:26:03.462505286Z",
+  "release_date": "2022-02-11T10:26:09.658342145Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -979,6 +979,23 @@
             {
               "SHA": "732fae8",
               "Subject": "Add support for backup and restore from different namespace (#70) (#71)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v3",
+          "commits": [
+            {
+              "SHA": "ba2bd19",
+              "Subject": "Prepare for release 6.2.5-v3 (#79)"
+            },
+            {
+              "SHA": "6e5f3d2",
+              "Subject": "[cherry-pick] Publish GenericResource (#73) (#75)"
+            },
+            {
+              "SHA": "d837a32",
+              "Subject": "Add support for backup and restore from different namespace (#70) (#72)"
             }
           ]
         }

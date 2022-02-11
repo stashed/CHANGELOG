@@ -362,6 +362,13 @@
 - [732fae8](https://github.com/stashed/redis/commit/732fae8) Add support for backup and restore from different namespace (#70) (#71)
 
 
+### [6.2.5-v3](https://github.com/stashed/redis/releases/tag/6.2.5-v3)
+
+- [ba2bd19](https://github.com/stashed/redis/commit/ba2bd19) Prepare for release 6.2.5-v3 (#79)
+- [6e5f3d2](https://github.com/stashed/redis/commit/6e5f3d2) [cherry-pick] Publish GenericResource (#73) (#75)
+- [d837a32](https://github.com/stashed/redis/commit/d837a32) Add support for backup and restore from different namespace (#70) (#72)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
