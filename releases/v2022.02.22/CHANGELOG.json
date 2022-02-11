@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T09:01:59.094767567Z",
+  "release_date": "2022-02-11T09:11:45.82851549Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -121,6 +121,32 @@
             {
               "SHA": "34e30bd",
               "Subject": "Fix stash broken cli (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v15",
+          "commits": [
+            {
+              "SHA": "5eafa076",
+              "Subject": "Prepare for release 5.6.4-v15 (#1097)"
+            },
+            {
+              "SHA": "717701f3",
+              "Subject": "[cherry-pick] Update SiteInfo (#1089) (#1090)"
+            },
+            {
+              "SHA": "2dacaf65",
+              "Subject": "[cherry-pick] Publish GenericResource (#1079) (#1080)"
+            },
+            {
+              "SHA": "3097dc28",
+              "Subject": "Add support for backup and restore from different namespace (#1069) (#1070)"
             }
           ]
         }

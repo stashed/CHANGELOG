@@ -40,6 +40,17 @@
 
 
 
+## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
+
+### [5.6.4-v15](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v15)
+
+- [5eafa076](https://github.com/stashed/elasticsearch/commit/5eafa076) Prepare for release 5.6.4-v15 (#1097)
+- [717701f3](https://github.com/stashed/elasticsearch/commit/717701f3) [cherry-pick] Update SiteInfo (#1089) (#1090)
+- [2dacaf65](https://github.com/stashed/elasticsearch/commit/2dacaf65) [cherry-pick] Publish GenericResource (#1079) (#1080)
+- [3097dc28](https://github.com/stashed/elasticsearch/commit/3097dc28) Add support for backup and restore from different namespace (#1069) (#1070)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.18.0](https://github.com/stashed/enterprise/releases/tag/v0.18.0)
