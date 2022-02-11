@@ -135,6 +135,17 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v2](https://github.com/stashed/etcd/releases/tag/3.5.0-v2)
+
+- [5127c53](https://github.com/stashed/etcd/commit/5127c53) Prepare for release 3.5.0-v2 (#26)
+- [f1dd201](https://github.com/stashed/etcd/commit/f1dd201) [cherry-pick] Update SiteInfo (#24) (#25)
+- [b6aa1c1](https://github.com/stashed/etcd/commit/b6aa1c1) [cherry-pick] Publish GenericResource (#22) (#23)
+- [b14a960](https://github.com/stashed/etcd/commit/b14a960) Add support for backup and restore from different namespace (#20) (#21)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v8](https://github.com/stashed/mariadb/releases/tag/10.5.8-v8)

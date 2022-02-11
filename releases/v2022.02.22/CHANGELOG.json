@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.02.22",
-  "release_date": "2022-02-11T10:43:34.205432982Z",
+  "release_date": "2022-02-11T11:17:22.634596075Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.02.22",
   "kubernetes_version": "1.16+",
@@ -377,6 +377,32 @@
             {
               "SHA": "7a2d8610",
               "Subject": "Cleanup legacy code + Support cross namespace Repository reference (#136)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v2",
+          "commits": [
+            {
+              "SHA": "5127c53",
+              "Subject": "Prepare for release 3.5.0-v2 (#26)"
+            },
+            {
+              "SHA": "f1dd201",
+              "Subject": "[cherry-pick] Update SiteInfo (#24) (#25)"
+            },
+            {
+              "SHA": "b6aa1c1",
+              "Subject": "[cherry-pick] Publish GenericResource (#22) (#23)"
+            },
+            {
+              "SHA": "b14a960",
+              "Subject": "Add support for backup and restore from different namespace (#20) (#21)"
             }
           ]
         }
