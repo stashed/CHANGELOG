@@ -228,6 +228,16 @@
 - [b60b11fd](https://github.com/stashed/mongodb/commit/b60b11fd) [cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1435)
 
 
+### [4.4.6-v6](https://github.com/stashed/mongodb/releases/tag/4.4.6-v6)
+
+- [a7043538](https://github.com/stashed/mongodb/commit/a7043538) Prepare for release 4.4.6-v6 (#1493)
+- [6f30e9ef](https://github.com/stashed/mongodb/commit/6f30e9ef) Use restic 0.13.0 (#1480)
+- [55ca4046](https://github.com/stashed/mongodb/commit/55ca4046) [cherry-pick] Use Go 1.18 (#1466) (#1478)
+- [5b7846c4](https://github.com/stashed/mongodb/commit/5b7846c4) [cherry-pick] Use Go 1.18 (#1452) (#1464)
+- [e16bcac4](https://github.com/stashed/mongodb/commit/e16bcac4) [cherry-pick] make fmt (#1438) (#1450)
+- [8d939ff6](https://github.com/stashed/mongodb/commit/8d939ff6) [cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1436)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
