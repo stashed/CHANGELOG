@@ -248,6 +248,18 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v16](https://github.com/stashed/mysql/releases/tag/5.7.25-v16)
+
+- [bb07cd05](https://github.com/stashed/mysql/commit/bb07cd05) Prepare for release 5.7.25-v16 (#599)
+- [d481d606](https://github.com/stashed/mysql/commit/d481d606) [cherry-pick] Use restic 0.13.0 (#594) (#595)
+- [518948e0](https://github.com/stashed/mysql/commit/518948e0) [cherry-pick] Use Go 1.18 (#589) (#590)
+- [77a5f78c](https://github.com/stashed/mysql/commit/77a5f78c) [cherry-pick] Use Go 1.18 (#584) (#585)
+- [595a7669](https://github.com/stashed/mysql/commit/595a7669) [cherry-pick] make fmt (#579) (#580)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v14](https://github.com/stashed/postgres/releases/tag/9.6.19-v14)
