@@ -355,6 +355,18 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v4](https://github.com/stashed/redis/releases/tag/5.0.13-v4)
+
+- [fb8fc3d](https://github.com/stashed/redis/commit/fb8fc3d) Prepare for release 5.0.13-v4 (#93)
+- [eaf9b82](https://github.com/stashed/redis/commit/eaf9b82) [cherry-pick] Use restic 0.13.0 (#90) (#91)
+- [5cb5e1f](https://github.com/stashed/redis/commit/5cb5e1f) [cherry-pick] Use Go 1.18 (#87) (#88)
+- [d0bc853](https://github.com/stashed/redis/commit/d0bc853) [cherry-pick] Use Go 1.18 (#84) (#85)
+- [b8d96af](https://github.com/stashed/redis/commit/b8d96af) [cherry-pick] make fmt (#81) (#82)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.19.0](https://github.com/stashed/stash/releases/tag/v0.19.0)
