@@ -60,6 +60,14 @@
 - [c517829a](https://github.com/stashed/elasticsearch/commit/c517829a) [cherry-pick] make fmt (#1107) (#1110)
 
 
+### [6.4.0-v16](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v16)
+
+- [d19b0163](https://github.com/stashed/elasticsearch/commit/d19b0163) Prepare for release 6.4.0-v16 (#1144)
+- [d405ec80](https://github.com/stashed/elasticsearch/commit/d405ec80) [cherry-pick] Use restic 0.13.0 (#1131) (#1135)
+- [dd94d90a](https://github.com/stashed/elasticsearch/commit/dd94d90a) [cherry-pick] Use Go 1.18 (#1117) (#1121)
+- [0f03b0bf](https://github.com/stashed/elasticsearch/commit/0f03b0bf) [cherry-pick] make fmt (#1107) (#1111)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
