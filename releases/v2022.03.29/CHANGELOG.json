@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.03.29",
-  "release_date": "2022-03-29T19:16:59.646207063Z",
+  "release_date": "2022-03-29T19:17:01.623283796Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.03.29",
   "kubernetes_version": "1.16+",
@@ -708,6 +708,31 @@
             {
               "SHA": "595a7669",
               "Subject": "[cherry-pick] make fmt (#579) (#580)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v16",
+          "commits": [
+            {
+              "SHA": "2a1de95f",
+              "Subject": "Prepare for release 8.0.3-v16 (#602)"
+            },
+            {
+              "SHA": "7d4c8598",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#594) (#598)"
+            },
+            {
+              "SHA": "690c5e57",
+              "Subject": "[cherry-pick] Use Go 1.18 (#589) (#593)"
+            },
+            {
+              "SHA": "d74f25c0",
+              "Subject": "[cherry-pick] Use Go 1.18 (#584) (#588)"
+            },
+            {
+              "SHA": "8d564007",
+              "Subject": "[cherry-pick] make fmt (#579) (#583)"
             }
           ]
         },
