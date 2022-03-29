@@ -67,6 +67,15 @@
 - [d214302e](https://github.com/stashed/postgres/commit/d214302e) [cherry-pick] make fmt (#993) (#996)
 
 
+### [13.1-v11](https://github.com/stashed/postgres/releases/tag/13.1-v11)
+
+- [0f7020a2](https://github.com/stashed/postgres/commit/0f7020a2) Prepare for release 13.1-v11 (#1023)
+- [8f919d23](https://github.com/stashed/postgres/commit/8f919d23) [cherry-pick] Use restic 0.13.0 (#1014) (#1018)
+- [fe60ccc3](https://github.com/stashed/postgres/commit/fe60ccc3) [cherry-pick] Use Go 1.18 (#1007) (#1011)
+- [723475ed](https://github.com/stashed/postgres/commit/723475ed) [cherry-pick] Use Go 1.18 (#1000) (#1004)
+- [b7a719bb](https://github.com/stashed/postgres/commit/b7a719bb) [cherry-pick] make fmt (#993) (#997)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
