@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.03.29",
-  "release_date": "2022-03-29T20:27:48.474639979Z",
+  "release_date": "2022-03-29T20:53:27.529589247Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.03.29",
   "kubernetes_version": "1.16+",
@@ -85,6 +85,88 @@
             {
               "SHA": "ea950f22",
               "Subject": "make fmt (#156)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.03.29",
+          "commits": [
+            {
+              "SHA": "03e2cc1",
+              "Subject": "Prepare for release v2022.03.29 (#215)"
+            },
+            {
+              "SHA": "a7c0382",
+              "Subject": "Rename Advance Use Case to Different Use Case (#213)"
+            },
+            {
+              "SHA": "e9dd3ab",
+              "Subject": "Update Documentation Homepage (#211)"
+            },
+            {
+              "SHA": "fc0efbc",
+              "Subject": "Add requirements in installation doc. (#212)"
+            },
+            {
+              "SHA": "ac70de9",
+              "Subject": "Add backup and restore customization doc. (#210)"
+            },
+            {
+              "SHA": "3a872ce",
+              "Subject": "Add Frequently Asked Questions (FAQ) (#209)"
+            },
+            {
+              "SHA": "6603b69",
+              "Subject": "Update cross namespace backup doc. (#207)"
+            },
+            {
+              "SHA": "d570fd1",
+              "Subject": "Add Debug Helper Command in Troubleshooting Guide (#208)"
+            },
+            {
+              "SHA": "3bfe4ec",
+              "Subject": "Add documentation for filtering files during backup/restore (#204)"
+            },
+            {
+              "SHA": "7aae0d2",
+              "Subject": "Cross cluster backup (#205)"
+            },
+            {
+              "SHA": "6a9e850",
+              "Subject": "Use Go 1.18 (#206)"
+            },
+            {
+              "SHA": "b9aac18",
+              "Subject": "make fmt (#203)"
+            },
+            {
+              "SHA": "1b7e07f",
+              "Subject": "make fmt (#202)"
+            },
+            {
+              "SHA": "7ba248d",
+              "Subject": "Update docs for stashed/cli@8399b7e5 (#201)"
+            },
+            {
+              "SHA": "c4ccaa0",
+              "Subject": "Update CLI docs: `downlaod`, `pause`, `resume` & `debug` (#199)"
+            },
+            {
+              "SHA": "ee40fed",
+              "Subject": "Update concept docs for cross-namespace repository. (#200)"
+            },
+            {
+              "SHA": "0895391",
+              "Subject": "Add docs for cross-namespace Repository support in Stash. (#197)"
+            },
+            {
+              "SHA": "f767e06",
+              "Subject": "Update docs for demonstrating backup setup verification. (#196)"
             }
           ]
         }

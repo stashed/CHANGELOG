@@ -31,6 +31,31 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2022.03.29](https://github.com/stashed/docs/releases/tag/v2022.03.29)
+
+- [03e2cc1](https://github.com/stashed/docs/commit/03e2cc1) Prepare for release v2022.03.29 (#215)
+- [a7c0382](https://github.com/stashed/docs/commit/a7c0382) Rename Advance Use Case to Different Use Case (#213)
+- [e9dd3ab](https://github.com/stashed/docs/commit/e9dd3ab) Update Documentation Homepage (#211)
+- [fc0efbc](https://github.com/stashed/docs/commit/fc0efbc) Add requirements in installation doc. (#212)
+- [ac70de9](https://github.com/stashed/docs/commit/ac70de9) Add backup and restore customization doc. (#210)
+- [3a872ce](https://github.com/stashed/docs/commit/3a872ce) Add Frequently Asked Questions (FAQ) (#209)
+- [6603b69](https://github.com/stashed/docs/commit/6603b69) Update cross namespace backup doc. (#207)
+- [d570fd1](https://github.com/stashed/docs/commit/d570fd1) Add Debug Helper Command in Troubleshooting Guide (#208)
+- [3bfe4ec](https://github.com/stashed/docs/commit/3bfe4ec) Add documentation for filtering files during backup/restore (#204)
+- [7aae0d2](https://github.com/stashed/docs/commit/7aae0d2) Cross cluster backup (#205)
+- [6a9e850](https://github.com/stashed/docs/commit/6a9e850) Use Go 1.18 (#206)
+- [b9aac18](https://github.com/stashed/docs/commit/b9aac18) make fmt (#203)
+- [1b7e07f](https://github.com/stashed/docs/commit/1b7e07f) make fmt (#202)
+- [7ba248d](https://github.com/stashed/docs/commit/7ba248d) Update docs for stashed/cli@8399b7e5 (#201)
+- [c4ccaa0](https://github.com/stashed/docs/commit/c4ccaa0) Update CLI docs: `downlaod`, `pause`, `resume` & `debug` (#199)
+- [ee40fed](https://github.com/stashed/docs/commit/ee40fed) Update concept docs for cross-namespace repository. (#200)
+- [0895391](https://github.com/stashed/docs/commit/0895391) Add docs for cross-namespace Repository support in Stash. (#197)
+- [f767e06](https://github.com/stashed/docs/commit/f767e06) Update docs for demonstrating backup setup verification. (#196)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v16](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v16)
