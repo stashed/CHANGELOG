@@ -18,3 +18,10 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.19.0](https://github.com/stashed/stash/releases/tag/v0.19.0)
+
+
+
+

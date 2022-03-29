@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.03.29",
-  "release_date": "2022-03-29T17:15:59.467143671Z",
+  "release_date": "2022-03-29T17:32:42.877191659Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.03.29",
   "kubernetes_version": "1.16+",
@@ -53,6 +53,15 @@
               "Subject": "make fmt (#154)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": null
         }
       ]
     }
