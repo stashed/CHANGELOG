@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.03.29",
-  "release_date": "2022-03-29T19:17:01.623283796Z",
+  "release_date": "2022-03-29T19:25:56.308095117Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.03.29",
   "kubernetes_version": "1.16+",
@@ -302,6 +302,36 @@
         {
           "tag": "v0.19.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v9",
+          "commits": [
+            {
+              "SHA": "04c1b78",
+              "Subject": "Prepare for release 10.5.8-v9 (#177)"
+            },
+            {
+              "SHA": "407e8f5",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#175) (#176)"
+            },
+            {
+              "SHA": "603f917",
+              "Subject": "Use Go 1.18 (#173) (#174)"
+            },
+            {
+              "SHA": "0f74c1d",
+              "Subject": "[cherry-pick] Use Go 1.18 (#171) (#172)"
+            },
+            {
+              "SHA": "5d08051",
+              "Subject": "[cherry-pick] make fmt (#169) (#170)"
+            }
+          ]
         }
       ]
     },

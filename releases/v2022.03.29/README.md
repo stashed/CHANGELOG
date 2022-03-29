@@ -116,6 +116,18 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v9](https://github.com/stashed/mariadb/releases/tag/10.5.8-v9)
+
+- [04c1b78](https://github.com/stashed/mariadb/commit/04c1b78) Prepare for release 10.5.8-v9 (#177)
+- [407e8f5](https://github.com/stashed/mariadb/commit/407e8f5) [cherry-pick] Use restic 0.13.0 (#175) (#176)
+- [603f917](https://github.com/stashed/mariadb/commit/603f917) Use Go 1.18 (#173) (#174)
+- [0f74c1d](https://github.com/stashed/mariadb/commit/0f74c1d) [cherry-pick] Use Go 1.18 (#171) (#172)
+- [5d08051](https://github.com/stashed/mariadb/commit/5d08051) [cherry-pick] make fmt (#169) (#170)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v15](https://github.com/stashed/mongodb/releases/tag/3.4.17-v15)
