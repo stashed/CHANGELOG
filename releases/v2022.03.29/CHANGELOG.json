@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.03.29",
-  "release_date": "2022-03-29T18:14:26.856245176Z",
+  "release_date": "2022-03-29T18:14:51.19746748Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.03.29",
   "kubernetes_version": "1.16+",
@@ -51,6 +51,40 @@
             {
               "SHA": "d3d5fb01",
               "Subject": "make fmt (#154)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "896c6cb1",
+              "Subject": "Prepare for release v0.19.0 (#160)"
+            },
+            {
+              "SHA": "72fa7812",
+              "Subject": "Use restic 0.13.0 (#159)"
+            },
+            {
+              "SHA": "aa89dd42",
+              "Subject": "Use Go 1.18 (#158)"
+            },
+            {
+              "SHA": "bd6a3a15",
+              "Subject": "Use Go 1.18 (#157)"
+            },
+            {
+              "SHA": "8399b7e5",
+              "Subject": "Add debug helper commands (#154)"
+            },
+            {
+              "SHA": "ea950f22",
+              "Subject": "make fmt (#156)"
             }
           ]
         }

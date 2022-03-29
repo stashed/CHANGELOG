@@ -18,6 +18,19 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.19.0](https://github.com/stashed/cli/releases/tag/v0.19.0)
+
+- [896c6cb1](https://github.com/stashed/cli/commit/896c6cb1) Prepare for release v0.19.0 (#160)
+- [72fa7812](https://github.com/stashed/cli/commit/72fa7812) Use restic 0.13.0 (#159)
+- [aa89dd42](https://github.com/stashed/cli/commit/aa89dd42) Use Go 1.18 (#158)
+- [bd6a3a15](https://github.com/stashed/cli/commit/bd6a3a15) Use Go 1.18 (#157)
+- [8399b7e5](https://github.com/stashed/cli/commit/8399b7e5) Add debug helper commands (#154)
+- [ea950f22](https://github.com/stashed/cli/commit/ea950f22) make fmt (#156)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.19.0](https://github.com/stashed/enterprise/releases/tag/v0.19.0)
