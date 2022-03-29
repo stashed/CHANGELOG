@@ -1,0 +1,1295 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.03.29",
+  "release_date": "2022-03-29T20:57:39.27632772Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.03.29",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "6508ad7e",
+              "Subject": "Make calculateBackupInvokerPhase() public (#163)"
+            },
+            {
+              "SHA": "9db91ba2",
+              "Subject": "Update Modules (#161)"
+            },
+            {
+              "SHA": "31979993",
+              "Subject": "Use restic 0.13.0 (#162)"
+            },
+            {
+              "SHA": "94de58f7",
+              "Subject": "Add cross-namespace support to Auto-Backup. (#159)"
+            },
+            {
+              "SHA": "64b22c52",
+              "Subject": "Make Secret Key Optional for GCS, S3 Provider, and Azure (#160)"
+            },
+            {
+              "SHA": "84656cc2",
+              "Subject": "Use Go 1.18 (#157)"
+            },
+            {
+              "SHA": "c5658a77",
+              "Subject": "Update UID generation for GenericResource (#158)"
+            },
+            {
+              "SHA": "7df8eca4",
+              "Subject": "Fix Pending phase calculation (#155)"
+            },
+            {
+              "SHA": "dc76c985",
+              "Subject": "Add hook executor helper package (#153)"
+            },
+            {
+              "SHA": "d3d5fb01",
+              "Subject": "make fmt (#154)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2022.03.29",
+          "commits": [
+            {
+              "SHA": "8f911a3",
+              "Subject": "Prepare for release v2022.03.29 (#59)"
+            },
+            {
+              "SHA": "29b029b",
+              "Subject": "Use Go 1.18 (#58)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "896c6cb1",
+              "Subject": "Prepare for release v0.19.0 (#160)"
+            },
+            {
+              "SHA": "72fa7812",
+              "Subject": "Use restic 0.13.0 (#159)"
+            },
+            {
+              "SHA": "aa89dd42",
+              "Subject": "Use Go 1.18 (#158)"
+            },
+            {
+              "SHA": "bd6a3a15",
+              "Subject": "Use Go 1.18 (#157)"
+            },
+            {
+              "SHA": "8399b7e5",
+              "Subject": "Add debug helper commands (#154)"
+            },
+            {
+              "SHA": "ea950f22",
+              "Subject": "make fmt (#156)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.03.29",
+          "commits": [
+            {
+              "SHA": "03e2cc1",
+              "Subject": "Prepare for release v2022.03.29 (#215)"
+            },
+            {
+              "SHA": "a7c0382",
+              "Subject": "Rename Advance Use Case to Different Use Case (#213)"
+            },
+            {
+              "SHA": "e9dd3ab",
+              "Subject": "Update Documentation Homepage (#211)"
+            },
+            {
+              "SHA": "fc0efbc",
+              "Subject": "Add requirements in installation doc. (#212)"
+            },
+            {
+              "SHA": "ac70de9",
+              "Subject": "Add backup and restore customization doc. (#210)"
+            },
+            {
+              "SHA": "3a872ce",
+              "Subject": "Add Frequently Asked Questions (FAQ) (#209)"
+            },
+            {
+              "SHA": "6603b69",
+              "Subject": "Update cross namespace backup doc. (#207)"
+            },
+            {
+              "SHA": "d570fd1",
+              "Subject": "Add Debug Helper Command in Troubleshooting Guide (#208)"
+            },
+            {
+              "SHA": "3bfe4ec",
+              "Subject": "Add documentation for filtering files during backup/restore (#204)"
+            },
+            {
+              "SHA": "7aae0d2",
+              "Subject": "Cross cluster backup (#205)"
+            },
+            {
+              "SHA": "6a9e850",
+              "Subject": "Use Go 1.18 (#206)"
+            },
+            {
+              "SHA": "b9aac18",
+              "Subject": "make fmt (#203)"
+            },
+            {
+              "SHA": "1b7e07f",
+              "Subject": "make fmt (#202)"
+            },
+            {
+              "SHA": "7ba248d",
+              "Subject": "Update docs for stashed/cli@8399b7e5 (#201)"
+            },
+            {
+              "SHA": "c4ccaa0",
+              "Subject": "Update CLI docs: `downlaod`, `pause`, `resume` & `debug` (#199)"
+            },
+            {
+              "SHA": "ee40fed",
+              "Subject": "Update concept docs for cross-namespace repository. (#200)"
+            },
+            {
+              "SHA": "0895391",
+              "Subject": "Add docs for cross-namespace Repository support in Stash. (#197)"
+            },
+            {
+              "SHA": "f767e06",
+              "Subject": "Update docs for demonstrating backup setup verification. (#196)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v16",
+          "commits": [
+            {
+              "SHA": "d4d7b28c",
+              "Subject": "Prepare for release 5.6.4-v16 (#1141)"
+            },
+            {
+              "SHA": "ef1aed18",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1131) (#1132)"
+            },
+            {
+              "SHA": "8c3054dd",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1127) (#1128)"
+            },
+            {
+              "SHA": "67b1f638",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1117) (#1118)"
+            },
+            {
+              "SHA": "2e9690c4",
+              "Subject": "[cherry-pick] make fmt (#1107) (#1108)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v16",
+          "commits": [
+            {
+              "SHA": "fdaf59d4",
+              "Subject": "Prepare for release 6.2.4-v16 (#1142)"
+            },
+            {
+              "SHA": "aece6da5",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1131) (#1133)"
+            },
+            {
+              "SHA": "cdfc0e3a",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1127) (#1129)"
+            },
+            {
+              "SHA": "5aba3d4c",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1117) (#1119)"
+            },
+            {
+              "SHA": "3f746ef0",
+              "Subject": "[cherry-pick] make fmt (#1107) (#1109)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v16",
+          "commits": [
+            {
+              "SHA": "2c01868f",
+              "Subject": "Prepare for release 6.3.0-v16 (#1143)"
+            },
+            {
+              "SHA": "ddc552fc",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1131) (#1134)"
+            },
+            {
+              "SHA": "44b784bf",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1127) (#1130)"
+            },
+            {
+              "SHA": "04256ecb",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1117) (#1120)"
+            },
+            {
+              "SHA": "c517829a",
+              "Subject": "[cherry-pick] make fmt (#1107) (#1110)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v16",
+          "commits": [
+            {
+              "SHA": "d19b0163",
+              "Subject": "Prepare for release 6.4.0-v16 (#1144)"
+            },
+            {
+              "SHA": "d405ec80",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1131) (#1135)"
+            },
+            {
+              "SHA": "dd94d90a",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1117) (#1121)"
+            },
+            {
+              "SHA": "0f03b0bf",
+              "Subject": "[cherry-pick] make fmt (#1107) (#1111)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v16",
+          "commits": [
+            {
+              "SHA": "96a2ea8b",
+              "Subject": "Prepare for release 6.5.3-v16 (#1145)"
+            },
+            {
+              "SHA": "f8e3c7a7",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1131) (#1136)"
+            },
+            {
+              "SHA": "c2a9fdd4",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1117) (#1122)"
+            },
+            {
+              "SHA": "a9141526",
+              "Subject": "[cherry-pick] make fmt (#1107) (#1112)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v16",
+          "commits": [
+            {
+              "SHA": "76a7ecaf",
+              "Subject": "Prepare for release 6.8.0-v16 (#1146)"
+            },
+            {
+              "SHA": "9b65350a",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1131) (#1137)"
+            },
+            {
+              "SHA": "c114bd14",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1117) (#1123)"
+            },
+            {
+              "SHA": "7388c816",
+              "Subject": "[cherry-pick] make fmt (#1107) (#1113)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v16",
+          "commits": [
+            {
+              "SHA": "60d30030",
+              "Subject": "Prepare for release 7.2.0-v16 (#1148)"
+            },
+            {
+              "SHA": "3c123803",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1131) (#1139)"
+            },
+            {
+              "SHA": "c5c34027",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1117) (#1125)"
+            },
+            {
+              "SHA": "3c25de99",
+              "Subject": "[cherry-pick] make fmt (#1107) (#1115)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v16",
+          "commits": [
+            {
+              "SHA": "68552cbf",
+              "Subject": "Prepare for release 7.3.2-v16 (#1149)"
+            },
+            {
+              "SHA": "9ddbdfef",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1131) (#1140)"
+            },
+            {
+              "SHA": "f8a7044c",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1117) (#1126)"
+            },
+            {
+              "SHA": "d1707c75",
+              "Subject": "[cherry-pick] make fmt (#1107) (#1116)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v2",
+          "commits": [
+            {
+              "SHA": "79de930f",
+              "Subject": "Prepare for release 7.14.0-v2 (#1147)"
+            },
+            {
+              "SHA": "88c0f2d4",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1131) (#1138)"
+            },
+            {
+              "SHA": "75bcb45b",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1117) (#1124)"
+            },
+            {
+              "SHA": "bb5196e5",
+              "Subject": "[cherry-pick] make fmt (#1107) (#1114)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v3",
+          "commits": [
+            {
+              "SHA": "319fece",
+              "Subject": "Prepare for release 3.5.0-v3 (#35)"
+            },
+            {
+              "SHA": "5e44314",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#33) (#34)"
+            },
+            {
+              "SHA": "cbbeedc",
+              "Subject": "[cherry-pick] Use Go 1.18 (#30) (#31)"
+            },
+            {
+              "SHA": "39ee0f6",
+              "Subject": "[cherry-pick] make fmt (#28) (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.03.29",
+          "commits": [
+            {
+              "SHA": "a13b1fa7",
+              "Subject": "Prepare for release v2022.03.29 (#243)"
+            },
+            {
+              "SHA": "15dfb31d",
+              "Subject": "Add validation webhook to BackBlueprint. (#242)"
+            },
+            {
+              "SHA": "6e1e9461",
+              "Subject": "Fix schema-checker api type (#237)"
+            },
+            {
+              "SHA": "48aed579",
+              "Subject": "Use restic 0.13.0 (#241)"
+            },
+            {
+              "SHA": "a4ad251a",
+              "Subject": "Make dashboards compatible to Grafana 7.3.5 to 8.x (#240)"
+            },
+            {
+              "SHA": "f30dda49",
+              "Subject": "Use Go 1.18 (#239)"
+            },
+            {
+              "SHA": "b6584e55",
+              "Subject": "Use Go 1.18 (#238)"
+            },
+            {
+              "SHA": "d021d8c0",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "5c527d2b",
+              "Subject": "Use stash namespace by default (#236)"
+            },
+            {
+              "SHA": "93936767",
+              "Subject": "make fmt (#235)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v9",
+          "commits": [
+            {
+              "SHA": "04c1b78",
+              "Subject": "Prepare for release 10.5.8-v9 (#177)"
+            },
+            {
+              "SHA": "407e8f5",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#175) (#176)"
+            },
+            {
+              "SHA": "603f917",
+              "Subject": "Use Go 1.18 (#173) (#174)"
+            },
+            {
+              "SHA": "0f74c1d",
+              "Subject": "[cherry-pick] Use Go 1.18 (#171) (#172)"
+            },
+            {
+              "SHA": "5d08051",
+              "Subject": "[cherry-pick] make fmt (#169) (#170)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v15",
+          "commits": [
+            {
+              "SHA": "755b8c3d",
+              "Subject": "Prepare for release 3.4.17-v15 (#1482)"
+            },
+            {
+              "SHA": "0f01ca5a",
+              "Subject": "Use restic 0.13.0 (#1480) (#1481)"
+            },
+            {
+              "SHA": "b962d329",
+              "Subject": "Use Go 1.18 (#1466) (#1467)"
+            },
+            {
+              "SHA": "81abf07e",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1453)"
+            },
+            {
+              "SHA": "77c64325",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1439)"
+            },
+            {
+              "SHA": "47ecc163",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1425)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v15",
+          "commits": [
+            {
+              "SHA": "31b752ed",
+              "Subject": "Prepare for release 3.4.22-v15 (#1483)"
+            },
+            {
+              "SHA": "fc27bd6c",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "8f441de2",
+              "Subject": "Use Go 1.18 (#1466) (#1468)"
+            },
+            {
+              "SHA": "f96ecfc3",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1454)"
+            },
+            {
+              "SHA": "3746814a",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1440)"
+            },
+            {
+              "SHA": "8d1a140a",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1426)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v15",
+          "commits": [
+            {
+              "SHA": "1931c4f5",
+              "Subject": "Prepare for release 3.6.8-v15 (#1485)"
+            },
+            {
+              "SHA": "1a92d450",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "bdd7b1cc",
+              "Subject": "Use Go 1.18 (#1466) (#1470)"
+            },
+            {
+              "SHA": "1e54c5da",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1456)"
+            },
+            {
+              "SHA": "fa12f5a3",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1442)"
+            },
+            {
+              "SHA": "8caec9f3",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1428)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v15",
+          "commits": [
+            {
+              "SHA": "3207c3d8",
+              "Subject": "Prepare for release 3.6.13-v15 (#1484)"
+            },
+            {
+              "SHA": "6b81e8c6",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "ab4e31b1",
+              "Subject": "Use Go 1.18 (#1466) (#1469)"
+            },
+            {
+              "SHA": "c71b1318",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1455)"
+            },
+            {
+              "SHA": "2f1dbdba",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1441)"
+            },
+            {
+              "SHA": "f229bc18",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1427)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v15",
+          "commits": [
+            {
+              "SHA": "7214e8fa",
+              "Subject": "Prepare for release 4.0.3-v15 (#1487)"
+            },
+            {
+              "SHA": "15e09cd3",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "c9d70039",
+              "Subject": "Use Go 1.18 (#1466) (#1472)"
+            },
+            {
+              "SHA": "53b80297",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1458)"
+            },
+            {
+              "SHA": "8046cba4",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1444)"
+            },
+            {
+              "SHA": "582f10d4",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1430)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v15",
+          "commits": [
+            {
+              "SHA": "b4a5a87c",
+              "Subject": "Prepare for release 4.0.5-v15 (#1488)"
+            },
+            {
+              "SHA": "de293f86",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "179b2fdc",
+              "Subject": "Use Go 1.18 (#1466) (#1473)"
+            },
+            {
+              "SHA": "22a17498",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1459)"
+            },
+            {
+              "SHA": "e128a299",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1445)"
+            },
+            {
+              "SHA": "fc5f6506",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1431)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v15",
+          "commits": [
+            {
+              "SHA": "1d7a3de0",
+              "Subject": "Prepare for release 4.0.11-v15 (#1486)"
+            },
+            {
+              "SHA": "0cccc482",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "52ee2894",
+              "Subject": "Use Go 1.18 (#1466) (#1471)"
+            },
+            {
+              "SHA": "8ef1c550",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1457)"
+            },
+            {
+              "SHA": "847a3505",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1443)"
+            },
+            {
+              "SHA": "c61280d0",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1429)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v15",
+          "commits": [
+            {
+              "SHA": "619d4081",
+              "Subject": "Prepare for release 4.1.4-v15 (#1490)"
+            },
+            {
+              "SHA": "92453bef",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "7346833f",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1466) (#1475)"
+            },
+            {
+              "SHA": "4908b80a",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1461)"
+            },
+            {
+              "SHA": "367d80e1",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1447)"
+            },
+            {
+              "SHA": "13d8ad14",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1433)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v15",
+          "commits": [
+            {
+              "SHA": "eb26eb18",
+              "Subject": "Prepare for release 4.1.7-v15 (#1491)"
+            },
+            {
+              "SHA": "2481e91d",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "9530b9f8",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1466) (#1476)"
+            },
+            {
+              "SHA": "c5aab733",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1462)"
+            },
+            {
+              "SHA": "05adf1b1",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1448)"
+            },
+            {
+              "SHA": "ccbd1152",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1434)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v15",
+          "commits": [
+            {
+              "SHA": "2c3283e9",
+              "Subject": "Prepare for release 4.1.13-v15 (#1489)"
+            },
+            {
+              "SHA": "3a8b3866",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "24836e66",
+              "Subject": "Use Go 1.18 (#1466) (#1474)"
+            },
+            {
+              "SHA": "11b3b09c",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1460)"
+            },
+            {
+              "SHA": "3bfab9f1",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1446)"
+            },
+            {
+              "SHA": "6d2aa5fc",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1432)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v15",
+          "commits": [
+            {
+              "SHA": "652a9602",
+              "Subject": "Prepare for release 4.2.3-v15 (#1492)"
+            },
+            {
+              "SHA": "120e3822",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "552c5217",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1466) (#1477)"
+            },
+            {
+              "SHA": "cbf442eb",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1463)"
+            },
+            {
+              "SHA": "4d39da7a",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1449)"
+            },
+            {
+              "SHA": "b60b11fd",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1435)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v6",
+          "commits": [
+            {
+              "SHA": "a7043538",
+              "Subject": "Prepare for release 4.4.6-v6 (#1493)"
+            },
+            {
+              "SHA": "6f30e9ef",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "55ca4046",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1466) (#1478)"
+            },
+            {
+              "SHA": "5b7846c4",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1464)"
+            },
+            {
+              "SHA": "e16bcac4",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1450)"
+            },
+            {
+              "SHA": "8d939ff6",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1436)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v3",
+          "commits": [
+            {
+              "SHA": "0fc4d4f9",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "15939f28",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1466) (#1479)"
+            },
+            {
+              "SHA": "e0ae2279",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1465)"
+            },
+            {
+              "SHA": "1cdc0ae5",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1451)"
+            },
+            {
+              "SHA": "1aacdd1f",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1437)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v16",
+          "commits": [
+            {
+              "SHA": "bb07cd05",
+              "Subject": "Prepare for release 5.7.25-v16 (#599)"
+            },
+            {
+              "SHA": "d481d606",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#594) (#595)"
+            },
+            {
+              "SHA": "518948e0",
+              "Subject": "[cherry-pick] Use Go 1.18 (#589) (#590)"
+            },
+            {
+              "SHA": "77a5f78c",
+              "Subject": "[cherry-pick] Use Go 1.18 (#584) (#585)"
+            },
+            {
+              "SHA": "595a7669",
+              "Subject": "[cherry-pick] make fmt (#579) (#580)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v16",
+          "commits": [
+            {
+              "SHA": "2a1de95f",
+              "Subject": "Prepare for release 8.0.3-v16 (#602)"
+            },
+            {
+              "SHA": "7d4c8598",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#594) (#598)"
+            },
+            {
+              "SHA": "690c5e57",
+              "Subject": "[cherry-pick] Use Go 1.18 (#589) (#593)"
+            },
+            {
+              "SHA": "d74f25c0",
+              "Subject": "[cherry-pick] Use Go 1.18 (#584) (#588)"
+            },
+            {
+              "SHA": "8d564007",
+              "Subject": "[cherry-pick] make fmt (#579) (#583)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v16",
+          "commits": [
+            {
+              "SHA": "4ddb1407",
+              "Subject": "Prepare for release 8.0.14-v16 (#600)"
+            },
+            {
+              "SHA": "3dac3d8e",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#594) (#596)"
+            },
+            {
+              "SHA": "243c3032",
+              "Subject": "[cherry-pick] Use Go 1.18 (#589) (#591)"
+            },
+            {
+              "SHA": "32dc6eb9",
+              "Subject": "[cherry-pick] Use Go 1.18 (#584) (#586)"
+            },
+            {
+              "SHA": "a549ebdf",
+              "Subject": "[cherry-pick] make fmt (#579) (#581)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v10",
+          "commits": [
+            {
+              "SHA": "179a84fb",
+              "Subject": "Prepare for release 8.0.21-v10 (#601)"
+            },
+            {
+              "SHA": "8a441e4e",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#594) (#597)"
+            },
+            {
+              "SHA": "0804b601",
+              "Subject": "[cherry-pick] Use Go 1.18 (#589) (#592)"
+            },
+            {
+              "SHA": "0064f95c",
+              "Subject": "[cherry-pick] Use Go 1.18 (#584) (#587)"
+            },
+            {
+              "SHA": "b6b7c653",
+              "Subject": "[cherry-pick] make fmt (#579) (#582)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v3",
+          "commits": [
+            {
+              "SHA": "cfe6a27",
+              "Subject": "Prepare for release 2.6.1-v3 (#38)"
+            },
+            {
+              "SHA": "d7d5f7c",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#36) (#37)"
+            },
+            {
+              "SHA": "234dc73",
+              "Subject": "[cherry-pick] Use Go 1.18 (#34) (#35)"
+            },
+            {
+              "SHA": "ed5c4a7",
+              "Subject": "[cherry-pick] Use Go 1.18 (#32) (#33)"
+            },
+            {
+              "SHA": "17de3e7",
+              "Subject": "[cherry-pick] make fmt (#30) (#31)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v11",
+          "commits": [
+            {
+              "SHA": "be059737",
+              "Subject": "Prepare for release 5.7-v11 (#248)"
+            },
+            {
+              "SHA": "b5fafc54",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#246) (#247)"
+            },
+            {
+              "SHA": "cd6b848e",
+              "Subject": "[cherry-pick] Use Go 1.18 (#244) (#245)"
+            },
+            {
+              "SHA": "5e9c732d",
+              "Subject": "[cherry-pick] Use Go 1.18 (#242) (#243)"
+            },
+            {
+              "SHA": "8e2fda28",
+              "Subject": "[cherry-pick] make fmt (#240) (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v14",
+          "commits": [
+            {
+              "SHA": "daefabc0",
+              "Subject": "Prepare for release 9.6.19-v14 (#1025)"
+            },
+            {
+              "SHA": "cb432033",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1014) (#1019)"
+            },
+            {
+              "SHA": "cdc98691",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1007) (#1013)"
+            },
+            {
+              "SHA": "f41d2233",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1000) (#1006)"
+            },
+            {
+              "SHA": "ef93027e",
+              "Subject": "[cherry-pick] make fmt (#993) (#999)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v14",
+          "commits": [
+            {
+              "SHA": "44834ce7",
+              "Subject": "Prepare for release 10.14-v14 (#1020)"
+            },
+            {
+              "SHA": "49e26c7b",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1014) (#1015)"
+            },
+            {
+              "SHA": "671ede8a",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1007) (#1008)"
+            },
+            {
+              "SHA": "9aff959d",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1000) (#1001)"
+            },
+            {
+              "SHA": "eed7e597",
+              "Subject": "[cherry-pick] make fmt (#993) (#994)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v14",
+          "commits": [
+            {
+              "SHA": "9cf76131",
+              "Subject": "Prepare for release 11.9-v14 (#1021)"
+            },
+            {
+              "SHA": "86a00eab",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1014) (#1016)"
+            },
+            {
+              "SHA": "c09b4c75",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1007) (#1009)"
+            },
+            {
+              "SHA": "61b21ca5",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1000) (#1002)"
+            },
+            {
+              "SHA": "767095f5",
+              "Subject": "[cherry-pick] make fmt (#993) (#995)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v14",
+          "commits": [
+            {
+              "SHA": "67174902",
+              "Subject": "Prepare for release 12.4-v14 (#1022)"
+            },
+            {
+              "SHA": "3f86c8e0",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1014) (#1017)"
+            },
+            {
+              "SHA": "e3c51f56",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1007) (#1010)"
+            },
+            {
+              "SHA": "24676be8",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1000) (#1003)"
+            },
+            {
+              "SHA": "d214302e",
+              "Subject": "[cherry-pick] make fmt (#993) (#996)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v11",
+          "commits": [
+            {
+              "SHA": "0f7020a2",
+              "Subject": "Prepare for release 13.1-v11 (#1023)"
+            },
+            {
+              "SHA": "8f919d23",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#1014) (#1018)"
+            },
+            {
+              "SHA": "fe60ccc3",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1007) (#1011)"
+            },
+            {
+              "SHA": "723475ed",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1000) (#1004)"
+            },
+            {
+              "SHA": "b7a719bb",
+              "Subject": "[cherry-pick] make fmt (#993) (#997)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v3",
+          "commits": [
+            {
+              "SHA": "2bdbb796",
+              "Subject": "Prepare for release 14.0-v3 (#1024)"
+            },
+            {
+              "SHA": "3c73aaeb",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1007) (#1012)"
+            },
+            {
+              "SHA": "851372a5",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1000) (#1005)"
+            },
+            {
+              "SHA": "a65687e4",
+              "Subject": "[cherry-pick] make fmt (#993) (#998)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v4",
+          "commits": [
+            {
+              "SHA": "fb8fc3d",
+              "Subject": "Prepare for release 5.0.13-v4 (#93)"
+            },
+            {
+              "SHA": "eaf9b82",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#90) (#91)"
+            },
+            {
+              "SHA": "5cb5e1f",
+              "Subject": "[cherry-pick] Use Go 1.18 (#87) (#88)"
+            },
+            {
+              "SHA": "d0bc853",
+              "Subject": "[cherry-pick] Use Go 1.18 (#84) (#85)"
+            },
+            {
+              "SHA": "b8d96af",
+              "Subject": "[cherry-pick] make fmt (#81) (#82)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v4",
+          "commits": [
+            {
+              "SHA": "58a1b2f",
+              "Subject": "Prepare for release 6.2.5-v4 (#94)"
+            },
+            {
+              "SHA": "bb461a4",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#90) (#92)"
+            },
+            {
+              "SHA": "eec38ca",
+              "Subject": "[cherry-pick] Use Go 1.18 (#87) (#89)"
+            },
+            {
+              "SHA": "08a04ad",
+              "Subject": "[cherry-pick] Use Go 1.18 (#84) (#86)"
+            },
+            {
+              "SHA": "9ae8bc3",
+              "Subject": "[cherry-pick] make fmt (#81) (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.2.0",
+          "commits": [
+            {
+              "SHA": "652ae72",
+              "Subject": "Prepare for release v0.2.0 (#13)"
+            },
+            {
+              "SHA": "3270566",
+              "Subject": "Use Go 1.18 (#12)"
+            },
+            {
+              "SHA": "9963c7b",
+              "Subject": "Use Go 1.18 (#11)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
