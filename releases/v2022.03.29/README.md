@@ -58,6 +58,15 @@
 - [767095f5](https://github.com/stashed/postgres/commit/767095f5) [cherry-pick] make fmt (#993) (#995)
 
 
+### [12.4-v14](https://github.com/stashed/postgres/releases/tag/12.4-v14)
+
+- [67174902](https://github.com/stashed/postgres/commit/67174902) Prepare for release 12.4-v14 (#1022)
+- [3f86c8e0](https://github.com/stashed/postgres/commit/3f86c8e0) [cherry-pick] Use restic 0.13.0 (#1014) (#1017)
+- [e3c51f56](https://github.com/stashed/postgres/commit/e3c51f56) [cherry-pick] Use Go 1.18 (#1007) (#1010)
+- [24676be8](https://github.com/stashed/postgres/commit/24676be8) [cherry-pick] Use Go 1.18 (#1000) (#1003)
+- [d214302e](https://github.com/stashed/postgres/commit/d214302e) [cherry-pick] make fmt (#993) (#996)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
