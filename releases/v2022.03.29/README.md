@@ -259,6 +259,15 @@
 - [595a7669](https://github.com/stashed/mysql/commit/595a7669) [cherry-pick] make fmt (#579) (#580)
 
 
+### [8.0.14-v16](https://github.com/stashed/mysql/releases/tag/8.0.14-v16)
+
+- [4ddb1407](https://github.com/stashed/mysql/commit/4ddb1407) Prepare for release 8.0.14-v16 (#600)
+- [3dac3d8e](https://github.com/stashed/mysql/commit/3dac3d8e) [cherry-pick] Use restic 0.13.0 (#594) (#596)
+- [243c3032](https://github.com/stashed/mysql/commit/243c3032) [cherry-pick] Use Go 1.18 (#589) (#591)
+- [32dc6eb9](https://github.com/stashed/mysql/commit/32dc6eb9) [cherry-pick] Use Go 1.18 (#584) (#586)
+- [a549ebdf](https://github.com/stashed/mysql/commit/a549ebdf) [cherry-pick] make fmt (#579) (#581)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
