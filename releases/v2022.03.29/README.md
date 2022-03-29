@@ -127,6 +127,23 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2022.03.29](https://github.com/stashed/installer/releases/tag/v2022.03.29)
+
+- [a13b1fa7](https://github.com/stashed/installer/commit/a13b1fa7) Prepare for release v2022.03.29 (#243)
+- [15dfb31d](https://github.com/stashed/installer/commit/15dfb31d) Add validation webhook to BackBlueprint. (#242)
+- [6e1e9461](https://github.com/stashed/installer/commit/6e1e9461) Fix schema-checker api type (#237)
+- [48aed579](https://github.com/stashed/installer/commit/48aed579) Use restic 0.13.0 (#241)
+- [a4ad251a](https://github.com/stashed/installer/commit/a4ad251a) Make dashboards compatible to Grafana 7.3.5 to 8.x (#240)
+- [f30dda49](https://github.com/stashed/installer/commit/f30dda49) Use Go 1.18 (#239)
+- [b6584e55](https://github.com/stashed/installer/commit/b6584e55) Use Go 1.18 (#238)
+- [d021d8c0](https://github.com/stashed/installer/commit/d021d8c0) Update crds
+- [5c527d2b](https://github.com/stashed/installer/commit/5c527d2b) Use stash namespace by default (#236)
+- [93936767](https://github.com/stashed/installer/commit/93936767) make fmt (#235)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v9](https://github.com/stashed/mariadb/releases/tag/10.5.8-v9)

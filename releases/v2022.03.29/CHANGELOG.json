@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.03.29",
-  "release_date": "2022-03-29T20:15:44.382291707Z",
+  "release_date": "2022-03-29T20:27:48.474639979Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.03.29",
   "kubernetes_version": "1.16+",
@@ -326,6 +326,56 @@
             {
               "SHA": "39ee0f6",
               "Subject": "[cherry-pick] make fmt (#28) (#29)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.03.29",
+          "commits": [
+            {
+              "SHA": "a13b1fa7",
+              "Subject": "Prepare for release v2022.03.29 (#243)"
+            },
+            {
+              "SHA": "15dfb31d",
+              "Subject": "Add validation webhook to BackBlueprint. (#242)"
+            },
+            {
+              "SHA": "6e1e9461",
+              "Subject": "Fix schema-checker api type (#237)"
+            },
+            {
+              "SHA": "48aed579",
+              "Subject": "Use restic 0.13.0 (#241)"
+            },
+            {
+              "SHA": "a4ad251a",
+              "Subject": "Make dashboards compatible to Grafana 7.3.5 to 8.x (#240)"
+            },
+            {
+              "SHA": "f30dda49",
+              "Subject": "Use Go 1.18 (#239)"
+            },
+            {
+              "SHA": "b6584e55",
+              "Subject": "Use Go 1.18 (#238)"
+            },
+            {
+              "SHA": "d021d8c0",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "5c527d2b",
+              "Subject": "Use stash namespace by default (#236)"
+            },
+            {
+              "SHA": "93936767",
+              "Subject": "make fmt (#235)"
             }
           ]
         }
