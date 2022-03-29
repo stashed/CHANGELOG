@@ -116,6 +116,17 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v3](https://github.com/stashed/etcd/releases/tag/3.5.0-v3)
+
+- [319fece](https://github.com/stashed/etcd/commit/319fece) Prepare for release 3.5.0-v3 (#35)
+- [5e44314](https://github.com/stashed/etcd/commit/5e44314) [cherry-pick] Use restic 0.13.0 (#33) (#34)
+- [cbbeedc](https://github.com/stashed/etcd/commit/cbbeedc) [cherry-pick] Use Go 1.18 (#30) (#31)
+- [39ee0f6](https://github.com/stashed/etcd/commit/39ee0f6) [cherry-pick] make fmt (#28) (#29)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v9](https://github.com/stashed/mariadb/releases/tag/10.5.8-v9)

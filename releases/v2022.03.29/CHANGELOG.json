@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.03.29",
-  "release_date": "2022-03-29T20:07:06.210203906Z",
+  "release_date": "2022-03-29T20:15:44.382291707Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.03.29",
   "kubernetes_version": "1.16+",
@@ -302,6 +302,32 @@
         {
           "tag": "v0.19.0",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v3",
+          "commits": [
+            {
+              "SHA": "319fece",
+              "Subject": "Prepare for release 3.5.0-v3 (#35)"
+            },
+            {
+              "SHA": "5e44314",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#33) (#34)"
+            },
+            {
+              "SHA": "cbbeedc",
+              "Subject": "[cherry-pick] Use Go 1.18 (#30) (#31)"
+            },
+            {
+              "SHA": "39ee0f6",
+              "Subject": "[cherry-pick] make fmt (#28) (#29)"
+            }
+          ]
         }
       ]
     },
