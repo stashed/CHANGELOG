@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.03.29",
-  "release_date": "2022-03-29T19:06:17.235167161Z",
+  "release_date": "2022-03-29T19:06:19.727130023Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.03.29",
   "kubernetes_version": "1.16+",
@@ -421,6 +421,35 @@
             {
               "SHA": "f229bc18",
               "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1427)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v15",
+          "commits": [
+            {
+              "SHA": "1d7a3de0",
+              "Subject": "Prepare for release 4.0.11-v15 (#1486)"
+            },
+            {
+              "SHA": "0cccc482",
+              "Subject": "Use restic 0.13.0 (#1480)"
+            },
+            {
+              "SHA": "52ee2894",
+              "Subject": "Use Go 1.18 (#1466) (#1471)"
+            },
+            {
+              "SHA": "8ef1c550",
+              "Subject": "[cherry-pick] Use Go 1.18 (#1452) (#1457)"
+            },
+            {
+              "SHA": "847a3505",
+              "Subject": "[cherry-pick] make fmt (#1438) (#1443)"
+            },
+            {
+              "SHA": "c61280d0",
+              "Subject": "[cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1429)"
             }
           ]
         }
