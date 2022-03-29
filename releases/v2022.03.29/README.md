@@ -168,6 +168,16 @@
 - [582f10d4](https://github.com/stashed/mongodb/commit/582f10d4) [cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1430)
 
 
+### [4.0.5-v15](https://github.com/stashed/mongodb/releases/tag/4.0.5-v15)
+
+- [b4a5a87c](https://github.com/stashed/mongodb/commit/b4a5a87c) Prepare for release 4.0.5-v15 (#1488)
+- [de293f86](https://github.com/stashed/mongodb/commit/de293f86) Use restic 0.13.0 (#1480)
+- [179b2fdc](https://github.com/stashed/mongodb/commit/179b2fdc) Use Go 1.18 (#1466) (#1473)
+- [22a17498](https://github.com/stashed/mongodb/commit/22a17498) [cherry-pick] Use Go 1.18 (#1452) (#1459)
+- [e128a299](https://github.com/stashed/mongodb/commit/e128a299) [cherry-pick] make fmt (#1438) (#1445)
+- [fc5f6506](https://github.com/stashed/mongodb/commit/fc5f6506) [cherry-pick] Update flags: `--username`, `--password` to `--username=`, `--password=` (#1431)
+
+
 ### [4.0.11-v15](https://github.com/stashed/mongodb/releases/tag/4.0.11-v15)
 
 - [1d7a3de0](https://github.com/stashed/mongodb/commit/1d7a3de0) Prepare for release 4.0.11-v15 (#1486)
