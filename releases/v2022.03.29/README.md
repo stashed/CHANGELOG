@@ -84,6 +84,14 @@
 - [7388c816](https://github.com/stashed/elasticsearch/commit/7388c816) [cherry-pick] make fmt (#1107) (#1113)
 
 
+### [7.14.0-v2](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v2)
+
+- [79de930f](https://github.com/stashed/elasticsearch/commit/79de930f) Prepare for release 7.14.0-v2 (#1147)
+- [88c0f2d4](https://github.com/stashed/elasticsearch/commit/88c0f2d4) [cherry-pick] Use restic 0.13.0 (#1131) (#1138)
+- [75bcb45b](https://github.com/stashed/elasticsearch/commit/75bcb45b) [cherry-pick] Use Go 1.18 (#1117) (#1124)
+- [bb5196e5](https://github.com/stashed/elasticsearch/commit/bb5196e5) [cherry-pick] make fmt (#1107) (#1114)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
