@@ -299,6 +299,18 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v3](https://github.com/stashed/nats/releases/tag/2.6.1-v3)
+
+- [cfe6a27](https://github.com/stashed/nats/commit/cfe6a27) Prepare for release 2.6.1-v3 (#38)
+- [d7d5f7c](https://github.com/stashed/nats/commit/d7d5f7c) [cherry-pick] Use restic 0.13.0 (#36) (#37)
+- [234dc73](https://github.com/stashed/nats/commit/234dc73) [cherry-pick] Use Go 1.18 (#34) (#35)
+- [ed5c4a7](https://github.com/stashed/nats/commit/ed5c4a7) [cherry-pick] Use Go 1.18 (#32) (#33)
+- [17de3e7](https://github.com/stashed/nats/commit/17de3e7) [cherry-pick] make fmt (#30) (#31)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v11](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v11)
