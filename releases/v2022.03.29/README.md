@@ -366,6 +366,15 @@
 - [b8d96af](https://github.com/stashed/redis/commit/b8d96af) [cherry-pick] make fmt (#81) (#82)
 
 
+### [6.2.5-v4](https://github.com/stashed/redis/releases/tag/6.2.5-v4)
+
+- [58a1b2f](https://github.com/stashed/redis/commit/58a1b2f) Prepare for release 6.2.5-v4 (#94)
+- [bb461a4](https://github.com/stashed/redis/commit/bb461a4) [cherry-pick] Use restic 0.13.0 (#90) (#92)
+- [eec38ca](https://github.com/stashed/redis/commit/eec38ca) [cherry-pick] Use Go 1.18 (#87) (#89)
+- [08a04ad](https://github.com/stashed/redis/commit/08a04ad) [cherry-pick] Use Go 1.18 (#84) (#86)
+- [9ae8bc3](https://github.com/stashed/redis/commit/9ae8bc3) [cherry-pick] make fmt (#81) (#83)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
