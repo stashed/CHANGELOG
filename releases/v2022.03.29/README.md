@@ -76,6 +76,14 @@
 - [b7a719bb](https://github.com/stashed/postgres/commit/b7a719bb) [cherry-pick] make fmt (#993) (#997)
 
 
+### [14.0-v3](https://github.com/stashed/postgres/releases/tag/14.0-v3)
+
+- [2bdbb796](https://github.com/stashed/postgres/commit/2bdbb796) Prepare for release 14.0-v3 (#1024)
+- [3c73aaeb](https://github.com/stashed/postgres/commit/3c73aaeb) [cherry-pick] Use Go 1.18 (#1007) (#1012)
+- [851372a5](https://github.com/stashed/postgres/commit/851372a5) [cherry-pick] Use Go 1.18 (#1000) (#1005)
+- [a65687e4](https://github.com/stashed/postgres/commit/a65687e4) [cherry-pick] make fmt (#993) (#998)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
