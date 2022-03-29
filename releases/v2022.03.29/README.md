@@ -299,6 +299,18 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v11](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v11)
+
+- [be059737](https://github.com/stashed/percona-xtradb/commit/be059737) Prepare for release 5.7-v11 (#248)
+- [b5fafc54](https://github.com/stashed/percona-xtradb/commit/b5fafc54) [cherry-pick] Use restic 0.13.0 (#246) (#247)
+- [cd6b848e](https://github.com/stashed/percona-xtradb/commit/cd6b848e) [cherry-pick] Use Go 1.18 (#244) (#245)
+- [5e9c732d](https://github.com/stashed/percona-xtradb/commit/5e9c732d) [cherry-pick] Use Go 1.18 (#242) (#243)
+- [8e2fda28](https://github.com/stashed/percona-xtradb/commit/8e2fda28) [cherry-pick] make fmt (#240) (#241)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v14](https://github.com/stashed/postgres/releases/tag/9.6.19-v14)

@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.03.29",
-  "release_date": "2022-03-29T19:42:02.778038858Z",
+  "release_date": "2022-03-29T19:56:36.929361425Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.03.29",
   "kubernetes_version": "1.16+",
@@ -813,6 +813,36 @@
             {
               "SHA": "b6b7c653",
               "Subject": "[cherry-pick] make fmt (#579) (#582)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v11",
+          "commits": [
+            {
+              "SHA": "be059737",
+              "Subject": "Prepare for release 5.7-v11 (#248)"
+            },
+            {
+              "SHA": "b5fafc54",
+              "Subject": "[cherry-pick] Use restic 0.13.0 (#246) (#247)"
+            },
+            {
+              "SHA": "cd6b848e",
+              "Subject": "[cherry-pick] Use Go 1.18 (#244) (#245)"
+            },
+            {
+              "SHA": "5e9c732d",
+              "Subject": "[cherry-pick] Use Go 1.18 (#242) (#243)"
+            },
+            {
+              "SHA": "8e2fda28",
+              "Subject": "[cherry-pick] make fmt (#240) (#241)"
             }
           ]
         }
