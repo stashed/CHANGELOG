@@ -18,6 +18,15 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2022.03.29](https://github.com/stashed/bundles/releases/tag/v2022.03.29)
+
+- [8f911a3](https://github.com/stashed/bundles/commit/8f911a3) Prepare for release v2022.03.29 (#59)
+- [29b029b](https://github.com/stashed/bundles/commit/29b029b) Use Go 1.18 (#58)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.19.0](https://github.com/stashed/cli/releases/tag/v0.19.0)

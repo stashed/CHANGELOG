@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.03.29",
-  "release_date": "2022-03-29T20:53:27.529589247Z",
+  "release_date": "2022-03-29T20:57:39.27632772Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.03.29",
   "kubernetes_version": "1.16+",
@@ -51,6 +51,24 @@
             {
               "SHA": "d3d5fb01",
               "Subject": "make fmt (#154)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2022.03.29",
+          "commits": [
+            {
+              "SHA": "8f911a3",
+              "Subject": "Prepare for release v2022.03.29 (#59)"
+            },
+            {
+              "SHA": "29b029b",
+              "Subject": "Use Go 1.18 (#58)"
             }
           ]
         }
