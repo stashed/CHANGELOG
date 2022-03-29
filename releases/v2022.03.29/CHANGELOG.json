@@ -1,0 +1,60 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.03.29",
+  "release_date": "2022-03-29T17:15:59.467143671Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.03.29",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "6508ad7e",
+              "Subject": "Make calculateBackupInvokerPhase() public (#163)"
+            },
+            {
+              "SHA": "9db91ba2",
+              "Subject": "Update Modules (#161)"
+            },
+            {
+              "SHA": "31979993",
+              "Subject": "Use restic 0.13.0 (#162)"
+            },
+            {
+              "SHA": "94de58f7",
+              "Subject": "Add cross-namespace support to Auto-Backup. (#159)"
+            },
+            {
+              "SHA": "64b22c52",
+              "Subject": "Make Secret Key Optional for GCS, S3 Provider, and Azure (#160)"
+            },
+            {
+              "SHA": "84656cc2",
+              "Subject": "Use Go 1.18 (#157)"
+            },
+            {
+              "SHA": "c5658a77",
+              "Subject": "Update UID generation for GenericResource (#158)"
+            },
+            {
+              "SHA": "7df8eca4",
+              "Subject": "Fix Pending phase calculation (#155)"
+            },
+            {
+              "SHA": "dc76c985",
+              "Subject": "Add hook executor helper package (#153)"
+            },
+            {
+              "SHA": "d3d5fb01",
+              "Subject": "make fmt (#154)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
