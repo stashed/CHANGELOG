@@ -14,3 +14,18 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.20.0](https://github.com/stashed/stash/releases/tag/v0.20.0)
+
+- [6a3680ec](https://github.com/stashed/stash/commit/6a3680ec) Prepare for release v0.20.0 (#1443)
+- [a56bfc73](https://github.com/stashed/stash/commit/a56bfc73) Update nats client to v1.15.0 (#1442)
+- [2d0b4e97](https://github.com/stashed/stash/commit/2d0b4e97) Port Cross-namespace target support related change from enterprise repo (#1441)
+- [4927bcef](https://github.com/stashed/stash/commit/4927bcef) Pass `TopologySpreadConstraints` in `ApplyPodRuntimeSettings()` (#1440)
+- [ca8ef3be](https://github.com/stashed/stash/commit/ca8ef3be) Update requirements for `VolumeSnapshotter`
+- [93b93361](https://github.com/stashed/stash/commit/93b93361) Update requirements for VolumeSnapshotter
+- [82de61a2](https://github.com/stashed/stash/commit/82de61a2) Update RoleBinding name (#1437)
+- [2e328b9e](https://github.com/stashed/stash/commit/2e328b9e) Use restic 0.13.1 (#1438)
+
+
+

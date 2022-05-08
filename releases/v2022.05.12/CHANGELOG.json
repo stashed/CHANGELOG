@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.05.12",
-  "release_date": "2022-05-08T06:07:52.287497431Z",
+  "release_date": "2022-05-08T06:21:10.590976952Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.05.12",
   "kubernetes_version": "1.16+",
@@ -35,6 +35,48 @@
             {
               "SHA": "8d0e2056",
               "Subject": "Use restic 0.13.1 (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "6a3680ec",
+              "Subject": "Prepare for release v0.20.0 (#1443)"
+            },
+            {
+              "SHA": "a56bfc73",
+              "Subject": "Update nats client to v1.15.0 (#1442)"
+            },
+            {
+              "SHA": "2d0b4e97",
+              "Subject": "Port Cross-namespace target support related change from enterprise repo (#1441)"
+            },
+            {
+              "SHA": "4927bcef",
+              "Subject": "Pass `TopologySpreadConstraints` in `ApplyPodRuntimeSettings()` (#1440)"
+            },
+            {
+              "SHA": "ca8ef3be",
+              "Subject": "Update requirements for `VolumeSnapshotter`"
+            },
+            {
+              "SHA": "93b93361",
+              "Subject": "Update requirements for VolumeSnapshotter"
+            },
+            {
+              "SHA": "82de61a2",
+              "Subject": "Update RoleBinding name (#1437)"
+            },
+            {
+              "SHA": "2e328b9e",
+              "Subject": "Use restic 0.13.1 (#1438)"
             }
           ]
         }
