@@ -114,6 +114,17 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v10](https://github.com/stashed/mariadb/releases/tag/10.5.8-v10)
+
+- [38e5f0b](https://github.com/stashed/mariadb/commit/38e5f0b) Prepare for release 10.5.8-v10 (#185)
+- [786a415](https://github.com/stashed/mariadb/commit/786a415) [cherry-pick] Update nats client to v1.15.0 (#183) (#184)
+- [35c8298](https://github.com/stashed/mariadb/commit/35c8298) Add support for cross-namespace target (#181) (#182)
+- [cdd168d](https://github.com/stashed/mariadb/commit/cdd168d) [cherry-pick] Use restic 0.13.1 (#179) (#180)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v16](https://github.com/stashed/mongodb/releases/tag/3.4.17-v16)
