@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.05.12",
-  "release_date": "2022-05-09T07:42:25.350721661Z",
+  "release_date": "2022-05-09T07:42:27.135514102Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.05.12",
   "kubernetes_version": "1.16+",
@@ -542,6 +542,27 @@
             {
               "SHA": "d1660f7f",
               "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1510)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v4",
+          "commits": [
+            {
+              "SHA": "4cf40adb",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1539)"
+            },
+            {
+              "SHA": "1c739adb",
+              "Subject": "Add support for cross-namespace target (#1512) (#1525)"
+            },
+            {
+              "SHA": "8a6f7fb1",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1511)"
+            },
+            {
+              "SHA": "5bc21111",
+              "Subject": "Prepare for release 5.0.3-v3 (#1497)"
             }
           ]
         }
