@@ -14,6 +14,14 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2022.05.12](https://github.com/stashed/bundles/releases/tag/v2022.05.12)
+
+- [e6b7d66](https://github.com/stashed/bundles/commit/e6b7d66) Prepare for release v2022.05.12 (#60)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.20.0](https://github.com/stashed/cli/releases/tag/v0.20.0)

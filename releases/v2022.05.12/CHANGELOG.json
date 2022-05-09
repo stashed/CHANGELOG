@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.05.12",
-  "release_date": "2022-05-09T09:41:19.53968596Z",
+  "release_date": "2022-05-09T09:51:24.344438433Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.05.12",
   "kubernetes_version": "1.16+",
@@ -35,6 +35,20 @@
             {
               "SHA": "8d0e2056",
               "Subject": "Use restic 0.13.1 (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2022.05.12",
+          "commits": [
+            {
+              "SHA": "e6b7d66",
+              "Subject": "Prepare for release v2022.05.12 (#60)"
             }
           ]
         }
