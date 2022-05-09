@@ -58,6 +58,14 @@
 - [eef99803](https://github.com/stashed/postgres/commit/eef99803) [cherry-pick] Use restic 0.13.1 (#1027) (#1029)
 
 
+### [12.4-v15](https://github.com/stashed/postgres/releases/tag/12.4-v15)
+
+- [4055f1b2](https://github.com/stashed/postgres/commit/4055f1b2) Prepare for release 12.4-v15 (#1048)
+- [cccf210e](https://github.com/stashed/postgres/commit/cccf210e) [cherry-pick] Update nats client to v1.15.0 (#1039) (#1042)
+- [6b106d50](https://github.com/stashed/postgres/commit/6b106d50) Add support for cross-namespace target (#1032) (#1035)
+- [26099d08](https://github.com/stashed/postgres/commit/26099d08) [cherry-pick] Use restic 0.13.1 (#1027) (#1030)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
