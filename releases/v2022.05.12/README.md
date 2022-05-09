@@ -229,6 +229,14 @@
 - [060f151a](https://github.com/stashed/mysql/commit/060f151a) [cherry-pick] Use restic 0.13.1 (#604) (#605)
 
 
+### [8.0.14-v17](https://github.com/stashed/mysql/releases/tag/8.0.14-v17)
+
+- [408bad82](https://github.com/stashed/mysql/commit/408bad82) Prepare for release 8.0.14-v17 (#618)
+- [27fc0d17](https://github.com/stashed/mysql/commit/27fc0d17) [cherry-pick] Update nats client to v1.15.0 (#612) (#614)
+- [3106710c](https://github.com/stashed/mysql/commit/3106710c) Add support for cross-namespace target. (#607) (#609)
+- [ea8c60ec](https://github.com/stashed/mysql/commit/ea8c60ec) [cherry-pick] Use restic 0.13.1 (#604) (#606)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
