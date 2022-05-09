@@ -114,6 +114,17 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v4](https://github.com/stashed/etcd/releases/tag/3.5.0-v4)
+
+- [f48c690](https://github.com/stashed/etcd/commit/f48c690) Prepare for release 3.5.0-v4 (#43)
+- [119ce00](https://github.com/stashed/etcd/commit/119ce00) [cherry-pick] Update nats client to v1.15.0 (#41) (#42)
+- [d17c3e8](https://github.com/stashed/etcd/commit/d17c3e8) Add support for cross-namespace target (#39) (#40)
+- [8300c3a](https://github.com/stashed/etcd/commit/8300c3a) [cherry-pick] Use restic 0.13.1 (#37) (#38)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v10](https://github.com/stashed/mariadb/releases/tag/10.5.8-v10)
