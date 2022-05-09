@@ -322,6 +322,14 @@
 - [b2af9aa](https://github.com/stashed/redis/commit/b2af9aa) [cherry-pick] Use restic 0.13.1 (#96) (#97)
 
 
+### [6.2.5-v5](https://github.com/stashed/redis/releases/tag/6.2.5-v5)
+
+- [73c4af8](https://github.com/stashed/redis/commit/73c4af8) Prepare for release 6.2.5-v5 (#104)
+- [165f4a3](https://github.com/stashed/redis/commit/165f4a3) [cherry-pick] Update nats client to v1.15.0 (#100) (#102)
+- [757f2a7](https://github.com/stashed/redis/commit/757f2a7) Add support for cross-namespace target (#99)
+- [b4bfe91](https://github.com/stashed/redis/commit/b4bfe91) [cherry-pick] Use restic 0.13.1 (#96) (#98)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
