@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.05.12",
-  "release_date": "2022-05-09T04:22:20.422628322Z",
+  "release_date": "2022-05-09T04:32:07.303495963Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.05.12",
   "kubernetes_version": "1.16+",
@@ -57,6 +57,32 @@
             {
               "SHA": "a66abe45",
               "Subject": "Use restic 0.13.1 (#161)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v17",
+          "commits": [
+            {
+              "SHA": "dd7bbf09",
+              "Subject": "Prepare for release 5.6.4-v17 (#1180)"
+            },
+            {
+              "SHA": "88bf5065",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1170) (#1171)"
+            },
+            {
+              "SHA": "0a7e37fb",
+              "Subject": "Add support for cross-namespace target (#1160) (#1161)"
+            },
+            {
+              "SHA": "c28cbac3",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1151) (#1152)"
             }
           ]
         }
