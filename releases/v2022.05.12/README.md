@@ -171,6 +171,14 @@
 - [d4e7f6df](https://github.com/stashed/mongodb/commit/d4e7f6df) [cherry-pick] Use restic 0.13.1 (#1499) (#1504)
 
 
+### [4.1.4-v16](https://github.com/stashed/mongodb/releases/tag/4.1.4-v16)
+
+- [e849db61](https://github.com/stashed/mongodb/commit/e849db61) Prepare for release 4.1.4-v16 (#1548)
+- [32576241](https://github.com/stashed/mongodb/commit/32576241) [cherry-pick] Update nats client to v1.15.0 (#1526) (#1535)
+- [16601091](https://github.com/stashed/mongodb/commit/16601091) Add support for cross-namespace target (#1512) (#1521)
+- [c7c78813](https://github.com/stashed/mongodb/commit/c7c78813) [cherry-pick] Use restic 0.13.1 (#1499) (#1507)
+
+
 ### [4.1.13-v16](https://github.com/stashed/mongodb/releases/tag/4.1.13-v16)
 
 - [b7a7701b](https://github.com/stashed/mongodb/commit/b7a7701b) Prepare for release 4.1.13-v16 (#1547)
