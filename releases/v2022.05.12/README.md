@@ -312,6 +312,17 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v5](https://github.com/stashed/redis/releases/tag/5.0.13-v5)
+
+- [b3f3395](https://github.com/stashed/redis/commit/b3f3395) Prepare for release 5.0.13-v5 (#103)
+- [6d37e9c](https://github.com/stashed/redis/commit/6d37e9c) [cherry-pick] Update nats client to v1.15.0 (#100) (#101)
+- [429b312](https://github.com/stashed/redis/commit/429b312) Add support for cross-namespace target (#99)
+- [b2af9aa](https://github.com/stashed/redis/commit/b2af9aa) [cherry-pick] Use restic 0.13.1 (#96) (#97)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.20.0](https://github.com/stashed/stash/releases/tag/v0.20.0)
