@@ -125,6 +125,21 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2022.05.12](https://github.com/stashed/installer/releases/tag/v2022.05.12)
+
+- [5cbe698c](https://github.com/stashed/installer/commit/5cbe698c) Prepare for release v2022.05.12 (#251)
+- [046a8f2d](https://github.com/stashed/installer/commit/046a8f2d) Update nats client to v1.15.0 (#250)
+- [55b9a5d5](https://github.com/stashed/installer/commit/55b9a5d5) Add catalogs for manifest-backup addon (#248)
+- [e07115b2](https://github.com/stashed/installer/commit/e07115b2) Update grafana dashboard to use updated panopticon metrics format (#249)
+- [3e7a25f8](https://github.com/stashed/installer/commit/3e7a25f8) Update MetricsConfiguration (#247)
+- [13cefa64](https://github.com/stashed/installer/commit/13cefa64) Add `appbbinding-namespace` flag to backup and restore functions (#246)
+- [e2900e0f](https://github.com/stashed/installer/commit/e2900e0f) Use restic 0.13.1 (#245)
+- [015b099e](https://github.com/stashed/installer/commit/015b099e) Fix ui-server schema (#244)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0](https://github.com/stashed/kubedump/releases/tag/0.1.0)

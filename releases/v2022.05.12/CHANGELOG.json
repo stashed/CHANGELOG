@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.05.12",
-  "release_date": "2022-05-09T08:54:59.961127936Z",
+  "release_date": "2022-05-09T09:09:19.890384767Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.05.12",
   "kubernetes_version": "1.16+",
@@ -319,6 +319,48 @@
             {
               "SHA": "8300c3a",
               "Subject": "[cherry-pick] Use restic 0.13.1 (#37) (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.05.12",
+          "commits": [
+            {
+              "SHA": "5cbe698c",
+              "Subject": "Prepare for release v2022.05.12 (#251)"
+            },
+            {
+              "SHA": "046a8f2d",
+              "Subject": "Update nats client to v1.15.0 (#250)"
+            },
+            {
+              "SHA": "55b9a5d5",
+              "Subject": "Add catalogs for manifest-backup addon (#248)"
+            },
+            {
+              "SHA": "e07115b2",
+              "Subject": "Update grafana dashboard to use updated panopticon metrics format (#249)"
+            },
+            {
+              "SHA": "3e7a25f8",
+              "Subject": "Update MetricsConfiguration (#247)"
+            },
+            {
+              "SHA": "13cefa64",
+              "Subject": "Add `appbbinding-namespace` flag to backup and restore functions (#246)"
+            },
+            {
+              "SHA": "e2900e0f",
+              "Subject": "Use restic 0.13.1 (#245)"
+            },
+            {
+              "SHA": "015b099e",
+              "Subject": "Fix ui-server schema (#244)"
             }
           ]
         }
