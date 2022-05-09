@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.05.12",
-  "release_date": "2022-05-09T04:22:16.625231046Z",
+  "release_date": "2022-05-09T04:22:18.546244052Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.05.12",
   "kubernetes_version": "1.16+",
@@ -188,6 +188,23 @@
             {
               "SHA": "1a7f5854",
               "Subject": "[cherry-pick] Add support for cross-namespace target (#1032) (#1036)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v4",
+          "commits": [
+            {
+              "SHA": "9b91f298",
+              "Subject": "Prepare for release 14.0-v4 (#1050)"
+            },
+            {
+              "SHA": "2afdd9e7",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1039) (#1044)"
+            },
+            {
+              "SHA": "196fd0fd",
+              "Subject": "[cherry-pick] Add support for cross-namespace target (#1032) (#1037)"
             }
           ]
         }

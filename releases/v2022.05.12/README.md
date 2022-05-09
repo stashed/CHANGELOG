@@ -73,6 +73,13 @@
 - [1a7f5854](https://github.com/stashed/postgres/commit/1a7f5854) [cherry-pick] Add support for cross-namespace target (#1032) (#1036)
 
 
+### [14.0-v4](https://github.com/stashed/postgres/releases/tag/14.0-v4)
+
+- [9b91f298](https://github.com/stashed/postgres/commit/9b91f298) Prepare for release 14.0-v4 (#1050)
+- [2afdd9e7](https://github.com/stashed/postgres/commit/2afdd9e7) [cherry-pick] Update nats client to v1.15.0 (#1039) (#1044)
+- [196fd0fd](https://github.com/stashed/postgres/commit/196fd0fd) [cherry-pick] Add support for cross-namespace target (#1032) (#1037)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
