@@ -1,0 +1,1185 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.05.12",
+  "release_date": "2022-05-09T09:51:24.344438433Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.05.12",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "59662acc",
+              "Subject": "Update nats client to v1.15.0 (#168)"
+            },
+            {
+              "SHA": "c840c081",
+              "Subject": "Use EmptyTarget when target is not specified (#156)"
+            },
+            {
+              "SHA": "73208310",
+              "Subject": "Utilize target count during calculating invoker phase + Add `backupNamespace` in BackupBlueprint (#167)"
+            },
+            {
+              "SHA": "61c413e1",
+              "Subject": "Add topologySpreadConstraints to RuntimeSettings (#166)"
+            },
+            {
+              "SHA": "dbb9ce30",
+              "Subject": "Add Cross-namespace target support. (#164)"
+            },
+            {
+              "SHA": "8d0e2056",
+              "Subject": "Use restic 0.13.1 (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2022.05.12",
+          "commits": [
+            {
+              "SHA": "e6b7d66",
+              "Subject": "Prepare for release v2022.05.12 (#60)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "9c3e9a57",
+              "Subject": "Prepare for release v0.20.0 (#163)"
+            },
+            {
+              "SHA": "a267d818",
+              "Subject": "Update nats client to v1.15.0 (#162)"
+            },
+            {
+              "SHA": "a66abe45",
+              "Subject": "Use restic 0.13.1 (#161)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.05.12",
+          "commits": [
+            {
+              "SHA": "6f09c06",
+              "Subject": "Prepare for release v2022.05.12 (#227)"
+            },
+            {
+              "SHA": "f0b0d41",
+              "Subject": "Update docs for stashed/stash@a56bfc73 (#226)"
+            },
+            {
+              "SHA": "67ca989",
+              "Subject": "Add docs for cross-namespace-target backup/restore. (#223)"
+            },
+            {
+              "SHA": "fe9de24",
+              "Subject": "Add Documentation for Automatic Backup in Dedicated Namespace (#224)"
+            },
+            {
+              "SHA": "3c1434d",
+              "Subject": "Update webhook docs (#220)"
+            },
+            {
+              "SHA": "1bb4d0d",
+              "Subject": "Add `Backup NotReady` and `Restore Pending` in the troubleshooting guide (#221)"
+            },
+            {
+              "SHA": "faef324",
+              "Subject": "Update VolumeSnapshot Documentation (#219)"
+            },
+            {
+              "SHA": "6559500",
+              "Subject": "Update Platform Directory Structure (#218)"
+            },
+            {
+              "SHA": "c1fc7f7",
+              "Subject": "Update FAQ  (#217)"
+            },
+            {
+              "SHA": "c26d059",
+              "Subject": "Update platform docs for Workload Identity Support (#216)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v17",
+          "commits": [
+            {
+              "SHA": "dd7bbf09",
+              "Subject": "Prepare for release 5.6.4-v17 (#1180)"
+            },
+            {
+              "SHA": "88bf5065",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1170) (#1171)"
+            },
+            {
+              "SHA": "0a7e37fb",
+              "Subject": "Add support for cross-namespace target (#1160) (#1161)"
+            },
+            {
+              "SHA": "c28cbac3",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1151) (#1152)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v17",
+          "commits": [
+            {
+              "SHA": "54721c76",
+              "Subject": "Prepare for release 6.2.4-v17 (#1181)"
+            },
+            {
+              "SHA": "726d1ff6",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1170) (#1172)"
+            },
+            {
+              "SHA": "7e4fc91a",
+              "Subject": "Add support for cross-namespace target (#1160) (#1162)"
+            },
+            {
+              "SHA": "5ece0776",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1151) (#1153)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v17",
+          "commits": [
+            {
+              "SHA": "c65ea376",
+              "Subject": "Prepare for release 6.3.0-v17 (#1182)"
+            },
+            {
+              "SHA": "65650751",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1170) (#1173)"
+            },
+            {
+              "SHA": "9b38d077",
+              "Subject": "Add support for cross-namespace target (#1160) (#1163)"
+            },
+            {
+              "SHA": "bed66f42",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1151) (#1154)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v17",
+          "commits": [
+            {
+              "SHA": "4d4072c3",
+              "Subject": "Prepare for release 6.4.0-v17 (#1183)"
+            },
+            {
+              "SHA": "6def816f",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1170) (#1174)"
+            },
+            {
+              "SHA": "13362334",
+              "Subject": "Add support for cross-namespace target (#1160) (#1164)"
+            },
+            {
+              "SHA": "109f5a4a",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1151) (#1155)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v17",
+          "commits": [
+            {
+              "SHA": "e422361c",
+              "Subject": "Prepare for release 6.5.3-v17 (#1184)"
+            },
+            {
+              "SHA": "c3bc2044",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1170) (#1175)"
+            },
+            {
+              "SHA": "ad39246d",
+              "Subject": "Add support for cross-namespace target (#1160) (#1165)"
+            },
+            {
+              "SHA": "94c472f3",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1151) (#1156)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v17",
+          "commits": [
+            {
+              "SHA": "2a2eccd8",
+              "Subject": "Prepare for release 6.8.0-v17 (#1185)"
+            },
+            {
+              "SHA": "133e8dfd",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1170) (#1176)"
+            },
+            {
+              "SHA": "0ddc79b2",
+              "Subject": "Add support for cross-namespace target (#1160) (#1166)"
+            },
+            {
+              "SHA": "0cc4d57c",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1151) (#1157)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v17",
+          "commits": [
+            {
+              "SHA": "7c388a05",
+              "Subject": "Prepare for release 7.2.0-v17 (#1187)"
+            },
+            {
+              "SHA": "f344f507",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1170) (#1178)"
+            },
+            {
+              "SHA": "0d8256bf",
+              "Subject": "[cherry-pick] Add support for cross-namespace target (#1160) (#1168)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v17",
+          "commits": [
+            {
+              "SHA": "4f45b187",
+              "Subject": "Prepare for release 7.3.2-v17 (#1188)"
+            },
+            {
+              "SHA": "fc8920a7",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1170) (#1179)"
+            },
+            {
+              "SHA": "fd63fd18",
+              "Subject": "Add support for cross-namespace target (#1160) (#1169)"
+            },
+            {
+              "SHA": "7389d64d",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1151) (#1159)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v3",
+          "commits": [
+            {
+              "SHA": "f67cef25",
+              "Subject": "Prepare for release 7.14.0-v3 (#1186)"
+            },
+            {
+              "SHA": "3e98ed36",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1170) (#1177)"
+            },
+            {
+              "SHA": "6b7522e3",
+              "Subject": "Add support for cross-namespace target (#1160) (#1167)"
+            },
+            {
+              "SHA": "8cf47e9f",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1151) (#1158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "b6f3fac2",
+              "Subject": "Prepare for release v0.20.0 (#170)"
+            },
+            {
+              "SHA": "180a6360",
+              "Subject": "Update nats client to v1.15.0 (#169)"
+            },
+            {
+              "SHA": "a315a1f6",
+              "Subject": "Support empty target ref (#151)"
+            },
+            {
+              "SHA": "75e07270",
+              "Subject": "Fix errors caught in the e2e tests. (#168)"
+            },
+            {
+              "SHA": "c8a574d5",
+              "Subject": "Add support for cross-namespace target. (#164)"
+            },
+            {
+              "SHA": "94d51f57",
+              "Subject": "Pass TopologySpreadConstraints in ApplyPodRuntimeSettings()"
+            },
+            {
+              "SHA": "f3b333ae",
+              "Subject": "Update requirements for VolumeSnapshotter (#167)"
+            },
+            {
+              "SHA": "fb63db1d",
+              "Subject": "Use restic 0.13.1 (#166)"
+            },
+            {
+              "SHA": "97d5e06d",
+              "Subject": "Update `RoleBinding` name (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v4",
+          "commits": [
+            {
+              "SHA": "f48c690",
+              "Subject": "Prepare for release 3.5.0-v4 (#43)"
+            },
+            {
+              "SHA": "119ce00",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#41) (#42)"
+            },
+            {
+              "SHA": "d17c3e8",
+              "Subject": "Add support for cross-namespace target (#39) (#40)"
+            },
+            {
+              "SHA": "8300c3a",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#37) (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.05.12",
+          "commits": [
+            {
+              "SHA": "5cbe698c",
+              "Subject": "Prepare for release v2022.05.12 (#251)"
+            },
+            {
+              "SHA": "046a8f2d",
+              "Subject": "Update nats client to v1.15.0 (#250)"
+            },
+            {
+              "SHA": "55b9a5d5",
+              "Subject": "Add catalogs for manifest-backup addon (#248)"
+            },
+            {
+              "SHA": "e07115b2",
+              "Subject": "Update grafana dashboard to use updated panopticon metrics format (#249)"
+            },
+            {
+              "SHA": "3e7a25f8",
+              "Subject": "Update MetricsConfiguration (#247)"
+            },
+            {
+              "SHA": "13cefa64",
+              "Subject": "Add `appbbinding-namespace` flag to backup and restore functions (#246)"
+            },
+            {
+              "SHA": "e2900e0f",
+              "Subject": "Use restic 0.13.1 (#245)"
+            },
+            {
+              "SHA": "015b099e",
+              "Subject": "Fix ui-server schema (#244)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0",
+          "commits": [
+            {
+              "SHA": "7db2e3e",
+              "Subject": "Prepare for release 0.1.0 (#4)"
+            },
+            {
+              "SHA": "3914bbe",
+              "Subject": "Remove .idea folder"
+            },
+            {
+              "SHA": "08ae97c",
+              "Subject": "Update nats client to v1.15.0 (#3)"
+            },
+            {
+              "SHA": "b742e9b",
+              "Subject": "Use Go 1.18 (#2)"
+            },
+            {
+              "SHA": "0368858",
+              "Subject": "Merge pull request #1 from stashed/implement-plugin"
+            },
+            {
+              "SHA": "b5b1ae0",
+              "Subject": "Fix CI"
+            },
+            {
+              "SHA": "80eb90e",
+              "Subject": "test ci"
+            },
+            {
+              "SHA": "103a512",
+              "Subject": "test ci"
+            },
+            {
+              "SHA": "5c84f7c",
+              "Subject": "test ci"
+            },
+            {
+              "SHA": "c00c5d9",
+              "Subject": "test ci"
+            },
+            {
+              "SHA": "82d7168",
+              "Subject": "test ci"
+            },
+            {
+              "SHA": "d550477",
+              "Subject": "Debug CI failure Signed-off-by: Emruz Hossain <emruz@appscode.com>"
+            },
+            {
+              "SHA": "143f06b",
+              "Subject": "Create kind cluster in ci"
+            },
+            {
+              "SHA": "ce7cdd7",
+              "Subject": "Rename components from manifest-backup to kubedump"
+            },
+            {
+              "SHA": "d2a417e",
+              "Subject": "Fix target matcher"
+            },
+            {
+              "SHA": "8c33614",
+              "Subject": "Update flags"
+            },
+            {
+              "SHA": "9dbfd9f",
+              "Subject": "Finish implementing the plugin"
+            },
+            {
+              "SHA": "103434d",
+              "Subject": "Refactor code"
+            },
+            {
+              "SHA": "ad144f2",
+              "Subject": "Add appication backup logic"
+            },
+            {
+              "SHA": "8baf9f7",
+              "Subject": "Implement namespace level backup"
+            },
+            {
+              "SHA": "57a4c48",
+              "Subject": "WIP: Add namespace level backup Signed-off-by: Emruz Hossain <emruz@appscode.com>"
+            },
+            {
+              "SHA": "a0a61a7",
+              "Subject": "Implement cluster backup interface"
+            },
+            {
+              "SHA": "18612c3",
+              "Subject": "Added all"
+            },
+            {
+              "SHA": "eadc54a",
+              "Subject": "added all"
+            },
+            {
+              "SHA": "c700514",
+              "Subject": "Implement manifest backup plugin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v10",
+          "commits": [
+            {
+              "SHA": "38e5f0b",
+              "Subject": "Prepare for release 10.5.8-v10 (#185)"
+            },
+            {
+              "SHA": "786a415",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#183) (#184)"
+            },
+            {
+              "SHA": "35c8298",
+              "Subject": "Add support for cross-namespace target (#181) (#182)"
+            },
+            {
+              "SHA": "cdd168d",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#179) (#180)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v16",
+          "commits": [
+            {
+              "SHA": "0e639f61",
+              "Subject": "Prepare for release 3.4.17-v16 (#1540)"
+            },
+            {
+              "SHA": "fb90dbf0",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1527)"
+            },
+            {
+              "SHA": "02f8442b",
+              "Subject": "Add support for cross-namespace target (#1512) (#1513)"
+            },
+            {
+              "SHA": "27aa698b",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1500)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v16",
+          "commits": [
+            {
+              "SHA": "bd347f29",
+              "Subject": "Prepare for release 3.4.22-v16 (#1541)"
+            },
+            {
+              "SHA": "eadd2e6c",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1528)"
+            },
+            {
+              "SHA": "039c7147",
+              "Subject": "Add support for cross-namespace target (#1512) (#1514)"
+            },
+            {
+              "SHA": "a1f3d87e",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1501)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v16",
+          "commits": [
+            {
+              "SHA": "f0fadf84",
+              "Subject": "Prepare for release 3.6.8-v16 (#1543)"
+            },
+            {
+              "SHA": "786684e1",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1530)"
+            },
+            {
+              "SHA": "c662ea7c",
+              "Subject": "Add support for cross-namespace target (#1512) (#1516)"
+            },
+            {
+              "SHA": "0085bc6b",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1503)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v16",
+          "commits": [
+            {
+              "SHA": "4113f8e6",
+              "Subject": "Prepare for release 3.6.13-v16 (#1542)"
+            },
+            {
+              "SHA": "df373044",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1529)"
+            },
+            {
+              "SHA": "9e453aa4",
+              "Subject": "Add support for cross-namespace target (#1512) (#1515)"
+            },
+            {
+              "SHA": "2f3c7cdc",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1502)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v16",
+          "commits": [
+            {
+              "SHA": "155311ce",
+              "Subject": "Prepare for release 4.0.3-v16 (#1545)"
+            },
+            {
+              "SHA": "b577ae9b",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1532)"
+            },
+            {
+              "SHA": "9fa69e76",
+              "Subject": "[cherry-pick] Add support for cross-namespace target (#1512) (#1518)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v16",
+          "commits": [
+            {
+              "SHA": "8734aca2",
+              "Subject": "Prepare for release 4.0.5-v16 (#1546)"
+            },
+            {
+              "SHA": "a16532df",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1533)"
+            },
+            {
+              "SHA": "db963072",
+              "Subject": "Add support for cross-namespace target (#1512) (#1519)"
+            },
+            {
+              "SHA": "8efe9034",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1505)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v16",
+          "commits": [
+            {
+              "SHA": "62a11848",
+              "Subject": "Prepare for release 4.0.11-v16 (#1544)"
+            },
+            {
+              "SHA": "4c7ce065",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1531)"
+            },
+            {
+              "SHA": "731a900f",
+              "Subject": "Add support for cross-namespace target (#1512) (#1517)"
+            },
+            {
+              "SHA": "d4e7f6df",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1504)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v16",
+          "commits": [
+            {
+              "SHA": "e849db61",
+              "Subject": "Prepare for release 4.1.4-v16 (#1548)"
+            },
+            {
+              "SHA": "32576241",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1535)"
+            },
+            {
+              "SHA": "16601091",
+              "Subject": "Add support for cross-namespace target (#1512) (#1521)"
+            },
+            {
+              "SHA": "c7c78813",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1507)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v16",
+          "commits": [
+            {
+              "SHA": "a4697d1b",
+              "Subject": "Prepare for release 4.1.7-v16 (#1549)"
+            },
+            {
+              "SHA": "3effe3ec",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1536)"
+            },
+            {
+              "SHA": "07ea7e1a",
+              "Subject": "Add support for cross-namespace target (#1512) (#1522)"
+            },
+            {
+              "SHA": "2495ebb1",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1508)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v16",
+          "commits": [
+            {
+              "SHA": "b7a7701b",
+              "Subject": "Prepare for release 4.1.13-v16 (#1547)"
+            },
+            {
+              "SHA": "39a5c0ea",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1534)"
+            },
+            {
+              "SHA": "eca54d4d",
+              "Subject": "Add support for cross-namespace target (#1512) (#1520)"
+            },
+            {
+              "SHA": "7e77a7d1",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1506)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v16",
+          "commits": [
+            {
+              "SHA": "8661ee65",
+              "Subject": "Prepare for release 4.2.3-v16 (#1550)"
+            },
+            {
+              "SHA": "612d78ec",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1537)"
+            },
+            {
+              "SHA": "ae60a061",
+              "Subject": "Add support for cross-namespace target (#1512) (#1523)"
+            },
+            {
+              "SHA": "ad4b202b",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1509)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v7",
+          "commits": [
+            {
+              "SHA": "12d5d20f",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1538)"
+            },
+            {
+              "SHA": "1d007579",
+              "Subject": "Add support for cross-namespace target (#1512) (#1524)"
+            },
+            {
+              "SHA": "d1660f7f",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1510)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v4",
+          "commits": [
+            {
+              "SHA": "4cf40adb",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1526) (#1539)"
+            },
+            {
+              "SHA": "1c739adb",
+              "Subject": "Add support for cross-namespace target (#1512) (#1525)"
+            },
+            {
+              "SHA": "8a6f7fb1",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1499) (#1511)"
+            },
+            {
+              "SHA": "5bc21111",
+              "Subject": "Prepare for release 5.0.3-v3 (#1497)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v17",
+          "commits": [
+            {
+              "SHA": "6818869f",
+              "Subject": "Prepare for release 5.7.25-v17 (#617)"
+            },
+            {
+              "SHA": "73139959",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#612) (#613)"
+            },
+            {
+              "SHA": "f0a6b8e0",
+              "Subject": "Add support for cross-namespace target. (#607) (#608)"
+            },
+            {
+              "SHA": "060f151a",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#604) (#605)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v17",
+          "commits": [
+            {
+              "SHA": "9e7d3a11",
+              "Subject": "Prepare for release 8.0.3-v17 (#620)"
+            },
+            {
+              "SHA": "42ba01a5",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#612) (#616)"
+            },
+            {
+              "SHA": "d8a0eb4e",
+              "Subject": "[cherry-pick] Add support for cross-namespace target. (#607) (#611)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v17",
+          "commits": [
+            {
+              "SHA": "408bad82",
+              "Subject": "Prepare for release 8.0.14-v17 (#618)"
+            },
+            {
+              "SHA": "27fc0d17",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#612) (#614)"
+            },
+            {
+              "SHA": "3106710c",
+              "Subject": "Add support for cross-namespace target. (#607) (#609)"
+            },
+            {
+              "SHA": "ea8c60ec",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#604) (#606)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v11",
+          "commits": [
+            {
+              "SHA": "39f458ec",
+              "Subject": "Prepare for release 8.0.21-v11 (#619)"
+            },
+            {
+              "SHA": "92ce6a21",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#612) (#615)"
+            },
+            {
+              "SHA": "6ad9564f",
+              "Subject": "[cherry-pick] Add support for cross-namespace target. (#607) (#610)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v4",
+          "commits": [
+            {
+              "SHA": "6539d98",
+              "Subject": "Prepare for release 2.6.1-v4 (#46)"
+            },
+            {
+              "SHA": "596b907",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#44) (#45)"
+            },
+            {
+              "SHA": "2ab3cb0",
+              "Subject": "Add support for cross-namespace target (#42) (#43)"
+            },
+            {
+              "SHA": "e8cc6a4",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#40) (#41)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v12",
+          "commits": [
+            {
+              "SHA": "fca0f716",
+              "Subject": "Prepare for release 5.7-v12 (#256)"
+            },
+            {
+              "SHA": "3c6c291e",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#254) (#255)"
+            },
+            {
+              "SHA": "71212215",
+              "Subject": "Add support for cross-namespace target (#252) (#253)"
+            },
+            {
+              "SHA": "e7a31aea",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#250) (#251)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v15",
+          "commits": [
+            {
+              "SHA": "827b4e06",
+              "Subject": "Prepare for release 9.6.19-v15 (#1051)"
+            },
+            {
+              "SHA": "b89c3611",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1039) (#1045)"
+            },
+            {
+              "SHA": "59f69a03",
+              "Subject": "Add support for cross-namespace target (#1032) (#1038)"
+            },
+            {
+              "SHA": "8b064613",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1027) (#1031)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v15",
+          "commits": [
+            {
+              "SHA": "97bbc626",
+              "Subject": "Prepare for release 10.14-v15 (#1046)"
+            },
+            {
+              "SHA": "b8a36039",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1039) (#1040)"
+            },
+            {
+              "SHA": "730ce380",
+              "Subject": "Add support for cross-namespace target (#1032) (#1033)"
+            },
+            {
+              "SHA": "df8339af",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1027) (#1028)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v15",
+          "commits": [
+            {
+              "SHA": "61dbe6ef",
+              "Subject": "Prepare for release 11.9-v15 (#1047)"
+            },
+            {
+              "SHA": "20bb0dce",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1039) (#1041)"
+            },
+            {
+              "SHA": "b450f154",
+              "Subject": "Add support for cross-namespace target (#1032) (#1034)"
+            },
+            {
+              "SHA": "eef99803",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1027) (#1029)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v15",
+          "commits": [
+            {
+              "SHA": "4055f1b2",
+              "Subject": "Prepare for release 12.4-v15 (#1048)"
+            },
+            {
+              "SHA": "cccf210e",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1039) (#1042)"
+            },
+            {
+              "SHA": "6b106d50",
+              "Subject": "Add support for cross-namespace target (#1032) (#1035)"
+            },
+            {
+              "SHA": "26099d08",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1027) (#1030)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v12",
+          "commits": [
+            {
+              "SHA": "6a452173",
+              "Subject": "Prepare for release 13.1-v12 (#1049)"
+            },
+            {
+              "SHA": "140a00e8",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1039) (#1043)"
+            },
+            {
+              "SHA": "1a7f5854",
+              "Subject": "[cherry-pick] Add support for cross-namespace target (#1032) (#1036)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v4",
+          "commits": [
+            {
+              "SHA": "9b91f298",
+              "Subject": "Prepare for release 14.0-v4 (#1050)"
+            },
+            {
+              "SHA": "2afdd9e7",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1039) (#1044)"
+            },
+            {
+              "SHA": "196fd0fd",
+              "Subject": "[cherry-pick] Add support for cross-namespace target (#1032) (#1037)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v5",
+          "commits": [
+            {
+              "SHA": "b3f3395",
+              "Subject": "Prepare for release 5.0.13-v5 (#103)"
+            },
+            {
+              "SHA": "6d37e9c",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#100) (#101)"
+            },
+            {
+              "SHA": "429b312",
+              "Subject": "Add support for cross-namespace target (#99)"
+            },
+            {
+              "SHA": "b2af9aa",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#96) (#97)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v5",
+          "commits": [
+            {
+              "SHA": "73c4af8",
+              "Subject": "Prepare for release 6.2.5-v5 (#104)"
+            },
+            {
+              "SHA": "165f4a3",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#100) (#102)"
+            },
+            {
+              "SHA": "757f2a7",
+              "Subject": "Add support for cross-namespace target (#99)"
+            },
+            {
+              "SHA": "b4bfe91",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#96) (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "6a3680ec",
+              "Subject": "Prepare for release v0.20.0 (#1443)"
+            },
+            {
+              "SHA": "a56bfc73",
+              "Subject": "Update nats client to v1.15.0 (#1442)"
+            },
+            {
+              "SHA": "2d0b4e97",
+              "Subject": "Port Cross-namespace target support related change from enterprise repo (#1441)"
+            },
+            {
+              "SHA": "4927bcef",
+              "Subject": "Pass `TopologySpreadConstraints` in `ApplyPodRuntimeSettings()` (#1440)"
+            },
+            {
+              "SHA": "ca8ef3be",
+              "Subject": "Update requirements for `VolumeSnapshotter`"
+            },
+            {
+              "SHA": "93b93361",
+              "Subject": "Update requirements for VolumeSnapshotter"
+            },
+            {
+              "SHA": "82de61a2",
+              "Subject": "Update RoleBinding name (#1437)"
+            },
+            {
+              "SHA": "2e328b9e",
+              "Subject": "Use restic 0.13.1 (#1438)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
