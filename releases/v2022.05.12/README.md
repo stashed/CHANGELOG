@@ -1,4 +1,4 @@
-# Stash v2022.05.12 (2022-05-08)
+# Stash v2022.05.12 (2022-05-09)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
@@ -11,6 +11,16 @@
 - [61c413e1](https://github.com/stashed/apimachinery/commit/61c413e1) Add topologySpreadConstraints to RuntimeSettings (#166)
 - [dbb9ce30](https://github.com/stashed/apimachinery/commit/dbb9ce30) Add Cross-namespace target support. (#164)
 - [8d0e2056](https://github.com/stashed/apimachinery/commit/8d0e2056) Use restic 0.13.1 (#165)
+
+
+
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.20.0](https://github.com/stashed/cli/releases/tag/v0.20.0)
+
+- [9c3e9a57](https://github.com/stashed/cli/commit/9c3e9a57) Prepare for release v0.20.0 (#163)
+- [a267d818](https://github.com/stashed/cli/commit/a267d818) Update nats client to v1.15.0 (#162)
+- [a66abe45](https://github.com/stashed/cli/commit/a66abe45) Use restic 0.13.1 (#161)
 
 
 
