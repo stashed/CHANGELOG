@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.05.12",
-  "release_date": "2022-05-09T08:33:30.123861845Z",
+  "release_date": "2022-05-09T08:54:59.961127936Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.05.12",
   "kubernetes_version": "1.16+",
@@ -319,6 +319,116 @@
             {
               "SHA": "8300c3a",
               "Subject": "[cherry-pick] Use restic 0.13.1 (#37) (#38)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0",
+          "commits": [
+            {
+              "SHA": "7db2e3e",
+              "Subject": "Prepare for release 0.1.0 (#4)"
+            },
+            {
+              "SHA": "3914bbe",
+              "Subject": "Remove .idea folder"
+            },
+            {
+              "SHA": "08ae97c",
+              "Subject": "Update nats client to v1.15.0 (#3)"
+            },
+            {
+              "SHA": "b742e9b",
+              "Subject": "Use Go 1.18 (#2)"
+            },
+            {
+              "SHA": "0368858",
+              "Subject": "Merge pull request #1 from stashed/implement-plugin"
+            },
+            {
+              "SHA": "b5b1ae0",
+              "Subject": "Fix CI"
+            },
+            {
+              "SHA": "80eb90e",
+              "Subject": "test ci"
+            },
+            {
+              "SHA": "103a512",
+              "Subject": "test ci"
+            },
+            {
+              "SHA": "5c84f7c",
+              "Subject": "test ci"
+            },
+            {
+              "SHA": "c00c5d9",
+              "Subject": "test ci"
+            },
+            {
+              "SHA": "82d7168",
+              "Subject": "test ci"
+            },
+            {
+              "SHA": "d550477",
+              "Subject": "Debug CI failure Signed-off-by: Emruz Hossain <emruz@appscode.com>"
+            },
+            {
+              "SHA": "143f06b",
+              "Subject": "Create kind cluster in ci"
+            },
+            {
+              "SHA": "ce7cdd7",
+              "Subject": "Rename components from manifest-backup to kubedump"
+            },
+            {
+              "SHA": "d2a417e",
+              "Subject": "Fix target matcher"
+            },
+            {
+              "SHA": "8c33614",
+              "Subject": "Update flags"
+            },
+            {
+              "SHA": "9dbfd9f",
+              "Subject": "Finish implementing the plugin"
+            },
+            {
+              "SHA": "103434d",
+              "Subject": "Refactor code"
+            },
+            {
+              "SHA": "ad144f2",
+              "Subject": "Add appication backup logic"
+            },
+            {
+              "SHA": "8baf9f7",
+              "Subject": "Implement namespace level backup"
+            },
+            {
+              "SHA": "57a4c48",
+              "Subject": "WIP: Add namespace level backup Signed-off-by: Emruz Hossain <emruz@appscode.com>"
+            },
+            {
+              "SHA": "a0a61a7",
+              "Subject": "Implement cluster backup interface"
+            },
+            {
+              "SHA": "18612c3",
+              "Subject": "Added all"
+            },
+            {
+              "SHA": "eadc54a",
+              "Subject": "added all"
+            },
+            {
+              "SHA": "c700514",
+              "Subject": "Implement manifest backup plugin"
             }
           ]
         }

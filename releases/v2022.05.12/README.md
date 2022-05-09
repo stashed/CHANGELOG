@@ -125,6 +125,38 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.1.0](https://github.com/stashed/kubedump/releases/tag/0.1.0)
+
+- [7db2e3e](https://github.com/stashed/kubedump/commit/7db2e3e) Prepare for release 0.1.0 (#4)
+- [3914bbe](https://github.com/stashed/kubedump/commit/3914bbe) Remove .idea folder
+- [08ae97c](https://github.com/stashed/kubedump/commit/08ae97c) Update nats client to v1.15.0 (#3)
+- [b742e9b](https://github.com/stashed/kubedump/commit/b742e9b) Use Go 1.18 (#2)
+- [0368858](https://github.com/stashed/kubedump/commit/0368858) Merge pull request #1 from stashed/implement-plugin
+- [b5b1ae0](https://github.com/stashed/kubedump/commit/b5b1ae0) Fix CI
+- [80eb90e](https://github.com/stashed/kubedump/commit/80eb90e) test ci
+- [103a512](https://github.com/stashed/kubedump/commit/103a512) test ci
+- [5c84f7c](https://github.com/stashed/kubedump/commit/5c84f7c) test ci
+- [c00c5d9](https://github.com/stashed/kubedump/commit/c00c5d9) test ci
+- [82d7168](https://github.com/stashed/kubedump/commit/82d7168) test ci
+- [d550477](https://github.com/stashed/kubedump/commit/d550477) Debug CI failure Signed-off-by: Emruz Hossain <emruz@appscode.com>
+- [143f06b](https://github.com/stashed/kubedump/commit/143f06b) Create kind cluster in ci
+- [ce7cdd7](https://github.com/stashed/kubedump/commit/ce7cdd7) Rename components from manifest-backup to kubedump
+- [d2a417e](https://github.com/stashed/kubedump/commit/d2a417e) Fix target matcher
+- [8c33614](https://github.com/stashed/kubedump/commit/8c33614) Update flags
+- [9dbfd9f](https://github.com/stashed/kubedump/commit/9dbfd9f) Finish implementing the plugin
+- [103434d](https://github.com/stashed/kubedump/commit/103434d) Refactor code
+- [ad144f2](https://github.com/stashed/kubedump/commit/ad144f2) Add appication backup logic
+- [8baf9f7](https://github.com/stashed/kubedump/commit/8baf9f7) Implement namespace level backup
+- [57a4c48](https://github.com/stashed/kubedump/commit/57a4c48) WIP: Add namespace level backup Signed-off-by: Emruz Hossain <emruz@appscode.com>
+- [a0a61a7](https://github.com/stashed/kubedump/commit/a0a61a7) Implement cluster backup interface
+- [18612c3](https://github.com/stashed/kubedump/commit/18612c3) Added all
+- [eadc54a](https://github.com/stashed/kubedump/commit/eadc54a) added all
+- [c700514](https://github.com/stashed/kubedump/commit/c700514) Implement manifest backup plugin
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v10](https://github.com/stashed/mariadb/releases/tag/10.5.8-v10)
