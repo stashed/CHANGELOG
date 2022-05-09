@@ -42,6 +42,14 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v15](https://github.com/stashed/postgres/releases/tag/9.6.19-v15)
+
+- [827b4e06](https://github.com/stashed/postgres/commit/827b4e06) Prepare for release 9.6.19-v15 (#1051)
+- [b89c3611](https://github.com/stashed/postgres/commit/b89c3611) [cherry-pick] Update nats client to v1.15.0 (#1039) (#1045)
+- [59f69a03](https://github.com/stashed/postgres/commit/59f69a03) Add support for cross-namespace target (#1032) (#1038)
+- [8b064613](https://github.com/stashed/postgres/commit/8b064613) [cherry-pick] Use restic 0.13.1 (#1027) (#1031)
+
+
 ### [10.14-v15](https://github.com/stashed/postgres/releases/tag/10.14-v15)
 
 - [97bbc626](https://github.com/stashed/postgres/commit/97bbc626) Prepare for release 10.14-v15 (#1046)
