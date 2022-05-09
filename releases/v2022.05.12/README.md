@@ -263,6 +263,17 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v4](https://github.com/stashed/nats/releases/tag/2.6.1-v4)
+
+- [6539d98](https://github.com/stashed/nats/commit/6539d98) Prepare for release 2.6.1-v4 (#46)
+- [596b907](https://github.com/stashed/nats/commit/596b907) [cherry-pick] Update nats client to v1.15.0 (#44) (#45)
+- [2ab3cb0](https://github.com/stashed/nats/commit/2ab3cb0) Add support for cross-namespace target (#42) (#43)
+- [e8cc6a4](https://github.com/stashed/nats/commit/e8cc6a4) [cherry-pick] Use restic 0.13.1 (#40) (#41)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v12](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v12)
