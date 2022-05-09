@@ -74,6 +74,13 @@
 - [0cc4d57c](https://github.com/stashed/elasticsearch/commit/0cc4d57c) [cherry-pick] Use restic 0.13.1 (#1151) (#1157)
 
 
+### [7.2.0-v17](https://github.com/stashed/elasticsearch/releases/tag/7.2.0-v17)
+
+- [7c388a05](https://github.com/stashed/elasticsearch/commit/7c388a05) Prepare for release 7.2.0-v17 (#1187)
+- [f344f507](https://github.com/stashed/elasticsearch/commit/f344f507) [cherry-pick] Update nats client to v1.15.0 (#1170) (#1178)
+- [0d8256bf](https://github.com/stashed/elasticsearch/commit/0d8256bf) [cherry-pick] Add support for cross-namespace target (#1160) (#1168)
+
+
 ### [7.14.0-v3](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v3)
 
 - [f67cef25](https://github.com/stashed/elasticsearch/commit/f67cef25) Prepare for release 7.14.0-v3 (#1186)
