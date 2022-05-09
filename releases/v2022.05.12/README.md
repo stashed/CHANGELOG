@@ -24,6 +24,23 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2022.05.12](https://github.com/stashed/docs/releases/tag/v2022.05.12)
+
+- [6f09c06](https://github.com/stashed/docs/commit/6f09c06) Prepare for release v2022.05.12 (#227)
+- [f0b0d41](https://github.com/stashed/docs/commit/f0b0d41) Update docs for stashed/stash@a56bfc73 (#226)
+- [67ca989](https://github.com/stashed/docs/commit/67ca989) Add docs for cross-namespace-target backup/restore. (#223)
+- [fe9de24](https://github.com/stashed/docs/commit/fe9de24) Add Documentation for Automatic Backup in Dedicated Namespace (#224)
+- [3c1434d](https://github.com/stashed/docs/commit/3c1434d) Update webhook docs (#220)
+- [1bb4d0d](https://github.com/stashed/docs/commit/1bb4d0d) Add `Backup NotReady` and `Restore Pending` in the troubleshooting guide (#221)
+- [faef324](https://github.com/stashed/docs/commit/faef324) Update VolumeSnapshot Documentation (#219)
+- [6559500](https://github.com/stashed/docs/commit/6559500) Update Platform Directory Structure (#218)
+- [c1fc7f7](https://github.com/stashed/docs/commit/c1fc7f7) Update FAQ  (#217)
+- [c26d059](https://github.com/stashed/docs/commit/c26d059) Update platform docs for Workload Identity Support (#216)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v17](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v17)

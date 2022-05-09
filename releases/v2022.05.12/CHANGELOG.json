@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.05.12",
-  "release_date": "2022-05-09T09:09:19.890384767Z",
+  "release_date": "2022-05-09T09:41:19.53968596Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.05.12",
   "kubernetes_version": "1.16+",
@@ -57,6 +57,56 @@
             {
               "SHA": "a66abe45",
               "Subject": "Use restic 0.13.1 (#161)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.05.12",
+          "commits": [
+            {
+              "SHA": "6f09c06",
+              "Subject": "Prepare for release v2022.05.12 (#227)"
+            },
+            {
+              "SHA": "f0b0d41",
+              "Subject": "Update docs for stashed/stash@a56bfc73 (#226)"
+            },
+            {
+              "SHA": "67ca989",
+              "Subject": "Add docs for cross-namespace-target backup/restore. (#223)"
+            },
+            {
+              "SHA": "fe9de24",
+              "Subject": "Add Documentation for Automatic Backup in Dedicated Namespace (#224)"
+            },
+            {
+              "SHA": "3c1434d",
+              "Subject": "Update webhook docs (#220)"
+            },
+            {
+              "SHA": "1bb4d0d",
+              "Subject": "Add `Backup NotReady` and `Restore Pending` in the troubleshooting guide (#221)"
+            },
+            {
+              "SHA": "faef324",
+              "Subject": "Update VolumeSnapshot Documentation (#219)"
+            },
+            {
+              "SHA": "6559500",
+              "Subject": "Update Platform Directory Structure (#218)"
+            },
+            {
+              "SHA": "c1fc7f7",
+              "Subject": "Update FAQ  (#217)"
+            },
+            {
+              "SHA": "c26d059",
+              "Subject": "Update platform docs for Workload Identity Support (#216)"
             }
           ]
         }
