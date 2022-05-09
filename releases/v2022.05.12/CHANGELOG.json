@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.05.12",
-  "release_date": "2022-05-09T04:13:04.780826465Z",
+  "release_date": "2022-05-09T04:22:10.621121162Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.05.12",
   "kubernetes_version": "1.16+",
@@ -103,6 +103,32 @@
             {
               "SHA": "97d5e06d",
               "Subject": "Update `RoleBinding` name (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "10.14-v15",
+          "commits": [
+            {
+              "SHA": "97bbc626",
+              "Subject": "Prepare for release 10.14-v15 (#1046)"
+            },
+            {
+              "SHA": "b8a36039",
+              "Subject": "[cherry-pick] Update nats client to v1.15.0 (#1039) (#1040)"
+            },
+            {
+              "SHA": "730ce380",
+              "Subject": "Add support for cross-namespace target (#1032) (#1033)"
+            },
+            {
+              "SHA": "df8339af",
+              "Subject": "[cherry-pick] Use restic 0.13.1 (#1027) (#1028)"
             }
           ]
         }
