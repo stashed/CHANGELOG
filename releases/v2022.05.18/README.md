@@ -26,6 +26,10 @@
 - [3fe0e88](https://github.com/stashed/nats/commit/3fe0e88) Prepare for release 2.6.1-v4 (#49)
 
 
+### [2.8.2](https://github.com/stashed/nats/releases/tag/2.8.2)
+
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
