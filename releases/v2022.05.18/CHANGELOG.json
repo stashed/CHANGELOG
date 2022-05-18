@@ -1,0 +1,140 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.05.18",
+  "release_date": "2022-05-18T06:26:09.921077836Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.05.18",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.20.1",
+          "commits": [
+            {
+              "SHA": "9d802e3a",
+              "Subject": "Make commit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2022.05.18",
+          "commits": [
+            {
+              "SHA": "166611f",
+              "Subject": "Prepare for release v2022.05.18 (#61)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.05.18",
+          "commits": [
+            {
+              "SHA": "38c12f6",
+              "Subject": "Prepare for release v2022.05.18 (#230)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.20.1",
+          "commits": [
+            {
+              "SHA": "948438a9",
+              "Subject": "Prepare for release v0.20.1 (#174)"
+            },
+            {
+              "SHA": "e2fde1aa",
+              "Subject": "Fix ImagePullSecrets not passing to the backup job properly (#172)"
+            },
+            {
+              "SHA": "6f871d57",
+              "Subject": "Update BackupConfiguration webhook to make the target immutable (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.05.18",
+          "commits": [
+            {
+              "SHA": "3b45a21b",
+              "Subject": "Prepare for release v2022.05.18 (#255)"
+            },
+            {
+              "SHA": "fc961396",
+              "Subject": "Add support for Elasticsearch 8.2.0 (#254)"
+            },
+            {
+              "SHA": "41561f81",
+              "Subject": "Update registry templates to support custom default registry (ghcr.io)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v5",
+          "commits": [
+            {
+              "SHA": "3fe0e88",
+              "Subject": "Prepare for release 2.6.1-v4 (#49)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.20.1",
+          "commits": [
+            {
+              "SHA": "9771f5db",
+              "Subject": "Prepare for release v0.20.1 (#1446)"
+            },
+            {
+              "SHA": "58168343",
+              "Subject": "Merge pull request #1445 from stashed/fix-imagepull-secrets"
+            },
+            {
+              "SHA": "d6290dd7",
+              "Subject": "Fix ImagePullSecrets not passing to the backup job properly"
+            },
+            {
+              "SHA": "86342a7e",
+              "Subject": "Update BackupConfiguration webhook to make the target immutable (#1444)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
