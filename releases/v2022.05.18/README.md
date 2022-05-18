@@ -9,6 +9,14 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2022.05.18](https://github.com/stashed/docs/releases/tag/v2022.05.18)
+
+- [38c12f6](https://github.com/stashed/docs/commit/38c12f6) Prepare for release v2022.05.18 (#230)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.20.1](https://github.com/stashed/enterprise/releases/tag/v0.20.1)
