@@ -19,6 +19,16 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2022.05.18](https://github.com/stashed/installer/releases/tag/v2022.05.18)
+
+- [3b45a21b](https://github.com/stashed/installer/commit/3b45a21b) Prepare for release v2022.05.18 (#255)
+- [fc961396](https://github.com/stashed/installer/commit/fc961396) Add support for Elasticsearch 8.2.0 (#254)
+- [41561f81](https://github.com/stashed/installer/commit/41561f81) Update registry templates to support custom default registry (ghcr.io)
+
+
+
 ## [stashed/nats](https://github.com/stashed/nats)
 
 ### [2.6.1-v5](https://github.com/stashed/nats/releases/tag/2.6.1-v5)

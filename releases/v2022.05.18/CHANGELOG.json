@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.05.18",
-  "release_date": "2022-05-18T05:36:15.994656444Z",
+  "release_date": "2022-05-18T05:48:13.976776132Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.05.18",
   "kubernetes_version": "1.16+",
@@ -37,6 +37,28 @@
             {
               "SHA": "6f871d57",
               "Subject": "Update BackupConfiguration webhook to make the target immutable (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.05.18",
+          "commits": [
+            {
+              "SHA": "3b45a21b",
+              "Subject": "Prepare for release v2022.05.18 (#255)"
+            },
+            {
+              "SHA": "fc961396",
+              "Subject": "Add support for Elasticsearch 8.2.0 (#254)"
+            },
+            {
+              "SHA": "41561f81",
+              "Subject": "Update registry templates to support custom default registry (ghcr.io)"
             }
           ]
         }
