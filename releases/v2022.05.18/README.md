@@ -9,6 +9,16 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.20.1](https://github.com/stashed/enterprise/releases/tag/v0.20.1)
+
+- [948438a9](https://github.com/stashed/enterprise/commit/948438a9) Prepare for release v0.20.1 (#174)
+- [e2fde1aa](https://github.com/stashed/enterprise/commit/e2fde1aa) Fix ImagePullSecrets not passing to the backup job properly (#172)
+- [6f871d57](https://github.com/stashed/enterprise/commit/6f871d57) Update BackupConfiguration webhook to make the target immutable (#171)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.20.1](https://github.com/stashed/stash/releases/tag/v0.20.1)
