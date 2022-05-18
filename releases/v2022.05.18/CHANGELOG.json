@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.05.18",
-  "release_date": "2022-05-18T04:26:04.202861478Z",
+  "release_date": "2022-05-18T04:40:17.703693989Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.05.18",
   "kubernetes_version": "1.16+",
@@ -15,6 +15,32 @@
             {
               "SHA": "9d802e3a",
               "Subject": "Make commit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.20.1",
+          "commits": [
+            {
+              "SHA": "9771f5db",
+              "Subject": "Prepare for release v0.20.1 (#1446)"
+            },
+            {
+              "SHA": "58168343",
+              "Subject": "Merge pull request #1445 from stashed/fix-imagepull-secrets"
+            },
+            {
+              "SHA": "d6290dd7",
+              "Subject": "Fix ImagePullSecrets not passing to the backup job properly"
+            },
+            {
+              "SHA": "86342a7e",
+              "Subject": "Update BackupConfiguration webhook to make the target immutable (#1444)"
             }
           ]
         }
