@@ -131,7 +131,7 @@
       "github.com/stashed/nats": {
         "key": "stash-nats",
         "tags": {
-          "2.6.1-v4": "release-2.6.1",
+          "2.6.1-v5": "release-2.6.1",
           "2.8.2": "release-2.8.2"
         }
       }
