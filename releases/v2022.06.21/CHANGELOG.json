@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.06.21",
-  "release_date": "2022-06-17T12:24:37.820125126Z",
+  "release_date": "2022-06-17T12:32:08.140123117Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.06.21",
   "kubernetes_version": "1.16+",
@@ -250,6 +250,32 @@
             {
               "SHA": "a51a3725",
               "Subject": "Check restore output before updating restore status (#175)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v5",
+          "commits": [
+            {
+              "SHA": "7d96b9b",
+              "Subject": "Prepare for release 3.5.0-v5 (#49)"
+            },
+            {
+              "SHA": "a59967d",
+              "Subject": "Use Go 1.18 (#48)"
+            },
+            {
+              "SHA": "3d20c8f",
+              "Subject": "Use Go 1.18 (#32) (#47)"
+            },
+            {
+              "SHA": "8705d44",
+              "Subject": "Make sure to fail the backup/restore sessions if license check fails. (#45) (#46)"
             }
           ]
         }

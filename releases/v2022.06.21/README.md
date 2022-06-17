@@ -106,6 +106,17 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v5](https://github.com/stashed/etcd/releases/tag/3.5.0-v5)
+
+- [7d96b9b](https://github.com/stashed/etcd/commit/7d96b9b) Prepare for release 3.5.0-v5 (#49)
+- [a59967d](https://github.com/stashed/etcd/commit/a59967d) Use Go 1.18 (#48)
+- [3d20c8f](https://github.com/stashed/etcd/commit/3d20c8f) Use Go 1.18 (#32) (#47)
+- [8705d44](https://github.com/stashed/etcd/commit/8705d44) Make sure to fail the backup/restore sessions if license check fails. (#45) (#46)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v11](https://github.com/stashed/mariadb/releases/tag/10.5.8-v11)
