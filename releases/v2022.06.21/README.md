@@ -288,6 +288,16 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v6](https://github.com/stashed/redis/releases/tag/5.0.13-v6)
+
+- [2d26534](https://github.com/stashed/redis/commit/2d26534) Prepare for release 5.0.13-v6 (#113)
+- [1ca8f25](https://github.com/stashed/redis/commit/1ca8f25) [cherry-pick] Use Go 1.18 (#111)
+- [51ff930](https://github.com/stashed/redis/commit/51ff930) Make sure to fail the backup/restore sessions if license check fails. (#106) (#107)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.21.0](https://github.com/stashed/stash/releases/tag/v0.21.0)
