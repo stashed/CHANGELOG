@@ -13,6 +13,16 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.21.0](https://github.com/stashed/cli/releases/tag/v0.21.0)
+
+- [4942f3ec](https://github.com/stashed/cli/commit/4942f3ec) Prepare for release v0.21.0 (#164)
+- [fdd47d95](https://github.com/stashed/cli/commit/fdd47d95) Update to k8s 1.24 toolchain
+- [fabefbdd](https://github.com/stashed/cli/commit/fabefbdd) Cancel concurrent in pogress CI runs
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.21.0](https://github.com/stashed/enterprise/releases/tag/v0.21.0)
