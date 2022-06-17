@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.06.21",
-  "release_date": "2022-06-17T12:52:04.021646041Z",
+  "release_date": "2022-06-17T13:49:19.022913466Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.06.21",
   "kubernetes_version": "1.16+",
@@ -53,6 +53,28 @@
             {
               "SHA": "fabefbdd",
               "Subject": "Cancel concurrent in pogress CI runs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.06.21",
+          "commits": [
+            {
+              "SHA": "38ebc91",
+              "Subject": "Prepare for release v2022.06.21 (#240)"
+            },
+            {
+              "SHA": "5645493",
+              "Subject": "Add documentation for backup and restore timeout (#232)"
+            },
+            {
+              "SHA": "98908e0",
+              "Subject": "Test against Kubernetes 1.24.0 (#231)"
             }
           ]
         }

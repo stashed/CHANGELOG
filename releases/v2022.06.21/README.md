@@ -23,6 +23,16 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2022.06.21](https://github.com/stashed/docs/releases/tag/v2022.06.21)
+
+- [38ebc91](https://github.com/stashed/docs/commit/38ebc91) Prepare for release v2022.06.21 (#240)
+- [5645493](https://github.com/stashed/docs/commit/5645493) Add documentation for backup and restore timeout (#232)
+- [98908e0](https://github.com/stashed/docs/commit/98908e0) Test against Kubernetes 1.24.0 (#231)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v18](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v18)
