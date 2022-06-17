@@ -36,6 +36,16 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.14-v16](https://github.com/stashed/postgres/releases/tag/10.14-v16)
+
+- [7a6cca43](https://github.com/stashed/postgres/commit/7a6cca43) Prepare for release 10.14-v16 (#1069)
+- [5e1d6ba6](https://github.com/stashed/postgres/commit/5e1d6ba6) [cherry-pick] Use Go 1.18 (#1063)
+- [a8548d33](https://github.com/stashed/postgres/commit/a8548d33) Make sure to fail the backup/restore sessions if license check fails. (#1053) (#1054)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.21.0](https://github.com/stashed/stash/releases/tag/v0.21.0)
