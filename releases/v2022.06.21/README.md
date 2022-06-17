@@ -86,6 +86,12 @@
 - [24eb7559](https://github.com/stashed/elasticsearch/commit/24eb7559) Make sure to fail the backup/restore sessions if license check fails. (#1192) (#1199)
 
 
+### [8.2.0-v1](https://github.com/stashed/elasticsearch/releases/tag/8.2.0-v1)
+
+- [055cf095](https://github.com/stashed/elasticsearch/commit/055cf095) Use Go 1.18 (#1211)
+- [0da3aec9](https://github.com/stashed/elasticsearch/commit/0da3aec9) Make sure to fail the backup/restore sessions if license check fails. (#1192) (#1202)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
