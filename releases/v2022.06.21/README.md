@@ -67,6 +67,13 @@
 - [0b23666b](https://github.com/stashed/elasticsearch/commit/0b23666b) [cherry-pick] Make sure to fail the backup/restore sessions if license check fails. (#1192) (#1198)
 
 
+### [7.14.0-v4](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v4)
+
+- [ccd4b478](https://github.com/stashed/elasticsearch/commit/ccd4b478) Stop sending Google analytics events
+- [9aaec379](https://github.com/stashed/elasticsearch/commit/9aaec379) Use Go 1.18 (#1209)
+- [24eb7559](https://github.com/stashed/elasticsearch/commit/24eb7559) Make sure to fail the backup/restore sessions if license check fails. (#1192) (#1199)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 

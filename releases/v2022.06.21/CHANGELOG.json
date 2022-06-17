@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.06.21",
-  "release_date": "2022-06-17T10:35:37.970866255Z",
+  "release_date": "2022-06-17T10:35:39.686664243Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.06.21",
   "kubernetes_version": "1.16+",
@@ -160,6 +160,23 @@
             {
               "SHA": "0b23666b",
               "Subject": "[cherry-pick] Make sure to fail the backup/restore sessions if license check fails. (#1192) (#1198)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v4",
+          "commits": [
+            {
+              "SHA": "ccd4b478",
+              "Subject": "Stop sending Google analytics events"
+            },
+            {
+              "SHA": "9aaec379",
+              "Subject": "Use Go 1.18 (#1209)"
+            },
+            {
+              "SHA": "24eb7559",
+              "Subject": "Make sure to fail the backup/restore sessions if license check fails. (#1192) (#1199)"
             }
           ]
         }
