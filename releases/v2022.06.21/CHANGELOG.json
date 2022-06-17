@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.06.21",
-  "release_date": "2022-06-17T11:55:21.252678342Z",
+  "release_date": "2022-06-17T12:05:30.041630275Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.06.21",
   "kubernetes_version": "1.16+",
@@ -571,6 +571,28 @@
             {
               "SHA": "b045519d",
               "Subject": "Make sure to fail the backup/restore sessions if license check fails. (#622) (#625)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v13",
+          "commits": [
+            {
+              "SHA": "e02373e5",
+              "Subject": "Prepare for release 5.7-v13 (#261)"
+            },
+            {
+              "SHA": "fc1a4395",
+              "Subject": "[cherry-pick] Use Go 1.18 (#260)"
+            },
+            {
+              "SHA": "e33797e5",
+              "Subject": "Make sure to fail the backup/restore sessions if license check fails. (#258) (#259)"
             }
           ]
         }

@@ -241,6 +241,16 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v13](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v13)
+
+- [e02373e5](https://github.com/stashed/percona-xtradb/commit/e02373e5) Prepare for release 5.7-v13 (#261)
+- [fc1a4395](https://github.com/stashed/percona-xtradb/commit/fc1a4395) [cherry-pick] Use Go 1.18 (#260)
+- [e33797e5](https://github.com/stashed/percona-xtradb/commit/e33797e5) Make sure to fail the backup/restore sessions if license check fails. (#258) (#259)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v16](https://github.com/stashed/postgres/releases/tag/9.6.19-v16)
