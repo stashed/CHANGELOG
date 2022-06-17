@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.06.21",
-  "release_date": "2022-06-17T09:19:58.287047599Z",
+  "release_date": "2022-06-17T09:34:43.86451328Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.06.21",
   "kubernetes_version": "1.16+",
@@ -31,6 +31,40 @@
             {
               "SHA": "6891e99a",
               "Subject": "Test against Kubernetes 1.24.0 (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "a6f2dc48",
+              "Subject": "Prepare for release v0.21.0 (#179)"
+            },
+            {
+              "SHA": "1da47ae2",
+              "Subject": "Add support for Hook and TimeOut in auto-backup (#178)"
+            },
+            {
+              "SHA": "92d46877",
+              "Subject": "Cleanup dependencies (#177)"
+            },
+            {
+              "SHA": "7124c7f3",
+              "Subject": "Update to k8s 1.24 toolchain (#176)"
+            },
+            {
+              "SHA": "ba59e128",
+              "Subject": "Add timeout for backup and restore (#173)"
+            },
+            {
+              "SHA": "a51a3725",
+              "Subject": "Check restore output before updating restore status (#175)"
             }
           ]
         }

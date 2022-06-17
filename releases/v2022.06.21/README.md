@@ -13,6 +13,19 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.21.0](https://github.com/stashed/enterprise/releases/tag/v0.21.0)
+
+- [a6f2dc48](https://github.com/stashed/enterprise/commit/a6f2dc48) Prepare for release v0.21.0 (#179)
+- [1da47ae2](https://github.com/stashed/enterprise/commit/1da47ae2) Add support for Hook and TimeOut in auto-backup (#178)
+- [92d46877](https://github.com/stashed/enterprise/commit/92d46877) Cleanup dependencies (#177)
+- [7124c7f3](https://github.com/stashed/enterprise/commit/7124c7f3) Update to k8s 1.24 toolchain (#176)
+- [ba59e128](https://github.com/stashed/enterprise/commit/ba59e128) Add timeout for backup and restore (#173)
+- [a51a3725](https://github.com/stashed/enterprise/commit/a51a3725) Check restore output before updating restore status (#175)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.21.0](https://github.com/stashed/stash/releases/tag/v0.21.0)
