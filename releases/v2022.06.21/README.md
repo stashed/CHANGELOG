@@ -106,6 +106,16 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v11](https://github.com/stashed/mariadb/releases/tag/10.5.8-v11)
+
+- [75a46ec](https://github.com/stashed/mariadb/commit/75a46ec) Prepare for release 10.5.8-v11 (#190)
+- [f105e19](https://github.com/stashed/mariadb/commit/f105e19) Go 1.18 (#189)
+- [b825468](https://github.com/stashed/mariadb/commit/b825468) Make sure to fail the backup/restore sessions if license check fails. (#187) (#188)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v17](https://github.com/stashed/mongodb/releases/tag/3.4.17-v17)
