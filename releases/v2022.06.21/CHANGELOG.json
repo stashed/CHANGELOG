@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.06.21",
-  "release_date": "2022-06-17T09:43:03.895037243Z",
+  "release_date": "2022-06-17T09:57:52.744178786Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.06.21",
   "kubernetes_version": "1.16+",
@@ -137,6 +137,24 @@
             {
               "SHA": "a9ce58ed",
               "Subject": "Test against Kubernetes 1.24.0 (#1447)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.3.0",
+          "commits": [
+            {
+              "SHA": "dbe1690",
+              "Subject": "Prepare for release v0.3.0 (#14)"
+            },
+            {
+              "SHA": "ccb5f80",
+              "Subject": "Use k8s 1.24 tool chain"
             }
           ]
         }

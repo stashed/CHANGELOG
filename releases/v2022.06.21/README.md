@@ -53,3 +53,12 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.3.0](https://github.com/stashed/ui-server/releases/tag/v0.3.0)
+
+- [dbe1690](https://github.com/stashed/ui-server/commit/dbe1690) Prepare for release v0.3.0 (#14)
+- [ccb5f80](https://github.com/stashed/ui-server/commit/ccb5f80) Use k8s 1.24 tool chain
+
+
+
