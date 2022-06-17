@@ -67,6 +67,14 @@
 - [b7fc16da](https://github.com/stashed/postgres/commit/b7fc16da) Make sure to fail the backup/restore sessions if license check fails. (#1053) (#1057)
 
 
+### [14.0-v5](https://github.com/stashed/postgres/releases/tag/14.0-v5)
+
+- [1fba7100](https://github.com/stashed/postgres/commit/1fba7100) Prepare for release 14.0-v5 (#1073)
+- [a4d857ef](https://github.com/stashed/postgres/commit/a4d857ef) [cherry-pick] Use Go 1.18 (#1067)
+- [b90b5890](https://github.com/stashed/postgres/commit/b90b5890) Use restic 0.13.1 (#1027) (#1060)
+- [4638c6e1](https://github.com/stashed/postgres/commit/4638c6e1) Make sure to fail the backup/restore sessions if license check fails. (#1053) (#1058)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
