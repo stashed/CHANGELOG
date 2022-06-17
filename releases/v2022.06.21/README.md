@@ -45,6 +45,13 @@
 - [a8548d33](https://github.com/stashed/postgres/commit/a8548d33) Make sure to fail the backup/restore sessions if license check fails. (#1053) (#1054)
 
 
+### [11.9-v16](https://github.com/stashed/postgres/releases/tag/11.9-v16)
+
+- [ade2cb88](https://github.com/stashed/postgres/commit/ade2cb88) Prepare for release 11.9-v16 (#1070)
+- [f02ceab3](https://github.com/stashed/postgres/commit/f02ceab3) [cherry-pick] Use Go 1.18 (#1064)
+- [47293bab](https://github.com/stashed/postgres/commit/47293bab) Make sure to fail the backup/restore sessions if license check fails. (#1053) (#1055)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
