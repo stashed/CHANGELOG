@@ -198,6 +198,16 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v18](https://github.com/stashed/mysql/releases/tag/5.7.25-v18)
+
+- [6788bc23](https://github.com/stashed/mysql/commit/6788bc23) Prepare for release 5.7.25-v18 (#633)
+- [bf7bb0bc](https://github.com/stashed/mysql/commit/bf7bb0bc) [cherry-pick] Use Go 1.18 (#629)
+- [6fca045a](https://github.com/stashed/mysql/commit/6fca045a) Make sure to fail the backup/restore sessions if license check fails. (#622) (#623)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v16](https://github.com/stashed/postgres/releases/tag/9.6.19-v16)
