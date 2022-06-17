@@ -191,6 +191,12 @@
 - [768a40c1](https://github.com/stashed/mongodb/commit/768a40c1) Make sure to fail the backup/restore sessions if license check fails. (#1554) (#1566)
 
 
+### [5.0.3-v5](https://github.com/stashed/mongodb/releases/tag/5.0.3-v5)
+
+- [40168c44](https://github.com/stashed/mongodb/commit/40168c44) Prepare for release 5.0.3-v5 (#1591)
+- [78999c9e](https://github.com/stashed/mongodb/commit/78999c9e) Make sure to fail the backup/restore sessions if license check fails. (#1554) (#1567)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
