@@ -250,6 +250,13 @@
 - [d895e5b](https://github.com/stashed/nats/commit/d895e5b) Make sure to fail the backup/restore sessions if license check fails. (#52) (#53)
 
 
+### [2.8.2-v1](https://github.com/stashed/nats/releases/tag/2.8.2-v1)
+
+- [b2540f1](https://github.com/stashed/nats/commit/b2540f1) Prepare for release 2.8.2-v1 (#58)
+- [f462469](https://github.com/stashed/nats/commit/f462469) [cherry-pick] Use Go 1.18 (#56)
+- [bb05983](https://github.com/stashed/nats/commit/bb05983) Make sure to fail the backup/restore sessions if license check fails. (#52) (#54)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
