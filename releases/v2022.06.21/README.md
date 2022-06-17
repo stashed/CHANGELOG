@@ -59,6 +59,14 @@
 - [ba595303](https://github.com/stashed/postgres/commit/ba595303) Make sure to fail the backup/restore sessions if license check fails. (#1053) (#1056)
 
 
+### [13.1-v13](https://github.com/stashed/postgres/releases/tag/13.1-v13)
+
+- [61861efc](https://github.com/stashed/postgres/commit/61861efc) Prepare for release 13.1-v13 (#1072)
+- [b3bba6a9](https://github.com/stashed/postgres/commit/b3bba6a9) [cherry-pick] Use Go 1.18 (#1066)
+- [051ce90c](https://github.com/stashed/postgres/commit/051ce90c) Use restic 0.13.1 (#1027) (#1061)
+- [b7fc16da](https://github.com/stashed/postgres/commit/b7fc16da) Make sure to fail the backup/restore sessions if license check fails. (#1053) (#1057)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
