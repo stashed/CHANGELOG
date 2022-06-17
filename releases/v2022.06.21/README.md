@@ -185,6 +185,12 @@
 - [820fffd0](https://github.com/stashed/mongodb/commit/820fffd0) Make sure to fail the backup/restore sessions if license check fails. (#1554) (#1565)
 
 
+### [4.4.6-v8](https://github.com/stashed/mongodb/releases/tag/4.4.6-v8)
+
+- [ba6f8429](https://github.com/stashed/mongodb/commit/ba6f8429) Prepare for release 4.4.6-v8 (#1590)
+- [768a40c1](https://github.com/stashed/mongodb/commit/768a40c1) Make sure to fail the backup/restore sessions if license check fails. (#1554) (#1566)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
