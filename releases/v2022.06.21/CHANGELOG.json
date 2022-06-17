@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.06.21",
-  "release_date": "2022-06-17T11:55:19.863423515Z",
+  "release_date": "2022-06-17T11:55:21.252678342Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.06.21",
   "kubernetes_version": "1.16+",
@@ -708,6 +708,23 @@
             {
               "SHA": "51ff930",
               "Subject": "Make sure to fail the backup/restore sessions if license check fails. (#106) (#107)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v6",
+          "commits": [
+            {
+              "SHA": "e9528e1",
+              "Subject": "Prepare for release 6.2.5-v6 (#114)"
+            },
+            {
+              "SHA": "d565078",
+              "Subject": "[cherry-pick] Use Go 1.18 (#112)"
+            },
+            {
+              "SHA": "e7bb8c9",
+              "Subject": "Make sure to fail the backup/restore sessions if license check fails. (#106) (#108)"
             }
           ]
         }

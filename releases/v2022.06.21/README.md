@@ -297,6 +297,13 @@
 - [51ff930](https://github.com/stashed/redis/commit/51ff930) Make sure to fail the backup/restore sessions if license check fails. (#106) (#107)
 
 
+### [6.2.5-v6](https://github.com/stashed/redis/releases/tag/6.2.5-v6)
+
+- [e9528e1](https://github.com/stashed/redis/commit/e9528e1) Prepare for release 6.2.5-v6 (#114)
+- [d565078](https://github.com/stashed/redis/commit/d565078) [cherry-pick] Use Go 1.18 (#112)
+- [e7bb8c9](https://github.com/stashed/redis/commit/e7bb8c9) Make sure to fail the backup/restore sessions if license check fails. (#106) (#108)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
