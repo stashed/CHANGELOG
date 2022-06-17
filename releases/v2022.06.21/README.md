@@ -23,6 +23,16 @@
 
 
 
+## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
+
+### [5.6.4-v18](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v18)
+
+- [f71cc84e](https://github.com/stashed/elasticsearch/commit/f71cc84e) Prepare for release 5.6.4-v18 (#1213)
+- [d13474d2](https://github.com/stashed/elasticsearch/commit/d13474d2) Use Go 1.18 (#1203)
+- [f942b902](https://github.com/stashed/elasticsearch/commit/f942b902) [cherry-pick] Make sure to fail the backup/restore sessions if license check fails. (#1192) (#1193)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.21.0](https://github.com/stashed/enterprise/releases/tag/v0.21.0)
