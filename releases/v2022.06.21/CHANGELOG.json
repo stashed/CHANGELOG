@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.06.21",
-  "release_date": "2022-06-17T09:03:04.814005288Z",
+  "release_date": "2022-06-17T09:19:58.287047599Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.06.21",
   "kubernetes_version": "1.16+",
@@ -31,6 +31,56 @@
             {
               "SHA": "6891e99a",
               "Subject": "Test against Kubernetes 1.24.0 (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "76df41cc",
+              "Subject": "Prepare for release v0.21.0 (#1453)"
+            },
+            {
+              "SHA": "e1bae66f",
+              "Subject": "Add RBAC permissions for `coordination.k8s.io/leases`"
+            },
+            {
+              "SHA": "df9553d0",
+              "Subject": "Add RBAC permissions for `coordination.k8s.io/leases`"
+            },
+            {
+              "SHA": "846d952f",
+              "Subject": "Fix linter warning"
+            },
+            {
+              "SHA": "6e5fd706",
+              "Subject": "Clean up dependencies (#1451)"
+            },
+            {
+              "SHA": "4b6dd4eb",
+              "Subject": "Use github.com/imdario/mergo@v0.3.5"
+            },
+            {
+              "SHA": "f2109b78",
+              "Subject": "Update to k8s 1.24 toolchain (#1450)"
+            },
+            {
+              "SHA": "33073c9b",
+              "Subject": "Add timeout for backup and restore (#1449)"
+            },
+            {
+              "SHA": "49926ef1",
+              "Subject": "Check if restore output is nil before updating restore status (#1448)"
+            },
+            {
+              "SHA": "a9ce58ed",
+              "Subject": "Test against Kubernetes 1.24.0 (#1447)"
             }
           ]
         }
