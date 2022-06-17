@@ -136,6 +136,13 @@
 - [896889f1](https://github.com/stashed/mongodb/commit/896889f1) Make sure to fail the backup/restore sessions if license check fails. (#1554) (#1557)
 
 
+### [4.0.3-v17](https://github.com/stashed/mongodb/releases/tag/4.0.3-v17)
+
+- [c0cb607a](https://github.com/stashed/mongodb/commit/c0cb607a) Prepare for release 4.0.3-v17 (#1584)
+- [fdabcd75](https://github.com/stashed/mongodb/commit/fdabcd75) Go 1.18 (#1574)
+- [c309e641](https://github.com/stashed/mongodb/commit/c309e641) Make sure to fail the backup/restore sessions if license check fails. (#1554) (#1560)
+
+
 ### [4.0.11-v17](https://github.com/stashed/mongodb/releases/tag/4.0.11-v17)
 
 - [b9ea05bd](https://github.com/stashed/mongodb/commit/b9ea05bd) Prepare for release 4.0.11-v17 (#1583)
