@@ -13,6 +13,15 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2022.06.21](https://github.com/stashed/bundles/releases/tag/v2022.06.21)
+
+- [5e1ffa0](https://github.com/stashed/bundles/commit/5e1ffa0) Prepare for release v2022.06.21 (#63)
+- [45384d2](https://github.com/stashed/bundles/commit/45384d2) Test against Kubernetes 1.24.0 (#62)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.21.0](https://github.com/stashed/cli/releases/tag/v0.21.0)

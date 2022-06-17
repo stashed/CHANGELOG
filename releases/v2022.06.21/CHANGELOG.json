@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.06.21",
-  "release_date": "2022-06-17T13:49:19.022913466Z",
+  "release_date": "2022-06-17T13:59:02.777556253Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.06.21",
   "kubernetes_version": "1.16+",
@@ -31,6 +31,24 @@
             {
               "SHA": "6891e99a",
               "Subject": "Test against Kubernetes 1.24.0 (#171)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2022.06.21",
+          "commits": [
+            {
+              "SHA": "5e1ffa0",
+              "Subject": "Prepare for release v2022.06.21 (#63)"
+            },
+            {
+              "SHA": "45384d2",
+              "Subject": "Test against Kubernetes 1.24.0 (#62)"
             }
           ]
         }
