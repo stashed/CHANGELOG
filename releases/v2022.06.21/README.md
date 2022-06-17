@@ -53,6 +53,13 @@
 - [c2127005](https://github.com/stashed/elasticsearch/commit/c2127005) [cherry-pick] Make sure to fail the backup/restore sessions if license check fails. (#1192) (#1196)
 
 
+### [6.5.3-v18](https://github.com/stashed/elasticsearch/releases/tag/6.5.3-v18)
+
+- [08aa5cd0](https://github.com/stashed/elasticsearch/commit/08aa5cd0) Prepare for release 6.5.3-v18 (#1217)
+- [39022b9c](https://github.com/stashed/elasticsearch/commit/39022b9c) Use Go 1.18 (#1207)
+- [ea839cea](https://github.com/stashed/elasticsearch/commit/ea839cea) [cherry-pick] Make sure to fail the backup/restore sessions if license check fails. (#1192) (#1197)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
