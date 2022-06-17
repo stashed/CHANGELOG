@@ -241,6 +241,16 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v6](https://github.com/stashed/nats/releases/tag/2.6.1-v6)
+
+- [45e3eb5](https://github.com/stashed/nats/commit/45e3eb5) Prepare for release 2.6.1-v5 (#57)
+- [918fba8](https://github.com/stashed/nats/commit/918fba8) [cherry-pick] Use Go 1.18 (#55)
+- [d895e5b](https://github.com/stashed/nats/commit/d895e5b) Make sure to fail the backup/restore sessions if license check fails. (#52) (#53)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v13](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v13)
