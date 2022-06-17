@@ -117,6 +117,16 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.1.0-v1](https://github.com/stashed/kubedump/releases/tag/0.1.0-v1)
+
+- [8b71a18](https://github.com/stashed/kubedump/commit/8b71a18) Prepare for release 0.1.0-v1 (#9)
+- [d976331](https://github.com/stashed/kubedump/commit/d976331) Go 1.18 (#8)
+- [3b2d4f8](https://github.com/stashed/kubedump/commit/3b2d4f8) Make sure to fail the backup/restore sessions if license check fails. (#7)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v11](https://github.com/stashed/mariadb/releases/tag/10.5.8-v11)
