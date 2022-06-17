@@ -117,6 +117,23 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2022.06.21](https://github.com/stashed/installer/releases/tag/v2022.06.21)
+
+- [38ca633b](https://github.com/stashed/installer/commit/38ca633b) Prepare for release v2022.06.21 (#263)
+- [6a6c4726](https://github.com/stashed/installer/commit/6a6c4726) Remove stash-metrics from stash chart (#262)
+- [32e21c6f](https://github.com/stashed/installer/commit/32e21c6f) Update crds (#261)
+- [dd3340dd](https://github.com/stashed/installer/commit/dd3340dd) Don't set tag in values files
+- [803d36db](https://github.com/stashed/installer/commit/803d36db) Add RBAC permissions for `coordination.k8s.io/leases` (#260)
+- [c0bf346e](https://github.com/stashed/installer/commit/c0bf346e) Rename percona-xtradb to  perconaxtradb in catalog.json (#259)
+- [5b581a8b](https://github.com/stashed/installer/commit/5b581a8b) Update to k8s 1.24 toolchain
+- [0dd58f75](https://github.com/stashed/installer/commit/0dd58f75) Update Grafana dashboard's labels. (#257)
+- [b92b8989](https://github.com/stashed/installer/commit/b92b8989) Get operator tag from .Chart.AppVersion (#258)
+- [72537db0](https://github.com/stashed/installer/commit/72537db0) Test against Kubernetes 1.24.0 (#256)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v1](https://github.com/stashed/kubedump/releases/tag/0.1.0-v1)
