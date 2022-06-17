@@ -207,6 +207,14 @@
 - [6fca045a](https://github.com/stashed/mysql/commit/6fca045a) Make sure to fail the backup/restore sessions if license check fails. (#622) (#623)
 
 
+### [8.0.3-v18](https://github.com/stashed/mysql/releases/tag/8.0.3-v18)
+
+- [00a92f31](https://github.com/stashed/mysql/commit/00a92f31) Prepare for release 8.0.3-v18 (#636)
+- [071a7d3f](https://github.com/stashed/mysql/commit/071a7d3f) [cherry-pick] Use Go 1.18 (#632)
+- [d5b5a0b3](https://github.com/stashed/mysql/commit/d5b5a0b3) Use restic 0.13.1 (#604) (#627)
+- [881b2a0e](https://github.com/stashed/mysql/commit/881b2a0e) Make sure to fail the backup/restore sessions if license check fails. (#622) (#626)
+
+
 ### [8.0.14-v18](https://github.com/stashed/mysql/releases/tag/8.0.14-v18)
 
 - [0b2d6ec7](https://github.com/stashed/mysql/commit/0b2d6ec7) Prepare for release 8.0.14-v18 (#634)
