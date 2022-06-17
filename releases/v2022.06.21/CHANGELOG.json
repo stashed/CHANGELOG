@@ -1,0 +1,40 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.06.21",
+  "release_date": "2022-06-17T09:03:04.814005288Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.06.21",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "e19298fd",
+              "Subject": "Add Hook and TimeOut support in auto-backup (#174)"
+            },
+            {
+              "SHA": "b90c85f4",
+              "Subject": "Update to k8s 1.24 toolchain (#172)"
+            },
+            {
+              "SHA": "5d2e9a06",
+              "Subject": "Add timeout for backup and restore (#169)"
+            },
+            {
+              "SHA": "1c812e70",
+              "Subject": "Update metrics labels to sync with Panopticon. (#170)"
+            },
+            {
+              "SHA": "6891e99a",
+              "Subject": "Test against Kubernetes 1.24.0 (#171)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
