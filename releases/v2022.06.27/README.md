@@ -1,6 +1,14 @@
 # Stash v2022.06.27 (2022-06-27)
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2022.06.27](https://github.com/stashed/bundles/releases/tag/v2022.06.27)
+
+- [cf0444f](https://github.com/stashed/bundles/commit/cf0444f) Prepare for release v2022.06.27 (#64)
+
+
+
 ## [stashed/docs](https://github.com/stashed/docs)
 
 ### [v2022.06.27](https://github.com/stashed/docs/releases/tag/v2022.06.27)
