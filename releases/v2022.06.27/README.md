@@ -18,4 +18,9 @@
 - [9d5645cd](https://github.com/stashed/postgres/commit/9d5645cd) [cherry-pick] Fix license checking error. (#1077) (#1080)
 
 
+### [13.1-v14](https://github.com/stashed/postgres/releases/tag/13.1-v14)
+
+- [9cafed82](https://github.com/stashed/postgres/commit/9cafed82) [cherry-pick] Fix license checking error. (#1077) (#1081)
+
+
 
