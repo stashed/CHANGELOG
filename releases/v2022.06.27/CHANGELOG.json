@@ -1,0 +1,237 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.06.27",
+  "release_date": "2022-06-27T10:09:18.945770191Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.06.27",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2022.06.27",
+          "commits": [
+            {
+              "SHA": "cf0444f",
+              "Subject": "Prepare for release v2022.06.27 (#64)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.06.27",
+          "commits": [
+            {
+              "SHA": "3ac18a9",
+              "Subject": "Prepare for release v2022.06.27 (#241)"
+            },
+            {
+              "SHA": "32493b5",
+              "Subject": "Update docs for stashed/cli@4942f3ec (#239)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.06.27",
+          "commits": [
+            {
+              "SHA": "e8a6472b",
+              "Subject": "Prepare for release v2022.06.27 (#265)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v18",
+          "commits": [
+            {
+              "SHA": "aff82bdd",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1594)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v18",
+          "commits": [
+            {
+              "SHA": "789d9b33",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1595)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v18",
+          "commits": [
+            {
+              "SHA": "97a59fcf",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1597)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v18",
+          "commits": [
+            {
+              "SHA": "9a5ffacb",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1596)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v18",
+          "commits": [
+            {
+              "SHA": "c8873280",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1599)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v18",
+          "commits": [
+            {
+              "SHA": "49ed6399",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1600)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v18",
+          "commits": [
+            {
+              "SHA": "368ef71b",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1598)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v18",
+          "commits": [
+            {
+              "SHA": "f8b92ad8",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1602)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v18",
+          "commits": [
+            {
+              "SHA": "199e37cd",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1603)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v18",
+          "commits": [
+            {
+              "SHA": "f3eacd9f",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1601)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v18",
+          "commits": [
+            {
+              "SHA": "15bc3f6b",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1604)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v9",
+          "commits": [
+            {
+              "SHA": "710a47ca",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1605)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v6",
+          "commits": [
+            {
+              "SHA": "fa9cb3cb",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1606)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v17",
+          "commits": [
+            {
+              "SHA": "9ec2f296",
+              "Subject": "[cherry-pick] Fix license checking error. (#1077) (#1083)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v17",
+          "commits": [
+            {
+              "SHA": "dc2b85ce",
+              "Subject": "[cherry-pick] Fix license checking error. (#1077) (#1078)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v17",
+          "commits": [
+            {
+              "SHA": "ab3747db",
+              "Subject": "[cherry-pick] Fix license checking error. (#1077) (#1079)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v17",
+          "commits": [
+            {
+              "SHA": "9d5645cd",
+              "Subject": "[cherry-pick] Fix license checking error. (#1077) (#1080)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v14",
+          "commits": [
+            {
+              "SHA": "9cafed82",
+              "Subject": "[cherry-pick] Fix license checking error. (#1077) (#1081)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v6",
+          "commits": [
+            {
+              "SHA": "093044d7",
+              "Subject": "[cherry-pick] Fix license checking error. (#1077) (#1082)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
