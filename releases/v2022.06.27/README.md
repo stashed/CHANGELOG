@@ -1,6 +1,14 @@
 # Stash v2022.06.27 (2022-06-27)
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v18](https://github.com/stashed/mongodb/releases/tag/3.4.17-v18)
+
+- [aff82bdd](https://github.com/stashed/mongodb/commit/aff82bdd) [cherry-pick] Fix license checking error. (#1593) (#1594)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v17](https://github.com/stashed/postgres/releases/tag/9.6.19-v17)
