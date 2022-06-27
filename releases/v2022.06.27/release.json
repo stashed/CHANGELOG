@@ -1,0 +1,281 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.06.27",
+  "docs_url_template": "https://stash.run/docs/%s",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "github.com/stashed/apimachinery": {
+        "tag": "v0.21.0",
+        "chartNames": [
+          "stash-crds"
+        ]
+      }
+    },
+    {
+      "github.com/stashed/stash": {
+        "key": "stash-community",
+        "tag": "v0.21.0",
+        "chartNames": [
+          "stash-community"
+        ]
+      }
+    },
+    {
+      "github.com/stashed/enterprise": {
+        "key": "stash-enterprise",
+        "tag": "v0.21.0",
+        "chartNames": [
+          "stash-enterprise",
+          "stash-catalog"
+        ]
+      }
+    },
+    {
+      "github.com/stashed/cli": {
+        "key": "stash-cli",
+        "tag": "v0.21.0"
+      },
+      "github.com/stashed/ui-server": {
+        "key": "stash-ui-server",
+        "tag": "v0.3.0"
+      }
+    },
+    {
+      "github.com/stashed/postgres": {
+        "key": "stash-postgres",
+        "tags": {
+          "10.14-v17": "release-10.14",
+          "11.9-v17": "release-11.9",
+          "12.4-v17": "release-12.4",
+          "13.1-v14": "release-13.1",
+          "14.0-v6": "release-14.0",
+          "9.6.19-v17": "release-9.6.19"
+        }
+      }
+    },
+    {
+      "github.com/stashed/elasticsearch": {
+        "key": "stash-elasticsearch",
+        "tags": {
+          "5.6.4-v18": "release-5.6.4",
+          "6.2.4-v18": "release-6.2.4",
+          "6.3.0-v18": "release-6.3.0",
+          "6.4.0-v18": "release-6.4.0",
+          "6.5.3-v18": "release-6.5.3",
+          "6.8.0-v18": "release-6.8.0",
+          "7.14.0-v4": "release-7.14.0",
+          "7.2.0-v18": "release-7.2.0",
+          "7.3.2-v18": "release-7.3.2",
+          "8.2.0-v1": "release-8.2.0"
+        }
+      }
+    },
+    {
+      "github.com/stashed/mongodb": {
+        "key": "stash-mongodb",
+        "tags": {
+          "3.4.17-v18": "release-3.4.17",
+          "3.4.22-v18": "release-3.4.22",
+          "3.6.13-v18": "release-3.6.13",
+          "3.6.8-v18": "release-3.6.8",
+          "4.0.11-v18": "release-4.0.11",
+          "4.0.3-v18": "release-4.0.3",
+          "4.0.5-v18": "release-4.0.5",
+          "4.1.13-v18": "release-4.1.13",
+          "4.1.4-v18": "release-4.1.4",
+          "4.1.7-v18": "release-4.1.7",
+          "4.2.3-v18": "release-4.2.3",
+          "4.4.6-v9": "release-4.4.6",
+          "5.0.3-v6": "release-5.0.3"
+        }
+      }
+    },
+    {
+      "github.com/stashed/mysql": {
+        "key": "stash-mysql",
+        "tags": {
+          "5.7.25-v18": "release-5.7.25",
+          "8.0.14-v18": "release-8.0.14",
+          "8.0.21-v12": "release-8.0.21",
+          "8.0.3-v18": "release-8.0.3"
+        }
+      }
+    },
+    {
+      "github.com/stashed/mariadb": {
+        "key": "stash-mariadb",
+        "tags": {
+          "10.5.8-v11": "release-10.5.8"
+        }
+      }
+    },
+    {
+      "github.com/stashed/redis": {
+        "key": "stash-redis",
+        "tags": {
+          "5.0.13-v6": "release-5.0.13",
+          "6.2.5-v6": "release-6.2.5"
+        }
+      }
+    },
+    {
+      "github.com/stashed/percona-xtradb": {
+        "key": "stash-percona-xtradb",
+        "tags": {
+          "5.7-v13": "release-5.7"
+        }
+      }
+    },
+    {
+      "github.com/stashed/nats": {
+        "key": "stash-nats",
+        "tags": {
+          "2.6.1-v5": "release-2.6.1",
+          "2.8.2-v1": "release-2.8.2"
+        }
+      }
+    },
+    {
+      "github.com/stashed/etcd": {
+        "key": "stash-etcd",
+        "tags": {
+          "3.5.0-v5": "release-3.5.0"
+        }
+      }
+    },
+    {
+      "github.com/stashed/kubedump": {
+        "key": "stash-kubedump",
+        "tags": {
+          "0.1.0-v1": "release-0.1.0"
+        }
+      }
+    },
+    {
+      "github.com/stashed/installer": {
+        "key": "stash-installer",
+        "tag": "v2022.06.27",
+        "commands": [
+          "./hack/scripts/import-crds.sh",
+          "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-stash-community CHART_VERSION=${STASHED_STASH_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-stash-enterprise CHART_VERSION=${STASHED_ENTERPRISE_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "make chart-stash-ui-server CHART_VERSION=${STASHED_UI_SERVER_TAG} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+          "release-automaton stash gen-catalog --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --catalog-file=${WORKSPACE}/catalog/catalog.json",
+          "make gen fmt",
+          "./hack/scripts/update-chart-dependencies.sh"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/appscode/charts": {
+        "charts": [
+          "github.com/stashed/installer"
+        ],
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/appscode/static-assets": {
+        "commands": [
+          "release-automaton update-assets --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE}"
+        ],
+        "changelog": "StandaloneWebsite"
+      }
+    },
+    {
+      "github.com/stashed/docs": {
+        "key": "stash",
+        "tag": "v2022.06.27",
+        "commands": [
+          "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/CHANGELOG-${RELEASE}.md"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/stashed/website": {
+        "tag": "v2022.06.27",
+        "commands": [
+          "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
+          "make docs",
+          "make set-version VERSION=${TAG}"
+        ],
+        "release_branch": "master",
+        "changelog": "Skip"
+      }
+    },
+    {
+      "github.com/stashed/bundles": {
+        "tag": "v2022.06.27",
+        "commands": [
+          "release-automaton update-bundles --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE} --charts-dir=charts"
+        ],
+        "release_branch": "release-${TAG}"
+      }
+    },
+    {
+      "github.com/bytebuilders/bundle-registry": {
+        "charts": [
+          "github.com/stashed/bundles"
+        ],
+        "changelog": "Skip"
+      }
+    }
+  ],
+  "external_projects": {
+    "github.com/kubedb/apimachinery": {},
+    "github.com/kubedb/bundles": {},
+    "github.com/kubedb/cli": {},
+    "github.com/kubedb/docs": {},
+    "github.com/kubedb/elasticsearch": {
+      "commands": [
+        "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=STASH_VERSION=${STASHED_STASH_TAG} --vars=STASH_CATALOG_VERSION=${STASH_CATALOG_VERSION} --vars=CHART_REGISTRY=${CHART_REGISTRY} --vars=CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+        "make add-license fmt"
+      ]
+    },
+    "github.com/kubedb/installer": {
+      "commands": [
+        "make fmt"
+      ]
+    },
+    "github.com/kubedb/mariadb": {
+      "commands": [
+        "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=STASH_VERSION=${STASHED_STASH_TAG} --vars=STASH_CATALOG_VERSION=${STASH_CATALOG_VERSION} --vars=CHART_REGISTRY=${CHART_REGISTRY} --vars=CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+        "make add-license fmt"
+      ]
+    },
+    "github.com/kubedb/memcached": {},
+    "github.com/kubedb/mongodb": {
+      "commands": [
+        "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=STASH_VERSION=${STASHED_STASH_TAG} --vars=STASH_CATALOG_VERSION=${STASH_CATALOG_VERSION} --vars=CHART_REGISTRY=${CHART_REGISTRY} --vars=CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+        "make add-license fmt"
+      ]
+    },
+    "github.com/kubedb/mysql": {
+      "commands": [
+        "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=STASH_VERSION=${STASHED_STASH_TAG} --vars=STASH_CATALOG_VERSION=${STASH_CATALOG_VERSION} --vars=CHART_REGISTRY=${CHART_REGISTRY} --vars=CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+        "make add-license fmt"
+      ]
+    },
+    "github.com/kubedb/operator": {},
+    "github.com/kubedb/percona-xtradb": {
+      "commands": [
+        "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=STASH_VERSION=${STASHED_STASH_TAG} --vars=STASH_CATALOG_VERSION=${STASH_CATALOG_VERSION} --vars=CHART_REGISTRY=${CHART_REGISTRY} --vars=CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+        "make add-license fmt"
+      ]
+    },
+    "github.com/kubedb/pg-leader-election": {},
+    "github.com/kubedb/pgbouncer": {},
+    "github.com/kubedb/postgres": {
+      "commands": [
+        "release-automaton update-vars --env-file=${WORKSPACE}/Makefile.env --vars=STASH_VERSION=${STASHED_STASH_TAG} --vars=STASH_CATALOG_VERSION=${STASH_CATALOG_VERSION} --vars=CHART_REGISTRY=${CHART_REGISTRY} --vars=CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
+        "make add-license fmt"
+      ]
+    },
+    "github.com/kubedb/proxysql": {},
+    "github.com/kubedb/redis": {}
+  }
+}
