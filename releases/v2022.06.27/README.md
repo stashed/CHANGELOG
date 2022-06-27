@@ -1,6 +1,14 @@
 # Stash v2022.06.27 (2022-06-27)
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2022.06.27](https://github.com/stashed/installer/releases/tag/v2022.06.27)
+
+- [e8a6472b](https://github.com/stashed/installer/commit/e8a6472b) Prepare for release v2022.06.27 (#265)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v18](https://github.com/stashed/mongodb/releases/tag/3.4.17-v18)
