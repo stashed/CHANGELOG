@@ -23,4 +23,9 @@
 - [9cafed82](https://github.com/stashed/postgres/commit/9cafed82) [cherry-pick] Fix license checking error. (#1077) (#1081)
 
 
+### [14.0-v6](https://github.com/stashed/postgres/releases/tag/14.0-v6)
+
+- [093044d7](https://github.com/stashed/postgres/commit/093044d7) [cherry-pick] Fix license checking error. (#1077) (#1082)
+
+
 
