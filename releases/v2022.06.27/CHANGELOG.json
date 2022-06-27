@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.06.27",
-  "release_date": "2022-06-27T08:54:14.99629807Z",
+  "release_date": "2022-06-27T08:54:16.829623763Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.06.27",
   "kubernetes_version": "1.16+",
@@ -42,6 +42,15 @@
             {
               "SHA": "9a5ffacb",
               "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1596)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v18",
+          "commits": [
+            {
+              "SHA": "c8873280",
+              "Subject": "[cherry-pick] Fix license checking error. (#1593) (#1599)"
             }
           ]
         },

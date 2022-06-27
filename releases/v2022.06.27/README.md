@@ -23,6 +23,11 @@
 - [9a5ffacb](https://github.com/stashed/mongodb/commit/9a5ffacb) [cherry-pick] Fix license checking error. (#1593) (#1596)
 
 
+### [4.0.3-v18](https://github.com/stashed/mongodb/releases/tag/4.0.3-v18)
+
+- [c8873280](https://github.com/stashed/mongodb/commit/c8873280) [cherry-pick] Fix license checking error. (#1593) (#1599)
+
+
 ### [4.0.11-v18](https://github.com/stashed/mongodb/releases/tag/4.0.11-v18)
 
 - [368ef71b](https://github.com/stashed/mongodb/commit/368ef71b) [cherry-pick] Fix license checking error. (#1593) (#1598)
