@@ -8,4 +8,9 @@
 - [dc2b85ce](https://github.com/stashed/postgres/commit/dc2b85ce) [cherry-pick] Fix license checking error. (#1077) (#1078)
 
 
+### [11.9-v17](https://github.com/stashed/postgres/releases/tag/11.9-v17)
+
+- [ab3747db](https://github.com/stashed/postgres/commit/ab3747db) [cherry-pick] Fix license checking error. (#1077) (#1079)
+
+
 
