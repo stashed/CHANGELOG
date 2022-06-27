@@ -1,11 +1,29 @@
 {
   "product_line": "Stash",
   "release": "v2022.06.27",
-  "release_date": "2022-06-27T09:08:44.871548615Z",
+  "release_date": "2022-06-27T09:59:23.161909789Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.06.27",
   "kubernetes_version": "1.16+",
   "projects": [
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.06.27",
+          "commits": [
+            {
+              "SHA": "3ac18a9",
+              "Subject": "Prepare for release v2022.06.27 (#241)"
+            },
+            {
+              "SHA": "32493b5",
+              "Subject": "Update docs for stashed/cli@4942f3ec (#239)"
+            }
+          ]
+        }
+      ]
+    },
     {
       "url": "github.com/stashed/installer",
       "releases": [

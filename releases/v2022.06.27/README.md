@@ -1,6 +1,15 @@
 # Stash v2022.06.27 (2022-06-27)
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2022.06.27](https://github.com/stashed/docs/releases/tag/v2022.06.27)
+
+- [3ac18a9](https://github.com/stashed/docs/commit/3ac18a9) Prepare for release v2022.06.27 (#241)
+- [32493b5](https://github.com/stashed/docs/commit/32493b5) Update docs for stashed/cli@4942f3ec (#239)
+
+
+
 ## [stashed/installer](https://github.com/stashed/installer)
 
 ### [v2022.06.27](https://github.com/stashed/installer/releases/tag/v2022.06.27)
