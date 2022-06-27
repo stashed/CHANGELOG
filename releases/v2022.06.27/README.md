@@ -3,6 +3,11 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v17](https://github.com/stashed/postgres/releases/tag/9.6.19-v17)
+
+- [9ec2f296](https://github.com/stashed/postgres/commit/9ec2f296) [cherry-pick] Fix license checking error. (#1077) (#1083)
+
+
 ### [10.14-v17](https://github.com/stashed/postgres/releases/tag/10.14-v17)
 
 - [dc2b85ce](https://github.com/stashed/postgres/commit/dc2b85ce) [cherry-pick] Fix license checking error. (#1077) (#1078)
