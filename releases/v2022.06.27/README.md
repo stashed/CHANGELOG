@@ -63,6 +63,11 @@
 - [710a47ca](https://github.com/stashed/mongodb/commit/710a47ca) [cherry-pick] Fix license checking error. (#1593) (#1605)
 
 
+### [5.0.3-v6](https://github.com/stashed/mongodb/releases/tag/5.0.3-v6)
+
+- [fa9cb3cb](https://github.com/stashed/mongodb/commit/fa9cb3cb) [cherry-pick] Fix license checking error. (#1593) (#1606)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
