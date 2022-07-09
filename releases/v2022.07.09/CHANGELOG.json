@@ -1,0 +1,150 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.07.09",
+  "release_date": "2022-07-09T15:02:18.09216462Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.07.09",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "0d8b4a6b",
+              "Subject": "Don't mark session phase completed until all step executes (#176)"
+            },
+            {
+              "SHA": "eda5d7b6",
+              "Subject": "Add `executionPolicy` for controlling Hook execution (#175)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2022.07.09",
+          "commits": [
+            {
+              "SHA": "a99ce26",
+              "Subject": "Prepare for release v2022.07.09 (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "48205e7b",
+              "Subject": "Prepare for release v0.22.0 (#165)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.07.09",
+          "commits": [
+            {
+              "SHA": "1f9d04a",
+              "Subject": "Prepare for release v2022.07.09 (#247)"
+            },
+            {
+              "SHA": "40f7f08",
+              "Subject": "Fix RBAC for cross-namespace backup/restore (#243)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "22673dec",
+              "Subject": "Prepare for release v0.22.0 (#183)"
+            },
+            {
+              "SHA": "d0c08788",
+              "Subject": "Add support for hook executionPolicy (#181)"
+            },
+            {
+              "SHA": "d183ca59",
+              "Subject": "Add RBAC permissions for finalizers (#182)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.07.09",
+          "commits": [
+            {
+              "SHA": "6516d4a2",
+              "Subject": "Prepare for release v2022.07.09 (#268)"
+            },
+            {
+              "SHA": "72439121",
+              "Subject": "Add RBAC permissions for finalizers (#267)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "b7f17c08",
+              "Subject": "Prepare for release v0.22.0 (#1459)"
+            },
+            {
+              "SHA": "98d35685",
+              "Subject": "Add support for hook executionPolicy (#1457)"
+            },
+            {
+              "SHA": "85d6c506",
+              "Subject": "Add RBAC permissions for finalizers (#1458)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.4.0",
+          "commits": [
+            {
+              "SHA": "fe19a0f",
+              "Subject": "Prepare for release v0.4.0 (#15)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
