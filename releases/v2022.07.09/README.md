@@ -18,6 +18,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2022.07.09](https://github.com/stashed/docs/releases/tag/v2022.07.09)
+
+- [1f9d04a](https://github.com/stashed/docs/commit/1f9d04a) Prepare for release v2022.07.09 (#247)
+- [40f7f08](https://github.com/stashed/docs/commit/40f7f08) Fix RBAC for cross-namespace backup/restore (#243)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.22.0](https://github.com/stashed/enterprise/releases/tag/v0.22.0)
