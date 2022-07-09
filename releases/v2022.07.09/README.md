@@ -38,3 +38,11 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.4.0](https://github.com/stashed/ui-server/releases/tag/v0.4.0)
+
+- [fe19a0f](https://github.com/stashed/ui-server/commit/fe19a0f) Prepare for release v0.4.0 (#15)
+
+
+
