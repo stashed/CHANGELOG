@@ -1,0 +1,28 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.07.09",
+  "release_date": "2022-07-09T12:52:17.763908279Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.07.09",
+  "kubernetes_version": "1.16+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "0d8b4a6b",
+              "Subject": "Don't mark session phase completed until all step executes (#176)"
+            },
+            {
+              "SHA": "eda5d7b6",
+              "Subject": "Add `executionPolicy` for controlling Hook execution (#175)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
