@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.07.09",
-  "release_date": "2022-07-09T12:52:17.763908279Z",
+  "release_date": "2022-07-09T13:06:13.875541162Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.07.09",
   "kubernetes_version": "1.16+",
@@ -19,6 +19,28 @@
             {
               "SHA": "eda5d7b6",
               "Subject": "Add `executionPolicy` for controlling Hook execution (#175)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "b7f17c08",
+              "Subject": "Prepare for release v0.22.0 (#1459)"
+            },
+            {
+              "SHA": "98d35685",
+              "Subject": "Add support for hook executionPolicy (#1457)"
+            },
+            {
+              "SHA": "85d6c506",
+              "Subject": "Add RBAC permissions for finalizers (#1458)"
             }
           ]
         }

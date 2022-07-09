@@ -10,3 +10,13 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.22.0](https://github.com/stashed/stash/releases/tag/v0.22.0)
+
+- [b7f17c08](https://github.com/stashed/stash/commit/b7f17c08) Prepare for release v0.22.0 (#1459)
+- [98d35685](https://github.com/stashed/stash/commit/98d35685) Add support for hook executionPolicy (#1457)
+- [85d6c506](https://github.com/stashed/stash/commit/85d6c506) Add RBAC permissions for finalizers (#1458)
+
+
+
