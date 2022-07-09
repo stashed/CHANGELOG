@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.07.09",
-  "release_date": "2022-07-09T13:20:18.933334283Z",
+  "release_date": "2022-07-09T13:48:59.64467673Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.07.09",
   "kubernetes_version": "1.16+",
@@ -55,6 +55,24 @@
             {
               "SHA": "d183ca59",
               "Subject": "Add RBAC permissions for finalizers (#182)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.07.09",
+          "commits": [
+            {
+              "SHA": "6516d4a2",
+              "Subject": "Prepare for release v2022.07.09 (#268)"
+            },
+            {
+              "SHA": "72439121",
+              "Subject": "Add RBAC permissions for finalizers (#267)"
             }
           ]
         }

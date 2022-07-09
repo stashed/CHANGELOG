@@ -28,6 +28,15 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2022.07.09](https://github.com/stashed/installer/releases/tag/v2022.07.09)
+
+- [6516d4a2](https://github.com/stashed/installer/commit/6516d4a2) Prepare for release v2022.07.09 (#268)
+- [72439121](https://github.com/stashed/installer/commit/72439121) Add RBAC permissions for finalizers (#267)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.22.0](https://github.com/stashed/stash/releases/tag/v0.22.0)
