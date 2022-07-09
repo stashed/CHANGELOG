@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.07.09",
-  "release_date": "2022-07-09T13:10:43.109757436Z",
+  "release_date": "2022-07-09T13:19:36.751899448Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.07.09",
   "kubernetes_version": "1.16+",
@@ -19,6 +19,20 @@
             {
               "SHA": "eda5d7b6",
               "Subject": "Add `executionPolicy` for controlling Hook execution (#175)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "48205e7b",
+              "Subject": "Prepare for release v0.22.0 (#165)"
             }
           ]
         }
