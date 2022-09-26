@@ -72,6 +72,15 @@
 - [a0a65026](https://github.com/stashed/elasticsearch/commit/a0a65026) [cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1228)
 
 
+### [6.5.3-v19](https://github.com/stashed/elasticsearch/releases/tag/6.5.3-v19)
+
+- [7a026075](https://github.com/stashed/elasticsearch/commit/7a026075) Prepare for release 6.5.3-v19 (#1272)
+- [75e486af](https://github.com/stashed/elasticsearch/commit/75e486af) [cherry-pick] Revert to restic 0.13.1 (#1257) (#1262)
+- [cb9bd0fa](https://github.com/stashed/elasticsearch/commit/cb9bd0fa) [cherry-pick] Use restic 0.14.0 (#1246) (#1251)
+- [150cf448](https://github.com/stashed/elasticsearch/commit/150cf448) [cherry-pick] Use k8s 1.25.1 libs (#1235) (#1240)
+- [60dbba03](https://github.com/stashed/elasticsearch/commit/60dbba03) [cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1229)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
