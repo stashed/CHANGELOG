@@ -286,6 +286,13 @@
 - [8b8d50c0](https://github.com/stashed/mysql/commit/8b8d50c0) [cherry-pick] Acquire license from license-proxyserver if available (#638) (#639)
 
 
+### [8.0.3-v19](https://github.com/stashed/mysql/releases/tag/8.0.3-v19)
+
+- [a776fc40](https://github.com/stashed/mysql/commit/a776fc40) Prepare for release 8.0.3-v19 (#659)
+- [513cf746](https://github.com/stashed/mysql/commit/513cf746) [cherry-pick] Use k8s 1.25.1 libs (#643) (#647)
+- [f23808a4](https://github.com/stashed/mysql/commit/f23808a4) [cherry-pick] Acquire license from license-proxyserver if available (#638) (#642)
+
+
 ### [8.0.14-v19](https://github.com/stashed/mysql/releases/tag/8.0.14-v19)
 
 - [28076a91](https://github.com/stashed/mysql/commit/28076a91) Prepare for release 8.0.14-v19 (#657)
