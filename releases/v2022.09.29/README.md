@@ -324,6 +324,18 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v14](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v14)
+
+- [60dcbc42](https://github.com/stashed/percona-xtradb/commit/60dcbc42) Prepare for release 5.7-v14 (#272)
+- [4910525d](https://github.com/stashed/percona-xtradb/commit/4910525d) [cherry-pick] Revert to restic 0.13.1 (#270) (#271)
+- [f36ec767](https://github.com/stashed/percona-xtradb/commit/f36ec767) [cherry-pick] Use restic 0.14.0 (#268) (#269)
+- [3bc0f8b1](https://github.com/stashed/percona-xtradb/commit/3bc0f8b1) [cherry-pick] Use k8s 1.25.1 libs (#266) (#267)
+- [3176f6c4](https://github.com/stashed/percona-xtradb/commit/3176f6c4) [cherry-pick] Acquire license from license-proxyserver if available (#264) (#265)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v18](https://github.com/stashed/postgres/releases/tag/9.6.19-v18)
