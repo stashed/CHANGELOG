@@ -1,0 +1,80 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.09.29",
+  "release_date": "2022-09-26T16:06:36.420132951Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.09.29",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "92b9a652",
+              "Subject": "Add backup retry helpers + use `metav1.Duration` for `TimeOut` (#188)"
+            },
+            {
+              "SHA": "a5ba7404",
+              "Subject": "Revert to restic 0.13.1 (#190)"
+            },
+            {
+              "SHA": "8821fa34",
+              "Subject": "Test against Kubernetes 1.25.0 (#189)"
+            },
+            {
+              "SHA": "6b79486c",
+              "Subject": "Fix RestoreSession phase calculation (#187)"
+            },
+            {
+              "SHA": "cb39527c",
+              "Subject": "Add re-try logic for failed backup session (#182)"
+            },
+            {
+              "SHA": "b8925184",
+              "Subject": "Check for CronJob/VolumeSnapshot version only once (#186)"
+            },
+            {
+              "SHA": "a3b5eb90",
+              "Subject": "Remove slack link"
+            },
+            {
+              "SHA": "40ce6cb2",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#185)"
+            },
+            {
+              "SHA": "55dff331",
+              "Subject": "Use restic 0.14.0 (#184)"
+            },
+            {
+              "SHA": "522f4e18",
+              "Subject": "Use k8s 1.25.1 libs (#183)"
+            },
+            {
+              "SHA": "a68816b4",
+              "Subject": "Acquire license from license-proxyserver if available (#181)"
+            },
+            {
+              "SHA": "f76f80b6",
+              "Subject": "Fix namespace defaulting in restore target ref (#180)"
+            },
+            {
+              "SHA": "ffd3a856",
+              "Subject": "Make PostBackupHook and PostRestoreHook pointer to avoid defaulting (#179)"
+            },
+            {
+              "SHA": "2e6ad371",
+              "Subject": "Add target related constants + re-organize constants (#177)"
+            },
+            {
+              "SHA": "c8f94328",
+              "Subject": "Fix issue in sending backupsession and restoresession success metrics. (#178)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
