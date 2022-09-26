@@ -169,6 +169,18 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.1.0-v2](https://github.com/stashed/kubedump/releases/tag/0.1.0-v2)
+
+- [d949ed6](https://github.com/stashed/kubedump/commit/d949ed6) Prepare for release 0.1.0-v2 (#19)
+- [b2c51fb](https://github.com/stashed/kubedump/commit/b2c51fb) Revert to restic 0.13.1 (#17) (#18)
+- [540670b](https://github.com/stashed/kubedump/commit/540670b) [cherry-pick] Use restic 0.14.0 (#15) (#16)
+- [ca8bdc6](https://github.com/stashed/kubedump/commit/ca8bdc6) [cherry-pick] Use k8s 1.25.1 libs (#13) (#14)
+- [7d1fc6f](https://github.com/stashed/kubedump/commit/7d1fc6f) [cherry-pick] Acquire license from license-proxyserver if available (#11) (#12)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v12](https://github.com/stashed/mariadb/releases/tag/10.5.8-v12)
