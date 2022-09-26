@@ -23,6 +23,17 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.23.0](https://github.com/stashed/cli/releases/tag/v0.23.0)
+
+- [55cd97a6](https://github.com/stashed/cli/commit/55cd97a6) Prepare for release v0.23.0 (#171)
+- [c6df635c](https://github.com/stashed/cli/commit/c6df635c) Revert to restic 0.13.1 (#170)
+- [b522f73f](https://github.com/stashed/cli/commit/b522f73f) Use restic 0.14.0 (#169)
+- [b03af4b2](https://github.com/stashed/cli/commit/b03af4b2) Use k8s 1.25.1 libs (#168)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.23.0](https://github.com/stashed/enterprise/releases/tag/v0.23.0)
