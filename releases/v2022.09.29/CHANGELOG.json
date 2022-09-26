@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.09.29",
-  "release_date": "2022-09-26T17:31:45.063847235Z",
+  "release_date": "2022-09-26T17:31:46.987281943Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.09.29",
   "kubernetes_version": "1.18+",
@@ -127,6 +127,31 @@
             {
               "SHA": "c310969d",
               "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1225)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v19",
+          "commits": [
+            {
+              "SHA": "6ba65875",
+              "Subject": "Prepare for release 6.2.4-v19 (#1269)"
+            },
+            {
+              "SHA": "de0252b1",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1257) (#1259)"
+            },
+            {
+              "SHA": "4ca1fe5d",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1246) (#1248)"
+            },
+            {
+              "SHA": "3cb020f6",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1235) (#1237)"
+            },
+            {
+              "SHA": "e6a3931e",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1226)"
             }
           ]
         }
