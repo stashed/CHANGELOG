@@ -275,6 +275,18 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v19](https://github.com/stashed/mysql/releases/tag/5.7.25-v19)
+
+- [2e7b1ded](https://github.com/stashed/mysql/commit/2e7b1ded) Prepare for release 5.7.25-v19 (#656)
+- [1502553e](https://github.com/stashed/mysql/commit/1502553e) [cherry-pick] Revert to restic 0.13.1 (#652) (#653)
+- [fb6b7842](https://github.com/stashed/mysql/commit/fb6b7842) [cherry-pick] Use restic 0.14.0 (#648) (#649)
+- [517967e9](https://github.com/stashed/mysql/commit/517967e9) [cherry-pick] Use k8s 1.25.1 libs (#643) (#644)
+- [8b8d50c0](https://github.com/stashed/mysql/commit/8b8d50c0) [cherry-pick] Acquire license from license-proxyserver if available (#638) (#639)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v18](https://github.com/stashed/postgres/releases/tag/9.6.19-v18)
