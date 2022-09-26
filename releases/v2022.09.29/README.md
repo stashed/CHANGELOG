@@ -157,6 +157,18 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v12](https://github.com/stashed/mariadb/releases/tag/10.5.8-v12)
+
+- [38c4724](https://github.com/stashed/mariadb/commit/38c4724) Prepare for release 10.5.8-v12 (#200)
+- [b861b65](https://github.com/stashed/mariadb/commit/b861b65) [cherry-pick] Revert to restic 0.13.1 (#198) (#199)
+- [7e6751a](https://github.com/stashed/mariadb/commit/7e6751a) [cherry-pick] Use restic 0.14.0 (#196) (#197)
+- [610ea64](https://github.com/stashed/mariadb/commit/610ea64) [cherry-pick] Use k8s 1.25.1 libs (#194) (#195)
+- [e476217](https://github.com/stashed/mariadb/commit/e476217) [cherry-pick] Acquire license from license-proxyserver if available (#192) (#193)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v19](https://github.com/stashed/mongodb/releases/tag/3.4.17-v19)
