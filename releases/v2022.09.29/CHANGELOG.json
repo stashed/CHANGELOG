@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.09.29",
-  "release_date": "2022-09-26T16:52:29.237372601Z",
+  "release_date": "2022-09-26T17:04:11.998810254Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.09.29",
   "kubernetes_version": "1.18+",
@@ -183,6 +183,36 @@
             {
               "SHA": "52ceac2b",
               "Subject": "Cancel concurrent CI runs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "10.14-v18",
+          "commits": [
+            {
+              "SHA": "21c2297c",
+              "Subject": "Prepare for release 10.14-v18 (#1112)"
+            },
+            {
+              "SHA": "f88623ae",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1105) (#1106)"
+            },
+            {
+              "SHA": "2095d664",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1098) (#1099)"
+            },
+            {
+              "SHA": "05343728",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1091) (#1092)"
+            },
+            {
+              "SHA": "b47ffe3a",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1084) (#1085)"
             }
           ]
         }
