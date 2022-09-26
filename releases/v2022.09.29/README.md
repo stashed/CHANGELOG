@@ -83,3 +83,13 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.5.0](https://github.com/stashed/ui-server/releases/tag/v0.5.0)
+
+- [13db95c](https://github.com/stashed/ui-server/commit/13db95c) Prepare for release v0.5.0 (#17)
+- [2382c83](https://github.com/stashed/ui-server/commit/2382c83) Use k8s 1.25.1 libs (#16)
+- [7fabd18](https://github.com/stashed/ui-server/commit/7fabd18) Cancel concurrent CI runs
+
+
+

@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.09.29",
-  "release_date": "2022-09-26T16:29:23.153022999Z",
+  "release_date": "2022-09-26T16:37:33.719034472Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.09.29",
   "kubernetes_version": "1.18+",
@@ -275,6 +275,28 @@
             {
               "SHA": "cd9bcecc",
               "Subject": "Cancel concurrent ci runs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "13db95c",
+              "Subject": "Prepare for release v0.5.0 (#17)"
+            },
+            {
+              "SHA": "2382c83",
+              "Subject": "Use k8s 1.25.1 libs (#16)"
+            },
+            {
+              "SHA": "7fabd18",
+              "Subject": "Cancel concurrent CI runs"
             }
           ]
         }
