@@ -169,6 +169,24 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2022.09.29](https://github.com/stashed/installer/releases/tag/v2022.09.29)
+
+- [29710ffb](https://github.com/stashed/installer/commit/29710ffb) Prepare for release v2022.09.29 (#282)
+- [2d65e197](https://github.com/stashed/installer/commit/2d65e197) Redis 7.0.5 (#281)
+- [38eb2de1](https://github.com/stashed/installer/commit/38eb2de1) Update crds
+- [8916a69d](https://github.com/stashed/installer/commit/8916a69d) Remove ReplicaSet and ReplicationController support from community edition (#280)
+- [4e11f0d6](https://github.com/stashed/installer/commit/4e11f0d6) Test against Kubernetes 1.25.0 (#279)
+- [744d7c6a](https://github.com/stashed/installer/commit/744d7c6a) Don't add PSP permissions in Kubernetes version v1.25.0+ (#278)
+- [2542d4af](https://github.com/stashed/installer/commit/2542d4af) Remove support ReplicaSet and ReplicationController (#276)
+- [30779daa](https://github.com/stashed/installer/commit/30779daa) Use k8s 1.25.1 libs (#277)
+- [e7dc289e](https://github.com/stashed/installer/commit/e7dc289e) Acquire license from license-proxyserver if available (#275)
+- [3d8c9552](https://github.com/stashed/installer/commit/3d8c9552) Add permission for license-proxyserver (#274)
+- [fcb4bdbe](https://github.com/stashed/installer/commit/fcb4bdbe) Add catalog for Redis 7.0.4 (#273)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v2](https://github.com/stashed/kubedump/releases/tag/0.1.0-v2)

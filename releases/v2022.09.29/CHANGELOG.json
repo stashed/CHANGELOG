@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.09.29",
-  "release_date": "2022-09-26T20:07:23.863038649Z",
+  "release_date": "2022-09-26T20:44:01.881692772Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.09.29",
   "kubernetes_version": "1.18+",
@@ -484,6 +484,60 @@
             {
               "SHA": "12b1d0e",
               "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#51) (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.09.29",
+          "commits": [
+            {
+              "SHA": "29710ffb",
+              "Subject": "Prepare for release v2022.09.29 (#282)"
+            },
+            {
+              "SHA": "2d65e197",
+              "Subject": "Redis 7.0.5 (#281)"
+            },
+            {
+              "SHA": "38eb2de1",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "8916a69d",
+              "Subject": "Remove ReplicaSet and ReplicationController support from community edition (#280)"
+            },
+            {
+              "SHA": "4e11f0d6",
+              "Subject": "Test against Kubernetes 1.25.0 (#279)"
+            },
+            {
+              "SHA": "744d7c6a",
+              "Subject": "Don't add PSP permissions in Kubernetes version v1.25.0+ (#278)"
+            },
+            {
+              "SHA": "2542d4af",
+              "Subject": "Remove support ReplicaSet and ReplicationController (#276)"
+            },
+            {
+              "SHA": "30779daa",
+              "Subject": "Use k8s 1.25.1 libs (#277)"
+            },
+            {
+              "SHA": "e7dc289e",
+              "Subject": "Acquire license from license-proxyserver if available (#275)"
+            },
+            {
+              "SHA": "3d8c9552",
+              "Subject": "Add permission for license-proxyserver (#274)"
+            },
+            {
+              "SHA": "fcb4bdbe",
+              "Subject": "Add catalog for Redis 7.0.4 (#273)"
             }
           ]
         }
