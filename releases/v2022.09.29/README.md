@@ -381,6 +381,18 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v7](https://github.com/stashed/redis/releases/tag/5.0.13-v7)
+
+- [23db3eb](https://github.com/stashed/redis/commit/23db3eb) Prepare for release 5.0.13-v7 (#129)
+- [09696ff](https://github.com/stashed/redis/commit/09696ff) [cherry-pick] Revert to restic 0.13.1 (#126) (#127)
+- [218357a](https://github.com/stashed/redis/commit/218357a) [cherry-pick] Use restic 0.14.0 (#123) (#124)
+- [ef82eb8](https://github.com/stashed/redis/commit/ef82eb8) [cherry-pick] Use k8s 1.25.1 libs (#120) (#121)
+- [083affe](https://github.com/stashed/redis/commit/083affe) [cherry-pick] Acquire license from license-proxyserver if available (#117) (#118)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.23.0](https://github.com/stashed/stash/releases/tag/v0.23.0)
