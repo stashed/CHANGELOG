@@ -120,6 +120,16 @@
 - [49ba85f7](https://github.com/stashed/elasticsearch/commit/49ba85f7) Prepare for release 7.14.0-v4 (#1219)
 
 
+### [8.2.0-v2](https://github.com/stashed/elasticsearch/releases/tag/8.2.0-v2)
+
+- [0c1ae9ff](https://github.com/stashed/elasticsearch/commit/0c1ae9ff) Prepare for release 8.2.0-v2 (#1277)
+- [1c020913](https://github.com/stashed/elasticsearch/commit/1c020913) [cherry-pick] Revert to restic 0.13.1 (#1257) (#1267)
+- [fc81884f](https://github.com/stashed/elasticsearch/commit/fc81884f) [cherry-pick] Use restic 0.14.0 (#1246) (#1256)
+- [7689cccc](https://github.com/stashed/elasticsearch/commit/7689cccc) [cherry-pick] Use k8s 1.25.1 libs (#1235) (#1245)
+- [5d5cbcd3](https://github.com/stashed/elasticsearch/commit/5d5cbcd3) [cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1234)
+- [e3026385](https://github.com/stashed/elasticsearch/commit/e3026385) Prepare for release 8.2.0-v1 (#1222)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
