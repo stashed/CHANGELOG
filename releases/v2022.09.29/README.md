@@ -34,6 +34,23 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2022.09.29](https://github.com/stashed/docs/releases/tag/v2022.09.29)
+
+- [37be91d](https://github.com/stashed/docs/commit/37be91d) Prepare for release v2022.09.29 (#256)
+- [f1bad56](https://github.com/stashed/docs/commit/f1bad56) Update docs for stashed/cli@55cd97a6 (#255)
+- [292c915](https://github.com/stashed/docs/commit/292c915) Update concept docs for retryConfig and timeOut (#254)
+- [f07b4ad](https://github.com/stashed/docs/commit/f07b4ad) Test against Kubernetes 1.25.0 (#253)
+- [c10ae82](https://github.com/stashed/docs/commit/c10ae82) Remove slack links (#252)
+- [51631f0](https://github.com/stashed/docs/commit/51631f0) Use Go 1.19 (#251)
+- [0764fa0](https://github.com/stashed/docs/commit/0764fa0) Update workload identity documentation (#242)
+- [5100f3a](https://github.com/stashed/docs/commit/5100f3a) Group images and examples with their markdown files (#250)
+- [fe452ac](https://github.com/stashed/docs/commit/fe452ac) Update hook documentation for `executionPolicy` (#249)
+- [4785ee4](https://github.com/stashed/docs/commit/4785ee4) Update docs for stashed/stash@64297c88 (#248)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v19](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v19)

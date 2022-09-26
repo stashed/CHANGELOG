@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.09.29",
-  "release_date": "2022-09-26T20:44:01.881692772Z",
+  "release_date": "2022-09-26T21:04:58.815059895Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.09.29",
   "kubernetes_version": "1.18+",
@@ -97,6 +97,56 @@
             {
               "SHA": "b03af4b2",
               "Subject": "Use k8s 1.25.1 libs (#168)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.09.29",
+          "commits": [
+            {
+              "SHA": "37be91d",
+              "Subject": "Prepare for release v2022.09.29 (#256)"
+            },
+            {
+              "SHA": "f1bad56",
+              "Subject": "Update docs for stashed/cli@55cd97a6 (#255)"
+            },
+            {
+              "SHA": "292c915",
+              "Subject": "Update concept docs for retryConfig and timeOut (#254)"
+            },
+            {
+              "SHA": "f07b4ad",
+              "Subject": "Test against Kubernetes 1.25.0 (#253)"
+            },
+            {
+              "SHA": "c10ae82",
+              "Subject": "Remove slack links (#252)"
+            },
+            {
+              "SHA": "51631f0",
+              "Subject": "Use Go 1.19 (#251)"
+            },
+            {
+              "SHA": "0764fa0",
+              "Subject": "Update workload identity documentation (#242)"
+            },
+            {
+              "SHA": "5100f3a",
+              "Subject": "Group images and examples with their markdown files (#250)"
+            },
+            {
+              "SHA": "fe452ac",
+              "Subject": "Update hook documentation for `executionPolicy` (#249)"
+            },
+            {
+              "SHA": "4785ee4",
+              "Subject": "Update docs for stashed/stash@64297c88 (#248)"
             }
           ]
         }
