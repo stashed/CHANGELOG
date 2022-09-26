@@ -295,6 +295,15 @@
 - [17110198](https://github.com/stashed/mysql/commit/17110198) [cherry-pick] Acquire license from license-proxyserver if available (#638) (#640)
 
 
+### [8.0.21-v13](https://github.com/stashed/mysql/releases/tag/8.0.21-v13)
+
+- [10631bcb](https://github.com/stashed/mysql/commit/10631bcb) Prepare for release 8.0.21-v13 (#658)
+- [3ebde7be](https://github.com/stashed/mysql/commit/3ebde7be) [cherry-pick] Revert to restic 0.13.1 (#652) (#655)
+- [5d5dfe4f](https://github.com/stashed/mysql/commit/5d5dfe4f) [cherry-pick] Use restic 0.14.0 (#648) (#651)
+- [2d32097f](https://github.com/stashed/mysql/commit/2d32097f) [cherry-pick] Use k8s 1.25.1 libs (#643) (#646)
+- [fd685f29](https://github.com/stashed/mysql/commit/fd685f29) [cherry-pick] Acquire license from license-proxyserver if available (#638) (#641)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
