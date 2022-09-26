@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.09.29",
-  "release_date": "2022-09-26T16:24:04.275578109Z",
+  "release_date": "2022-09-26T16:29:23.153022999Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.09.29",
   "kubernetes_version": "1.18+",
@@ -71,6 +71,92 @@
             {
               "SHA": "c8f94328",
               "Subject": "Fix issue in sending backupsession and restoresession success metrics. (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "4cb35fb1",
+              "Subject": "Prepare for release v0.23.0 (#205)"
+            },
+            {
+              "SHA": "88cf38fc",
+              "Subject": "Implement retry logic for failed backup + use `metav1.Duration` for `TimeOut` (#204)"
+            },
+            {
+              "SHA": "3951fa2c",
+              "Subject": "Revert to restic 0.13.1 (#203)"
+            },
+            {
+              "SHA": "81ec3c07",
+              "Subject": "Refactor codebase (#195)"
+            },
+            {
+              "SHA": "ca228c24",
+              "Subject": "Validate `TimeOut`  field in Backup and Restore (#202)"
+            },
+            {
+              "SHA": "657982b5",
+              "Subject": "Fix unit tests"
+            },
+            {
+              "SHA": "a348041f",
+              "Subject": "Check for CronJob/VolumeSnapshot version only once (#201)"
+            },
+            {
+              "SHA": "a5550bb0",
+              "Subject": "Handle CronJob api type dynamically (#200)"
+            },
+            {
+              "SHA": "79ba1c50",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#199)"
+            },
+            {
+              "SHA": "521b7e4e",
+              "Subject": "Use restic 0.14.0 (#198)"
+            },
+            {
+              "SHA": "60b48411",
+              "Subject": "Use VolumeSnapshot api dynamically (#197)"
+            },
+            {
+              "SHA": "cf034b8b",
+              "Subject": "Use k8s 1.25.1 libs (#196)"
+            },
+            {
+              "SHA": "f2c419a7",
+              "Subject": "Acquire license from license-proxyserver if available (#194)"
+            },
+            {
+              "SHA": "316cd592",
+              "Subject": "Fix total host calculation for VolumeSnapshot (#189)"
+            },
+            {
+              "SHA": "7fdce67e",
+              "Subject": "Fix label passing to restore job (#193)"
+            },
+            {
+              "SHA": "0052217d",
+              "Subject": "Fix hook defaulting issue (#192)"
+            },
+            {
+              "SHA": "d78cfc50",
+              "Subject": "Add support for multiple blueprint name in target annotations (#190)"
+            },
+            {
+              "SHA": "07327ac2",
+              "Subject": "Set BackupSession Duration before sending metrics. (#191)"
+            },
+            {
+              "SHA": "52ceac2b",
+              "Subject": "Cancel concurrent CI runs"
             }
           ]
         }

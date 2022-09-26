@@ -23,6 +23,32 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.23.0](https://github.com/stashed/enterprise/releases/tag/v0.23.0)
+
+- [4cb35fb1](https://github.com/stashed/enterprise/commit/4cb35fb1) Prepare for release v0.23.0 (#205)
+- [88cf38fc](https://github.com/stashed/enterprise/commit/88cf38fc) Implement retry logic for failed backup + use `metav1.Duration` for `TimeOut` (#204)
+- [3951fa2c](https://github.com/stashed/enterprise/commit/3951fa2c) Revert to restic 0.13.1 (#203)
+- [81ec3c07](https://github.com/stashed/enterprise/commit/81ec3c07) Refactor codebase (#195)
+- [ca228c24](https://github.com/stashed/enterprise/commit/ca228c24) Validate `TimeOut`  field in Backup and Restore (#202)
+- [657982b5](https://github.com/stashed/enterprise/commit/657982b5) Fix unit tests
+- [a348041f](https://github.com/stashed/enterprise/commit/a348041f) Check for CronJob/VolumeSnapshot version only once (#201)
+- [a5550bb0](https://github.com/stashed/enterprise/commit/a5550bb0) Handle CronJob api type dynamically (#200)
+- [79ba1c50](https://github.com/stashed/enterprise/commit/79ba1c50) Handle status conversion for CronJob/VolumeSnapshot (#199)
+- [521b7e4e](https://github.com/stashed/enterprise/commit/521b7e4e) Use restic 0.14.0 (#198)
+- [60b48411](https://github.com/stashed/enterprise/commit/60b48411) Use VolumeSnapshot api dynamically (#197)
+- [cf034b8b](https://github.com/stashed/enterprise/commit/cf034b8b) Use k8s 1.25.1 libs (#196)
+- [f2c419a7](https://github.com/stashed/enterprise/commit/f2c419a7) Acquire license from license-proxyserver if available (#194)
+- [316cd592](https://github.com/stashed/enterprise/commit/316cd592) Fix total host calculation for VolumeSnapshot (#189)
+- [7fdce67e](https://github.com/stashed/enterprise/commit/7fdce67e) Fix label passing to restore job (#193)
+- [0052217d](https://github.com/stashed/enterprise/commit/0052217d) Fix hook defaulting issue (#192)
+- [d78cfc50](https://github.com/stashed/enterprise/commit/d78cfc50) Add support for multiple blueprint name in target annotations (#190)
+- [07327ac2](https://github.com/stashed/enterprise/commit/07327ac2) Set BackupSession Duration before sending metrics. (#191)
+- [52ceac2b](https://github.com/stashed/enterprise/commit/52ceac2b) Cancel concurrent CI runs
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.23.0](https://github.com/stashed/stash/releases/tag/v0.23.0)
