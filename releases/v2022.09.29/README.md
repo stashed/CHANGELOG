@@ -336,6 +336,15 @@
 - [1bfa57c](https://github.com/stashed/nats/commit/1bfa57c) [cherry-pick] Acquire license from license-proxyserver if available (#60) (#61)
 
 
+### [2.8.2-v2](https://github.com/stashed/nats/releases/tag/2.8.2-v2)
+
+- [185b43b](https://github.com/stashed/nats/commit/185b43b) Prepare for release 2.8.2-v2 (#73)
+- [92a0d85](https://github.com/stashed/nats/commit/92a0d85) [cherry-pick] Revert to restic 0.13.1 (#69) (#71)
+- [a20f667](https://github.com/stashed/nats/commit/a20f667) [cherry-pick] Use restic 0.14.0 (#66) (#68)
+- [6e70b66](https://github.com/stashed/nats/commit/6e70b66) [cherry-pick] Use k8s 1.25.1 libs (#63) (#65)
+- [3d1ed5a](https://github.com/stashed/nats/commit/3d1ed5a) [cherry-pick] Acquire license from license-proxyserver if available (#60) (#62)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
