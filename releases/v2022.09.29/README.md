@@ -98,6 +98,15 @@
 - [ee7e4c40](https://github.com/stashed/postgres/commit/ee7e4c40) [cherry-pick] Acquire license from license-proxyserver if available (#1084) (#1088)
 
 
+### [14.0-v7](https://github.com/stashed/postgres/releases/tag/14.0-v7)
+
+- [334d54bb](https://github.com/stashed/postgres/commit/334d54bb) Prepare for release 14.0-v7 (#1116)
+- [84426fe5](https://github.com/stashed/postgres/commit/84426fe5) [cherry-pick] Revert to restic 0.13.1 (#1105) (#1110)
+- [d5225dd7](https://github.com/stashed/postgres/commit/d5225dd7) [cherry-pick] Use restic 0.14.0 (#1098) (#1103)
+- [b382b035](https://github.com/stashed/postgres/commit/b382b035) [cherry-pick] Use k8s 1.25.1 libs (#1091) (#1096)
+- [bf7ebaec](https://github.com/stashed/postgres/commit/bf7ebaec) [cherry-pick] Acquire license from license-proxyserver if available (#1084) (#1089)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
