@@ -62,6 +62,15 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v18](https://github.com/stashed/postgres/releases/tag/9.6.19-v18)
+
+- [82f3ce67](https://github.com/stashed/postgres/commit/82f3ce67) Prepare for release 9.6.19-v18 (#1117)
+- [2010667b](https://github.com/stashed/postgres/commit/2010667b) [cherry-pick] Revert to restic 0.13.1 (#1105) (#1111)
+- [ebbbcbac](https://github.com/stashed/postgres/commit/ebbbcbac) [cherry-pick] Use restic 0.14.0 (#1098) (#1104)
+- [c010f284](https://github.com/stashed/postgres/commit/c010f284) [cherry-pick] Use k8s 1.25.1 libs (#1091) (#1097)
+- [3f12e462](https://github.com/stashed/postgres/commit/3f12e462) [cherry-pick] Acquire license from license-proxyserver if available (#1084) (#1090)
+
+
 ### [10.14-v18](https://github.com/stashed/postgres/releases/tag/10.14-v18)
 
 - [21c2297c](https://github.com/stashed/postgres/commit/21c2297c) Prepare for release 10.14-v18 (#1112)
