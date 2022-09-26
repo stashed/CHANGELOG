@@ -157,6 +157,18 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v6](https://github.com/stashed/etcd/releases/tag/3.5.0-v6)
+
+- [3bbcbfb](https://github.com/stashed/etcd/commit/3bbcbfb) Prepare for release 3.5.0-v6 (#59)
+- [fad156c](https://github.com/stashed/etcd/commit/fad156c) [cherry-pick] Revert to restic 0.13.1 (#57) (#58)
+- [7836d45](https://github.com/stashed/etcd/commit/7836d45) [cherry-pick] Use restic 0.14.0 (#55) (#56)
+- [c1989f5](https://github.com/stashed/etcd/commit/c1989f5) [cherry-pick] Use k8s 1.25.1 libs (#53) (#54)
+- [12b1d0e](https://github.com/stashed/etcd/commit/12b1d0e) [cherry-pick] Acquire license from license-proxyserver if available (#51) (#52)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v12](https://github.com/stashed/mariadb/releases/tag/10.5.8-v12)
