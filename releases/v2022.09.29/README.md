@@ -157,6 +157,18 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v19](https://github.com/stashed/mongodb/releases/tag/3.4.17-v19)
+
+- [3a90213c](https://github.com/stashed/mongodb/commit/3a90213c) Prepare for release 3.4.17-v19 (#1663)
+- [dcc89b05](https://github.com/stashed/mongodb/commit/dcc89b05) [cherry-pick] Revert to restic 0.13.1 (#1649) (#1650)
+- [d9d43b0b](https://github.com/stashed/mongodb/commit/d9d43b0b) [cherry-pick] Use restic 0.14.0 (#1635) (#1636)
+- [c838b452](https://github.com/stashed/mongodb/commit/c838b452) [cherry-pick] Use k8s 1.25.1 libs (#1621) (#1622)
+- [78fb76b1](https://github.com/stashed/mongodb/commit/78fb76b1) [cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1608)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v18](https://github.com/stashed/postgres/releases/tag/9.6.19-v18)
