@@ -168,6 +168,15 @@
 - [78fb76b1](https://github.com/stashed/mongodb/commit/78fb76b1) [cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1608)
 
 
+### [3.4.22-v19](https://github.com/stashed/mongodb/releases/tag/3.4.22-v19)
+
+- [bd473140](https://github.com/stashed/mongodb/commit/bd473140) Prepare for release 3.4.22-v19 (#1664)
+- [ee17bd96](https://github.com/stashed/mongodb/commit/ee17bd96) Revert to restic 0.13.1 (#1649) (#1651)
+- [5a3562ae](https://github.com/stashed/mongodb/commit/5a3562ae) [cherry-pick] Use restic 0.14.0 (#1635) (#1637)
+- [d660184a](https://github.com/stashed/mongodb/commit/d660184a) [cherry-pick] Use k8s 1.25.1 libs (#1621) (#1623)
+- [3d73c7f8](https://github.com/stashed/mongodb/commit/3d73c7f8) [cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1609)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
