@@ -1,0 +1,1541 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.09.29",
+  "release_date": "2022-09-26T21:16:22.678910475Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.09.29",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "92b9a652",
+              "Subject": "Add backup retry helpers + use `metav1.Duration` for `TimeOut` (#188)"
+            },
+            {
+              "SHA": "a5ba7404",
+              "Subject": "Revert to restic 0.13.1 (#190)"
+            },
+            {
+              "SHA": "8821fa34",
+              "Subject": "Test against Kubernetes 1.25.0 (#189)"
+            },
+            {
+              "SHA": "6b79486c",
+              "Subject": "Fix RestoreSession phase calculation (#187)"
+            },
+            {
+              "SHA": "cb39527c",
+              "Subject": "Add re-try logic for failed backup session (#182)"
+            },
+            {
+              "SHA": "b8925184",
+              "Subject": "Check for CronJob/VolumeSnapshot version only once (#186)"
+            },
+            {
+              "SHA": "a3b5eb90",
+              "Subject": "Remove slack link"
+            },
+            {
+              "SHA": "40ce6cb2",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#185)"
+            },
+            {
+              "SHA": "55dff331",
+              "Subject": "Use restic 0.14.0 (#184)"
+            },
+            {
+              "SHA": "522f4e18",
+              "Subject": "Use k8s 1.25.1 libs (#183)"
+            },
+            {
+              "SHA": "a68816b4",
+              "Subject": "Acquire license from license-proxyserver if available (#181)"
+            },
+            {
+              "SHA": "f76f80b6",
+              "Subject": "Fix namespace defaulting in restore target ref (#180)"
+            },
+            {
+              "SHA": "ffd3a856",
+              "Subject": "Make PostBackupHook and PostRestoreHook pointer to avoid defaulting (#179)"
+            },
+            {
+              "SHA": "2e6ad371",
+              "Subject": "Add target related constants + re-organize constants (#177)"
+            },
+            {
+              "SHA": "c8f94328",
+              "Subject": "Fix issue in sending backupsession and restoresession success metrics. (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2022.09.29",
+          "commits": [
+            {
+              "SHA": "97ae92c",
+              "Subject": "Prepare for release v2022.09.29 (#68)"
+            },
+            {
+              "SHA": "dac2c66",
+              "Subject": "Test against Kubernetes 1.25.0 (#67)"
+            },
+            {
+              "SHA": "36021d5",
+              "Subject": "Use restic 0.14.0 (#66)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "55cd97a6",
+              "Subject": "Prepare for release v0.23.0 (#171)"
+            },
+            {
+              "SHA": "c6df635c",
+              "Subject": "Revert to restic 0.13.1 (#170)"
+            },
+            {
+              "SHA": "b522f73f",
+              "Subject": "Use restic 0.14.0 (#169)"
+            },
+            {
+              "SHA": "b03af4b2",
+              "Subject": "Use k8s 1.25.1 libs (#168)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.09.29",
+          "commits": [
+            {
+              "SHA": "37be91d",
+              "Subject": "Prepare for release v2022.09.29 (#256)"
+            },
+            {
+              "SHA": "f1bad56",
+              "Subject": "Update docs for stashed/cli@55cd97a6 (#255)"
+            },
+            {
+              "SHA": "292c915",
+              "Subject": "Update concept docs for retryConfig and timeOut (#254)"
+            },
+            {
+              "SHA": "f07b4ad",
+              "Subject": "Test against Kubernetes 1.25.0 (#253)"
+            },
+            {
+              "SHA": "c10ae82",
+              "Subject": "Remove slack links (#252)"
+            },
+            {
+              "SHA": "51631f0",
+              "Subject": "Use Go 1.19 (#251)"
+            },
+            {
+              "SHA": "0764fa0",
+              "Subject": "Update workload identity documentation (#242)"
+            },
+            {
+              "SHA": "5100f3a",
+              "Subject": "Group images and examples with their markdown files (#250)"
+            },
+            {
+              "SHA": "fe452ac",
+              "Subject": "Update hook documentation for `executionPolicy` (#249)"
+            },
+            {
+              "SHA": "4785ee4",
+              "Subject": "Update docs for stashed/stash@64297c88 (#248)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v19",
+          "commits": [
+            {
+              "SHA": "966a449b",
+              "Subject": "Prepare for release 5.6.4-v19 (#1268)"
+            },
+            {
+              "SHA": "69530abc",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1257) (#1258)"
+            },
+            {
+              "SHA": "5202ddcf",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1246) (#1247)"
+            },
+            {
+              "SHA": "831f0550",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1235) (#1236)"
+            },
+            {
+              "SHA": "c310969d",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1225)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v19",
+          "commits": [
+            {
+              "SHA": "6ba65875",
+              "Subject": "Prepare for release 6.2.4-v19 (#1269)"
+            },
+            {
+              "SHA": "de0252b1",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1257) (#1259)"
+            },
+            {
+              "SHA": "4ca1fe5d",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1246) (#1248)"
+            },
+            {
+              "SHA": "3cb020f6",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1235) (#1237)"
+            },
+            {
+              "SHA": "e6a3931e",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1226)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v19",
+          "commits": [
+            {
+              "SHA": "35be503d",
+              "Subject": "Prepare for release 6.3.0-v19 (#1270)"
+            },
+            {
+              "SHA": "a83a0f92",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1257) (#1260)"
+            },
+            {
+              "SHA": "4fc1c5ea",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1246) (#1249)"
+            },
+            {
+              "SHA": "f5f6bd25",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1235) (#1238)"
+            },
+            {
+              "SHA": "3fb18e38",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1227)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v19",
+          "commits": [
+            {
+              "SHA": "bb078f5b",
+              "Subject": "Prepare for release 6.4.0-v19 (#1271)"
+            },
+            {
+              "SHA": "3326965e",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1257) (#1261)"
+            },
+            {
+              "SHA": "7a38f82a",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1246) (#1250)"
+            },
+            {
+              "SHA": "4c080247",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1235) (#1239)"
+            },
+            {
+              "SHA": "a0a65026",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1228)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v19",
+          "commits": [
+            {
+              "SHA": "7a026075",
+              "Subject": "Prepare for release 6.5.3-v19 (#1272)"
+            },
+            {
+              "SHA": "75e486af",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1257) (#1262)"
+            },
+            {
+              "SHA": "cb9bd0fa",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1246) (#1251)"
+            },
+            {
+              "SHA": "150cf448",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1235) (#1240)"
+            },
+            {
+              "SHA": "60dbba03",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1229)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v19",
+          "commits": [
+            {
+              "SHA": "d158623c",
+              "Subject": "Prepare for release 6.8.0-v19 (#1273)"
+            },
+            {
+              "SHA": "918b5f8f",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1257) (#1263)"
+            },
+            {
+              "SHA": "350384af",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1246) (#1252)"
+            },
+            {
+              "SHA": "61d07df4",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1235) (#1241)"
+            },
+            {
+              "SHA": "dab04aa8",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1230)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v19",
+          "commits": [
+            {
+              "SHA": "b5b166a1",
+              "Subject": "Prepare for release 7.2.0-v19 (#1275)"
+            },
+            {
+              "SHA": "ac13c36b",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1257) (#1265)"
+            },
+            {
+              "SHA": "7aa291c7",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1246) (#1254)"
+            },
+            {
+              "SHA": "4240c297",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1235) (#1243)"
+            },
+            {
+              "SHA": "e32f9641",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1232)"
+            },
+            {
+              "SHA": "9ed8203d",
+              "Subject": "Prepare for release 7.2.0-v18 (#1220)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v19",
+          "commits": [
+            {
+              "SHA": "27366a89",
+              "Subject": "Prepare for release 7.3.2-v19 (#1276)"
+            },
+            {
+              "SHA": "20f7d0c0",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1257) (#1266)"
+            },
+            {
+              "SHA": "9051b5e8",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1246) (#1255)"
+            },
+            {
+              "SHA": "3af9b3c9",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1235) (#1244)"
+            },
+            {
+              "SHA": "b866149e",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1233)"
+            },
+            {
+              "SHA": "6d92e35f",
+              "Subject": "Prepare for release 7.3.2-v18 (#1221)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v5",
+          "commits": [
+            {
+              "SHA": "c0f3296c",
+              "Subject": "Prepare for release 7.14.0-v5 (#1274)"
+            },
+            {
+              "SHA": "fe1ba0d3",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1257) (#1264)"
+            },
+            {
+              "SHA": "d1735e73",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1246) (#1253)"
+            },
+            {
+              "SHA": "19670067",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1235) (#1242)"
+            },
+            {
+              "SHA": "2759db09",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1231)"
+            },
+            {
+              "SHA": "49ba85f7",
+              "Subject": "Prepare for release 7.14.0-v4 (#1219)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v2",
+          "commits": [
+            {
+              "SHA": "0c1ae9ff",
+              "Subject": "Prepare for release 8.2.0-v2 (#1277)"
+            },
+            {
+              "SHA": "1c020913",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1257) (#1267)"
+            },
+            {
+              "SHA": "fc81884f",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1246) (#1256)"
+            },
+            {
+              "SHA": "7689cccc",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1235) (#1245)"
+            },
+            {
+              "SHA": "5d5cbcd3",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1224) (#1234)"
+            },
+            {
+              "SHA": "e3026385",
+              "Subject": "Prepare for release 8.2.0-v1 (#1222)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "4cb35fb1",
+              "Subject": "Prepare for release v0.23.0 (#205)"
+            },
+            {
+              "SHA": "88cf38fc",
+              "Subject": "Implement retry logic for failed backup + use `metav1.Duration` for `TimeOut` (#204)"
+            },
+            {
+              "SHA": "3951fa2c",
+              "Subject": "Revert to restic 0.13.1 (#203)"
+            },
+            {
+              "SHA": "81ec3c07",
+              "Subject": "Refactor codebase (#195)"
+            },
+            {
+              "SHA": "ca228c24",
+              "Subject": "Validate `TimeOut`  field in Backup and Restore (#202)"
+            },
+            {
+              "SHA": "657982b5",
+              "Subject": "Fix unit tests"
+            },
+            {
+              "SHA": "a348041f",
+              "Subject": "Check for CronJob/VolumeSnapshot version only once (#201)"
+            },
+            {
+              "SHA": "a5550bb0",
+              "Subject": "Handle CronJob api type dynamically (#200)"
+            },
+            {
+              "SHA": "79ba1c50",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#199)"
+            },
+            {
+              "SHA": "521b7e4e",
+              "Subject": "Use restic 0.14.0 (#198)"
+            },
+            {
+              "SHA": "60b48411",
+              "Subject": "Use VolumeSnapshot api dynamically (#197)"
+            },
+            {
+              "SHA": "cf034b8b",
+              "Subject": "Use k8s 1.25.1 libs (#196)"
+            },
+            {
+              "SHA": "f2c419a7",
+              "Subject": "Acquire license from license-proxyserver if available (#194)"
+            },
+            {
+              "SHA": "316cd592",
+              "Subject": "Fix total host calculation for VolumeSnapshot (#189)"
+            },
+            {
+              "SHA": "7fdce67e",
+              "Subject": "Fix label passing to restore job (#193)"
+            },
+            {
+              "SHA": "0052217d",
+              "Subject": "Fix hook defaulting issue (#192)"
+            },
+            {
+              "SHA": "d78cfc50",
+              "Subject": "Add support for multiple blueprint name in target annotations (#190)"
+            },
+            {
+              "SHA": "07327ac2",
+              "Subject": "Set BackupSession Duration before sending metrics. (#191)"
+            },
+            {
+              "SHA": "52ceac2b",
+              "Subject": "Cancel concurrent CI runs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v6",
+          "commits": [
+            {
+              "SHA": "3bbcbfb",
+              "Subject": "Prepare for release 3.5.0-v6 (#59)"
+            },
+            {
+              "SHA": "fad156c",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#57) (#58)"
+            },
+            {
+              "SHA": "7836d45",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#55) (#56)"
+            },
+            {
+              "SHA": "c1989f5",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#53) (#54)"
+            },
+            {
+              "SHA": "12b1d0e",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#51) (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.09.29",
+          "commits": [
+            {
+              "SHA": "29710ffb",
+              "Subject": "Prepare for release v2022.09.29 (#282)"
+            },
+            {
+              "SHA": "2d65e197",
+              "Subject": "Redis 7.0.5 (#281)"
+            },
+            {
+              "SHA": "38eb2de1",
+              "Subject": "Update crds"
+            },
+            {
+              "SHA": "8916a69d",
+              "Subject": "Remove ReplicaSet and ReplicationController support from community edition (#280)"
+            },
+            {
+              "SHA": "4e11f0d6",
+              "Subject": "Test against Kubernetes 1.25.0 (#279)"
+            },
+            {
+              "SHA": "744d7c6a",
+              "Subject": "Don't add PSP permissions in Kubernetes version v1.25.0+ (#278)"
+            },
+            {
+              "SHA": "2542d4af",
+              "Subject": "Remove support ReplicaSet and ReplicationController (#276)"
+            },
+            {
+              "SHA": "30779daa",
+              "Subject": "Use k8s 1.25.1 libs (#277)"
+            },
+            {
+              "SHA": "e7dc289e",
+              "Subject": "Acquire license from license-proxyserver if available (#275)"
+            },
+            {
+              "SHA": "3d8c9552",
+              "Subject": "Add permission for license-proxyserver (#274)"
+            },
+            {
+              "SHA": "fcb4bdbe",
+              "Subject": "Add catalog for Redis 7.0.4 (#273)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v2",
+          "commits": [
+            {
+              "SHA": "d949ed6",
+              "Subject": "Prepare for release 0.1.0-v2 (#19)"
+            },
+            {
+              "SHA": "b2c51fb",
+              "Subject": "Revert to restic 0.13.1 (#17) (#18)"
+            },
+            {
+              "SHA": "540670b",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#15) (#16)"
+            },
+            {
+              "SHA": "ca8bdc6",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#13) (#14)"
+            },
+            {
+              "SHA": "7d1fc6f",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#11) (#12)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v12",
+          "commits": [
+            {
+              "SHA": "38c4724",
+              "Subject": "Prepare for release 10.5.8-v12 (#200)"
+            },
+            {
+              "SHA": "b861b65",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#198) (#199)"
+            },
+            {
+              "SHA": "7e6751a",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#196) (#197)"
+            },
+            {
+              "SHA": "610ea64",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#194) (#195)"
+            },
+            {
+              "SHA": "e476217",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#192) (#193)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v19",
+          "commits": [
+            {
+              "SHA": "3a90213c",
+              "Subject": "Prepare for release 3.4.17-v19 (#1663)"
+            },
+            {
+              "SHA": "dcc89b05",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1649) (#1650)"
+            },
+            {
+              "SHA": "d9d43b0b",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1636)"
+            },
+            {
+              "SHA": "c838b452",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1622)"
+            },
+            {
+              "SHA": "78fb76b1",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1608)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v19",
+          "commits": [
+            {
+              "SHA": "bd473140",
+              "Subject": "Prepare for release 3.4.22-v19 (#1664)"
+            },
+            {
+              "SHA": "ee17bd96",
+              "Subject": "Revert to restic 0.13.1 (#1649) (#1651)"
+            },
+            {
+              "SHA": "5a3562ae",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1637)"
+            },
+            {
+              "SHA": "d660184a",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1623)"
+            },
+            {
+              "SHA": "3d73c7f8",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1609)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v19",
+          "commits": [
+            {
+              "SHA": "2a5d0729",
+              "Subject": "Prepare for release 3.6.8-v19 (#1666)"
+            },
+            {
+              "SHA": "98abf305",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1649) (#1653)"
+            },
+            {
+              "SHA": "52614ce5",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1639)"
+            },
+            {
+              "SHA": "a3c6cdb0",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1625)"
+            },
+            {
+              "SHA": "09da5ad7",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1611)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v19",
+          "commits": [
+            {
+              "SHA": "36b22e54",
+              "Subject": "Prepare for release 3.6.13-v19 (#1665)"
+            },
+            {
+              "SHA": "0b579101",
+              "Subject": "Revert to restic 0.13.1 (#1649) (#1652)"
+            },
+            {
+              "SHA": "f335db0d",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1638)"
+            },
+            {
+              "SHA": "a194f438",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1624)"
+            },
+            {
+              "SHA": "a389cd0c",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1610)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v19",
+          "commits": [
+            {
+              "SHA": "1ba18787",
+              "Subject": "Prepare for release 4.0.3-v19 (#1668)"
+            },
+            {
+              "SHA": "20c26852",
+              "Subject": "Revert to restic 0.13.1 (#1649) (#1655)"
+            },
+            {
+              "SHA": "3cd8cbe0",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1641)"
+            },
+            {
+              "SHA": "8d7a12a8",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1627)"
+            },
+            {
+              "SHA": "dec6b1b5",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1613)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v19",
+          "commits": [
+            {
+              "SHA": "7fa68368",
+              "Subject": "Prepare for release 4.0.5-v19 (#1669)"
+            },
+            {
+              "SHA": "ae8bc602",
+              "Subject": "Revert to restic 0.13.1 (#1649) (#1656)"
+            },
+            {
+              "SHA": "cf032c32",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1642)"
+            },
+            {
+              "SHA": "05f691f6",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1628)"
+            },
+            {
+              "SHA": "425887a0",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1614)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v19",
+          "commits": [
+            {
+              "SHA": "f519a6b1",
+              "Subject": "Prepare for release 4.0.11-v19 (#1667)"
+            },
+            {
+              "SHA": "f1977fd5",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1649) (#1654)"
+            },
+            {
+              "SHA": "1c0e894f",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1640)"
+            },
+            {
+              "SHA": "269719a6",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1626)"
+            },
+            {
+              "SHA": "fcbc9b82",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1612)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v19",
+          "commits": [
+            {
+              "SHA": "1bc0d9c6",
+              "Subject": "Prepare for release 4.1.4-v19 (#1671)"
+            },
+            {
+              "SHA": "eb3b71a0",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1649) (#1658)"
+            },
+            {
+              "SHA": "1e53dfeb",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1644)"
+            },
+            {
+              "SHA": "0ea9f2ee",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1630)"
+            },
+            {
+              "SHA": "2e27e199",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1616)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v19",
+          "commits": [
+            {
+              "SHA": "7029f3cb",
+              "Subject": "Prepare for release 4.1.7-v19 (#1672)"
+            },
+            {
+              "SHA": "5a7188dc",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1649) (#1659)"
+            },
+            {
+              "SHA": "b068d1cb",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1645)"
+            },
+            {
+              "SHA": "7b413b54",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1631)"
+            },
+            {
+              "SHA": "cd1f4626",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1617)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v19",
+          "commits": [
+            {
+              "SHA": "0fb41942",
+              "Subject": "Prepare for release 4.1.13-v19 (#1670)"
+            },
+            {
+              "SHA": "48fe3980",
+              "Subject": "Revert to restic 0.13.1 (#1649) (#1657)"
+            },
+            {
+              "SHA": "a09f450c",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1643)"
+            },
+            {
+              "SHA": "a56f9680",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1629)"
+            },
+            {
+              "SHA": "0f64d312",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1615)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v19",
+          "commits": [
+            {
+              "SHA": "faebeabf",
+              "Subject": "Prepare for release 4.2.3-v19 (#1673)"
+            },
+            {
+              "SHA": "630081c4",
+              "Subject": "Revert to restic 0.13.1 (#1649) (#1660)"
+            },
+            {
+              "SHA": "db2b2154",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1646)"
+            },
+            {
+              "SHA": "465c0f96",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1632)"
+            },
+            {
+              "SHA": "07b25e67",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1618)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v10",
+          "commits": [
+            {
+              "SHA": "3f080a1a",
+              "Subject": "Revert to restic 0.13.1 (#1649) (#1661)"
+            },
+            {
+              "SHA": "61c5a63a",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1647)"
+            },
+            {
+              "SHA": "945b11ff",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1633)"
+            },
+            {
+              "SHA": "8d5c1da5",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1619)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v7",
+          "commits": [
+            {
+              "SHA": "b794121f",
+              "Subject": "Revert to restic 0.13.1 (#1649) (#1662)"
+            },
+            {
+              "SHA": "048c224d",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1635) (#1648)"
+            },
+            {
+              "SHA": "ae70b357",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1621) (#1634)"
+            },
+            {
+              "SHA": "23063a3b",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1607) (#1620)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v19",
+          "commits": [
+            {
+              "SHA": "2e7b1ded",
+              "Subject": "Prepare for release 5.7.25-v19 (#656)"
+            },
+            {
+              "SHA": "1502553e",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#652) (#653)"
+            },
+            {
+              "SHA": "fb6b7842",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#648) (#649)"
+            },
+            {
+              "SHA": "517967e9",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#643) (#644)"
+            },
+            {
+              "SHA": "8b8d50c0",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#638) (#639)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v19",
+          "commits": [
+            {
+              "SHA": "a776fc40",
+              "Subject": "Prepare for release 8.0.3-v19 (#659)"
+            },
+            {
+              "SHA": "513cf746",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#643) (#647)"
+            },
+            {
+              "SHA": "f23808a4",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#638) (#642)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v19",
+          "commits": [
+            {
+              "SHA": "28076a91",
+              "Subject": "Prepare for release 8.0.14-v19 (#657)"
+            },
+            {
+              "SHA": "a3232b0c",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#652) (#654)"
+            },
+            {
+              "SHA": "7dd4e9be",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#648) (#650)"
+            },
+            {
+              "SHA": "6c47a15a",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#643) (#645)"
+            },
+            {
+              "SHA": "17110198",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#638) (#640)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v13",
+          "commits": [
+            {
+              "SHA": "10631bcb",
+              "Subject": "Prepare for release 8.0.21-v13 (#658)"
+            },
+            {
+              "SHA": "3ebde7be",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#652) (#655)"
+            },
+            {
+              "SHA": "5d5dfe4f",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#648) (#651)"
+            },
+            {
+              "SHA": "2d32097f",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#643) (#646)"
+            },
+            {
+              "SHA": "fd685f29",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#638) (#641)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v7",
+          "commits": [
+            {
+              "SHA": "ff84cf8",
+              "Subject": "Prepare for release 2.6.1-v6 (#72)"
+            },
+            {
+              "SHA": "27915ef",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#69) (#70)"
+            },
+            {
+              "SHA": "4e4f933",
+              "Subject": "Fix Dockerfile"
+            },
+            {
+              "SHA": "f984718",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#66) (#67)"
+            },
+            {
+              "SHA": "45ba241",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#63) (#64)"
+            },
+            {
+              "SHA": "1bfa57c",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#60) (#61)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v2",
+          "commits": [
+            {
+              "SHA": "185b43b",
+              "Subject": "Prepare for release 2.8.2-v2 (#73)"
+            },
+            {
+              "SHA": "92a0d85",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#69) (#71)"
+            },
+            {
+              "SHA": "a20f667",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#66) (#68)"
+            },
+            {
+              "SHA": "6e70b66",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#63) (#65)"
+            },
+            {
+              "SHA": "3d1ed5a",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#60) (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v14",
+          "commits": [
+            {
+              "SHA": "60dcbc42",
+              "Subject": "Prepare for release 5.7-v14 (#272)"
+            },
+            {
+              "SHA": "4910525d",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#270) (#271)"
+            },
+            {
+              "SHA": "f36ec767",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#268) (#269)"
+            },
+            {
+              "SHA": "3bc0f8b1",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#266) (#267)"
+            },
+            {
+              "SHA": "3176f6c4",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#264) (#265)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v18",
+          "commits": [
+            {
+              "SHA": "82f3ce67",
+              "Subject": "Prepare for release 9.6.19-v18 (#1117)"
+            },
+            {
+              "SHA": "2010667b",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1105) (#1111)"
+            },
+            {
+              "SHA": "ebbbcbac",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1098) (#1104)"
+            },
+            {
+              "SHA": "c010f284",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1091) (#1097)"
+            },
+            {
+              "SHA": "3f12e462",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1084) (#1090)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v18",
+          "commits": [
+            {
+              "SHA": "21c2297c",
+              "Subject": "Prepare for release 10.14-v18 (#1112)"
+            },
+            {
+              "SHA": "f88623ae",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1105) (#1106)"
+            },
+            {
+              "SHA": "2095d664",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1098) (#1099)"
+            },
+            {
+              "SHA": "05343728",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1091) (#1092)"
+            },
+            {
+              "SHA": "b47ffe3a",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1084) (#1085)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v18",
+          "commits": [
+            {
+              "SHA": "d94521f0",
+              "Subject": "Prepare for release 11.9-v18 (#1113)"
+            },
+            {
+              "SHA": "80d58dcf",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1105) (#1107)"
+            },
+            {
+              "SHA": "0f80a028",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1098) (#1100)"
+            },
+            {
+              "SHA": "1dc3d12a",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1091) (#1093)"
+            },
+            {
+              "SHA": "8bb7face",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1084) (#1086)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v18",
+          "commits": [
+            {
+              "SHA": "9aeadf3d",
+              "Subject": "Prepare for release 12.4-v18 (#1114)"
+            },
+            {
+              "SHA": "dc133e24",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1105) (#1108)"
+            },
+            {
+              "SHA": "b076014d",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1098) (#1101)"
+            },
+            {
+              "SHA": "0d9bb51a",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1091) (#1094)"
+            },
+            {
+              "SHA": "4c40d495",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1084) (#1087)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v15",
+          "commits": [
+            {
+              "SHA": "d5514c07",
+              "Subject": "Prepare for release 13.1-v15 (#1115)"
+            },
+            {
+              "SHA": "6ae5c873",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1105) (#1109)"
+            },
+            {
+              "SHA": "a99069cf",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1098) (#1102)"
+            },
+            {
+              "SHA": "085f7ae0",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1091) (#1095)"
+            },
+            {
+              "SHA": "ee7e4c40",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1084) (#1088)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v7",
+          "commits": [
+            {
+              "SHA": "334d54bb",
+              "Subject": "Prepare for release 14.0-v7 (#1116)"
+            },
+            {
+              "SHA": "84426fe5",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#1105) (#1110)"
+            },
+            {
+              "SHA": "d5225dd7",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#1098) (#1103)"
+            },
+            {
+              "SHA": "b382b035",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#1091) (#1096)"
+            },
+            {
+              "SHA": "bf7ebaec",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#1084) (#1089)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v7",
+          "commits": [
+            {
+              "SHA": "23db3eb",
+              "Subject": "Prepare for release 5.0.13-v7 (#129)"
+            },
+            {
+              "SHA": "09696ff",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#126) (#127)"
+            },
+            {
+              "SHA": "218357a",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#123) (#124)"
+            },
+            {
+              "SHA": "ef82eb8",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#120) (#121)"
+            },
+            {
+              "SHA": "083affe",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#117) (#118)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v7",
+          "commits": [
+            {
+              "SHA": "8448d92",
+              "Subject": "Prepare for release 6.2.5-v7 (#130)"
+            },
+            {
+              "SHA": "6e14704",
+              "Subject": "[cherry-pick] Revert to restic 0.13.1 (#126) (#128)"
+            },
+            {
+              "SHA": "418d73f",
+              "Subject": "Fix pointer"
+            },
+            {
+              "SHA": "b30d3a7",
+              "Subject": "[cherry-pick] Use restic 0.14.0 (#123) (#125)"
+            },
+            {
+              "SHA": "4711712",
+              "Subject": "[cherry-pick] Use k8s 1.25.1 libs (#120) (#122)"
+            },
+            {
+              "SHA": "0d4cfbd",
+              "Subject": "[cherry-pick] Acquire license from license-proxyserver if available (#117) (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "2df11f82",
+              "Subject": "Prepare for release v0.23.0 (#1486)"
+            },
+            {
+              "SHA": "ee8134e5",
+              "Subject": "Port changes from Stash Enterprise edition"
+            },
+            {
+              "SHA": "f209179c",
+              "Subject": "Fix snapshot test failure"
+            },
+            {
+              "SHA": "583a8f56",
+              "Subject": "Port changes from Stash Enterprise edition"
+            },
+            {
+              "SHA": "d8e8f4c9",
+              "Subject": "Revert to restic 0.13.1 (#1483)"
+            },
+            {
+              "SHA": "57de24c7",
+              "Subject": "Test against Kubernetes 1.25.0 (#1482)"
+            },
+            {
+              "SHA": "bf1826c8",
+              "Subject": "Validate `TimeOut` in backup and restore (#1481)"
+            },
+            {
+              "SHA": "1ae696dd",
+              "Subject": "Fix unit tests"
+            },
+            {
+              "SHA": "41064183",
+              "Subject": "Check for CronJob/VolumeSnapshot version only once (#1479)"
+            },
+            {
+              "SHA": "fc4e2602",
+              "Subject": "Handle CronJob api type dynamically (#1478)"
+            },
+            {
+              "SHA": "7c055aec",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#1477)"
+            },
+            {
+              "SHA": "fb80667d",
+              "Subject": "Use restic 0.14.0 (#1476)"
+            },
+            {
+              "SHA": "4ce5e18d",
+              "Subject": "Use VolumeSnapshot api dynamically (#1475)"
+            },
+            {
+              "SHA": "b0519c85",
+              "Subject": "Fix linter warnings"
+            },
+            {
+              "SHA": "779297d4",
+              "Subject": "Use k8s 1.25.1 libs (#1474)"
+            },
+            {
+              "SHA": "8c87f9fc",
+              "Subject": "Acquire license from license-proxyserver if available (#1472)"
+            },
+            {
+              "SHA": "63cac4e9",
+              "Subject": "Fix total host calculation for VolumeSnapshot"
+            },
+            {
+              "SHA": "aca8fde0",
+              "Subject": "Remove unused variable"
+            },
+            {
+              "SHA": "6bbd94ba",
+              "Subject": "Remove unnecessary else"
+            },
+            {
+              "SHA": "d28750a3",
+              "Subject": "Fix total host calculation for VolumeSnapshot"
+            },
+            {
+              "SHA": "42f39b5b",
+              "Subject": "Fix label passing to backup/restore jobs (#1470)"
+            },
+            {
+              "SHA": "2b445ce1",
+              "Subject": "Fix hook defaulting issue"
+            },
+            {
+              "SHA": "12436ad2",
+              "Subject": "Fix hook defaulting issue"
+            },
+            {
+              "SHA": "e2f44131",
+              "Subject": "Support multiple backup invoker against a target"
+            },
+            {
+              "SHA": "7fafed89",
+              "Subject": "Support multiple backup invoker against a target"
+            },
+            {
+              "SHA": "e4e7b69e",
+              "Subject": "Set BackupSession duration before sending metrics. (#1466)"
+            },
+            {
+              "SHA": "cd9bcecc",
+              "Subject": "Cancel concurrent ci runs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.5.0",
+          "commits": [
+            {
+              "SHA": "13db95c",
+              "Subject": "Prepare for release v0.5.0 (#17)"
+            },
+            {
+              "SHA": "2382c83",
+              "Subject": "Use k8s 1.25.1 libs (#16)"
+            },
+            {
+              "SHA": "7fabd18",
+              "Subject": "Cancel concurrent CI runs"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
