@@ -392,6 +392,16 @@
 - [083affe](https://github.com/stashed/redis/commit/083affe) [cherry-pick] Acquire license from license-proxyserver if available (#117) (#118)
 
 
+### [6.2.5-v7](https://github.com/stashed/redis/releases/tag/6.2.5-v7)
+
+- [8448d92](https://github.com/stashed/redis/commit/8448d92) Prepare for release 6.2.5-v7 (#130)
+- [6e14704](https://github.com/stashed/redis/commit/6e14704) [cherry-pick] Revert to restic 0.13.1 (#126) (#128)
+- [418d73f](https://github.com/stashed/redis/commit/418d73f) Fix pointer
+- [b30d3a7](https://github.com/stashed/redis/commit/b30d3a7) [cherry-pick] Use restic 0.14.0 (#123) (#125)
+- [4711712](https://github.com/stashed/redis/commit/4711712) [cherry-pick] Use k8s 1.25.1 libs (#120) (#122)
+- [0d4cfbd](https://github.com/stashed/redis/commit/0d4cfbd) [cherry-pick] Acquire license from license-proxyserver if available (#117) (#119)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
