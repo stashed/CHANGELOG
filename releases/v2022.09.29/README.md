@@ -23,3 +23,37 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.23.0](https://github.com/stashed/stash/releases/tag/v0.23.0)
+
+- [2df11f82](https://github.com/stashed/stash/commit/2df11f82) Prepare for release v0.23.0 (#1486)
+- [ee8134e5](https://github.com/stashed/stash/commit/ee8134e5) Port changes from Stash Enterprise edition
+- [f209179c](https://github.com/stashed/stash/commit/f209179c) Fix snapshot test failure
+- [583a8f56](https://github.com/stashed/stash/commit/583a8f56) Port changes from Stash Enterprise edition
+- [d8e8f4c9](https://github.com/stashed/stash/commit/d8e8f4c9) Revert to restic 0.13.1 (#1483)
+- [57de24c7](https://github.com/stashed/stash/commit/57de24c7) Test against Kubernetes 1.25.0 (#1482)
+- [bf1826c8](https://github.com/stashed/stash/commit/bf1826c8) Validate `TimeOut` in backup and restore (#1481)
+- [1ae696dd](https://github.com/stashed/stash/commit/1ae696dd) Fix unit tests
+- [41064183](https://github.com/stashed/stash/commit/41064183) Check for CronJob/VolumeSnapshot version only once (#1479)
+- [fc4e2602](https://github.com/stashed/stash/commit/fc4e2602) Handle CronJob api type dynamically (#1478)
+- [7c055aec](https://github.com/stashed/stash/commit/7c055aec) Handle status conversion for CronJob/VolumeSnapshot (#1477)
+- [fb80667d](https://github.com/stashed/stash/commit/fb80667d) Use restic 0.14.0 (#1476)
+- [4ce5e18d](https://github.com/stashed/stash/commit/4ce5e18d) Use VolumeSnapshot api dynamically (#1475)
+- [b0519c85](https://github.com/stashed/stash/commit/b0519c85) Fix linter warnings
+- [779297d4](https://github.com/stashed/stash/commit/779297d4) Use k8s 1.25.1 libs (#1474)
+- [8c87f9fc](https://github.com/stashed/stash/commit/8c87f9fc) Acquire license from license-proxyserver if available (#1472)
+- [63cac4e9](https://github.com/stashed/stash/commit/63cac4e9) Fix total host calculation for VolumeSnapshot
+- [aca8fde0](https://github.com/stashed/stash/commit/aca8fde0) Remove unused variable
+- [6bbd94ba](https://github.com/stashed/stash/commit/6bbd94ba) Remove unnecessary else
+- [d28750a3](https://github.com/stashed/stash/commit/d28750a3) Fix total host calculation for VolumeSnapshot
+- [42f39b5b](https://github.com/stashed/stash/commit/42f39b5b) Fix label passing to backup/restore jobs (#1470)
+- [2b445ce1](https://github.com/stashed/stash/commit/2b445ce1) Fix hook defaulting issue
+- [12436ad2](https://github.com/stashed/stash/commit/12436ad2) Fix hook defaulting issue
+- [e2f44131](https://github.com/stashed/stash/commit/e2f44131) Support multiple backup invoker against a target
+- [7fafed89](https://github.com/stashed/stash/commit/7fafed89) Support multiple backup invoker against a target
+- [e4e7b69e](https://github.com/stashed/stash/commit/e4e7b69e) Set BackupSession duration before sending metrics. (#1466)
+- [cd9bcecc](https://github.com/stashed/stash/commit/cd9bcecc) Cancel concurrent ci runs
+
+
+

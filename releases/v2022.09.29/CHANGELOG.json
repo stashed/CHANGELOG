@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.09.29",
-  "release_date": "2022-09-26T16:06:36.420132951Z",
+  "release_date": "2022-09-26T16:24:04.275578109Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.09.29",
   "kubernetes_version": "1.18+",
@@ -71,6 +71,124 @@
             {
               "SHA": "c8f94328",
               "Subject": "Fix issue in sending backupsession and restoresession success metrics. (#178)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.23.0",
+          "commits": [
+            {
+              "SHA": "2df11f82",
+              "Subject": "Prepare for release v0.23.0 (#1486)"
+            },
+            {
+              "SHA": "ee8134e5",
+              "Subject": "Port changes from Stash Enterprise edition"
+            },
+            {
+              "SHA": "f209179c",
+              "Subject": "Fix snapshot test failure"
+            },
+            {
+              "SHA": "583a8f56",
+              "Subject": "Port changes from Stash Enterprise edition"
+            },
+            {
+              "SHA": "d8e8f4c9",
+              "Subject": "Revert to restic 0.13.1 (#1483)"
+            },
+            {
+              "SHA": "57de24c7",
+              "Subject": "Test against Kubernetes 1.25.0 (#1482)"
+            },
+            {
+              "SHA": "bf1826c8",
+              "Subject": "Validate `TimeOut` in backup and restore (#1481)"
+            },
+            {
+              "SHA": "1ae696dd",
+              "Subject": "Fix unit tests"
+            },
+            {
+              "SHA": "41064183",
+              "Subject": "Check for CronJob/VolumeSnapshot version only once (#1479)"
+            },
+            {
+              "SHA": "fc4e2602",
+              "Subject": "Handle CronJob api type dynamically (#1478)"
+            },
+            {
+              "SHA": "7c055aec",
+              "Subject": "Handle status conversion for CronJob/VolumeSnapshot (#1477)"
+            },
+            {
+              "SHA": "fb80667d",
+              "Subject": "Use restic 0.14.0 (#1476)"
+            },
+            {
+              "SHA": "4ce5e18d",
+              "Subject": "Use VolumeSnapshot api dynamically (#1475)"
+            },
+            {
+              "SHA": "b0519c85",
+              "Subject": "Fix linter warnings"
+            },
+            {
+              "SHA": "779297d4",
+              "Subject": "Use k8s 1.25.1 libs (#1474)"
+            },
+            {
+              "SHA": "8c87f9fc",
+              "Subject": "Acquire license from license-proxyserver if available (#1472)"
+            },
+            {
+              "SHA": "63cac4e9",
+              "Subject": "Fix total host calculation for VolumeSnapshot"
+            },
+            {
+              "SHA": "aca8fde0",
+              "Subject": "Remove unused variable"
+            },
+            {
+              "SHA": "6bbd94ba",
+              "Subject": "Remove unnecessary else"
+            },
+            {
+              "SHA": "d28750a3",
+              "Subject": "Fix total host calculation for VolumeSnapshot"
+            },
+            {
+              "SHA": "42f39b5b",
+              "Subject": "Fix label passing to backup/restore jobs (#1470)"
+            },
+            {
+              "SHA": "2b445ce1",
+              "Subject": "Fix hook defaulting issue"
+            },
+            {
+              "SHA": "12436ad2",
+              "Subject": "Fix hook defaulting issue"
+            },
+            {
+              "SHA": "e2f44131",
+              "Subject": "Support multiple backup invoker against a target"
+            },
+            {
+              "SHA": "7fafed89",
+              "Subject": "Support multiple backup invoker against a target"
+            },
+            {
+              "SHA": "e4e7b69e",
+              "Subject": "Set BackupSession duration before sending metrics. (#1466)"
+            },
+            {
+              "SHA": "cd9bcecc",
+              "Subject": "Cancel concurrent ci runs"
             }
           ]
         }
