@@ -23,6 +23,16 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2022.09.29](https://github.com/stashed/bundles/releases/tag/v2022.09.29)
+
+- [97ae92c](https://github.com/stashed/bundles/commit/97ae92c) Prepare for release v2022.09.29 (#68)
+- [dac2c66](https://github.com/stashed/bundles/commit/dac2c66) Test against Kubernetes 1.25.0 (#67)
+- [36021d5](https://github.com/stashed/bundles/commit/36021d5) Use restic 0.14.0 (#66)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.23.0](https://github.com/stashed/cli/releases/tag/v0.23.0)
