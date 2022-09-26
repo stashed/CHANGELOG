@@ -324,6 +324,19 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v7](https://github.com/stashed/nats/releases/tag/2.6.1-v7)
+
+- [ff84cf8](https://github.com/stashed/nats/commit/ff84cf8) Prepare for release 2.6.1-v6 (#72)
+- [27915ef](https://github.com/stashed/nats/commit/27915ef) [cherry-pick] Revert to restic 0.13.1 (#69) (#70)
+- [4e4f933](https://github.com/stashed/nats/commit/4e4f933) Fix Dockerfile
+- [f984718](https://github.com/stashed/nats/commit/f984718) [cherry-pick] Use restic 0.14.0 (#66) (#67)
+- [45ba241](https://github.com/stashed/nats/commit/45ba241) [cherry-pick] Use k8s 1.25.1 libs (#63) (#64)
+- [1bfa57c](https://github.com/stashed/nats/commit/1bfa57c) [cherry-pick] Acquire license from license-proxyserver if available (#60) (#61)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v14](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v14)
