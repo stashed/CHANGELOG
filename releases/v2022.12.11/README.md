@@ -97,6 +97,15 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v7](https://github.com/stashed/etcd/releases/tag/3.5.0-v7)
+
+- [056c220](https://github.com/stashed/etcd/commit/056c220) Prepare for release 3.5.0-v7 (#63)
+- [bec459d](https://github.com/stashed/etcd/commit/bec459d) [cherry-pick] Run GH actions on ubuntu-20.04 (#61) (#62)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v13](https://github.com/stashed/mariadb/releases/tag/10.5.8-v13)
