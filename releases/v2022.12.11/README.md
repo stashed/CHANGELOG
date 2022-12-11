@@ -12,6 +12,16 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.24.0](https://github.com/stashed/cli/releases/tag/v0.24.0)
+
+- [827ee17a](https://github.com/stashed/cli/commit/827ee17a) Prepare for release v0.24.0 (#173)
+- [b481ee3b](https://github.com/stashed/cli/commit/b481ee3b) Update vulnerable deps
+- [7b3e18a0](https://github.com/stashed/cli/commit/7b3e18a0) Run GH actions on ubuntu-20.04 (#172)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.24.0](https://github.com/stashed/enterprise/releases/tag/v0.24.0)

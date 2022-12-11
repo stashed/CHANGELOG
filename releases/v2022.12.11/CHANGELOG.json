@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.12.11",
-  "release_date": "2022-12-11T10:05:22.672954784Z",
+  "release_date": "2022-12-11T10:14:10.663433948Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.12.11",
   "kubernetes_version": "1.18+",
@@ -27,6 +27,28 @@
             {
               "SHA": "d6d88798",
               "Subject": "Indicate repository required backend fields (#191)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "827ee17a",
+              "Subject": "Prepare for release v0.24.0 (#173)"
+            },
+            {
+              "SHA": "b481ee3b",
+              "Subject": "Update vulnerable deps"
+            },
+            {
+              "SHA": "7b3e18a0",
+              "Subject": "Run GH actions on ubuntu-20.04 (#172)"
             }
           ]
         }
