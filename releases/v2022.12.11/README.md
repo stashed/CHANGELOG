@@ -12,6 +12,15 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2022.12.11](https://github.com/stashed/bundles/releases/tag/v2022.12.11)
+
+- [ebd4ee8](https://github.com/stashed/bundles/commit/ebd4ee8) Prepare for release v2022.12.11 (#70)
+- [fa31150](https://github.com/stashed/bundles/commit/fa31150) Run GH actions on ubuntu-20.04 (#69)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.24.0](https://github.com/stashed/cli/releases/tag/v0.24.0)
