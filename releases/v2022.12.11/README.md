@@ -212,6 +212,15 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v8](https://github.com/stashed/nats/releases/tag/2.6.1-v8)
+
+- [148b347](https://github.com/stashed/nats/commit/148b347) Prepare for release 2.6.1-v8 (#78)
+- [f13cacd](https://github.com/stashed/nats/commit/f13cacd) [cherry-pick] Run GH actions on ubuntu-20.04 (#75) (#76)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v15](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v15)
