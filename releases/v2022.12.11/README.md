@@ -45,3 +45,13 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.6.0](https://github.com/stashed/ui-server/releases/tag/v0.6.0)
+
+- [5fef8c3](https://github.com/stashed/ui-server/commit/5fef8c3) Prepare for release v0.6.0 (#19)
+- [2fa4b08](https://github.com/stashed/ui-server/commit/2fa4b08) Update vulnerable deps
+- [2c846f5](https://github.com/stashed/ui-server/commit/2c846f5) Run GH actions on ubuntu-20.04 (#18)
+
+
+
