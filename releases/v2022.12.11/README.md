@@ -123,6 +123,12 @@
 - [ac655744](https://github.com/stashed/mongodb/commit/ac655744) Run GH actions on ubuntu-20.04 (#1677) (#1687)
 
 
+### [4.0.3-v20](https://github.com/stashed/mongodb/releases/tag/4.0.3-v20)
+
+- [c197e5a3](https://github.com/stashed/mongodb/commit/c197e5a3) Prepare for release 4.0.3-v20 (#1695)
+- [a1b5a29e](https://github.com/stashed/mongodb/commit/a1b5a29e) Run GH actions on ubuntu-20.04 (#1677) (#1684)
+
+
 ### [4.0.11-v20](https://github.com/stashed/mongodb/releases/tag/4.0.11-v20)
 
 - [2a196426](https://github.com/stashed/mongodb/commit/2a196426) Prepare for release 4.0.11-v20 (#1694)
