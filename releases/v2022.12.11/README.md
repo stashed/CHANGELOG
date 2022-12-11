@@ -220,6 +220,12 @@
 - [f13cacd](https://github.com/stashed/nats/commit/f13cacd) [cherry-pick] Run GH actions on ubuntu-20.04 (#75) (#76)
 
 
+### [2.8.2-v3](https://github.com/stashed/nats/releases/tag/2.8.2-v3)
+
+- [8565844](https://github.com/stashed/nats/commit/8565844) Prepare for release 2.8.2-v3 (#79)
+- [860bda2](https://github.com/stashed/nats/commit/860bda2) [cherry-pick] Run GH actions on ubuntu-20.04 (#75) (#77)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
