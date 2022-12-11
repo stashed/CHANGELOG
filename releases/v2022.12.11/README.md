@@ -263,6 +263,12 @@
 - [76a64b2](https://github.com/stashed/redis/commit/76a64b2) Run GH actions on ubuntu-20.04 (#132) (#135)
 
 
+### [6.2.5-v8](https://github.com/stashed/redis/releases/tag/6.2.5-v8)
+
+- [e09e2c7](https://github.com/stashed/redis/commit/e09e2c7) Prepare for release 6.2.5-v8 (#137)
+- [3f84ac4](https://github.com/stashed/redis/commit/3f84ac4) Run GH actions on ubuntu-20.04 (#132) (#134)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
