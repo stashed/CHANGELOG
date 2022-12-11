@@ -1,0 +1,36 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.12.11",
+  "release_date": "2022-12-11T09:34:45.408432199Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.12.11",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "8be49b48",
+              "Subject": "Update vulnerable deps (#195)"
+            },
+            {
+              "SHA": "a7a5533d",
+              "Subject": "Run GH actions on ubuntu-20.04 (#194)"
+            },
+            {
+              "SHA": "dfd6e64f",
+              "Subject": "Add `--no-lock` flag for read operations (#192)"
+            },
+            {
+              "SHA": "d6d88798",
+              "Subject": "Indicate repository required backend fields (#191)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
