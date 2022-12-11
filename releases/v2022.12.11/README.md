@@ -170,6 +170,11 @@
 - [d7ef7330](https://github.com/stashed/mongodb/commit/d7ef7330) Run GH actions on ubuntu-20.04 (#1677) (#1680)
 
 
+### [5.0.3-v8](https://github.com/stashed/mongodb/releases/tag/5.0.3-v8)
+
+- [230ddc83](https://github.com/stashed/mongodb/commit/230ddc83) Run GH actions on ubuntu-20.04 (#1677) (#1679)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
