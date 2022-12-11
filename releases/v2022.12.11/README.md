@@ -255,6 +255,15 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v8](https://github.com/stashed/redis/releases/tag/5.0.13-v8)
+
+- [2f3ecde](https://github.com/stashed/redis/commit/2f3ecde) Prepare for release 5.0.13-v8 (#136)
+- [76a64b2](https://github.com/stashed/redis/commit/76a64b2) Run GH actions on ubuntu-20.04 (#132) (#135)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.24.0](https://github.com/stashed/stash/releases/tag/v0.24.0)
