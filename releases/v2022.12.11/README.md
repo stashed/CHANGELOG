@@ -97,6 +97,15 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v13](https://github.com/stashed/mariadb/releases/tag/10.5.8-v13)
+
+- [8147cc1](https://github.com/stashed/mariadb/commit/8147cc1) Prepare for release 10.5.8-v13 (#206)
+- [4fca73b](https://github.com/stashed/mariadb/commit/4fca73b) Run GH actions on ubuntu-20.04 (#204) (#205)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v20](https://github.com/stashed/mongodb/releases/tag/3.4.17-v20)

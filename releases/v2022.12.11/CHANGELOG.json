@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.12.11",
-  "release_date": "2022-12-11T11:52:12.6026467Z",
+  "release_date": "2022-12-11T12:00:44.790637516Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.12.11",
   "kubernetes_version": "1.18+",
@@ -214,6 +214,24 @@
             {
               "SHA": "7ffc5ecd",
               "Subject": "Acquire license from proxyserver (#209)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v13",
+          "commits": [
+            {
+              "SHA": "8147cc1",
+              "Subject": "Prepare for release 10.5.8-v13 (#206)"
+            },
+            {
+              "SHA": "4fca73b",
+              "Subject": "Run GH actions on ubuntu-20.04 (#204) (#205)"
             }
           ]
         }
