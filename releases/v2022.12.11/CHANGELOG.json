@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.12.11",
-  "release_date": "2022-12-11T12:11:24.846217321Z",
+  "release_date": "2022-12-11T12:11:30.615713536Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.12.11",
   "kubernetes_version": "1.18+",
@@ -573,6 +573,19 @@
             {
               "SHA": "3f84ac4",
               "Subject": "Run GH actions on ubuntu-20.04 (#132) (#134)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v1",
+          "commits": [
+            {
+              "SHA": "de8306f",
+              "Subject": "Prepare for release 7.0.5-v1 (#138)"
+            },
+            {
+              "SHA": "46304f4",
+              "Subject": "Run GH actions on ubuntu-20.04 (#132) (#133)"
             }
           ]
         }

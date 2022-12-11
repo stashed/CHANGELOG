@@ -269,6 +269,12 @@
 - [3f84ac4](https://github.com/stashed/redis/commit/3f84ac4) Run GH actions on ubuntu-20.04 (#132) (#134)
 
 
+### [7.0.5-v1](https://github.com/stashed/redis/releases/tag/7.0.5-v1)
+
+- [de8306f](https://github.com/stashed/redis/commit/de8306f) Prepare for release 7.0.5-v1 (#138)
+- [46304f4](https://github.com/stashed/redis/commit/46304f4) Run GH actions on ubuntu-20.04 (#132) (#133)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
