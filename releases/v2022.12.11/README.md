@@ -22,6 +22,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2022.12.11](https://github.com/stashed/docs/releases/tag/v2022.12.11)
+
+- [7a4906b](https://github.com/stashed/docs/commit/7a4906b) Prepare for release v2022.12.11 (#259)
+- [cbf9d27](https://github.com/stashed/docs/commit/cbf9d27) Run GH actions on ubuntu-20.04 (#258)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v20](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v20)
