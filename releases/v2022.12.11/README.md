@@ -34,6 +34,15 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.14-v19](https://github.com/stashed/postgres/releases/tag/10.14-v19)
+
+- [1d0cdfb7](https://github.com/stashed/postgres/commit/1d0cdfb7) Prepare for release 10.14-v19 (#1128)
+- [23308405](https://github.com/stashed/postgres/commit/23308405) [cherry-pick] Run GH actions on ubuntu-20.04 (#1120) (#1121)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.24.0](https://github.com/stashed/stash/releases/tag/v0.24.0)
