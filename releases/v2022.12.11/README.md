@@ -165,6 +165,11 @@
 - [5132c6c2](https://github.com/stashed/mongodb/commit/5132c6c2) Run GH actions on ubuntu-20.04 (#1677) (#1681)
 
 
+### [4.4.6-v11](https://github.com/stashed/mongodb/releases/tag/4.4.6-v11)
+
+- [d7ef7330](https://github.com/stashed/mongodb/commit/d7ef7330) Run GH actions on ubuntu-20.04 (#1677) (#1680)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
