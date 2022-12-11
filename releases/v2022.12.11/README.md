@@ -60,6 +60,12 @@
 - [fbd522f9](https://github.com/stashed/elasticsearch/commit/fbd522f9) [cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1284)
 
 
+### [7.14.0-v6](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v6)
+
+- [73bd77a1](https://github.com/stashed/elasticsearch/commit/73bd77a1) Prepare for release 7.14.0-v6 (#1295)
+- [bd3f7b0a](https://github.com/stashed/elasticsearch/commit/bd3f7b0a) [cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1285)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
