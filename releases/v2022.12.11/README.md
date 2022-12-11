@@ -12,3 +12,14 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.24.0](https://github.com/stashed/stash/releases/tag/v0.24.0)
+
+- [000aceb4](https://github.com/stashed/stash/commit/000aceb4f) Prepare for release v0.24.0 (#1496)
+- [c1288849](https://github.com/stashed/stash/commit/c12888498) Update vulnerable deps (#1495)
+- [f64ec230](https://github.com/stashed/stash/commit/f64ec2309) Run GH actions on ubuntu-20.04 (#1494)
+- [82baf7fb](https://github.com/stashed/stash/commit/82baf7fb3) Acquire license from proxyserver (#1491)
+
+
+
