@@ -176,6 +176,15 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v20](https://github.com/stashed/mysql/releases/tag/5.7.25-v20)
+
+- [6e909b5c](https://github.com/stashed/mysql/commit/6e909b5c) Prepare for release 5.7.25-v20 (#666)
+- [c0444876](https://github.com/stashed/mysql/commit/c0444876) [cherry-pick] Run GH actions on ubuntu-20.04 (#661) (#662)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v19](https://github.com/stashed/postgres/releases/tag/9.6.19-v19)
