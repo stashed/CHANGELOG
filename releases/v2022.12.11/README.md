@@ -22,6 +22,15 @@
 
 
 
+## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
+
+### [5.6.4-v20](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v20)
+
+- [65a2d53e](https://github.com/stashed/elasticsearch/commit/65a2d53e) Prepare for release 5.6.4-v20 (#1289)
+- [291684ce](https://github.com/stashed/elasticsearch/commit/291684ce) [cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1279)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.24.0](https://github.com/stashed/enterprise/releases/tag/v0.24.0)
