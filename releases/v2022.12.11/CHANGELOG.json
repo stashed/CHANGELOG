@@ -1,0 +1,790 @@
+{
+  "product_line": "Stash",
+  "release": "v2022.12.11",
+  "release_date": "2022-12-11T15:08:24.185581689Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2022.12.11",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "8be49b48",
+              "Subject": "Update vulnerable deps (#195)"
+            },
+            {
+              "SHA": "a7a5533d",
+              "Subject": "Run GH actions on ubuntu-20.04 (#194)"
+            },
+            {
+              "SHA": "dfd6e64f",
+              "Subject": "Add `--no-lock` flag for read operations (#192)"
+            },
+            {
+              "SHA": "d6d88798",
+              "Subject": "Indicate repository required backend fields (#191)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2022.12.11",
+          "commits": [
+            {
+              "SHA": "ebd4ee8",
+              "Subject": "Prepare for release v2022.12.11 (#70)"
+            },
+            {
+              "SHA": "fa31150",
+              "Subject": "Run GH actions on ubuntu-20.04 (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "827ee17a",
+              "Subject": "Prepare for release v0.24.0 (#173)"
+            },
+            {
+              "SHA": "b481ee3b",
+              "Subject": "Update vulnerable deps"
+            },
+            {
+              "SHA": "7b3e18a0",
+              "Subject": "Run GH actions on ubuntu-20.04 (#172)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2022.12.11",
+          "commits": [
+            {
+              "SHA": "7a4906b",
+              "Subject": "Prepare for release v2022.12.11 (#259)"
+            },
+            {
+              "SHA": "cbf9d27",
+              "Subject": "Run GH actions on ubuntu-20.04 (#258)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v20",
+          "commits": [
+            {
+              "SHA": "65a2d53e",
+              "Subject": "Prepare for release 5.6.4-v20 (#1289)"
+            },
+            {
+              "SHA": "291684ce",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1279)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v20",
+          "commits": [
+            {
+              "SHA": "1b9be669",
+              "Subject": "Prepare for release 6.2.4-v20 (#1290)"
+            },
+            {
+              "SHA": "5aa4a261",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1280)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v20",
+          "commits": [
+            {
+              "SHA": "f0c50dc5",
+              "Subject": "Prepare for release 6.3.0-v20 (#1291)"
+            },
+            {
+              "SHA": "13521327",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1281)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v20",
+          "commits": [
+            {
+              "SHA": "f7f7f8ba",
+              "Subject": "Prepare for release 6.4.0-v20 (#1292)"
+            },
+            {
+              "SHA": "0058df29",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1282)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v20",
+          "commits": [
+            {
+              "SHA": "95916905",
+              "Subject": "Prepare for release 6.5.3-v20 (#1293)"
+            },
+            {
+              "SHA": "6d372fd5",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1283)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v20",
+          "commits": [
+            {
+              "SHA": "265999ff",
+              "Subject": "Prepare for release 6.8.0-v20 (#1294)"
+            },
+            {
+              "SHA": "fbd522f9",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1284)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v20",
+          "commits": [
+            {
+              "SHA": "e5fac39f",
+              "Subject": "Prepare for release 7.2.0-v20 (#1296)"
+            },
+            {
+              "SHA": "562e07c2",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1286)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v20",
+          "commits": [
+            {
+              "SHA": "a142cc89",
+              "Subject": "Prepare for release 7.3.2-v20 (#1297)"
+            },
+            {
+              "SHA": "82d44ebd",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1287)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v6",
+          "commits": [
+            {
+              "SHA": "73bd77a1",
+              "Subject": "Prepare for release 7.14.0-v6 (#1295)"
+            },
+            {
+              "SHA": "bd3f7b0a",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1285)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v3",
+          "commits": [
+            {
+              "SHA": "fbe1a6b4",
+              "Subject": "Prepare for release 8.2.0-v3 (#1298)"
+            },
+            {
+              "SHA": "9148d4ee",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1278) (#1288)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "362a77ca",
+              "Subject": "Prepare for release v0.24.0 (#213)"
+            },
+            {
+              "SHA": "c477c2f4",
+              "Subject": "Update vulnerable deps (#212)"
+            },
+            {
+              "SHA": "6ccc066f",
+              "Subject": "Run GH actions on ubuntu-20.04 (#211)"
+            },
+            {
+              "SHA": "890948b2",
+              "Subject": "Update RBAC for VaultServer Backup & Restore (#208)"
+            },
+            {
+              "SHA": "7ffc5ecd",
+              "Subject": "Acquire license from proxyserver (#209)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v7",
+          "commits": [
+            {
+              "SHA": "056c220",
+              "Subject": "Prepare for release 3.5.0-v7 (#63)"
+            },
+            {
+              "SHA": "bec459d",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#61) (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.12.11",
+          "commits": [
+            {
+              "SHA": "5162994b",
+              "Subject": "Prepare for release v2022.12.11 (#288)"
+            },
+            {
+              "SHA": "8d43a822",
+              "Subject": "Run GH actions on ubuntu-20.04 (#287)"
+            },
+            {
+              "SHA": "b68bcaa2",
+              "Subject": "Update ClusterRole for Vault Backup & Restore (#285)"
+            },
+            {
+              "SHA": "8a6bbf45",
+              "Subject": "Add Plugin for Postgres 15 (#286)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v3",
+          "commits": [
+            {
+              "SHA": "f8ce289",
+              "Subject": "Prepare for release 0.1.0-v3 (#23)"
+            },
+            {
+              "SHA": "5da34c4",
+              "Subject": "Run GH actions on ubuntu-20.04 (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v13",
+          "commits": [
+            {
+              "SHA": "8147cc1",
+              "Subject": "Prepare for release 10.5.8-v13 (#206)"
+            },
+            {
+              "SHA": "4fca73b",
+              "Subject": "Run GH actions on ubuntu-20.04 (#204) (#205)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v20",
+          "commits": [
+            {
+              "SHA": "286d6ec2",
+              "Subject": "Prepare for release 3.4.17-v20 (#1690)"
+            },
+            {
+              "SHA": "eb1e21ca",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1677) (#1689)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v20",
+          "commits": [
+            {
+              "SHA": "2b6a2925",
+              "Subject": "Prepare for release 3.4.22-v20 (#1691)"
+            },
+            {
+              "SHA": "11386500",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1677) (#1688)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v20",
+          "commits": [
+            {
+              "SHA": "38d327b3",
+              "Subject": "Prepare for release 3.6.8-v20 (#1693)"
+            },
+            {
+              "SHA": "d814c266",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1677) (#1686)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v20",
+          "commits": [
+            {
+              "SHA": "c0212417",
+              "Subject": "Prepare for release 3.6.13-v20 (#1692)"
+            },
+            {
+              "SHA": "ac655744",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1677) (#1687)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v20",
+          "commits": [
+            {
+              "SHA": "c197e5a3",
+              "Subject": "Prepare for release 4.0.3-v20 (#1695)"
+            },
+            {
+              "SHA": "a1b5a29e",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1677) (#1684)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v20",
+          "commits": [
+            {
+              "SHA": "2e3e02c0",
+              "Subject": "Prepare for release 4.0.5-v20 (#1696)"
+            },
+            {
+              "SHA": "74ba8bb0",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1677) (#1683)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v20",
+          "commits": [
+            {
+              "SHA": "2a196426",
+              "Subject": "Prepare for release 4.0.11-v20 (#1694)"
+            },
+            {
+              "SHA": "df8566b4",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1677) (#1685)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v20",
+          "commits": [
+            {
+              "SHA": "482cbb9f",
+              "Subject": "Prepare for release 4.1.4-v20 (#1698)"
+            },
+            {
+              "SHA": "19d35fa3",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1677) (#1682)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v20",
+          "commits": [
+            {
+              "SHA": "daeea0d2",
+              "Subject": "Prepare for release 4.1.7-v20 (#1699)"
+            },
+            {
+              "SHA": "935f0b54",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1677) (#1678)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v20",
+          "commits": [
+            {
+              "SHA": "3dc0dba9",
+              "Subject": "Prepare for release 4.1.13-v20 (#1697)"
+            },
+            {
+              "SHA": "15979e9f",
+              "Subject": "Run GH actions on ubuntu-20.04"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v20",
+          "commits": [
+            {
+              "SHA": "88d01c6e",
+              "Subject": "Prepare for release 4.2.3-v20 (#1701)"
+            },
+            {
+              "SHA": "5132c6c2",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1677) (#1681)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v11",
+          "commits": [
+            {
+              "SHA": "d7ef7330",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1677) (#1680)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v8",
+          "commits": [
+            {
+              "SHA": "230ddc83",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1677) (#1679)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v20",
+          "commits": [
+            {
+              "SHA": "6e909b5c",
+              "Subject": "Prepare for release 5.7.25-v20 (#666)"
+            },
+            {
+              "SHA": "c0444876",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#661) (#662)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v20",
+          "commits": [
+            {
+              "SHA": "2df6a148",
+              "Subject": "Prepare for release 8.0.3-v20 (#669)"
+            },
+            {
+              "SHA": "5def6186",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#661) (#665)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v20",
+          "commits": [
+            {
+              "SHA": "7c73243d",
+              "Subject": "Prepare for release 8.0.14-v20 (#667)"
+            },
+            {
+              "SHA": "6b745e21",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#661) (#663)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v14",
+          "commits": [
+            {
+              "SHA": "e145e190",
+              "Subject": "Prepare for release 8.0.21-v14 (#668)"
+            },
+            {
+              "SHA": "50af3373",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#661) (#664)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v8",
+          "commits": [
+            {
+              "SHA": "148b347",
+              "Subject": "Prepare for release 2.6.1-v8 (#78)"
+            },
+            {
+              "SHA": "f13cacd",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#75) (#76)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v3",
+          "commits": [
+            {
+              "SHA": "8565844",
+              "Subject": "Prepare for release 2.8.2-v3 (#79)"
+            },
+            {
+              "SHA": "860bda2",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#75) (#77)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v15",
+          "commits": [
+            {
+              "SHA": "b7a3bb56",
+              "Subject": "Prepare for release 5.7-v15 (#276)"
+            },
+            {
+              "SHA": "751522d9",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#274) (#275)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v19",
+          "commits": [
+            {
+              "SHA": "faee608a",
+              "Subject": "Prepare for release 9.6.19-v19 (#1134)"
+            },
+            {
+              "SHA": "5d466cf8",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1120) (#1127)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v19",
+          "commits": [
+            {
+              "SHA": "1d0cdfb7",
+              "Subject": "Prepare for release 10.14-v19 (#1128)"
+            },
+            {
+              "SHA": "23308405",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1120) (#1121)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v19",
+          "commits": [
+            {
+              "SHA": "458a24a6",
+              "Subject": "Prepare for release 11.9-v19 (#1129)"
+            },
+            {
+              "SHA": "f13f0d8b",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1120) (#1122)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v19",
+          "commits": [
+            {
+              "SHA": "5ac61672",
+              "Subject": "Prepare for release 12.4-v19 (#1130)"
+            },
+            {
+              "SHA": "0b32f4e3",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1120) (#1123)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v16",
+          "commits": [
+            {
+              "SHA": "33c9a9a4",
+              "Subject": "Prepare for release 13.1-v16 (#1131)"
+            },
+            {
+              "SHA": "fdd75a0d",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1120) (#1124)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v8",
+          "commits": [
+            {
+              "SHA": "a94f2d59",
+              "Subject": "Prepare for release 14.0-v8 (#1132)"
+            },
+            {
+              "SHA": "dfd4aea9",
+              "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#1120) (#1125)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v8",
+          "commits": [
+            {
+              "SHA": "2f3ecde",
+              "Subject": "Prepare for release 5.0.13-v8 (#136)"
+            },
+            {
+              "SHA": "76a64b2",
+              "Subject": "Run GH actions on ubuntu-20.04 (#132) (#135)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v8",
+          "commits": [
+            {
+              "SHA": "e09e2c7",
+              "Subject": "Prepare for release 6.2.5-v8 (#137)"
+            },
+            {
+              "SHA": "3f84ac4",
+              "Subject": "Run GH actions on ubuntu-20.04 (#132) (#134)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v1",
+          "commits": [
+            {
+              "SHA": "de8306f",
+              "Subject": "Prepare for release 7.0.5-v1 (#138)"
+            },
+            {
+              "SHA": "46304f4",
+              "Subject": "Run GH actions on ubuntu-20.04 (#132) (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "000aceb4f",
+              "Subject": "Prepare for release v0.24.0 (#1496)"
+            },
+            {
+              "SHA": "c12888498",
+              "Subject": "Update vulnerable deps (#1495)"
+            },
+            {
+              "SHA": "f64ec2309",
+              "Subject": "Run GH actions on ubuntu-20.04 (#1494)"
+            },
+            {
+              "SHA": "82baf7fb3",
+              "Subject": "Acquire license from proxyserver (#1491)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.6.0",
+          "commits": [
+            {
+              "SHA": "5fef8c3",
+              "Subject": "Prepare for release v0.6.0 (#19)"
+            },
+            {
+              "SHA": "2fa4b08",
+              "Subject": "Update vulnerable deps"
+            },
+            {
+              "SHA": "2c846f5",
+              "Subject": "Run GH actions on ubuntu-20.04 (#18)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
