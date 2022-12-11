@@ -106,6 +106,15 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.1.0-v3](https://github.com/stashed/kubedump/releases/tag/0.1.0-v3)
+
+- [f8ce289](https://github.com/stashed/kubedump/commit/f8ce289) Prepare for release 0.1.0-v3 (#23)
+- [5da34c4](https://github.com/stashed/kubedump/commit/5da34c4) Run GH actions on ubuntu-20.04 (#22)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v13](https://github.com/stashed/mariadb/releases/tag/10.5.8-v13)
