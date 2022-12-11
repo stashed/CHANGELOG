@@ -106,6 +106,17 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2022.12.11](https://github.com/stashed/installer/releases/tag/v2022.12.11)
+
+- [5162994b](https://github.com/stashed/installer/commit/5162994b) Prepare for release v2022.12.11 (#288)
+- [8d43a822](https://github.com/stashed/installer/commit/8d43a822) Run GH actions on ubuntu-20.04 (#287)
+- [b68bcaa2](https://github.com/stashed/installer/commit/b68bcaa2) Update ClusterRole for Vault Backup & Restore (#285)
+- [8a6bbf45](https://github.com/stashed/installer/commit/8a6bbf45) Add Plugin for Postgres 15 (#286)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v3](https://github.com/stashed/kubedump/releases/tag/0.1.0-v3)

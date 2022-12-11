@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.12.11",
-  "release_date": "2022-12-11T12:46:55.653049211Z",
+  "release_date": "2022-12-11T12:58:59.907547933Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.12.11",
   "kubernetes_version": "1.18+",
@@ -232,6 +232,32 @@
             {
               "SHA": "bec459d",
               "Subject": "[cherry-pick] Run GH actions on ubuntu-20.04 (#61) (#62)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2022.12.11",
+          "commits": [
+            {
+              "SHA": "5162994b",
+              "Subject": "Prepare for release v2022.12.11 (#288)"
+            },
+            {
+              "SHA": "8d43a822",
+              "Subject": "Run GH actions on ubuntu-20.04 (#287)"
+            },
+            {
+              "SHA": "b68bcaa2",
+              "Subject": "Update ClusterRole for Vault Backup & Restore (#285)"
+            },
+            {
+              "SHA": "8a6bbf45",
+              "Subject": "Add Plugin for Postgres 15 (#286)"
             }
           ]
         }
