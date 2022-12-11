@@ -54,6 +54,12 @@
 - [0b32f4e3](https://github.com/stashed/postgres/commit/0b32f4e3) [cherry-pick] Run GH actions on ubuntu-20.04 (#1120) (#1123)
 
 
+### [13.1-v16](https://github.com/stashed/postgres/releases/tag/13.1-v16)
+
+- [33c9a9a4](https://github.com/stashed/postgres/commit/33c9a9a4) Prepare for release 13.1-v16 (#1131)
+- [fdd75a0d](https://github.com/stashed/postgres/commit/fdd75a0d) [cherry-pick] Run GH actions on ubuntu-20.04 (#1120) (#1124)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
