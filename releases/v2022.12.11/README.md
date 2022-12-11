@@ -184,6 +184,12 @@
 - [c0444876](https://github.com/stashed/mysql/commit/c0444876) [cherry-pick] Run GH actions on ubuntu-20.04 (#661) (#662)
 
 
+### [8.0.14-v20](https://github.com/stashed/mysql/releases/tag/8.0.14-v20)
+
+- [7c73243d](https://github.com/stashed/mysql/commit/7c73243d) Prepare for release 8.0.14-v20 (#667)
+- [6b745e21](https://github.com/stashed/mysql/commit/6b745e21) [cherry-pick] Run GH actions on ubuntu-20.04 (#661) (#663)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
