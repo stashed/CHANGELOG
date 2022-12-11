@@ -12,6 +12,18 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.24.0](https://github.com/stashed/enterprise/releases/tag/v0.24.0)
+
+- [362a77ca](https://github.com/stashed/enterprise/commit/362a77ca) Prepare for release v0.24.0 (#213)
+- [c477c2f4](https://github.com/stashed/enterprise/commit/c477c2f4) Update vulnerable deps (#212)
+- [6ccc066f](https://github.com/stashed/enterprise/commit/6ccc066f) Run GH actions on ubuntu-20.04 (#211)
+- [890948b2](https://github.com/stashed/enterprise/commit/890948b2) Update RBAC for VaultServer Backup & Restore (#208)
+- [7ffc5ecd](https://github.com/stashed/enterprise/commit/7ffc5ecd) Acquire license from proxyserver (#209)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.24.0](https://github.com/stashed/stash/releases/tag/v0.24.0)

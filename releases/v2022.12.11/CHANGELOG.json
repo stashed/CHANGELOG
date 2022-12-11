@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2022.12.11",
-  "release_date": "2022-12-11T09:49:42.404014704Z",
+  "release_date": "2022-12-11T10:05:22.672954784Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2022.12.11",
   "kubernetes_version": "1.18+",
@@ -27,6 +27,36 @@
             {
               "SHA": "d6d88798",
               "Subject": "Indicate repository required backend fields (#191)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.24.0",
+          "commits": [
+            {
+              "SHA": "362a77ca",
+              "Subject": "Prepare for release v0.24.0 (#213)"
+            },
+            {
+              "SHA": "c477c2f4",
+              "Subject": "Update vulnerable deps (#212)"
+            },
+            {
+              "SHA": "6ccc066f",
+              "Subject": "Run GH actions on ubuntu-20.04 (#211)"
+            },
+            {
+              "SHA": "890948b2",
+              "Subject": "Update RBAC for VaultServer Backup & Restore (#208)"
+            },
+            {
+              "SHA": "7ffc5ecd",
+              "Subject": "Acquire license from proxyserver (#209)"
             }
           ]
         }
