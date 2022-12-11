@@ -97,6 +97,15 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v20](https://github.com/stashed/mongodb/releases/tag/3.4.17-v20)
+
+- [286d6ec2](https://github.com/stashed/mongodb/commit/286d6ec2) Prepare for release 3.4.17-v20 (#1690)
+- [eb1e21ca](https://github.com/stashed/mongodb/commit/eb1e21ca) Run GH actions on ubuntu-20.04 (#1677) (#1689)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v19](https://github.com/stashed/postgres/releases/tag/9.6.19-v19)
