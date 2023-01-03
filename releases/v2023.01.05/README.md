@@ -157,6 +157,11 @@
 - [cdd2b0f9](https://github.com/stashed/mysql/commit/cdd2b0f9) Prepare for release 5.7.25-v21 (#671)
 
 
+### [8.0.3-v21](https://github.com/stashed/mysql/releases/tag/8.0.3-v21)
+
+- [74efb1f1](https://github.com/stashed/mysql/commit/74efb1f1) Prepare for release 8.0.3-v21 (#674)
+
+
 ### [8.0.14-v21](https://github.com/stashed/mysql/releases/tag/8.0.14-v21)
 
 - [6c643791](https://github.com/stashed/mysql/commit/6c643791) Prepare for release 8.0.14-v21 (#672)
