@@ -181,6 +181,14 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v16](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v16)
+
+- [dceb6fd5](https://github.com/stashed/percona-xtradb/commit/dceb6fd5) Prepare for release 5.7-v16 (#278)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v20](https://github.com/stashed/postgres/releases/tag/9.6.19-v20)
