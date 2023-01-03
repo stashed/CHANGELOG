@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.01.05",
-  "release_date": "2023-01-03T13:12:37.334829091Z",
+  "release_date": "2023-01-03T13:24:32.893730336Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.01.05",
   "kubernetes_version": "1.18+",
@@ -160,6 +160,32 @@
             {
               "SHA": "523fc8f",
               "Subject": "Prepare for release 3.5.0-v8 (#65)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2023.01.05",
+          "commits": [
+            {
+              "SHA": "33a11ef1",
+              "Subject": "Prepare for release v2023.01.05 (#290)"
+            },
+            {
+              "SHA": "358d9bf9",
+              "Subject": "Add `stash` prefix in temporary directory (#289)"
+            },
+            {
+              "SHA": "8c09e3f5",
+              "Subject": "Update publish-oci.yml"
+            },
+            {
+              "SHA": "38568dfc",
+              "Subject": "Publish helm charts as OCI artifacts"
             }
           ]
         }

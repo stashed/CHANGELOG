@@ -88,6 +88,17 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2023.01.05](https://github.com/stashed/installer/releases/tag/v2023.01.05)
+
+- [33a11ef1](https://github.com/stashed/installer/commit/33a11ef1) Prepare for release v2023.01.05 (#290)
+- [358d9bf9](https://github.com/stashed/installer/commit/358d9bf9) Add `stash` prefix in temporary directory (#289)
+- [8c09e3f5](https://github.com/stashed/installer/commit/8c09e3f5) Update publish-oci.yml
+- [38568dfc](https://github.com/stashed/installer/commit/38568dfc) Publish helm charts as OCI artifacts
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v4](https://github.com/stashed/kubedump/releases/tag/0.1.0-v4)
