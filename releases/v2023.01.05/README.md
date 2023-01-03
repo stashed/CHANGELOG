@@ -17,6 +17,14 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2023.01.05](https://github.com/stashed/docs/releases/tag/v2023.01.05)
+
+- [8e569a1](https://github.com/stashed/docs/commit/8e569a1) Prepare for release v2023.01.05 (#260)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v21](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v21)
