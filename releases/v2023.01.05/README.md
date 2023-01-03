@@ -292,3 +292,11 @@
 
 
 
+## [stashed/vault](https://github.com/stashed/vault)
+
+### [1.10.3-v1](https://github.com/stashed/vault/releases/tag/1.10.3-v1)
+
+- [39030875](https://github.com/stashed/vault/commit/39030875) Prepare for release 1.10.3-v1 (#3)
+
+
+
