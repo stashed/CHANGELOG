@@ -87,6 +87,11 @@
 - [05ebbe8c](https://github.com/stashed/mongodb/commit/05ebbe8c) Prepare for release 3.4.17-v21 (#1705)
 
 
+### [3.4.22-v21](https://github.com/stashed/mongodb/releases/tag/3.4.22-v21)
+
+- [cd8f3b79](https://github.com/stashed/mongodb/commit/cd8f3b79) Prepare for release 3.4.22-v21 (#1706)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
