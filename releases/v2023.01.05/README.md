@@ -80,6 +80,14 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v21](https://github.com/stashed/mongodb/releases/tag/3.4.17-v21)
+
+- [05ebbe8c](https://github.com/stashed/mongodb/commit/05ebbe8c) Prepare for release 3.4.17-v21 (#1705)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v20](https://github.com/stashed/postgres/releases/tag/9.6.19-v20)
