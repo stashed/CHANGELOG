@@ -24,6 +24,11 @@
 - [b121b807](https://github.com/stashed/elasticsearch/commit/b121b807) Prepare for release 5.6.4-v21 (#1300)
 
 
+### [6.2.4-v21](https://github.com/stashed/elasticsearch/releases/tag/6.2.4-v21)
+
+- [a94d6ef3](https://github.com/stashed/elasticsearch/commit/a94d6ef3) Prepare for release 6.2.4-v21 (#1301)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
