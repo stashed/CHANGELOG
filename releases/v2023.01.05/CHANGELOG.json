@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.01.05",
-  "release_date": "2023-01-03T11:06:42.928377585Z",
+  "release_date": "2023-01-03T11:27:41.232121416Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.01.05",
   "kubernetes_version": "1.18+",
@@ -29,6 +29,20 @@
             {
               "SHA": "c8dabb77",
               "Subject": "Prepare for release v0.25.0 (#174)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v21",
+          "commits": [
+            {
+              "SHA": "b121b807",
+              "Subject": "Prepare for release 5.6.4-v21 (#1300)"
             }
           ]
         }
