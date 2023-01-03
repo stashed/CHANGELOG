@@ -9,6 +9,14 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.25.0](https://github.com/stashed/cli/releases/tag/v0.25.0)
+
+- [c8dabb77](https://github.com/stashed/cli/commit/c8dabb77) Prepare for release v0.25.0 (#174)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.25.0](https://github.com/stashed/enterprise/releases/tag/v0.25.0)
