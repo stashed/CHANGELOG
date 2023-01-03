@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.01.05",
-  "release_date": "2023-01-03T11:06:40.314983803Z",
+  "release_date": "2023-01-03T11:06:42.928377585Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.01.05",
   "kubernetes_version": "1.18+",
@@ -59,6 +59,15 @@
     {
       "url": "github.com/stashed/postgres",
       "releases": [
+        {
+          "tag": "9.6.19-v20",
+          "commits": [
+            {
+              "SHA": "c5a91002",
+              "Subject": "Prepare for release 9.6.19-v20 (#1142)"
+            }
+          ]
+        },
         {
           "tag": "10.14-v20",
           "commits": [
