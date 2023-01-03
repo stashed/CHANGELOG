@@ -117,6 +117,11 @@
 - [deba26e1](https://github.com/stashed/mongodb/commit/deba26e1) Prepare for release 4.0.11-v21 (#1709)
 
 
+### [4.1.13-v21](https://github.com/stashed/mongodb/releases/tag/4.1.13-v21)
+
+- [dc6ef634](https://github.com/stashed/mongodb/commit/dc6ef634) Prepare for release 4.1.13-v21 (#1712)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
