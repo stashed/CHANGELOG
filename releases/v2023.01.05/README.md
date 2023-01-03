@@ -132,6 +132,11 @@
 - [dc6ef634](https://github.com/stashed/mongodb/commit/dc6ef634) Prepare for release 4.1.13-v21 (#1712)
 
 
+### [4.2.3-v21](https://github.com/stashed/mongodb/releases/tag/4.2.3-v21)
+
+- [358bfa5c](https://github.com/stashed/mongodb/commit/358bfa5c) Prepare for release 4.2.3-v21 (#1715)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
