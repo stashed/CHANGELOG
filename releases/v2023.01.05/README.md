@@ -231,6 +231,11 @@
 - [fea59b5](https://github.com/stashed/redis/commit/fea59b5) Prepare for release 6.2.5-v9 (#141)
 
 
+### [7.0.5-v2](https://github.com/stashed/redis/releases/tag/7.0.5-v2)
+
+- [92ab44b](https://github.com/stashed/redis/commit/92ab44b) Prepare for release 7.0.5-v2 (#142)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
