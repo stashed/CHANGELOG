@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.01.05",
-  "release_date": "2023-01-03T13:46:28.058719186Z",
+  "release_date": "2023-01-03T13:55:30.962099417Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.01.05",
   "kubernetes_version": "1.18+",
@@ -15,6 +15,20 @@
             {
               "SHA": "3f20f5fe",
               "Subject": "Add stash prefix for temp directory (#196)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2023.01.05",
+          "commits": [
+            {
+              "SHA": "42319de",
+              "Subject": "Prepare for release v2023.01.05 (#71)"
             }
           ]
         }
