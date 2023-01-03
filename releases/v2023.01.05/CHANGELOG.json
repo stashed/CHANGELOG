@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.01.05",
-  "release_date": "2023-01-03T12:04:04.224490826Z",
+  "release_date": "2023-01-03T12:13:16.079905822Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.01.05",
   "kubernetes_version": "1.18+",
@@ -146,6 +146,20 @@
             {
               "SHA": "57d0906c8",
               "Subject": "Fix NPE using license-proxyserver (#214)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v14",
+          "commits": [
+            {
+              "SHA": "c86d3d8",
+              "Subject": "Prepare for release 10.5.8-v14 (#208)"
             }
           ]
         }
