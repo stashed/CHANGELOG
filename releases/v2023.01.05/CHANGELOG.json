@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.01.05",
-  "release_date": "2023-01-03T11:55:00.053081671Z",
+  "release_date": "2023-01-03T12:03:58.313273435Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.01.05",
   "kubernetes_version": "1.18+",
@@ -276,6 +276,20 @@
             {
               "SHA": "963cb8ef",
               "Subject": "Prepare for release 5.0.3-v8 (#1703)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v21",
+          "commits": [
+            {
+              "SHA": "cdd2b0f9",
+              "Subject": "Prepare for release 5.7.25-v21 (#671)"
             }
           ]
         }
