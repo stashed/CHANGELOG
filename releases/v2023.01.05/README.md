@@ -34,6 +34,11 @@
 - [73bb53f0](https://github.com/stashed/elasticsearch/commit/73bb53f0) Prepare for release 6.3.0-v21 (#1302)
 
 
+### [6.4.0-v21](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v21)
+
+- [583f64fe](https://github.com/stashed/elasticsearch/commit/583f64fe) Prepare for release 6.4.0-v21 (#1303)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
