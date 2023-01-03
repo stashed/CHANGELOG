@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.01.05",
-  "release_date": "2023-01-03T10:23:23.156028956Z",
+  "release_date": "2023-01-03T10:31:07.175390073Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.01.05",
   "kubernetes_version": "1.18+",
@@ -59,6 +59,20 @@
             {
               "SHA": "371fefeee",
               "Subject": "Fix NPE using license-proxyserver (#1497)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.7.0",
+          "commits": [
+            {
+              "SHA": "40819d4",
+              "Subject": "Prepare for release v0.7.0 (#20)"
             }
           ]
         }
