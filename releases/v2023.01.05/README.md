@@ -54,6 +54,11 @@
 - [bbd9e54c](https://github.com/stashed/postgres/commit/bbd9e54c) Prepare for release 14.0-v9 (#1140)
 
 
+### [15.1-v1](https://github.com/stashed/postgres/releases/tag/15.1-v1)
+
+- [c1411460](https://github.com/stashed/postgres/commit/c1411460) Prepare for release 15.1-v1 (#1141)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
