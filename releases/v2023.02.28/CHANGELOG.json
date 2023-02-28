@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T19:05:27.544544812Z",
+  "release_date": "2023-02-28T19:22:17.642836443Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -15,6 +15,24 @@
             {
               "SHA": "38cb356b",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "0ee682b59",
+              "Subject": "Prepare for release v0.26.0 (#1501)"
+            },
+            {
+              "SHA": "23bc702ae",
+              "Subject": "Fix status updating of volumesnapshotter command. (#1500)"
             }
           ]
         }

@@ -9,3 +9,12 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.26.0](https://github.com/stashed/stash/releases/tag/v0.26.0)
+
+- [0ee682b5](https://github.com/stashed/stash/commit/0ee682b59) Prepare for release v0.26.0 (#1501)
+- [23bc702a](https://github.com/stashed/stash/commit/23bc702ae) Fix status updating of volumesnapshotter command. (#1500)
+
+
+
