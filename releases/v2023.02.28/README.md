@@ -34,6 +34,11 @@
 - [bcd376ec](https://github.com/stashed/elasticsearch/commit/bcd376ec) Prepare for release 6.3.0-v22 (#1312)
 
 
+### [6.4.0-v22](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v22)
+
+- [b2799053](https://github.com/stashed/elasticsearch/commit/b2799053) Prepare for release 6.4.0-v22 (#1313)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
