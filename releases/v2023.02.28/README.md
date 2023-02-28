@@ -44,6 +44,11 @@
 - [9a25cb57](https://github.com/stashed/elasticsearch/commit/9a25cb57) Prepare for release 6.5.3-v22 (#1314)
 
 
+### [6.8.0-v22](https://github.com/stashed/elasticsearch/releases/tag/6.8.0-v22)
+
+- [b5d9aeca](https://github.com/stashed/elasticsearch/commit/b5d9aeca) Prepare for release 6.8.0-v22 (#1315)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
