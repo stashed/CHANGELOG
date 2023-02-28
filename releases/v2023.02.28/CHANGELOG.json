@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T19:45:33.055574918Z",
+  "release_date": "2023-02-28T19:55:21.142565777Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -51,6 +51,20 @@
             {
               "SHA": "4e539c881",
               "Subject": "Update Backup Target Conditions for VolumeSnapshotter (#217)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "10.14-v21",
+          "commits": [
+            {
+              "SHA": "9fd0b5a3",
+              "Subject": "Prepare for release 10.14-v21 (#1144)"
             }
           ]
         }
