@@ -49,6 +49,11 @@
 - [b5d9aeca](https://github.com/stashed/elasticsearch/commit/b5d9aeca) Prepare for release 6.8.0-v22 (#1315)
 
 
+### [7.2.0-v22](https://github.com/stashed/elasticsearch/releases/tag/7.2.0-v22)
+
+- [01144db2](https://github.com/stashed/elasticsearch/commit/01144db2) Prepare for release 7.2.0-v22 (#1317)
+
+
 ### [7.14.0-v8](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v8)
 
 - [0fe02f51](https://github.com/stashed/elasticsearch/commit/0fe02f51) Prepare for release 7.14.0-v8 (#1316)
