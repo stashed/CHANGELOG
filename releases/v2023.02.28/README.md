@@ -29,6 +29,11 @@
 - [ac06258d](https://github.com/stashed/elasticsearch/commit/ac06258d) Prepare for release 6.2.4-v22 (#1311)
 
 
+### [6.3.0-v22](https://github.com/stashed/elasticsearch/releases/tag/6.3.0-v22)
+
+- [bcd376ec](https://github.com/stashed/elasticsearch/commit/bcd376ec) Prepare for release 6.3.0-v22 (#1312)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
