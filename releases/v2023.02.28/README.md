@@ -39,6 +39,11 @@
 - [b2799053](https://github.com/stashed/elasticsearch/commit/b2799053) Prepare for release 6.4.0-v22 (#1313)
 
 
+### [6.5.3-v22](https://github.com/stashed/elasticsearch/releases/tag/6.5.3-v22)
+
+- [9a25cb57](https://github.com/stashed/elasticsearch/commit/9a25cb57) Prepare for release 6.5.3-v22 (#1314)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
