@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T19:22:17.642836443Z",
+  "release_date": "2023-02-28T19:37:07.790180236Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -15,6 +15,28 @@
             {
               "SHA": "38cb356b",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "df406b770",
+              "Subject": "Prepare for release v0.26.0 (#219)"
+            },
+            {
+              "SHA": "86f5d92cb",
+              "Subject": "Fix BackupBlueprint resolver (#218)"
+            },
+            {
+              "SHA": "4e539c881",
+              "Subject": "Update Backup Target Conditions for VolumeSnapshotter (#217)"
             }
           ]
         }
