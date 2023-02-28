@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.02.28",
-  "release_date": "2023-02-28T19:45:02.546008018Z",
+  "release_date": "2023-02-28T19:45:33.055574918Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.02.28",
   "kubernetes_version": "1.18+",
@@ -15,6 +15,20 @@
             {
               "SHA": "38cb356b",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.26.0",
+          "commits": [
+            {
+              "SHA": "39be7edf",
+              "Subject": "Prepare for release v0.26.0 (#175)"
             }
           ]
         }
