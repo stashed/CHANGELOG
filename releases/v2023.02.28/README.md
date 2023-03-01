@@ -92,6 +92,11 @@
 - [1bd76847](https://github.com/stashed/mongodb/commit/1bd76847) Prepare for release 3.4.22-v22 (#1719)
 
 
+### [3.6.13-v22](https://github.com/stashed/mongodb/releases/tag/3.6.13-v22)
+
+- [2d8fa2aa](https://github.com/stashed/mongodb/commit/2d8fa2aa) Prepare for release 3.6.13-v22 (#1720)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
