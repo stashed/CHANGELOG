@@ -224,6 +224,11 @@
 - [602099c](https://github.com/stashed/redis/commit/602099c) Prepare for release 5.0.13-v10 (#144)
 
 
+### [6.2.5-v10](https://github.com/stashed/redis/releases/tag/6.2.5-v10)
+
+- [8fb361c](https://github.com/stashed/redis/commit/8fb361c) Prepare for release 6.2.5-v10 (#145)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
