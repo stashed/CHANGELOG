@@ -88,6 +88,15 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2023.02.28](https://github.com/stashed/installer/releases/tag/v2023.02.28)
+
+- [20e21083](https://github.com/stashed/installer/commit/20e21083) Prepare for release v2023.02.28 (#294)
+- [ebf193a8](https://github.com/stashed/installer/commit/ebf193a8) Run GH actions on ubuntu-20.04 (#291)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v5](https://github.com/stashed/kubedump/releases/tag/0.1.0-v5)
