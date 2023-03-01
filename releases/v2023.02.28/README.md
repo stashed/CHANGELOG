@@ -160,6 +160,11 @@
 - [55634236](https://github.com/stashed/mysql/commit/55634236) Prepare for release 8.0.14-v22 (#677)
 
 
+### [8.0.21-v16](https://github.com/stashed/mysql/releases/tag/8.0.21-v16)
+
+- [853ef87c](https://github.com/stashed/mysql/commit/853ef87c) Prepare for release 8.0.21-v16 (#678)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
