@@ -186,6 +186,11 @@
 - [e0ba713](https://github.com/stashed/nats/commit/e0ba713) Prepare for release 2.6.1-v10 (#84)
 
 
+### [2.8.2-v5](https://github.com/stashed/nats/releases/tag/2.8.2-v5)
+
+- [668989d](https://github.com/stashed/nats/commit/668989d) Prepare for release 2.8.2-v5 (#85)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
