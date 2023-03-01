@@ -107,6 +107,11 @@
 - [ef458a74](https://github.com/stashed/mongodb/commit/ef458a74) Prepare for release 4.0.3-v22 (#1723)
 
 
+### [4.0.5-v22](https://github.com/stashed/mongodb/releases/tag/4.0.5-v22)
+
+- [497da3b7](https://github.com/stashed/mongodb/commit/497da3b7) Prepare for release 4.0.5-v22 (#1724)
+
+
 ### [4.0.11-v22](https://github.com/stashed/mongodb/releases/tag/4.0.11-v22)
 
 - [aa9c6f32](https://github.com/stashed/mongodb/commit/aa9c6f32) Prepare for release 4.0.11-v22 (#1722)
