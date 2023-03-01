@@ -122,6 +122,11 @@
 - [a2fff17c](https://github.com/stashed/mongodb/commit/a2fff17c) Prepare for release 4.1.4-v22 (#1726)
 
 
+### [4.1.7-v22](https://github.com/stashed/mongodb/releases/tag/4.1.7-v22)
+
+- [16dd4a13](https://github.com/stashed/mongodb/commit/16dd4a13) Prepare for release 4.1.7-v22 (#1727)
+
+
 ### [4.1.13-v22](https://github.com/stashed/mongodb/releases/tag/4.1.13-v22)
 
 - [118255a9](https://github.com/stashed/mongodb/commit/118255a9) Prepare for release 4.1.13-v22 (#1725)
