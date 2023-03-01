@@ -2,6 +2,7 @@
 
 | Stash Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
+| [v2023.02.28](https:/github.com/stashed/CHANGELOG/releases/tag/v2023.02.28) | 2023-03-01 | [User Guide](https://stash.run/docs/v2023.02.28) | [CHANGELOG](/releases/v2023.02.28/README.md) | 1.18+ |
 | [v2023.01.05](https:/github.com/stashed/CHANGELOG/releases/tag/v2023.01.05) | 2023-01-03 | [User Guide](https://stash.run/docs/v2023.01.05) | [CHANGELOG](/releases/v2023.01.05/README.md) | 1.18+ |
 | [v2022.12.11](https:/github.com/stashed/CHANGELOG/releases/tag/v2022.12.11) | 2022-12-11 | [User Guide](https://stash.run/docs/v2022.12.11) | [CHANGELOG](/releases/v2022.12.11/README.md) | 1.18+ |
 | [v2022.09.29](https:/github.com/stashed/CHANGELOG/releases/tag/v2022.09.29) | 2022-09-26 | [User Guide](https://stash.run/docs/v2022.09.29) | [CHANGELOG](/releases/v2022.09.29/README.md) | 1.18+ |
