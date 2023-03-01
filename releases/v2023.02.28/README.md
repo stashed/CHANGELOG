@@ -217,6 +217,14 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v10](https://github.com/stashed/redis/releases/tag/5.0.13-v10)
+
+- [602099c](https://github.com/stashed/redis/commit/602099c) Prepare for release 5.0.13-v10 (#144)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.26.0](https://github.com/stashed/stash/releases/tag/v0.26.0)
