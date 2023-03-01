@@ -80,6 +80,14 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v15](https://github.com/stashed/mariadb/releases/tag/10.5.8-v15)
+
+- [4591bd5](https://github.com/stashed/mariadb/commit/4591bd5) Prepare for release 10.5.8-v15 (#210)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v22](https://github.com/stashed/mongodb/releases/tag/3.4.17-v22)
