@@ -1,4 +1,4 @@
-# Stash v2023.02.28 (2023-02-28)
+# Stash v2023.02.28 (2023-03-01)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
