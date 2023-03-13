@@ -12,6 +12,15 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2023.03.13](https://github.com/stashed/bundles/releases/tag/v2023.03.13)
+
+- [420555e](https://github.com/stashed/bundles/commit/420555e) Prepare for release v2023.03.13 (#74)
+- [d9ffe35](https://github.com/stashed/bundles/commit/d9ffe35) Update workflows (Go 1.20, k8s 1.26) (#73)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.27.0](https://github.com/stashed/cli/releases/tag/v0.27.0)
