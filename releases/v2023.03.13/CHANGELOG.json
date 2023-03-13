@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.03.13",
-  "release_date": "2023-03-13T03:53:11.402493596Z",
+  "release_date": "2023-03-13T03:53:12.867343775Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.03.13",
   "kubernetes_version": "1.18+",
@@ -80,6 +80,19 @@
             {
               "SHA": "027714c6",
               "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1323)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v23",
+          "commits": [
+            {
+              "SHA": "ef7ffd30",
+              "Subject": "Prepare for release 6.3.0-v23 (#1334)"
+            },
+            {
+              "SHA": "e3f63e8e",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1324)"
             }
           ]
         }
