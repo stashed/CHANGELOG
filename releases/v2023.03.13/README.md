@@ -104,6 +104,15 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.1.0-v6](https://github.com/stashed/kubedump/releases/tag/0.1.0-v6)
+
+- [71e0a72](https://github.com/stashed/kubedump/commit/71e0a72) Prepare for release 0.1.0-v6 (#31)
+- [f3597b9](https://github.com/stashed/kubedump/commit/f3597b9) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#29) (#30)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v16](https://github.com/stashed/mariadb/releases/tag/10.5.8-v16)
