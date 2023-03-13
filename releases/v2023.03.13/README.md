@@ -220,6 +220,12 @@
 - [78b4136](https://github.com/stashed/nats/commit/78b4136) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#87) (#88)
 
 
+### [2.8.2-v6](https://github.com/stashed/nats/releases/tag/2.8.2-v6)
+
+- [1d3b90e](https://github.com/stashed/nats/commit/1d3b90e) Prepare for release 2.8.2-v6 (#91)
+- [92a4648](https://github.com/stashed/nats/commit/92a4648) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#87) (#89)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
