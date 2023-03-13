@@ -1,0 +1,797 @@
+{
+  "product_line": "Stash",
+  "release": "v2023.03.13",
+  "release_date": "2023-03-13T08:35:47.901965041Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2023.03.13",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "4fef7bc2",
+              "Subject": "Allow ci and update-crds workflows cocurrently"
+            },
+            {
+              "SHA": "83908c99",
+              "Subject": "Fix unlock error message in prune command"
+            },
+            {
+              "SHA": "f47c89ef",
+              "Subject": "Unlock if prune fails for locked repo (#198)"
+            },
+            {
+              "SHA": "1f431032",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#197)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2023.03.13",
+          "commits": [
+            {
+              "SHA": "420555e",
+              "Subject": "Prepare for release v2023.03.13 (#74)"
+            },
+            {
+              "SHA": "d9ffe35",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "db608b5f",
+              "Subject": "Prepare for release v0.27.0 (#178)"
+            },
+            {
+              "SHA": "ee66407a",
+              "Subject": "Fix unlock command for local repository (#177)"
+            },
+            {
+              "SHA": "ba3e3b07",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#176)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2023.03.13",
+          "commits": [
+            {
+              "SHA": "c772294",
+              "Subject": "Prepare for release v2023.03.13 (#264)"
+            },
+            {
+              "SHA": "fa5e733",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#263)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v23",
+          "commits": [
+            {
+              "SHA": "25cf7cac",
+              "Subject": "Prepare for release 5.6.4-v23 (#1332)"
+            },
+            {
+              "SHA": "e2549ec7",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1322)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v23",
+          "commits": [
+            {
+              "SHA": "965fdba5",
+              "Subject": "Prepare for release 6.2.4-v23 (#1333)"
+            },
+            {
+              "SHA": "027714c6",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1323)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v23",
+          "commits": [
+            {
+              "SHA": "ef7ffd30",
+              "Subject": "Prepare for release 6.3.0-v23 (#1334)"
+            },
+            {
+              "SHA": "e3f63e8e",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1324)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v23",
+          "commits": [
+            {
+              "SHA": "6580b4a3",
+              "Subject": "Prepare for release 6.4.0-v23 (#1335)"
+            },
+            {
+              "SHA": "2f5d2491",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1325)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v23",
+          "commits": [
+            {
+              "SHA": "408e0c76",
+              "Subject": "Prepare for release 6.5.3-v23 (#1336)"
+            },
+            {
+              "SHA": "0d231f63",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1326)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v23",
+          "commits": [
+            {
+              "SHA": "2de1fd44",
+              "Subject": "Prepare for release 6.8.0-v23 (#1337)"
+            },
+            {
+              "SHA": "7d004667",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1327)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v23",
+          "commits": [
+            {
+              "SHA": "97143e82",
+              "Subject": "Prepare for release 7.2.0-v23 (#1339)"
+            },
+            {
+              "SHA": "3d172262",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1329)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v23",
+          "commits": [
+            {
+              "SHA": "fdadc2fc",
+              "Subject": "Prepare for release 7.3.2-v23 (#1340)"
+            },
+            {
+              "SHA": "0a26217c",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1330)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v9",
+          "commits": [
+            {
+              "SHA": "f707e6a9",
+              "Subject": "Prepare for release 7.14.0-v9 (#1338)"
+            },
+            {
+              "SHA": "c3017395",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1328)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v6",
+          "commits": [
+            {
+              "SHA": "a06cd438",
+              "Subject": "Prepare for release 8.2.0-v6 (#1341)"
+            },
+            {
+              "SHA": "a31a3fc4",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1331)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "089b00703",
+              "Subject": "Prepare for release v0.27.0 (#223)"
+            },
+            {
+              "SHA": "4bfef40bf",
+              "Subject": "Use valid labels for AutoBackup resources (#221)"
+            },
+            {
+              "SHA": "053392e98",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#220)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v10",
+          "commits": [
+            {
+              "SHA": "ba337f8",
+              "Subject": "Prepare for release 3.5.0-v10 (#71)"
+            },
+            {
+              "SHA": "9491906",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#69) (#70)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2023.03.13",
+          "commits": [
+            {
+              "SHA": "63853c7a",
+              "Subject": "Prepare for release v2023.03.13 (#296)"
+            },
+            {
+              "SHA": "ab96161a",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#295)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v6",
+          "commits": [
+            {
+              "SHA": "71e0a72",
+              "Subject": "Prepare for release 0.1.0-v6 (#31)"
+            },
+            {
+              "SHA": "f3597b9",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#29) (#30)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v16",
+          "commits": [
+            {
+              "SHA": "cd88cee",
+              "Subject": "Prepare for release 10.5.8-v16 (#214)"
+            },
+            {
+              "SHA": "e6b9f6a",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#212) (#213)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v23",
+          "commits": [
+            {
+              "SHA": "5cd80f95",
+              "Subject": "Prepare for release 3.4.17-v23 (#1746)"
+            },
+            {
+              "SHA": "5efeda9a",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1733)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v23",
+          "commits": [
+            {
+              "SHA": "e6a93a3b",
+              "Subject": "Prepare for release 3.4.22-v23 (#1747)"
+            },
+            {
+              "SHA": "4b0272c7",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1734)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v23",
+          "commits": [
+            {
+              "SHA": "ab9e3843",
+              "Subject": "Prepare for release 3.6.8-v23 (#1749)"
+            },
+            {
+              "SHA": "892ece69",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1736)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v23",
+          "commits": [
+            {
+              "SHA": "ba9f6e18",
+              "Subject": "Prepare for release 3.6.13-v23 (#1748)"
+            },
+            {
+              "SHA": "2f597645",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1735)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v23",
+          "commits": [
+            {
+              "SHA": "6cade14c",
+              "Subject": "Prepare for release 4.0.3-v23 (#1751)"
+            },
+            {
+              "SHA": "07f9216c",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1738)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v23",
+          "commits": [
+            {
+              "SHA": "aa33c9f0",
+              "Subject": "Prepare for release 4.0.5-v23 (#1752)"
+            },
+            {
+              "SHA": "30373c9c",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1739)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v23",
+          "commits": [
+            {
+              "SHA": "f4ed5644",
+              "Subject": "Prepare for release 4.0.11-v23 (#1750)"
+            },
+            {
+              "SHA": "7df3c35f",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1737)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v23",
+          "commits": [
+            {
+              "SHA": "68561b23",
+              "Subject": "Prepare for release 4.1.4-v23 (#1754)"
+            },
+            {
+              "SHA": "2ec01364",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1741)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v23",
+          "commits": [
+            {
+              "SHA": "a2faed5c",
+              "Subject": "Prepare for release 4.1.7-v23 (#1755)"
+            },
+            {
+              "SHA": "2ff4480e",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1742)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v23",
+          "commits": [
+            {
+              "SHA": "5c3afe06",
+              "Subject": "Prepare for release 4.1.13-v23 (#1753)"
+            },
+            {
+              "SHA": "15b0cb45",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1740)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v23",
+          "commits": [
+            {
+              "SHA": "8fc50278",
+              "Subject": "Prepare for release 4.2.3-v23 (#1756)"
+            },
+            {
+              "SHA": "9751cb56",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1743)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v14",
+          "commits": [
+            {
+              "SHA": "5277b7fa",
+              "Subject": "Prepare for release 4.4.6-v14 (#1757)"
+            },
+            {
+              "SHA": "4942cba5",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1744)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v11",
+          "commits": [
+            {
+              "SHA": "e7262879",
+              "Subject": "Prepare for release 5.0.3-v11 (#1758)"
+            },
+            {
+              "SHA": "71903562",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1745)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v23",
+          "commits": [
+            {
+              "SHA": "4d73c4c7",
+              "Subject": "Prepare for release 5.7.25-v23 (#686)"
+            },
+            {
+              "SHA": "2a260942",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#681) (#682)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v23",
+          "commits": [
+            {
+              "SHA": "820c4b34",
+              "Subject": "Prepare for release 8.0.3-v23 (#689)"
+            },
+            {
+              "SHA": "fd404c15",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#681) (#685)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v23",
+          "commits": [
+            {
+              "SHA": "2a043152",
+              "Subject": "Prepare for release 8.0.14-v23 (#687)"
+            },
+            {
+              "SHA": "93517b8d",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#681) (#683)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v17",
+          "commits": [
+            {
+              "SHA": "e1d2a3fd",
+              "Subject": "Prepare for release 8.0.21-v17 (#688)"
+            },
+            {
+              "SHA": "5587ec19",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#681) (#684)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v11",
+          "commits": [
+            {
+              "SHA": "29202da",
+              "Subject": "Prepare for release 2.6.1-v11 (#90)"
+            },
+            {
+              "SHA": "78b4136",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#87) (#88)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v6",
+          "commits": [
+            {
+              "SHA": "1d3b90e",
+              "Subject": "Prepare for release 2.8.2-v6 (#91)"
+            },
+            {
+              "SHA": "92a4648",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#87) (#89)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v18",
+          "commits": [
+            {
+              "SHA": "efc95cd8",
+              "Subject": "Prepare for release 5.7-v18 (#284)"
+            },
+            {
+              "SHA": "bb2fd734",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#282) (#283)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v22",
+          "commits": [
+            {
+              "SHA": "776eae29",
+              "Subject": "Prepare for release 9.6.19-v22 (#1166)"
+            },
+            {
+              "SHA": "4b01ad51",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1152) (#1159)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v22",
+          "commits": [
+            {
+              "SHA": "74283c70",
+              "Subject": "Prepare for release 10.14-v22 (#1160)"
+            },
+            {
+              "SHA": "7d65c166",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1152) (#1153)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v22",
+          "commits": [
+            {
+              "SHA": "9f1de1c6",
+              "Subject": "Prepare for release 11.9-v22 (#1161)"
+            },
+            {
+              "SHA": "605163a2",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1152) (#1154)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v22",
+          "commits": [
+            {
+              "SHA": "788806a2",
+              "Subject": "Prepare for release 12.4-v22 (#1162)"
+            },
+            {
+              "SHA": "db464ab0",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1152) (#1155)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v19",
+          "commits": [
+            {
+              "SHA": "7fb61d96",
+              "Subject": "Prepare for release 13.1-v19 (#1163)"
+            },
+            {
+              "SHA": "8c935e00",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1152) (#1156)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v11",
+          "commits": [
+            {
+              "SHA": "93212ea6",
+              "Subject": "Prepare for release 14.0-v11 (#1164)"
+            },
+            {
+              "SHA": "1ac9edd5",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1152) (#1157)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v3",
+          "commits": [
+            {
+              "SHA": "31f3dd33",
+              "Subject": "Prepare for release 15.1-v3 (#1165)"
+            },
+            {
+              "SHA": "9c6d9590",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1152) (#1158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v11",
+          "commits": [
+            {
+              "SHA": "73da1c1",
+              "Subject": "Prepare for release 5.0.13-v11 (#152)"
+            },
+            {
+              "SHA": "9f7e222",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#148) (#149)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v11",
+          "commits": [
+            {
+              "SHA": "dc8e853",
+              "Subject": "Prepare for release 6.2.5-v11 (#153)"
+            },
+            {
+              "SHA": "e865167",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#148) (#150)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v4",
+          "commits": [
+            {
+              "SHA": "dd4da56",
+              "Subject": "Prepare for release 7.0.5-v4 (#154)"
+            },
+            {
+              "SHA": "ae71390",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#148) (#151)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "d3428094a",
+              "Subject": "Prepare for release v0.27.0 (#1508)"
+            },
+            {
+              "SHA": "87bf7e8e5",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#1502)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.9.0",
+          "commits": [
+            {
+              "SHA": "0c31efb",
+              "Subject": "Prepare for release v0.9.0 (#23)"
+            },
+            {
+              "SHA": "01975fa",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#22)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v3",
+          "commits": [
+            {
+              "SHA": "52bbbf05",
+              "Subject": "Prepare for release 1.10.3-v3 (#9)"
+            },
+            {
+              "SHA": "4dac4a85",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#7) (#8)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
