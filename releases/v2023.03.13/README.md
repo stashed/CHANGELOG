@@ -95,6 +95,15 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v16](https://github.com/stashed/mariadb/releases/tag/10.5.8-v16)
+
+- [cd88cee](https://github.com/stashed/mariadb/commit/cd88cee) Prepare for release 10.5.8-v16 (#214)
+- [e6b9f6a](https://github.com/stashed/mariadb/commit/e6b9f6a) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#212) (#213)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v23](https://github.com/stashed/mongodb/releases/tag/3.4.17-v23)
