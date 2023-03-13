@@ -12,6 +12,16 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.27.0](https://github.com/stashed/enterprise/releases/tag/v0.27.0)
+
+- [089b0070](https://github.com/stashed/enterprise/commit/089b00703) Prepare for release v0.27.0 (#223)
+- [4bfef40b](https://github.com/stashed/enterprise/commit/4bfef40bf) Use valid labels for AutoBackup resources (#221)
+- [053392e9](https://github.com/stashed/enterprise/commit/053392e98) Update workflows (Go 1.20, k8s 1.26) (#220)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.27.0](https://github.com/stashed/stash/releases/tag/v0.27.0)

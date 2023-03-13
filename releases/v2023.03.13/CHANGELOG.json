@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.03.13",
-  "release_date": "2023-03-13T02:44:33.075784505Z",
+  "release_date": "2023-03-13T03:04:04.276784849Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.03.13",
   "kubernetes_version": "1.18+",
@@ -27,6 +27,28 @@
             {
               "SHA": "1f431032",
               "Subject": "Update workflows (Go 1.20, k8s 1.26) (#197)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.27.0",
+          "commits": [
+            {
+              "SHA": "089b00703",
+              "Subject": "Prepare for release v0.27.0 (#223)"
+            },
+            {
+              "SHA": "4bfef40bf",
+              "Subject": "Use valid labels for AutoBackup resources (#221)"
+            },
+            {
+              "SHA": "053392e98",
+              "Subject": "Update workflows (Go 1.20, k8s 1.26) (#220)"
             }
           ]
         }
