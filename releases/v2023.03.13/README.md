@@ -12,3 +12,12 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.27.0](https://github.com/stashed/stash/releases/tag/v0.27.0)
+
+- [d3428094](https://github.com/stashed/stash/commit/d3428094a) Prepare for release v0.27.0 (#1508)
+- [87bf7e8e](https://github.com/stashed/stash/commit/87bf7e8e5) Update workflows (Go 1.20, k8s 1.26) (#1502)
+
+
+
