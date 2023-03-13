@@ -42,6 +42,12 @@
 - [e3f63e8e](https://github.com/stashed/elasticsearch/commit/e3f63e8e) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1324)
 
 
+### [6.4.0-v23](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v23)
+
+- [6580b4a3](https://github.com/stashed/elasticsearch/commit/6580b4a3) Prepare for release 6.4.0-v23 (#1335)
+- [2f5d2491](https://github.com/stashed/elasticsearch/commit/2f5d2491) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1321) (#1325)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
