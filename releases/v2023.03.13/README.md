@@ -95,6 +95,15 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v23](https://github.com/stashed/mongodb/releases/tag/3.4.17-v23)
+
+- [5cd80f95](https://github.com/stashed/mongodb/commit/5cd80f95) Prepare for release 3.4.17-v23 (#1746)
+- [5efeda9a](https://github.com/stashed/mongodb/commit/5efeda9a) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1733)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v22](https://github.com/stashed/postgres/releases/tag/9.6.19-v22)
