@@ -212,6 +212,15 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v11](https://github.com/stashed/nats/releases/tag/2.6.1-v11)
+
+- [29202da](https://github.com/stashed/nats/commit/29202da) Prepare for release 2.6.1-v11 (#90)
+- [78b4136](https://github.com/stashed/nats/commit/78b4136) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#87) (#88)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v18](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v18)
