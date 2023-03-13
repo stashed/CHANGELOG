@@ -95,6 +95,15 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v10](https://github.com/stashed/etcd/releases/tag/3.5.0-v10)
+
+- [ba337f8](https://github.com/stashed/etcd/commit/ba337f8) Prepare for release 3.5.0-v10 (#71)
+- [9491906](https://github.com/stashed/etcd/commit/9491906) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#69) (#70)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v16](https://github.com/stashed/mariadb/releases/tag/10.5.8-v16)

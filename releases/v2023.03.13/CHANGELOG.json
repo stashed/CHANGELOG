@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.03.13",
-  "release_date": "2023-03-13T06:14:07.177447137Z",
+  "release_date": "2023-03-13T06:23:39.645551087Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.03.13",
   "kubernetes_version": "1.18+",
@@ -206,6 +206,24 @@
             {
               "SHA": "053392e98",
               "Subject": "Update workflows (Go 1.20, k8s 1.26) (#220)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v10",
+          "commits": [
+            {
+              "SHA": "ba337f8",
+              "Subject": "Prepare for release 3.5.0-v10 (#71)"
+            },
+            {
+              "SHA": "9491906",
+              "Subject": "[cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#69) (#70)"
             }
           ]
         }
