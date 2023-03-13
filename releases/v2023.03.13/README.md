@@ -104,6 +104,15 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2023.03.13](https://github.com/stashed/installer/releases/tag/v2023.03.13)
+
+- [63853c7a](https://github.com/stashed/installer/commit/63853c7a) Prepare for release v2023.03.13 (#296)
+- [ab96161a](https://github.com/stashed/installer/commit/ab96161a) Update workflows (Go 1.20, k8s 1.26) (#295)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v6](https://github.com/stashed/kubedump/releases/tag/0.1.0-v6)
