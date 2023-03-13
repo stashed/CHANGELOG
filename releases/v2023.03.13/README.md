@@ -12,6 +12,16 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.27.0](https://github.com/stashed/cli/releases/tag/v0.27.0)
+
+- [db608b5f](https://github.com/stashed/cli/commit/db608b5f) Prepare for release v0.27.0 (#178)
+- [ee66407a](https://github.com/stashed/cli/commit/ee66407a) Fix unlock command for local repository (#177)
+- [ba3e3b07](https://github.com/stashed/cli/commit/ba3e3b07) Update workflows (Go 1.20, k8s 1.26) (#176)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.27.0](https://github.com/stashed/enterprise/releases/tag/v0.27.0)
