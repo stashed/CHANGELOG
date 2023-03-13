@@ -22,6 +22,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2023.03.13](https://github.com/stashed/docs/releases/tag/v2023.03.13)
+
+- [c772294](https://github.com/stashed/docs/commit/c772294) Prepare for release v2023.03.13 (#264)
+- [fa5e733](https://github.com/stashed/docs/commit/fa5e733) Update workflows (Go 1.20, k8s 1.26) (#263)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v23](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v23)
