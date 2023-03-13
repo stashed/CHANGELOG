@@ -190,6 +190,12 @@
 - [93517b8d](https://github.com/stashed/mysql/commit/93517b8d) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#681) (#683)
 
 
+### [8.0.21-v17](https://github.com/stashed/mysql/releases/tag/8.0.21-v17)
+
+- [e1d2a3fd](https://github.com/stashed/mysql/commit/e1d2a3fd) Prepare for release 8.0.21-v17 (#688)
+- [5587ec19](https://github.com/stashed/mysql/commit/5587ec19) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#681) (#684)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
