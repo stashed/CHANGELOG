@@ -265,6 +265,12 @@
 - [9f7e222](https://github.com/stashed/redis/commit/9f7e222) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#148) (#149)
 
 
+### [6.2.5-v11](https://github.com/stashed/redis/releases/tag/6.2.5-v11)
+
+- [dc8e853](https://github.com/stashed/redis/commit/dc8e853) Prepare for release 6.2.5-v11 (#153)
+- [e865167](https://github.com/stashed/redis/commit/e865167) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#148) (#150)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
