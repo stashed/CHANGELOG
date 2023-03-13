@@ -109,6 +109,12 @@
 - [4b0272c7](https://github.com/stashed/mongodb/commit/4b0272c7) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1734)
 
 
+### [3.6.8-v23](https://github.com/stashed/mongodb/releases/tag/3.6.8-v23)
+
+- [ab9e3843](https://github.com/stashed/mongodb/commit/ab9e3843) Prepare for release 3.6.8-v23 (#1749)
+- [892ece69](https://github.com/stashed/mongodb/commit/892ece69) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1736)
+
+
 ### [3.6.13-v23](https://github.com/stashed/mongodb/releases/tag/3.6.13-v23)
 
 - [ba9f6e18](https://github.com/stashed/mongodb/commit/ba9f6e18) Prepare for release 3.6.13-v23 (#1748)
