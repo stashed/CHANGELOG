@@ -190,7 +190,7 @@
     {
       "github.com/appscode/static-assets": {
         "commands": [
-          "release-automaton update-assets --hide --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE}"
+          "release-automaton update-assets --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE}"
         ],
         "changelog": "StandaloneWebsite"
       }
