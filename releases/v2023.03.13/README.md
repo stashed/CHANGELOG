@@ -338,3 +338,12 @@
 
 
 
+## [stashed/vault](https://github.com/stashed/vault)
+
+### [1.10.3-v3](https://github.com/stashed/vault/releases/tag/1.10.3-v3)
+
+- [52bbbf05](https://github.com/stashed/vault/commit/52bbbf05) Prepare for release 1.10.3-v3 (#9)
+- [4dac4a85](https://github.com/stashed/vault/commit/4dac4a85) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#7) (#8)
+
+
+
