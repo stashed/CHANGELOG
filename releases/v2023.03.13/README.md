@@ -176,6 +176,15 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v23](https://github.com/stashed/mysql/releases/tag/5.7.25-v23)
+
+- [4d73c4c7](https://github.com/stashed/mysql/commit/4d73c4c7) Prepare for release 5.7.25-v23 (#686)
+- [2a260942](https://github.com/stashed/mysql/commit/2a260942) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#681) (#682)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v22](https://github.com/stashed/postgres/releases/tag/9.6.19-v22)
