@@ -257,6 +257,15 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v11](https://github.com/stashed/redis/releases/tag/5.0.13-v11)
+
+- [73da1c1](https://github.com/stashed/redis/commit/73da1c1) Prepare for release 5.0.13-v11 (#152)
+- [9f7e222](https://github.com/stashed/redis/commit/9f7e222) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#148) (#149)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.27.0](https://github.com/stashed/stash/releases/tag/v0.27.0)
