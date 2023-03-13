@@ -163,6 +163,12 @@
 - [9751cb56](https://github.com/stashed/mongodb/commit/9751cb56) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1743)
 
 
+### [4.4.6-v14](https://github.com/stashed/mongodb/releases/tag/4.4.6-v14)
+
+- [5277b7fa](https://github.com/stashed/mongodb/commit/5277b7fa) Prepare for release 4.4.6-v14 (#1757)
+- [4942cba5](https://github.com/stashed/mongodb/commit/4942cba5) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1732) (#1744)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
