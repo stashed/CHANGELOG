@@ -41,3 +41,12 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.9.0](https://github.com/stashed/ui-server/releases/tag/v0.9.0)
+
+- [0c31efb](https://github.com/stashed/ui-server/commit/0c31efb) Prepare for release v0.9.0 (#23)
+- [01975fa](https://github.com/stashed/ui-server/commit/01975fa) Update workflows (Go 1.20, k8s 1.26) (#22)
+
+
+
