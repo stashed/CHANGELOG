@@ -212,6 +212,15 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v18](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v18)
+
+- [efc95cd8](https://github.com/stashed/percona-xtradb/commit/efc95cd8) Prepare for release 5.7-v18 (#284)
+- [bb2fd734](https://github.com/stashed/percona-xtradb/commit/bb2fd734) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#282) (#283)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v22](https://github.com/stashed/postgres/releases/tag/9.6.19-v22)
