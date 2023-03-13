@@ -34,6 +34,12 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v22](https://github.com/stashed/postgres/releases/tag/9.6.19-v22)
+
+- [776eae29](https://github.com/stashed/postgres/commit/776eae29) Prepare for release 9.6.19-v22 (#1166)
+- [4b01ad51](https://github.com/stashed/postgres/commit/4b01ad51) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1152) (#1159)
+
+
 ### [10.14-v22](https://github.com/stashed/postgres/releases/tag/10.14-v22)
 
 - [74283c70](https://github.com/stashed/postgres/commit/74283c70) Prepare for release 10.14-v22 (#1160)
