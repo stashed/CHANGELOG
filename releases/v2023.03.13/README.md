@@ -64,6 +64,12 @@
 - [1ac9edd5](https://github.com/stashed/postgres/commit/1ac9edd5) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1152) (#1157)
 
 
+### [15.1-v3](https://github.com/stashed/postgres/releases/tag/15.1-v3)
+
+- [31f3dd33](https://github.com/stashed/postgres/commit/31f3dd33) Prepare for release 15.1-v3 (#1165)
+- [9c6d9590](https://github.com/stashed/postgres/commit/9c6d9590) [cherry-pick] Update workflows (Go 1.20, k8s 1.26) (#1152) (#1158)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
