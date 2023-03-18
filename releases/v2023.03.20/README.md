@@ -82,6 +82,14 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v11](https://github.com/stashed/etcd/releases/tag/3.5.0-v11)
+
+- [67526a5](https://github.com/stashed/etcd/commit/67526a5) Prepare for release 3.5.0-v11 (#73)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v17](https://github.com/stashed/mariadb/releases/tag/10.5.8-v17)
