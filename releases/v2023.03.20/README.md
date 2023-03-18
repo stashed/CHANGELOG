@@ -109,6 +109,11 @@
 - [e102289e](https://github.com/stashed/mongodb/commit/e102289e) Prepare for release 4.0.3-v24 (#1765)
 
 
+### [4.0.5-v24](https://github.com/stashed/mongodb/releases/tag/4.0.5-v24)
+
+- [65473863](https://github.com/stashed/mongodb/commit/65473863) Prepare for release 4.0.5-v24 (#1766)
+
+
 ### [4.0.11-v24](https://github.com/stashed/mongodb/releases/tag/4.0.11-v24)
 
 - [2d985943](https://github.com/stashed/mongodb/commit/2d985943) Prepare for release 4.0.11-v24 (#1764)
