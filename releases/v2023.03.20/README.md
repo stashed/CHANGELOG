@@ -10,6 +10,16 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.28.0](https://github.com/stashed/enterprise/releases/tag/v0.28.0)
+
+- [69cc9409](https://github.com/stashed/enterprise/commit/69cc9409f) Prepare for release v0.28.0 (#226)
+- [d882beb1](https://github.com/stashed/enterprise/commit/d882beb1a) Add unlock command for CLI (#224)
+- [25b4ff16](https://github.com/stashed/enterprise/commit/25b4ff160) Append image pull secrets instead of replace (#225)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.28.0](https://github.com/stashed/stash/releases/tag/v0.28.0)
