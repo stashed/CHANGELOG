@@ -56,6 +56,11 @@
 - [cf23989f](https://github.com/stashed/elasticsearch/commit/cf23989f) Prepare for release 7.2.0-v24 (#1351)
 
 
+### [7.3.2-v24](https://github.com/stashed/elasticsearch/releases/tag/7.3.2-v24)
+
+- [eb185e09](https://github.com/stashed/elasticsearch/commit/eb185e09) Prepare for release 7.3.2-v24 (#1352)
+
+
 ### [7.14.0-v10](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v10)
 
 - [2fc98a7b](https://github.com/stashed/elasticsearch/commit/2fc98a7b) Prepare for release 7.14.0-v10 (#1350)
