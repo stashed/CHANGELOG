@@ -231,6 +231,11 @@
 - [1d7e7cf](https://github.com/stashed/redis/commit/1d7e7cf) Prepare for release 6.2.5-v12 (#157)
 
 
+### [7.0.5-v5](https://github.com/stashed/redis/releases/tag/7.0.5-v5)
+
+- [46bddd9](https://github.com/stashed/redis/commit/46bddd9) Prepare for release 7.0.5-v5 (#158)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
