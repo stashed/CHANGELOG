@@ -41,6 +41,11 @@
 - [ebb9119a](https://github.com/stashed/elasticsearch/commit/ebb9119a) Prepare for release 6.4.0-v24 (#1347)
 
 
+### [6.5.3-v24](https://github.com/stashed/elasticsearch/releases/tag/6.5.3-v24)
+
+- [2bfe6379](https://github.com/stashed/elasticsearch/commit/2bfe6379) Prepare for release 6.5.3-v24 (#1348)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
