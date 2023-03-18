@@ -56,6 +56,11 @@
 - [9a83d73b](https://github.com/stashed/postgres/commit/9a83d73b) Prepare for release 14.0-v12 (#1172)
 
 
+### [15.1-v4](https://github.com/stashed/postgres/releases/tag/15.1-v4)
+
+- [4be14a52](https://github.com/stashed/postgres/commit/4be14a52) Prepare for release 15.1-v4 (#1173)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
