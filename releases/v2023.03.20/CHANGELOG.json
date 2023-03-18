@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.03.20",
-  "release_date": "2023-03-18T13:56:36.19921834Z",
+  "release_date": "2023-03-18T14:04:48.439649778Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.03.20",
   "kubernetes_version": "1.18+",
@@ -59,6 +59,20 @@
             {
               "SHA": "5fb5bda34",
               "Subject": "Append image pull secrets instead of replace (#1509)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "6b61475",
+              "Subject": "Prepare for release v0.10.0 (#24)"
             }
           ]
         }
