@@ -90,6 +90,14 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.1.0-v7](https://github.com/stashed/kubedump/releases/tag/0.1.0-v7)
+
+- [f6961d5](https://github.com/stashed/kubedump/commit/f6961d5) Prepare for release 0.1.0-v7 (#33)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v17](https://github.com/stashed/mariadb/releases/tag/10.5.8-v17)
