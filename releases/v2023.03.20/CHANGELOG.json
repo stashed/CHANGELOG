@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.03.20",
-  "release_date": "2023-03-18T13:23:55.200165796Z",
+  "release_date": "2023-03-18T13:38:19.90224832Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.03.20",
   "kubernetes_version": "1.18+",
@@ -19,6 +19,24 @@
             {
               "SHA": "1c5d99c3",
               "Subject": "Create directory for local repository for restic init (#199)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "7e74e4014",
+              "Subject": "Prepare for release v0.28.0 (#1510)"
+            },
+            {
+              "SHA": "5fb5bda34",
+              "Subject": "Append image pull secrets instead of replace (#1509)"
             }
           ]
         }

@@ -10,3 +10,12 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.28.0](https://github.com/stashed/stash/releases/tag/v0.28.0)
+
+- [7e74e401](https://github.com/stashed/stash/commit/7e74e4014) Prepare for release v0.28.0 (#1510)
+- [5fb5bda3](https://github.com/stashed/stash/commit/5fb5bda34) Append image pull secrets instead of replace (#1509)
+
+
+
