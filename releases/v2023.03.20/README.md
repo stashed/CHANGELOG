@@ -181,6 +181,14 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v12](https://github.com/stashed/nats/releases/tag/2.6.1-v12)
+
+- [0a385ca](https://github.com/stashed/nats/commit/0a385ca) Prepare for release 2.6.1-v12 (#93)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v19](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v19)
