@@ -29,6 +29,14 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.14-v23](https://github.com/stashed/postgres/releases/tag/10.14-v23)
+
+- [47b1062f](https://github.com/stashed/postgres/commit/47b1062f) Prepare for release 10.14-v23 (#1168)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.28.0](https://github.com/stashed/stash/releases/tag/v0.28.0)
