@@ -19,6 +19,14 @@
 
 
 
+## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
+
+### [5.6.4-v24](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v24)
+
+- [6cd18de9](https://github.com/stashed/elasticsearch/commit/6cd18de9) Prepare for release 5.6.4-v24 (#1344)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.28.0](https://github.com/stashed/enterprise/releases/tag/v0.28.0)
