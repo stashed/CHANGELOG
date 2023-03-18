@@ -134,6 +134,11 @@
 - [b501f60f](https://github.com/stashed/mongodb/commit/b501f60f) Prepare for release 4.1.13-v24 (#1767)
 
 
+### [4.2.3-v24](https://github.com/stashed/mongodb/releases/tag/4.2.3-v24)
+
+- [c526024e](https://github.com/stashed/mongodb/commit/c526024e) Prepare for release 4.2.3-v24 (#1770)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
