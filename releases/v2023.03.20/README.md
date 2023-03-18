@@ -144,6 +144,11 @@
 - [61902b46](https://github.com/stashed/mongodb/commit/61902b46) Prepare for release 4.4.6-v15 (#1771)
 
 
+### [5.0.3-v12](https://github.com/stashed/mongodb/releases/tag/5.0.3-v12)
+
+- [38ad041e](https://github.com/stashed/mongodb/commit/38ad041e) Prepare for release 5.0.3-v12 (#1772)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
