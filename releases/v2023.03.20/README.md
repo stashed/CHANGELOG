@@ -157,6 +157,11 @@
 - [a8dcdc62](https://github.com/stashed/mysql/commit/a8dcdc62) Prepare for release 5.7.25-v24 (#691)
 
 
+### [8.0.3-v24](https://github.com/stashed/mysql/releases/tag/8.0.3-v24)
+
+- [15020258](https://github.com/stashed/mysql/commit/15020258) Prepare for release 8.0.3-v24 (#694)
+
+
 ### [8.0.14-v24](https://github.com/stashed/mysql/releases/tag/8.0.14-v24)
 
 - [80fe4fb8](https://github.com/stashed/mysql/commit/80fe4fb8) Prepare for release 8.0.14-v24 (#692)
