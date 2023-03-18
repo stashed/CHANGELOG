@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.03.20",
-  "release_date": "2023-03-18T14:04:48.439649778Z",
+  "release_date": "2023-03-18T14:04:53.098954651Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.03.20",
   "kubernetes_version": "1.18+",
@@ -19,6 +19,24 @@
             {
               "SHA": "1c5d99c3",
               "Subject": "Create directory for local repository for restic init (#199)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "fc785021",
+              "Subject": "Prepare for release v0.28.0 (#180)"
+            },
+            {
+              "SHA": "9cadafcb",
+              "Subject": "Enable unlocking of local repository on NFS volume (#179)"
             }
           ]
         }

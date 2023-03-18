@@ -10,6 +10,15 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.28.0](https://github.com/stashed/cli/releases/tag/v0.28.0)
+
+- [fc785021](https://github.com/stashed/cli/commit/fc785021) Prepare for release v0.28.0 (#180)
+- [9cadafcb](https://github.com/stashed/cli/commit/9cadafcb) Enable unlocking of local repository on NFS volume (#179)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.28.0](https://github.com/stashed/enterprise/releases/tag/v0.28.0)
