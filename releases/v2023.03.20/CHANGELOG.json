@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.03.20",
-  "release_date": "2023-03-18T14:47:27.371693345Z",
+  "release_date": "2023-03-18T14:55:23.978716398Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.03.20",
   "kubernetes_version": "1.18+",
@@ -154,6 +154,20 @@
             {
               "SHA": "25b4ff160",
               "Subject": "Append image pull secrets instead of replace (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v17",
+          "commits": [
+            {
+              "SHA": "18974b1",
+              "Subject": "Prepare for release 10.5.8-v17 (#216)"
             }
           ]
         }
