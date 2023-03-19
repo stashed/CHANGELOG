@@ -1,0 +1,593 @@
+{
+  "product_line": "Stash",
+  "release": "v2023.03.20",
+  "release_date": "2023-03-19T01:28:26.105776482Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2023.03.20",
+  "kubernetes_version": "1.18+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "292f37f4",
+              "Subject": "Update dependencies"
+            },
+            {
+              "SHA": "1c5d99c3",
+              "Subject": "Create directory for local repository for restic init (#199)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2023.03.20",
+          "commits": [
+            {
+              "SHA": "dcf759d",
+              "Subject": "Prepare for release v2023.03.20 (#75)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "fc785021",
+              "Subject": "Prepare for release v0.28.0 (#180)"
+            },
+            {
+              "SHA": "9cadafcb",
+              "Subject": "Enable unlocking of local repository on NFS volume (#179)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2023.03.20",
+          "commits": [
+            {
+              "SHA": "747fe74",
+              "Subject": "Prepare for release v2023.03.20 (#265)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v24",
+          "commits": [
+            {
+              "SHA": "6cd18de9",
+              "Subject": "Prepare for release 5.6.4-v24 (#1344)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v24",
+          "commits": [
+            {
+              "SHA": "11f17468",
+              "Subject": "Prepare for release 6.2.4-v24 (#1345)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v24",
+          "commits": [
+            {
+              "SHA": "72441b73",
+              "Subject": "Prepare for release 6.3.0-v24 (#1346)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v24",
+          "commits": [
+            {
+              "SHA": "ebb9119a",
+              "Subject": "Prepare for release 6.4.0-v24 (#1347)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v24",
+          "commits": [
+            {
+              "SHA": "2bfe6379",
+              "Subject": "Prepare for release 6.5.3-v24 (#1348)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v24",
+          "commits": [
+            {
+              "SHA": "7f221239",
+              "Subject": "Prepare for release 6.8.0-v24 (#1349)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v24",
+          "commits": [
+            {
+              "SHA": "cf23989f",
+              "Subject": "Prepare for release 7.2.0-v24 (#1351)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v24",
+          "commits": [
+            {
+              "SHA": "eb185e09",
+              "Subject": "Prepare for release 7.3.2-v24 (#1352)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v10",
+          "commits": [
+            {
+              "SHA": "2fc98a7b",
+              "Subject": "Prepare for release 7.14.0-v10 (#1350)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v7",
+          "commits": [
+            {
+              "SHA": "3c4d977e",
+              "Subject": "Prepare for release 8.2.0-v7 (#1353)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "69cc9409f",
+              "Subject": "Prepare for release v0.28.0 (#226)"
+            },
+            {
+              "SHA": "d882beb1a",
+              "Subject": "Add unlock command for CLI (#224)"
+            },
+            {
+              "SHA": "25b4ff160",
+              "Subject": "Append image pull secrets instead of replace (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v11",
+          "commits": [
+            {
+              "SHA": "67526a5",
+              "Subject": "Prepare for release 3.5.0-v11 (#73)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2023.03.20",
+          "commits": [
+            {
+              "SHA": "1ec11e29",
+              "Subject": "Prepare for release v2023.03.20 (#297)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v7",
+          "commits": [
+            {
+              "SHA": "f6961d5",
+              "Subject": "Prepare for release 0.1.0-v7 (#33)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v17",
+          "commits": [
+            {
+              "SHA": "18974b1",
+              "Subject": "Prepare for release 10.5.8-v17 (#216)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v24",
+          "commits": [
+            {
+              "SHA": "a35ca221",
+              "Subject": "Prepare for release 3.4.17-v24 (#1760)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v24",
+          "commits": [
+            {
+              "SHA": "0acd0614",
+              "Subject": "Prepare for release 3.4.22-v24 (#1761)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v24",
+          "commits": [
+            {
+              "SHA": "90e1ee6f",
+              "Subject": "Prepare for release 3.6.8-v24 (#1763)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v24",
+          "commits": [
+            {
+              "SHA": "3b6758d1",
+              "Subject": "Prepare for release 3.6.13-v24 (#1762)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v24",
+          "commits": [
+            {
+              "SHA": "e102289e",
+              "Subject": "Prepare for release 4.0.3-v24 (#1765)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v24",
+          "commits": [
+            {
+              "SHA": "65473863",
+              "Subject": "Prepare for release 4.0.5-v24 (#1766)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v24",
+          "commits": [
+            {
+              "SHA": "2d985943",
+              "Subject": "Prepare for release 4.0.11-v24 (#1764)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v24",
+          "commits": [
+            {
+              "SHA": "539a0db1",
+              "Subject": "Prepare for release 4.1.4-v24 (#1768)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v24",
+          "commits": [
+            {
+              "SHA": "3e8c030d",
+              "Subject": "Prepare for release 4.1.7-v24 (#1769)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v24",
+          "commits": [
+            {
+              "SHA": "b501f60f",
+              "Subject": "Prepare for release 4.1.13-v24 (#1767)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v24",
+          "commits": [
+            {
+              "SHA": "c526024e",
+              "Subject": "Prepare for release 4.2.3-v24 (#1770)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v15",
+          "commits": [
+            {
+              "SHA": "61902b46",
+              "Subject": "Prepare for release 4.4.6-v15 (#1771)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v12",
+          "commits": [
+            {
+              "SHA": "38ad041e",
+              "Subject": "Prepare for release 5.0.3-v12 (#1772)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v24",
+          "commits": [
+            {
+              "SHA": "a8dcdc62",
+              "Subject": "Prepare for release 5.7.25-v24 (#691)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v24",
+          "commits": [
+            {
+              "SHA": "15020258",
+              "Subject": "Prepare for release 8.0.3-v24 (#694)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v24",
+          "commits": [
+            {
+              "SHA": "80fe4fb8",
+              "Subject": "Prepare for release 8.0.14-v24 (#692)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v18",
+          "commits": [
+            {
+              "SHA": "5fed08e3",
+              "Subject": "Prepare for release 8.0.21-v18 (#693)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v12",
+          "commits": [
+            {
+              "SHA": "0a385ca",
+              "Subject": "Prepare for release 2.6.1-v12 (#93)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v7",
+          "commits": [
+            {
+              "SHA": "e050da5",
+              "Subject": "Prepare for release 2.8.2-v7 (#94)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v19",
+          "commits": [
+            {
+              "SHA": "4c93ae53",
+              "Subject": "Prepare for release 5.7-v19 (#286)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v23",
+          "commits": [
+            {
+              "SHA": "ca9ce6bd",
+              "Subject": "Prepare for release 9.6.19-v23 (#1174)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v23",
+          "commits": [
+            {
+              "SHA": "47b1062f",
+              "Subject": "Prepare for release 10.14-v23 (#1168)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v23",
+          "commits": [
+            {
+              "SHA": "398f746e",
+              "Subject": "Prepare for release 11.9-v23 (#1169)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v23",
+          "commits": [
+            {
+              "SHA": "0f2c4aa1",
+              "Subject": "Prepare for release 12.4-v23 (#1170)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v20",
+          "commits": [
+            {
+              "SHA": "646372a2",
+              "Subject": "Prepare for release 13.1-v20 (#1171)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v12",
+          "commits": [
+            {
+              "SHA": "9a83d73b",
+              "Subject": "Prepare for release 14.0-v12 (#1172)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v4",
+          "commits": [
+            {
+              "SHA": "4be14a52",
+              "Subject": "Prepare for release 15.1-v4 (#1173)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v12",
+          "commits": [
+            {
+              "SHA": "9b351df",
+              "Subject": "Prepare for release 5.0.13-v12 (#156)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v12",
+          "commits": [
+            {
+              "SHA": "1d7e7cf",
+              "Subject": "Prepare for release 6.2.5-v12 (#157)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v5",
+          "commits": [
+            {
+              "SHA": "46bddd9",
+              "Subject": "Prepare for release 7.0.5-v5 (#158)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.28.0",
+          "commits": [
+            {
+              "SHA": "7e74e4014",
+              "Subject": "Prepare for release v0.28.0 (#1510)"
+            },
+            {
+              "SHA": "5fb5bda34",
+              "Subject": "Append image pull secrets instead of replace (#1509)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.10.0",
+          "commits": [
+            {
+              "SHA": "6b61475",
+              "Subject": "Prepare for release v0.10.0 (#24)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v4",
+          "commits": [
+            {
+              "SHA": "d70c128f",
+              "Subject": "Prepare for release 1.10.3-v4 (#11)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
