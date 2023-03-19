@@ -1,4 +1,4 @@
-# Stash v2023.03.20 (2023-03-18)
+# Stash v2023.03.20 (2023-03-19)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
@@ -87,6 +87,14 @@
 ### [3.5.0-v11](https://github.com/stashed/etcd/releases/tag/3.5.0-v11)
 
 - [67526a5](https://github.com/stashed/etcd/commit/67526a5) Prepare for release 3.5.0-v11 (#73)
+
+
+
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2023.03.20](https://github.com/stashed/installer/releases/tag/v2023.03.20)
+
+- [1ec11e29](https://github.com/stashed/installer/commit/1ec11e29) Prepare for release v2023.03.20 (#297)
 
 
 
