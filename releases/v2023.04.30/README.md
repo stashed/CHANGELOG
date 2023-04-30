@@ -214,6 +214,15 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v13](https://github.com/stashed/nats/releases/tag/2.6.1-v13)
+
+- [2cfd5b8](https://github.com/stashed/nats/commit/2cfd5b8) Prepare for release 2.6.1-v13 (#100)
+- [02f2e3c](https://github.com/stashed/nats/commit/02f2e3c) [cherry-pick] Use numeric uid in Dockerfile (#97) (#98)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v20](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v20)
