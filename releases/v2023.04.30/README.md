@@ -270,6 +270,15 @@
 - [8372b08](https://github.com/stashed/redis/commit/8372b08) [cherry-pick] Use numeric uid in Dockerfile (#160) (#161)
 
 
+### [6.2.5-v13](https://github.com/stashed/redis/releases/tag/6.2.5-v13)
+
+- [468c1bd](https://github.com/stashed/redis/commit/468c1bd) Prepare for release 6.2.5-v13 (#169)
+- [d549e24](https://github.com/stashed/redis/commit/d549e24) [cherry-pick] Support backup and restore for redis clusters (#164) (#166)
+- [7803cc9](https://github.com/stashed/redis/commit/7803cc9) Use ghcr.io for appscode/golang-dev
+- [eb9af10](https://github.com/stashed/redis/commit/eb9af10) Add Support for Redis when Auth is Disabled in Kubedb (#77)
+- [bec48a2](https://github.com/stashed/redis/commit/bec48a2) [cherry-pick] Use numeric uid in Dockerfile (#160) (#162)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 

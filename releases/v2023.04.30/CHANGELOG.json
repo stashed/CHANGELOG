@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.04.30",
-  "release_date": "2023-04-30T21:41:31.008374599Z",
+  "release_date": "2023-04-30T21:41:32.680119743Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.04.30",
   "kubernetes_version": "1.19+",
@@ -578,6 +578,31 @@
             {
               "SHA": "8372b08",
               "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#160) (#161)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v13",
+          "commits": [
+            {
+              "SHA": "468c1bd",
+              "Subject": "Prepare for release 6.2.5-v13 (#169)"
+            },
+            {
+              "SHA": "d549e24",
+              "Subject": "[cherry-pick] Support backup and restore for redis clusters (#164) (#166)"
+            },
+            {
+              "SHA": "7803cc9",
+              "Subject": "Use ghcr.io for appscode/golang-dev"
+            },
+            {
+              "SHA": "eb9af10",
+              "Subject": "Add Support for Redis when Auth is Disabled in Kubedb (#77)"
+            },
+            {
+              "SHA": "bec48a2",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#160) (#162)"
             }
           ]
         }
