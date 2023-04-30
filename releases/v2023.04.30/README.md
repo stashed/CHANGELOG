@@ -11,6 +11,15 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.29.0](https://github.com/stashed/enterprise/releases/tag/v0.29.0)
+
+- [1a51e875](https://github.com/stashed/enterprise/commit/1a51e875f) Prepare for release v0.29.0 (#229)
+- [a67955d0](https://github.com/stashed/enterprise/commit/a67955d0a) Use numeric uid in Dockerfile (#228)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.29.0](https://github.com/stashed/stash/releases/tag/v0.29.0)

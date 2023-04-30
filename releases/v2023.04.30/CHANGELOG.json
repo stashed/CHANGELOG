@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.04.30",
-  "release_date": "2023-04-30T13:02:00.169324133Z",
+  "release_date": "2023-04-30T13:21:10.700849389Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.04.30",
   "kubernetes_version": "1.19+",
@@ -23,6 +23,24 @@
             {
               "SHA": "8a1c90af",
               "Subject": "make gen fmt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "1a51e875f",
+              "Subject": "Prepare for release v0.29.0 (#229)"
+            },
+            {
+              "SHA": "a67955d0a",
+              "Subject": "Use numeric uid in Dockerfile (#228)"
             }
           ]
         }
