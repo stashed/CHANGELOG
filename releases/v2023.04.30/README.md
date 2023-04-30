@@ -36,6 +36,12 @@
 - [e229b03c](https://github.com/stashed/postgres/commit/e229b03c) Use numeric uid in Dockerfile (#1176) (#1177)
 
 
+### [11.9-v24](https://github.com/stashed/postgres/releases/tag/11.9-v24)
+
+- [f4e574c9](https://github.com/stashed/postgres/commit/f4e574c9) Prepare for release 11.9-v24 (#1185)
+- [435c1e58](https://github.com/stashed/postgres/commit/435c1e58) Use numeric uid in Dockerfile (#1176) (#1178)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
