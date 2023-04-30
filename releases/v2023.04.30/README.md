@@ -54,6 +54,12 @@
 - [0a2426e2](https://github.com/stashed/postgres/commit/0a2426e2) [cherry-pick] Use numeric uid in Dockerfile (#1176) (#1180)
 
 
+### [14.0-v13](https://github.com/stashed/postgres/releases/tag/14.0-v13)
+
+- [1a97a10c](https://github.com/stashed/postgres/commit/1a97a10c) Prepare for release 14.0-v13 (#1188)
+- [06b6ad43](https://github.com/stashed/postgres/commit/06b6ad43) [cherry-pick] Use numeric uid in Dockerfile (#1176) (#1181)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
