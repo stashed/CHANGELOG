@@ -192,6 +192,12 @@
 - [05a04a56](https://github.com/stashed/mysql/commit/05a04a56) Use numeric uid in Dockerfile (#696) (#698)
 
 
+### [8.0.21-v19](https://github.com/stashed/mysql/releases/tag/8.0.21-v19)
+
+- [7f68cb08](https://github.com/stashed/mysql/commit/7f68cb08) Prepare for release 8.0.21-v19 (#703)
+- [6beb1eed](https://github.com/stashed/mysql/commit/6beb1eed) [cherry-pick] Use numeric uid in Dockerfile (#696) (#699)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
