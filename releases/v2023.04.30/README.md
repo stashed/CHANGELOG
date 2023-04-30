@@ -11,3 +11,12 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.29.0](https://github.com/stashed/stash/releases/tag/v0.29.0)
+
+- [a80cbf90](https://github.com/stashed/stash/commit/a80cbf905) Prepare for release v0.29.0 (#1514)
+- [3625b857](https://github.com/stashed/stash/commit/3625b8579) Use numeric uid in Dockerfile (#1513)
+
+
+
