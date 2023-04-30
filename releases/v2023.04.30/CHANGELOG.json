@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.04.30",
-  "release_date": "2023-04-30T17:45:33.751527887Z",
+  "release_date": "2023-04-30T17:45:35.711151922Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.04.30",
   "kubernetes_version": "1.19+",
@@ -63,6 +63,19 @@
     {
       "url": "github.com/stashed/postgres",
       "releases": [
+        {
+          "tag": "9.6.19-v24",
+          "commits": [
+            {
+              "SHA": "5fd149a6",
+              "Subject": "Prepare for release 9.6.19-v24 (#1190)"
+            },
+            {
+              "SHA": "e09a4972",
+              "Subject": "Use numeric uid in Dockerfile (#1176) (#1183)"
+            }
+          ]
+        },
         {
           "tag": "10.14-v24",
           "commits": [
