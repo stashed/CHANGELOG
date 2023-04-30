@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.04.30",
-  "release_date": "2023-04-30T17:56:27.21228772Z",
+  "release_date": "2023-04-30T17:56:28.684905129Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.04.30",
   "kubernetes_version": "1.19+",
@@ -81,6 +81,19 @@
             {
               "SHA": "c0f6ec9b",
               "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1357) (#1360)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v25",
+          "commits": [
+            {
+              "SHA": "d54966fa",
+              "Subject": "Prepare for release 6.4.0-v25 (#1371)"
+            },
+            {
+              "SHA": "55e8573a",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1357) (#1361)"
             }
           ]
         }
