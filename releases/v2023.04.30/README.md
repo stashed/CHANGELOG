@@ -178,6 +178,15 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v25](https://github.com/stashed/mysql/releases/tag/5.7.25-v25)
+
+- [5eae9b8b](https://github.com/stashed/mysql/commit/5eae9b8b) Prepare for release 5.7.25-v25 (#701)
+- [dbfc2143](https://github.com/stashed/mysql/commit/dbfc2143) Use numeric uid in Dockerfile (#696) (#697)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v24](https://github.com/stashed/postgres/releases/tag/9.6.19-v24)
