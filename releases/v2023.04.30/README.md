@@ -19,6 +19,15 @@
 
 
 
+## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
+
+### [5.6.4-v25](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v25)
+
+- [0ee516bf](https://github.com/stashed/elasticsearch/commit/0ee516bf) Prepare for release 5.6.4-v25 (#1368)
+- [e9f9b93c](https://github.com/stashed/elasticsearch/commit/e9f9b93c) [cherry-pick] Use numeric uid in Dockerfile (#1357) (#1358)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.29.0](https://github.com/stashed/enterprise/releases/tag/v0.29.0)
