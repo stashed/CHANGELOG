@@ -75,6 +75,12 @@
 - [7c70adf7](https://github.com/stashed/elasticsearch/commit/7c70adf7) [cherry-pick] Use numeric uid in Dockerfile (#1357) (#1364)
 
 
+### [8.2.0-v8](https://github.com/stashed/elasticsearch/releases/tag/8.2.0-v8)
+
+- [6e557492](https://github.com/stashed/elasticsearch/commit/6e557492) Prepare for release 8.2.0-v8 (#1377)
+- [4bac3d22](https://github.com/stashed/elasticsearch/commit/4bac3d22) [cherry-pick] Use numeric uid in Dockerfile (#1357) (#1367)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
