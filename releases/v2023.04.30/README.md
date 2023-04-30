@@ -105,6 +105,12 @@
 - [cf380322](https://github.com/stashed/mongodb/commit/cf380322) [cherry-pick] Use numeric uid in Dockerfile (#1774) (#1776)
 
 
+### [3.6.13-v25](https://github.com/stashed/mongodb/releases/tag/3.6.13-v25)
+
+- [4c76961f](https://github.com/stashed/mongodb/commit/4c76961f) Prepare for release 3.6.13-v25 (#1791)
+- [7b4f5756](https://github.com/stashed/mongodb/commit/7b4f5756) [cherry-pick] Use numeric uid in Dockerfile (#1774) (#1777)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
