@@ -1,0 +1,32 @@
+{
+  "product_line": "Stash",
+  "release": "v2023.04.30",
+  "release_date": "2023-04-30T12:47:12.291500895Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2023.04.30",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "cf255d28",
+              "Subject": "Make dump public as DumpOnce (#201)"
+            },
+            {
+              "SHA": "d75b9663",
+              "Subject": "Use ghcr.io (#200)"
+            },
+            {
+              "SHA": "8a1c90af",
+              "Subject": "make gen fmt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
