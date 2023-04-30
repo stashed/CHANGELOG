@@ -91,6 +91,15 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v18](https://github.com/stashed/mariadb/releases/tag/10.5.8-v18)
+
+- [40471eb](https://github.com/stashed/mariadb/commit/40471eb) Prepare for release 10.5.8-v18 (#220)
+- [7e8d8d1](https://github.com/stashed/mariadb/commit/7e8d8d1) [cherry-pick] Use numeric uid in Dockerfile (#218) (#219)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v25](https://github.com/stashed/mongodb/releases/tag/3.4.17-v25)
