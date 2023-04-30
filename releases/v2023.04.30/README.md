@@ -91,6 +91,15 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v12](https://github.com/stashed/etcd/releases/tag/3.5.0-v12)
+
+- [ef26a24](https://github.com/stashed/etcd/commit/ef26a24) Prepare for release 3.5.0-v12 (#77)
+- [07c7c30](https://github.com/stashed/etcd/commit/07c7c30) [cherry-pick] Use numeric uid in Dockerfile (#75) (#76)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v18](https://github.com/stashed/mariadb/releases/tag/10.5.8-v18)
