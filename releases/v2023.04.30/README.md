@@ -222,6 +222,12 @@
 - [02f2e3c](https://github.com/stashed/nats/commit/02f2e3c) [cherry-pick] Use numeric uid in Dockerfile (#97) (#98)
 
 
+### [2.8.2-v8](https://github.com/stashed/nats/releases/tag/2.8.2-v8)
+
+- [bd1c3b9](https://github.com/stashed/nats/commit/bd1c3b9) Prepare for release 2.8.2-v8 (#101)
+- [9977ac2](https://github.com/stashed/nats/commit/9977ac2) [cherry-pick] Use numeric uid in Dockerfile (#97) (#99)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
