@@ -29,3 +29,12 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.11.0](https://github.com/stashed/ui-server/releases/tag/v0.11.0)
+
+- [633cf86](https://github.com/stashed/ui-server/commit/633cf86) Prepare for release v0.11.0 (#26)
+- [0a6ce3a](https://github.com/stashed/ui-server/commit/0a6ce3a) Use numeric uid in Dockerfile (#25)
+
+
+
