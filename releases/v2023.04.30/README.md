@@ -349,3 +349,12 @@
 
 
 
+## [stashed/vault](https://github.com/stashed/vault)
+
+### [1.10.3-v5](https://github.com/stashed/vault/releases/tag/1.10.3-v5)
+
+- [6b7fd704](https://github.com/stashed/vault/commit/6b7fd704) Prepare for release 1.10.3-v5 (#15)
+- [389cd328](https://github.com/stashed/vault/commit/389cd328) [cherry-pick] Use numeric uid in Dockerfile (#13) (#14)
+
+
+
