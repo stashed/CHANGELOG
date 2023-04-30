@@ -100,6 +100,16 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2023.04.30](https://github.com/stashed/installer/releases/tag/v2023.04.30)
+
+- [f69ead12](https://github.com/stashed/installer/commit/f69ead12) Prepare for release v2023.04.30 (#302)
+- [729afc21](https://github.com/stashed/installer/commit/729afc21) Test against k8s 1.27.1 (#301)
+- [8ecafa65](https://github.com/stashed/installer/commit/8ecafa65) Use ghcr.io (#300)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v8](https://github.com/stashed/kubedump/releases/tag/0.1.0-v8)
