@@ -100,6 +100,15 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.1.0-v8](https://github.com/stashed/kubedump/releases/tag/0.1.0-v8)
+
+- [b454d58](https://github.com/stashed/kubedump/commit/b454d58) Prepare for release 0.1.0-v8 (#37)
+- [70f0d3c](https://github.com/stashed/kubedump/commit/70f0d3c) [cherry-pick] Use numeric uid in Dockerfile (#35) (#36)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v18](https://github.com/stashed/mariadb/releases/tag/10.5.8-v18)
