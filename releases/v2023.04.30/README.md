@@ -186,6 +186,12 @@
 - [dbfc2143](https://github.com/stashed/mysql/commit/dbfc2143) Use numeric uid in Dockerfile (#696) (#697)
 
 
+### [8.0.14-v25](https://github.com/stashed/mysql/releases/tag/8.0.14-v25)
+
+- [a9385be7](https://github.com/stashed/mysql/commit/a9385be7) Prepare for release 8.0.14-v25 (#702)
+- [05a04a56](https://github.com/stashed/mysql/commit/05a04a56) Use numeric uid in Dockerfile (#696) (#698)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
