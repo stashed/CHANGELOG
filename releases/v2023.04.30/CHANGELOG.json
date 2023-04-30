@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.04.30",
-  "release_date": "2023-04-30T21:41:34.383765264Z",
+  "release_date": "2023-04-30T21:49:24.96118784Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.04.30",
   "kubernetes_version": "1.19+",
@@ -452,6 +452,24 @@
             {
               "SHA": "6beb1eed",
               "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#696) (#699)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v20",
+          "commits": [
+            {
+              "SHA": "9e5a1789",
+              "Subject": "Prepare for release 5.7-v20 (#290)"
+            },
+            {
+              "SHA": "dce46839",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#288) (#289)"
             }
           ]
         }

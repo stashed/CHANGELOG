@@ -214,6 +214,15 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v20](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v20)
+
+- [9e5a1789](https://github.com/stashed/percona-xtradb/commit/9e5a1789) Prepare for release 5.7-v20 (#290)
+- [dce46839](https://github.com/stashed/percona-xtradb/commit/dce46839) [cherry-pick] Use numeric uid in Dockerfile (#288) (#289)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v24](https://github.com/stashed/postgres/releases/tag/9.6.19-v24)
