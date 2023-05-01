@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.04.30",
-  "release_date": "2023-05-01T07:02:32.486742086Z",
+  "release_date": "2023-05-01T07:11:19.138870127Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.04.30",
   "kubernetes_version": "1.19+",
@@ -23,6 +23,20 @@
             {
               "SHA": "8a1c90af",
               "Subject": "make gen fmt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2023.04.30",
+          "commits": [
+            {
+              "SHA": "445cb03",
+              "Subject": "Prepare for release v2023.04.30 (#76)"
             }
           ]
         }
