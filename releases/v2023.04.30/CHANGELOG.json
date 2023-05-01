@@ -1,0 +1,826 @@
+{
+  "product_line": "Stash",
+  "release": "v2023.04.30",
+  "release_date": "2023-05-01T07:11:19.138870127Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2023.04.30",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "cf255d28",
+              "Subject": "Make dump public as DumpOnce (#201)"
+            },
+            {
+              "SHA": "d75b9663",
+              "Subject": "Use ghcr.io (#200)"
+            },
+            {
+              "SHA": "8a1c90af",
+              "Subject": "make gen fmt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2023.04.30",
+          "commits": [
+            {
+              "SHA": "445cb03",
+              "Subject": "Prepare for release v2023.04.30 (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "58ff504f",
+              "Subject": "Prepare for release v0.29.0 (#181)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2023.04.30",
+          "commits": [
+            {
+              "SHA": "55d1062",
+              "Subject": "Prepare for release v2023.04.30 (#267)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v25",
+          "commits": [
+            {
+              "SHA": "0ee516bf",
+              "Subject": "Prepare for release 5.6.4-v25 (#1368)"
+            },
+            {
+              "SHA": "e9f9b93c",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1357) (#1358)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v25",
+          "commits": [
+            {
+              "SHA": "9d7318d0",
+              "Subject": "Prepare for release 6.2.4-v25 (#1369)"
+            },
+            {
+              "SHA": "0aef89d3",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1357) (#1359)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v25",
+          "commits": [
+            {
+              "SHA": "74d20240",
+              "Subject": "Prepare for release 6.3.0-v25 (#1370)"
+            },
+            {
+              "SHA": "c0f6ec9b",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1357) (#1360)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v25",
+          "commits": [
+            {
+              "SHA": "d54966fa",
+              "Subject": "Prepare for release 6.4.0-v25 (#1371)"
+            },
+            {
+              "SHA": "55e8573a",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1357) (#1361)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v25",
+          "commits": [
+            {
+              "SHA": "15d08d71",
+              "Subject": "Prepare for release 6.5.3-v25 (#1372)"
+            },
+            {
+              "SHA": "5b4c2eac",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1357) (#1362)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v25",
+          "commits": [
+            {
+              "SHA": "1a05c3a8",
+              "Subject": "Prepare for release 6.8.0-v25 (#1373)"
+            },
+            {
+              "SHA": "84dcd7f3",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1357) (#1363)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v25",
+          "commits": [
+            {
+              "SHA": "1c547594",
+              "Subject": "Prepare for release 7.2.0-v25 (#1375)"
+            },
+            {
+              "SHA": "fbf47b6b",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1357) (#1365)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v25",
+          "commits": [
+            {
+              "SHA": "a27dbe82",
+              "Subject": "Prepare for release 7.3.2-v25 (#1376)"
+            },
+            {
+              "SHA": "d4ae0196",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1357) (#1366)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v11",
+          "commits": [
+            {
+              "SHA": "94794608",
+              "Subject": "Prepare for release 7.14.0-v11 (#1374)"
+            },
+            {
+              "SHA": "7c70adf7",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1357) (#1364)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v8",
+          "commits": [
+            {
+              "SHA": "6e557492",
+              "Subject": "Prepare for release 8.2.0-v8 (#1377)"
+            },
+            {
+              "SHA": "4bac3d22",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1357) (#1367)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "1a51e875f",
+              "Subject": "Prepare for release v0.29.0 (#229)"
+            },
+            {
+              "SHA": "a67955d0a",
+              "Subject": "Use numeric uid in Dockerfile (#228)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v12",
+          "commits": [
+            {
+              "SHA": "ef26a24",
+              "Subject": "Prepare for release 3.5.0-v12 (#77)"
+            },
+            {
+              "SHA": "07c7c30",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#75) (#76)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2023.04.30",
+          "commits": [
+            {
+              "SHA": "f69ead12",
+              "Subject": "Prepare for release v2023.04.30 (#302)"
+            },
+            {
+              "SHA": "729afc21",
+              "Subject": "Test against k8s 1.27.1 (#301)"
+            },
+            {
+              "SHA": "8ecafa65",
+              "Subject": "Use ghcr.io (#300)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v8",
+          "commits": [
+            {
+              "SHA": "b454d58",
+              "Subject": "Prepare for release 0.1.0-v8 (#37)"
+            },
+            {
+              "SHA": "70f0d3c",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#35) (#36)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v18",
+          "commits": [
+            {
+              "SHA": "40471eb",
+              "Subject": "Prepare for release 10.5.8-v18 (#220)"
+            },
+            {
+              "SHA": "7e8d8d1",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#218) (#219)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v25",
+          "commits": [
+            {
+              "SHA": "ee474ffb",
+              "Subject": "Prepare for release 3.4.17-v25 (#1789)"
+            },
+            {
+              "SHA": "6aa4d7be",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1775)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v25",
+          "commits": [
+            {
+              "SHA": "58db6548",
+              "Subject": "Prepare for release 3.4.22-v25 (#1790)"
+            },
+            {
+              "SHA": "cf380322",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1776)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v25",
+          "commits": [
+            {
+              "SHA": "05f2b457",
+              "Subject": "Prepare for release 3.6.8-v25 (#1792)"
+            },
+            {
+              "SHA": "8a973cc7",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1778)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v25",
+          "commits": [
+            {
+              "SHA": "4c76961f",
+              "Subject": "Prepare for release 3.6.13-v25 (#1791)"
+            },
+            {
+              "SHA": "7b4f5756",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1777)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v25",
+          "commits": [
+            {
+              "SHA": "55f20859",
+              "Subject": "Prepare for release 4.0.3-v25 (#1794)"
+            },
+            {
+              "SHA": "9c56288a",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1780)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v25",
+          "commits": [
+            {
+              "SHA": "14ed2e50",
+              "Subject": "Prepare for release 4.0.5-v25 (#1795)"
+            },
+            {
+              "SHA": "7a92e2d8",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1781)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v25",
+          "commits": [
+            {
+              "SHA": "f27bea0a",
+              "Subject": "Prepare for release 4.0.11-v25 (#1793)"
+            },
+            {
+              "SHA": "e421ed2f",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1779)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v25",
+          "commits": [
+            {
+              "SHA": "73c9bc38",
+              "Subject": "Prepare for release 4.1.4-v25 (#1797)"
+            },
+            {
+              "SHA": "aabe17c4",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1783)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v25",
+          "commits": [
+            {
+              "SHA": "d39c4f50",
+              "Subject": "Prepare for release 4.1.7-v25 (#1798)"
+            },
+            {
+              "SHA": "28c67f0c",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1784)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v25",
+          "commits": [
+            {
+              "SHA": "ba045e54",
+              "Subject": "Prepare for release 4.1.13-v25 (#1796)"
+            },
+            {
+              "SHA": "f81ee4da",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1782)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v25",
+          "commits": [
+            {
+              "SHA": "9bf064bb",
+              "Subject": "Prepare for release 4.2.3-v25 (#1799)"
+            },
+            {
+              "SHA": "b1a08dba",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1785)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v16",
+          "commits": [
+            {
+              "SHA": "14e1d296",
+              "Subject": "Prepare for release 4.4.6-v16 (#1800)"
+            },
+            {
+              "SHA": "640b1544",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1786)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v13",
+          "commits": [
+            {
+              "SHA": "3affc0f9",
+              "Subject": "Prepare for release 5.0.3-v13 (#1801)"
+            },
+            {
+              "SHA": "3c32151a",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1787)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v1",
+          "commits": [
+            {
+              "SHA": "9960c95c",
+              "Subject": "Prepare for release 6.0.5-v1 (#1802)"
+            },
+            {
+              "SHA": "983b59c6",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1774) (#1788)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v25",
+          "commits": [
+            {
+              "SHA": "5eae9b8b",
+              "Subject": "Prepare for release 5.7.25-v25 (#701)"
+            },
+            {
+              "SHA": "dbfc2143",
+              "Subject": "Use numeric uid in Dockerfile (#696) (#697)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v25",
+          "commits": [
+            {
+              "SHA": "c2a30c87",
+              "Subject": "Prepare for release 8.0.3-v25 (#704)"
+            },
+            {
+              "SHA": "bd69d6ad",
+              "Subject": "Use numeric uid in Dockerfile (#696) (#700)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v25",
+          "commits": [
+            {
+              "SHA": "a9385be7",
+              "Subject": "Prepare for release 8.0.14-v25 (#702)"
+            },
+            {
+              "SHA": "05a04a56",
+              "Subject": "Use numeric uid in Dockerfile (#696) (#698)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v19",
+          "commits": [
+            {
+              "SHA": "7f68cb08",
+              "Subject": "Prepare for release 8.0.21-v19 (#703)"
+            },
+            {
+              "SHA": "6beb1eed",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#696) (#699)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v13",
+          "commits": [
+            {
+              "SHA": "2cfd5b8",
+              "Subject": "Prepare for release 2.6.1-v13 (#100)"
+            },
+            {
+              "SHA": "02f2e3c",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#97) (#98)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v8",
+          "commits": [
+            {
+              "SHA": "bd1c3b9",
+              "Subject": "Prepare for release 2.8.2-v8 (#101)"
+            },
+            {
+              "SHA": "9977ac2",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#97) (#99)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v20",
+          "commits": [
+            {
+              "SHA": "9e5a1789",
+              "Subject": "Prepare for release 5.7-v20 (#290)"
+            },
+            {
+              "SHA": "dce46839",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#288) (#289)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v24",
+          "commits": [
+            {
+              "SHA": "5fd149a6",
+              "Subject": "Prepare for release 9.6.19-v24 (#1190)"
+            },
+            {
+              "SHA": "e09a4972",
+              "Subject": "Use numeric uid in Dockerfile (#1176) (#1183)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v24",
+          "commits": [
+            {
+              "SHA": "77fb4d62",
+              "Subject": "Prepare for release 10.14-v24 (#1184)"
+            },
+            {
+              "SHA": "e229b03c",
+              "Subject": "Use numeric uid in Dockerfile (#1176) (#1177)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v24",
+          "commits": [
+            {
+              "SHA": "f4e574c9",
+              "Subject": "Prepare for release 11.9-v24 (#1185)"
+            },
+            {
+              "SHA": "435c1e58",
+              "Subject": "Use numeric uid in Dockerfile (#1176) (#1178)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v24",
+          "commits": [
+            {
+              "SHA": "f2854938",
+              "Subject": "Prepare for release 12.4-v24 (#1186)"
+            },
+            {
+              "SHA": "15249a55",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1176) (#1179)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v21",
+          "commits": [
+            {
+              "SHA": "677de51c",
+              "Subject": "Prepare for release 13.1-v21 (#1187)"
+            },
+            {
+              "SHA": "0a2426e2",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1176) (#1180)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v13",
+          "commits": [
+            {
+              "SHA": "1a97a10c",
+              "Subject": "Prepare for release 14.0-v13 (#1188)"
+            },
+            {
+              "SHA": "06b6ad43",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1176) (#1181)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v5",
+          "commits": [
+            {
+              "SHA": "aa21b8e8",
+              "Subject": "Prepare for release 15.1-v5 (#1189)"
+            },
+            {
+              "SHA": "4fddfae3",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#1176) (#1182)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v13",
+          "commits": [
+            {
+              "SHA": "f5cfc4b",
+              "Subject": "Prepare for release 5.0.13-v13 (#168)"
+            },
+            {
+              "SHA": "35b6cd5",
+              "Subject": "[cherry-pick] Support backup and restore for redis clusters (#164) (#165)"
+            },
+            {
+              "SHA": "5dbc12b",
+              "Subject": "Use ghcr.io for appscode/golang-dev"
+            },
+            {
+              "SHA": "b67eb58",
+              "Subject": "Add Support for Redis when Auth is Disabled in Kubedb (#77)"
+            },
+            {
+              "SHA": "8372b08",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#160) (#161)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v13",
+          "commits": [
+            {
+              "SHA": "468c1bd",
+              "Subject": "Prepare for release 6.2.5-v13 (#169)"
+            },
+            {
+              "SHA": "d549e24",
+              "Subject": "[cherry-pick] Support backup and restore for redis clusters (#164) (#166)"
+            },
+            {
+              "SHA": "7803cc9",
+              "Subject": "Use ghcr.io for appscode/golang-dev"
+            },
+            {
+              "SHA": "eb9af10",
+              "Subject": "Add Support for Redis when Auth is Disabled in Kubedb (#77)"
+            },
+            {
+              "SHA": "bec48a2",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#160) (#162)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v6",
+          "commits": [
+            {
+              "SHA": "a2088a4",
+              "Subject": "Prepare for release 7.0.5-v6 (#170)"
+            },
+            {
+              "SHA": "b7b327a",
+              "Subject": "[cherry-pick] Support backup and restore for redis clusters (#164) (#167)"
+            },
+            {
+              "SHA": "be87eed",
+              "Subject": "Use ghcr.io for appscode/golang-dev"
+            },
+            {
+              "SHA": "7c48c51",
+              "Subject": "Add Support for Redis when Auth is Disabled in Kubedb (#77)"
+            },
+            {
+              "SHA": "7d8d9b4",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#160) (#163)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.29.0",
+          "commits": [
+            {
+              "SHA": "a80cbf905",
+              "Subject": "Prepare for release v0.29.0 (#1514)"
+            },
+            {
+              "SHA": "3625b8579",
+              "Subject": "Use numeric uid in Dockerfile (#1513)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.11.0",
+          "commits": [
+            {
+              "SHA": "633cf86",
+              "Subject": "Prepare for release v0.11.0 (#26)"
+            },
+            {
+              "SHA": "0a6ce3a",
+              "Subject": "Use numeric uid in Dockerfile (#25)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v5",
+          "commits": [
+            {
+              "SHA": "6b7fd704",
+              "Subject": "Prepare for release 1.10.3-v5 (#15)"
+            },
+            {
+              "SHA": "389cd328",
+              "Subject": "[cherry-pick] Use numeric uid in Dockerfile (#13) (#14)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
