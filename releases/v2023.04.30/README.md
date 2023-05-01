@@ -1,4 +1,4 @@
-# Stash v2023.04.30 (2023-04-30)
+# Stash v2023.04.30 (2023-05-01)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
@@ -16,6 +16,14 @@
 ### [v0.29.0](https://github.com/stashed/cli/releases/tag/v0.29.0)
 
 - [58ff504f](https://github.com/stashed/cli/commit/58ff504f) Prepare for release v0.29.0 (#181)
+
+
+
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2023.04.30](https://github.com/stashed/docs/releases/tag/v2023.04.30)
+
+- [55d1062](https://github.com/stashed/docs/commit/55d1062) Prepare for release v2023.04.30 (#267)
 
 
 
