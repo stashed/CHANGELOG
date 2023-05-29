@@ -210,6 +210,11 @@
 - [713feadb](https://github.com/stashed/mysql/commit/713feadb) Prepare for release 8.0.14-v26 (#707)
 
 
+### [8.0.21-v20](https://github.com/stashed/mysql/releases/tag/8.0.21-v20)
+
+- [23c7c8b8](https://github.com/stashed/mysql/commit/23c7c8b8) Prepare for release 8.0.21-v20 (#708)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
