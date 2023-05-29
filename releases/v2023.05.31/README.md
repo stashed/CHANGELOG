@@ -34,6 +34,11 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v25](https://github.com/stashed/postgres/releases/tag/9.6.19-v25)
+
+- [95fbec26](https://github.com/stashed/postgres/commit/95fbec26) Prepare for release 9.6.19-v25 (#1198)
+
+
 ### [10.14-v25](https://github.com/stashed/postgres/releases/tag/10.14-v25)
 
 - [0c104a8b](https://github.com/stashed/postgres/commit/0c104a8b) Prepare for release 10.14-v25 (#1192)
