@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.05.31",
-  "release_date": "2023-05-29T23:09:31.199037256Z",
+  "release_date": "2023-05-29T23:09:33.315171097Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.05.31",
   "kubernetes_version": "1.19+",
@@ -245,6 +245,23 @@
             {
               "SHA": "47b66a8b",
               "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1808)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v26",
+          "commits": [
+            {
+              "SHA": "865035f5",
+              "Subject": "Prepare for release 3.6.13-v26 (#1837)"
+            },
+            {
+              "SHA": "cfd53930",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1823)"
+            },
+            {
+              "SHA": "4fba330b",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1809)"
             }
           ]
         }
