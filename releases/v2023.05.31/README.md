@@ -125,6 +125,13 @@
 - [4fba330b](https://github.com/stashed/mongodb/commit/4fba330b) [cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1809)
 
 
+### [4.0.11-v26](https://github.com/stashed/mongodb/releases/tag/4.0.11-v26)
+
+- [0e2d6ab8](https://github.com/stashed/mongodb/commit/0e2d6ab8) Prepare for release 4.0.11-v26 (#1839)
+- [865f8e31](https://github.com/stashed/mongodb/commit/865f8e31) [cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1825)
+- [d2b19dc9](https://github.com/stashed/mongodb/commit/d2b19dc9) [cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1811)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
