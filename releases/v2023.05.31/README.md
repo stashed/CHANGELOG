@@ -35,6 +35,12 @@
 - [162692bf](https://github.com/stashed/elasticsearch/commit/162692bf) [cherry-pick] Dump PVC storage information (#1379) (#1381)
 
 
+### [6.3.0-v26](https://github.com/stashed/elasticsearch/releases/tag/6.3.0-v26)
+
+- [cc95e4e8](https://github.com/stashed/elasticsearch/commit/cc95e4e8) Prepare for release 6.3.0-v26 (#1392)
+- [1e1d0f67](https://github.com/stashed/elasticsearch/commit/1e1d0f67) [cherry-pick] Dump PVC storage information (#1379) (#1382)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
