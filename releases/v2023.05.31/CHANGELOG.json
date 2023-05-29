@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.05.31",
-  "release_date": "2023-05-29T23:38:18.816248027Z",
+  "release_date": "2023-05-29T23:46:40.587488238Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.05.31",
   "kubernetes_version": "1.19+",
@@ -512,6 +512,20 @@
             {
               "SHA": "23c7c8b8",
               "Subject": "Prepare for release 8.0.21-v20 (#708)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v21",
+          "commits": [
+            {
+              "SHA": "c3b32c76",
+              "Subject": "Prepare for release 5.7-v21 (#292)"
             }
           ]
         }
