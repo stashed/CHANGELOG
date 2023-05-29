@@ -205,6 +205,11 @@
 - [f4e24f08](https://github.com/stashed/mysql/commit/f4e24f08) Prepare for release 5.7.25-v26 (#706)
 
 
+### [8.0.3-v26](https://github.com/stashed/mysql/releases/tag/8.0.3-v26)
+
+- [c57db948](https://github.com/stashed/mysql/commit/c57db948) Prepare for release 8.0.3-v26 (#709)
+
+
 ### [8.0.14-v26](https://github.com/stashed/mysql/releases/tag/8.0.14-v26)
 
 - [713feadb](https://github.com/stashed/mysql/commit/713feadb) Prepare for release 8.0.14-v26 (#707)
