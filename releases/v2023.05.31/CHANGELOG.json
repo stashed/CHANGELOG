@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.05.31",
-  "release_date": "2023-05-29T22:32:28.594486903Z",
+  "release_date": "2023-05-29T23:09:28.989342111Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.05.31",
   "kubernetes_version": "1.19+",
@@ -206,6 +206,28 @@
             {
               "SHA": "4ec5bc18d",
               "Subject": "Fix Cronjob name generation + Cleanup skipped BackupSessions (#233)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v26",
+          "commits": [
+            {
+              "SHA": "77efc24c",
+              "Subject": "Prepare for release 3.4.17-v26 (#1835)"
+            },
+            {
+              "SHA": "335f1787",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1821)"
+            },
+            {
+              "SHA": "e0ea3df6",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1807)"
             }
           ]
         }
