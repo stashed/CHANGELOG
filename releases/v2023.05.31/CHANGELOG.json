@@ -1,0 +1,36 @@
+{
+  "product_line": "Stash",
+  "release": "v2023.05.31",
+  "release_date": "2023-05-29T16:48:49.943522357Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2023.05.31",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "45c1d9e0",
+              "Subject": "Update deps (#205)"
+            },
+            {
+              "SHA": "1e979c48",
+              "Subject": "Store error in restic stats for parallel backup and dump (#204)"
+            },
+            {
+              "SHA": "ba0e4342",
+              "Subject": "Fix backup initiation check + Add constants for ES restoration (#203)"
+            },
+            {
+              "SHA": "f06d7a0e",
+              "Subject": "Fix build (#202)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
