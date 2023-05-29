@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.05.31",
-  "release_date": "2023-05-29T22:32:16.055336993Z",
+  "release_date": "2023-05-29T22:32:17.862473657Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.05.31",
   "kubernetes_version": "1.19+",
@@ -89,6 +89,19 @@
             {
               "SHA": "1e1d0f67",
               "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1382)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v26",
+          "commits": [
+            {
+              "SHA": "2a0e72ea",
+              "Subject": "Prepare for release 6.4.0-v26 (#1393)"
+            },
+            {
+              "SHA": "5ee51cb1",
+              "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1383)"
             }
           ]
         }
