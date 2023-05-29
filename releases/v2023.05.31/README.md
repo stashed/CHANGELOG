@@ -12,6 +12,17 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.30.0](https://github.com/stashed/enterprise/releases/tag/v0.30.0)
+
+- [6cd51d79](https://github.com/stashed/enterprise/commit/6cd51d79d) Prepare for release v0.30.0 (#234)
+- [8f260c6e](https://github.com/stashed/enterprise/commit/8f260c6ea) Add InterimVolume storage request calculator for Elasticsearch Backup (#230)
+- [e5e2d9a2](https://github.com/stashed/enterprise/commit/e5e2d9a2e) Add repository name as prefix to mount path of NFS volume accessor (#232)
+- [4ec5bc18](https://github.com/stashed/enterprise/commit/4ec5bc18d) Fix Cronjob name generation + Cleanup skipped BackupSessions (#233)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.30.0](https://github.com/stashed/stash/releases/tag/v0.30.0)
