@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.05.31",
-  "release_date": "2023-05-29T17:49:42.668338696Z",
+  "release_date": "2023-05-29T22:32:12.584226159Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.05.31",
   "kubernetes_version": "1.19+",
@@ -45,6 +45,24 @@
             {
               "SHA": "2e0ea3ce",
               "Subject": "Add repository name as prefix to mount path of NFS volume accessor (#182)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v26",
+          "commits": [
+            {
+              "SHA": "f09bc4d8",
+              "Subject": "Prepare for release 5.6.4-v26 (#1390)"
+            },
+            {
+              "SHA": "80dad168",
+              "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1380)"
             }
           ]
         }
