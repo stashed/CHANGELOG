@@ -190,6 +190,13 @@
 - [6e6859ad](https://github.com/stashed/mongodb/commit/6e6859ad) Fix backup for mongodb 5.0.x
 
 
+### [6.0.5-v2](https://github.com/stashed/mongodb/releases/tag/6.0.5-v2)
+
+- [8286bbb8](https://github.com/stashed/mongodb/commit/8286bbb8) Prepare for release 6.0.5-v2 (#1848)
+- [fc9befad](https://github.com/stashed/mongodb/commit/fc9befad) [cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1834)
+- [82e162a7](https://github.com/stashed/mongodb/commit/82e162a7) [cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1820)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
