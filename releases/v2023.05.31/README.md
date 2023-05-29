@@ -267,6 +267,15 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v14](https://github.com/stashed/redis/releases/tag/5.0.13-v14)
+
+- [0a38067](https://github.com/stashed/redis/commit/0a38067) Prepare for release 5.0.13-v14 (#176)
+- [f40f32c](https://github.com/stashed/redis/commit/f40f32c) [cherry-pick] Add Insecure TLS verify (#172) (#173)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.30.0](https://github.com/stashed/stash/releases/tag/v0.30.0)
