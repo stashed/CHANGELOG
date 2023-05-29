@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.05.31",
-  "release_date": "2023-05-29T16:48:49.943522357Z",
+  "release_date": "2023-05-29T17:15:06.173758807Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.05.31",
   "kubernetes_version": "1.19+",
@@ -27,6 +27,28 @@
             {
               "SHA": "f06d7a0e",
               "Subject": "Fix build (#202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "e465af2fc",
+              "Subject": "Prepare for release v0.30.0 (#1527)"
+            },
+            {
+              "SHA": "3aa466cb7",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "929d1f535",
+              "Subject": "Fix Cronjob name generation + Cleanup skipped BackupSession (#1525)"
             }
           ]
         }

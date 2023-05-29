@@ -12,3 +12,13 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.30.0](https://github.com/stashed/stash/releases/tag/v0.30.0)
+
+- [e465af2f](https://github.com/stashed/stash/commit/e465af2fc) Prepare for release v0.30.0 (#1527)
+- [3aa466cb](https://github.com/stashed/stash/commit/3aa466cb7) Update deps
+- [929d1f53](https://github.com/stashed/stash/commit/929d1f535) Fix Cronjob name generation + Cleanup skipped BackupSession (#1525)
+
+
+
