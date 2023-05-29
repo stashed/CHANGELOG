@@ -12,6 +12,15 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.30.0](https://github.com/stashed/cli/releases/tag/v0.30.0)
+
+- [21f75035](https://github.com/stashed/cli/commit/21f75035) Prepare for release v0.30.0 (#183)
+- [2e0ea3ce](https://github.com/stashed/cli/commit/2e0ea3ce) Add repository name as prefix to mount path of NFS volume accessor (#182)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.30.0](https://github.com/stashed/enterprise/releases/tag/v0.30.0)

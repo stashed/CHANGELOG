@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.05.31",
-  "release_date": "2023-05-29T17:36:35.356238743Z",
+  "release_date": "2023-05-29T17:38:27.222327062Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.05.31",
   "kubernetes_version": "1.19+",
@@ -27,6 +27,24 @@
             {
               "SHA": "f06d7a0e",
               "Subject": "Fix build (#202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "21f75035",
+              "Subject": "Prepare for release v0.30.0 (#183)"
+            },
+            {
+              "SHA": "2e0ea3ce",
+              "Subject": "Add repository name as prefix to mount path of NFS volume accessor (#182)"
             }
           ]
         }
