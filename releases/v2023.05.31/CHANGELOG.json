@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.05.31",
-  "release_date": "2023-05-29T23:38:14.725121412Z",
+  "release_date": "2023-05-29T23:38:16.809224226Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.05.31",
   "kubernetes_version": "1.19+",
@@ -598,6 +598,19 @@
             {
               "SHA": "f40f32c",
               "Subject": "[cherry-pick] Add Insecure TLS verify (#172) (#173)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v14",
+          "commits": [
+            {
+              "SHA": "704e687",
+              "Subject": "Prepare for release 6.2.5-v14 (#177)"
+            },
+            {
+              "SHA": "f708927",
+              "Subject": "[cherry-pick] Add Insecure TLS verify (#172) (#174)"
             }
           ]
         }

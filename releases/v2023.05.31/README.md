@@ -275,6 +275,12 @@
 - [f40f32c](https://github.com/stashed/redis/commit/f40f32c) [cherry-pick] Add Insecure TLS verify (#172) (#173)
 
 
+### [6.2.5-v14](https://github.com/stashed/redis/releases/tag/6.2.5-v14)
+
+- [704e687](https://github.com/stashed/redis/commit/704e687) Prepare for release 6.2.5-v14 (#177)
+- [f708927](https://github.com/stashed/redis/commit/f708927) [cherry-pick] Add Insecure TLS verify (#172) (#174)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
