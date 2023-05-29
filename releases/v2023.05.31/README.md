@@ -281,6 +281,12 @@
 - [f708927](https://github.com/stashed/redis/commit/f708927) [cherry-pick] Add Insecure TLS verify (#172) (#174)
 
 
+### [7.0.5-v7](https://github.com/stashed/redis/releases/tag/7.0.5-v7)
+
+- [20c3604](https://github.com/stashed/redis/commit/20c3604) Prepare for release 7.0.5-v7 (#178)
+- [b4f6d5f](https://github.com/stashed/redis/commit/b4f6d5f) [cherry-pick] Add Insecure TLS verify (#172) (#175)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
