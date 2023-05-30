@@ -1,4 +1,4 @@
-# Stash v2023.05.31 (2023-05-29)
+# Stash v2023.05.31 (2023-05-30)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
@@ -92,6 +92,14 @@
 - [8f260c6e](https://github.com/stashed/enterprise/commit/8f260c6ea) Add InterimVolume storage request calculator for Elasticsearch Backup (#230)
 - [e5e2d9a2](https://github.com/stashed/enterprise/commit/e5e2d9a2e) Add repository name as prefix to mount path of NFS volume accessor (#232)
 - [4ec5bc18](https://github.com/stashed/enterprise/commit/4ec5bc18d) Fix Cronjob name generation + Cleanup skipped BackupSessions (#233)
+
+
+
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v13](https://github.com/stashed/etcd/releases/tag/3.5.0-v13)
+
+- [568299a](https://github.com/stashed/etcd/commit/568299a) Prepare for release 3.5.0-v13 (#79)
 
 
 
