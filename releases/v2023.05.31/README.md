@@ -21,6 +21,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2023.05.31](https://github.com/stashed/docs/releases/tag/v2023.05.31)
+
+- [bd0badd](https://github.com/stashed/docs/commit/bd0badd) Prepare for release v2023.05.31 (#269)
+- [ef4510c](https://github.com/stashed/docs/commit/ef4510c) Fix restored-mysql-auth command (#261)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v26](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v26)
