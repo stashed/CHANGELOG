@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.05.31",
-  "release_date": "2023-05-30T00:23:37.697726798Z",
+  "release_date": "2023-05-30T00:35:53.473993077Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.05.31",
   "kubernetes_version": "1.19+",
@@ -220,6 +220,24 @@
             {
               "SHA": "568299a",
               "Subject": "Prepare for release 3.5.0-v13 (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2023.05.31",
+          "commits": [
+            {
+              "SHA": "09d9471d",
+              "Subject": "Prepare for release v2023.05.31 (#304)"
+            },
+            {
+              "SHA": "9c733919",
+              "Subject": "Add Cluster role permissions for elasticsearch (#303)"
             }
           ]
         }

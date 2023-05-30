@@ -103,6 +103,15 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2023.05.31](https://github.com/stashed/installer/releases/tag/v2023.05.31)
+
+- [09d9471d](https://github.com/stashed/installer/commit/09d9471d) Prepare for release v2023.05.31 (#304)
+- [9c733919](https://github.com/stashed/installer/commit/9c733919) Add Cluster role permissions for elasticsearch (#303)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v9](https://github.com/stashed/kubedump/releases/tag/0.1.0-v9)
