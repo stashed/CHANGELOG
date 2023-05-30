@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.05.31",
-  "release_date": "2023-05-30T00:54:43.429118481Z",
+  "release_date": "2023-05-30T01:04:50.183700174Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.05.31",
   "kubernetes_version": "1.19+",
@@ -27,6 +27,20 @@
             {
               "SHA": "f06d7a0e",
               "Subject": "Fix build (#202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2023.05.31",
+          "commits": [
+            {
+              "SHA": "3da4593",
+              "Subject": "Prepare for release v2023.05.31 (#77)"
             }
           ]
         }
