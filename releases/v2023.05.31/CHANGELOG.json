@@ -1,0 +1,798 @@
+{
+  "product_line": "Stash",
+  "release": "v2023.05.31",
+  "release_date": "2023-05-30T01:04:50.183700174Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2023.05.31",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "45c1d9e0",
+              "Subject": "Update deps (#205)"
+            },
+            {
+              "SHA": "1e979c48",
+              "Subject": "Store error in restic stats for parallel backup and dump (#204)"
+            },
+            {
+              "SHA": "ba0e4342",
+              "Subject": "Fix backup initiation check + Add constants for ES restoration (#203)"
+            },
+            {
+              "SHA": "f06d7a0e",
+              "Subject": "Fix build (#202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2023.05.31",
+          "commits": [
+            {
+              "SHA": "3da4593",
+              "Subject": "Prepare for release v2023.05.31 (#77)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "21f75035",
+              "Subject": "Prepare for release v0.30.0 (#183)"
+            },
+            {
+              "SHA": "2e0ea3ce",
+              "Subject": "Add repository name as prefix to mount path of NFS volume accessor (#182)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2023.05.31",
+          "commits": [
+            {
+              "SHA": "bd0badd",
+              "Subject": "Prepare for release v2023.05.31 (#269)"
+            },
+            {
+              "SHA": "ef4510c",
+              "Subject": "Fix restored-mysql-auth command (#261)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v26",
+          "commits": [
+            {
+              "SHA": "f09bc4d8",
+              "Subject": "Prepare for release 5.6.4-v26 (#1390)"
+            },
+            {
+              "SHA": "80dad168",
+              "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1380)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v26",
+          "commits": [
+            {
+              "SHA": "225c35b6",
+              "Subject": "Prepare for release 6.2.4-v26 (#1391)"
+            },
+            {
+              "SHA": "162692bf",
+              "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1381)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v26",
+          "commits": [
+            {
+              "SHA": "cc95e4e8",
+              "Subject": "Prepare for release 6.3.0-v26 (#1392)"
+            },
+            {
+              "SHA": "1e1d0f67",
+              "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1382)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v26",
+          "commits": [
+            {
+              "SHA": "2a0e72ea",
+              "Subject": "Prepare for release 6.4.0-v26 (#1393)"
+            },
+            {
+              "SHA": "5ee51cb1",
+              "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1383)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v26",
+          "commits": [
+            {
+              "SHA": "ffeafd96",
+              "Subject": "Prepare for release 6.5.3-v26 (#1394)"
+            },
+            {
+              "SHA": "193ef15f",
+              "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1384)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v26",
+          "commits": [
+            {
+              "SHA": "a90506a8",
+              "Subject": "Prepare for release 6.8.0-v26 (#1395)"
+            },
+            {
+              "SHA": "54525e6d",
+              "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1385)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v26",
+          "commits": [
+            {
+              "SHA": "0d6226f6",
+              "Subject": "Prepare for release 7.2.0-v26 (#1397)"
+            },
+            {
+              "SHA": "5b25a987",
+              "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1387)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v26",
+          "commits": [
+            {
+              "SHA": "00f4531c",
+              "Subject": "Prepare for release 7.3.2-v26 (#1398)"
+            },
+            {
+              "SHA": "0fe78ca7",
+              "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1388)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v12",
+          "commits": [
+            {
+              "SHA": "ef0141a2",
+              "Subject": "Prepare for release 7.14.0-v12 (#1396)"
+            },
+            {
+              "SHA": "690cda8e",
+              "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1386)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v9",
+          "commits": [
+            {
+              "SHA": "7a3ae1ac",
+              "Subject": "Prepare for release 8.2.0-v9 (#1399)"
+            },
+            {
+              "SHA": "0d2956d2",
+              "Subject": "[cherry-pick] Dump PVC storage information (#1379) (#1389)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "6cd51d79d",
+              "Subject": "Prepare for release v0.30.0 (#234)"
+            },
+            {
+              "SHA": "8f260c6ea",
+              "Subject": "Add InterimVolume storage request calculator for Elasticsearch Backup (#230)"
+            },
+            {
+              "SHA": "e5e2d9a2e",
+              "Subject": "Add repository name as prefix to mount path of NFS volume accessor (#232)"
+            },
+            {
+              "SHA": "4ec5bc18d",
+              "Subject": "Fix Cronjob name generation + Cleanup skipped BackupSessions (#233)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v13",
+          "commits": [
+            {
+              "SHA": "568299a",
+              "Subject": "Prepare for release 3.5.0-v13 (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2023.05.31",
+          "commits": [
+            {
+              "SHA": "09d9471d",
+              "Subject": "Prepare for release v2023.05.31 (#304)"
+            },
+            {
+              "SHA": "9c733919",
+              "Subject": "Add Cluster role permissions for elasticsearch (#303)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v9",
+          "commits": [
+            {
+              "SHA": "ef8f697",
+              "Subject": "Prepare for release 0.1.0-v9 (#39)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v19",
+          "commits": [
+            {
+              "SHA": "2fcc724",
+              "Subject": "Prepare for release 10.5.8-v19 (#222)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v26",
+          "commits": [
+            {
+              "SHA": "77efc24c",
+              "Subject": "Prepare for release 3.4.17-v26 (#1835)"
+            },
+            {
+              "SHA": "335f1787",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1821)"
+            },
+            {
+              "SHA": "e0ea3df6",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1807)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v26",
+          "commits": [
+            {
+              "SHA": "0ee2f542",
+              "Subject": "Prepare for release 3.4.22-v26 (#1836)"
+            },
+            {
+              "SHA": "5a1b61b7",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1822)"
+            },
+            {
+              "SHA": "47b66a8b",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1808)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v26",
+          "commits": [
+            {
+              "SHA": "93b25a8a",
+              "Subject": "Prepare for release 3.6.8-v26 (#1838)"
+            },
+            {
+              "SHA": "f4cc733b",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1824)"
+            },
+            {
+              "SHA": "7ac0f9e6",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1810)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v26",
+          "commits": [
+            {
+              "SHA": "865035f5",
+              "Subject": "Prepare for release 3.6.13-v26 (#1837)"
+            },
+            {
+              "SHA": "cfd53930",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1823)"
+            },
+            {
+              "SHA": "4fba330b",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1809)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v26",
+          "commits": [
+            {
+              "SHA": "0b50a887",
+              "Subject": "Prepare for release 4.0.3-v26 (#1840)"
+            },
+            {
+              "SHA": "ce72f08f",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1826)"
+            },
+            {
+              "SHA": "33e82e40",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1812)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v26",
+          "commits": [
+            {
+              "SHA": "72beb293",
+              "Subject": "Prepare for release 4.0.5-v26 (#1841)"
+            },
+            {
+              "SHA": "a5d36c8b",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1827)"
+            },
+            {
+              "SHA": "71a355d8",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1813)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v26",
+          "commits": [
+            {
+              "SHA": "0e2d6ab8",
+              "Subject": "Prepare for release 4.0.11-v26 (#1839)"
+            },
+            {
+              "SHA": "865f8e31",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1825)"
+            },
+            {
+              "SHA": "d2b19dc9",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1811)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v26",
+          "commits": [
+            {
+              "SHA": "c9214b93",
+              "Subject": "Prepare for release 4.1.4-v26 (#1843)"
+            },
+            {
+              "SHA": "9122435f",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1829)"
+            },
+            {
+              "SHA": "8a9b3dc1",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1815)"
+            },
+            {
+              "SHA": "6d1afa77",
+              "Subject": "Prepare for release 4.1.4-v25 (#1804)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v26",
+          "commits": [
+            {
+              "SHA": "d123975b",
+              "Subject": "Prepare for release 4.1.7-v26 (#1844)"
+            },
+            {
+              "SHA": "e5ac3e0d",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1830)"
+            },
+            {
+              "SHA": "bc5c567f",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1816)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v26",
+          "commits": [
+            {
+              "SHA": "26420e41",
+              "Subject": "Prepare for release 4.1.13-v26 (#1842)"
+            },
+            {
+              "SHA": "230e572d",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1828)"
+            },
+            {
+              "SHA": "b9ca59ca",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1814)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v26",
+          "commits": [
+            {
+              "SHA": "df7ae46f",
+              "Subject": "Prepare for release 4.2.3-v26 (#1845)"
+            },
+            {
+              "SHA": "fe6d98d3",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1831)"
+            },
+            {
+              "SHA": "eb2bf583",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1817)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v17",
+          "commits": [
+            {
+              "SHA": "3c0aa2fe",
+              "Subject": "Prepare for release 4.4.6-v17 (#1846)"
+            },
+            {
+              "SHA": "c58fa36e",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1832)"
+            },
+            {
+              "SHA": "a2c61f59",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1818)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v14",
+          "commits": [
+            {
+              "SHA": "d4c4a484",
+              "Subject": "Prepare for release 5.0.3-v14 (#1847)"
+            },
+            {
+              "SHA": "525adda1",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1833)"
+            },
+            {
+              "SHA": "ec116a61",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1819)"
+            },
+            {
+              "SHA": "6e6859ad",
+              "Subject": "Fix backup for mongodb 5.0.x"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v2",
+          "commits": [
+            {
+              "SHA": "8286bbb8",
+              "Subject": "Prepare for release 6.0.5-v2 (#1848)"
+            },
+            {
+              "SHA": "fc9befad",
+              "Subject": "[cherry-pick] Fix component status updating for shard backup and restore (#1806) (#1834)"
+            },
+            {
+              "SHA": "82e162a7",
+              "Subject": "[cherry-pick] Fix Backup and Restore for TLS enabled mongo (#1805) (#1820)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v26",
+          "commits": [
+            {
+              "SHA": "f4e24f08",
+              "Subject": "Prepare for release 5.7.25-v26 (#706)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v26",
+          "commits": [
+            {
+              "SHA": "c57db948",
+              "Subject": "Prepare for release 8.0.3-v26 (#709)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v26",
+          "commits": [
+            {
+              "SHA": "713feadb",
+              "Subject": "Prepare for release 8.0.14-v26 (#707)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v20",
+          "commits": [
+            {
+              "SHA": "23c7c8b8",
+              "Subject": "Prepare for release 8.0.21-v20 (#708)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v14",
+          "commits": [
+            {
+              "SHA": "1c05a39",
+              "Subject": "Prepare for release 2.6.1-v14 (#103)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v9",
+          "commits": [
+            {
+              "SHA": "167a172",
+              "Subject": "Prepare for release 2.8.2-v9 (#104)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v21",
+          "commits": [
+            {
+              "SHA": "c3b32c76",
+              "Subject": "Prepare for release 5.7-v21 (#292)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v25",
+          "commits": [
+            {
+              "SHA": "95fbec26",
+              "Subject": "Prepare for release 9.6.19-v25 (#1198)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v25",
+          "commits": [
+            {
+              "SHA": "0c104a8b",
+              "Subject": "Prepare for release 10.14-v25 (#1192)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v25",
+          "commits": [
+            {
+              "SHA": "dc1ea0d4",
+              "Subject": "Prepare for release 11.9-v25 (#1193)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v25",
+          "commits": [
+            {
+              "SHA": "b45471ce",
+              "Subject": "Prepare for release 12.4-v25 (#1194)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v22",
+          "commits": [
+            {
+              "SHA": "b89e2d73",
+              "Subject": "Prepare for release 13.1-v22 (#1195)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v14",
+          "commits": [
+            {
+              "SHA": "57782aec",
+              "Subject": "Prepare for release 14.0-v14 (#1196)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v6",
+          "commits": [
+            {
+              "SHA": "4f3ecc41",
+              "Subject": "Prepare for release 15.1-v6 (#1197)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v14",
+          "commits": [
+            {
+              "SHA": "0a38067",
+              "Subject": "Prepare for release 5.0.13-v14 (#176)"
+            },
+            {
+              "SHA": "f40f32c",
+              "Subject": "[cherry-pick] Add Insecure TLS verify (#172) (#173)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v14",
+          "commits": [
+            {
+              "SHA": "704e687",
+              "Subject": "Prepare for release 6.2.5-v14 (#177)"
+            },
+            {
+              "SHA": "f708927",
+              "Subject": "[cherry-pick] Add Insecure TLS verify (#172) (#174)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v7",
+          "commits": [
+            {
+              "SHA": "20c3604",
+              "Subject": "Prepare for release 7.0.5-v7 (#178)"
+            },
+            {
+              "SHA": "b4f6d5f",
+              "Subject": "[cherry-pick] Add Insecure TLS verify (#172) (#175)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.30.0",
+          "commits": [
+            {
+              "SHA": "e465af2fc",
+              "Subject": "Prepare for release v0.30.0 (#1527)"
+            },
+            {
+              "SHA": "3aa466cb7",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "929d1f535",
+              "Subject": "Fix Cronjob name generation + Cleanup skipped BackupSession (#1525)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.12.0",
+          "commits": [
+            {
+              "SHA": "785f737",
+              "Subject": "Prepare for release v0.12.0 (#27)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v6",
+          "commits": [
+            {
+              "SHA": "336f14a2",
+              "Subject": "Prepare for release 1.10.3-v6 (#17)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
