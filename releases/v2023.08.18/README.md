@@ -120,6 +120,13 @@
 - [6583d90b](https://github.com/stashed/mongodb/commit/6583d90b) Use rs.slaveOk to fix mongo 3.4.22 backup (#1885)
 
 
+### [3.6.8-v27](https://github.com/stashed/mongodb/releases/tag/3.6.8-v27)
+
+- [40e8bd4d](https://github.com/stashed/mongodb/commit/40e8bd4d) Prepare for release 3.6.8-v27 (#1912)
+- [41e660e2](https://github.com/stashed/mongodb/commit/41e660e2) [cherry-pick] Update deps (#1892) (#1896)
+- [a3884165](https://github.com/stashed/mongodb/commit/a3884165) Use rs.slaveOk to fix mongo 3.6.8 backup (#1886)
+
+
 ### [3.6.13-v27](https://github.com/stashed/mongodb/releases/tag/3.6.13-v27)
 
 - [8d78c8bb](https://github.com/stashed/mongodb/commit/8d78c8bb) Prepare for release 3.6.13-v27 (#1911)
