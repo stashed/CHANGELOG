@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.08.18",
-  "release_date": "2023-08-14T22:30:28.668873112Z",
+  "release_date": "2023-08-14T22:30:30.971487747Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -366,6 +366,23 @@
             {
               "SHA": "0ee67462",
               "Subject": "Use rs.slaveOk to fix mongo 4.0.11 backup (#1888)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v27",
+          "commits": [
+            {
+              "SHA": "9bb4e999",
+              "Subject": "Prepare for release 4.1.13-v27 (#1916)"
+            },
+            {
+              "SHA": "3aef0db6",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1900)"
+            },
+            {
+              "SHA": "90bfad36",
+              "Subject": "Use rs.slaveOk to fix mongo 4.1.13 backup (#1891)"
             }
           ]
         }

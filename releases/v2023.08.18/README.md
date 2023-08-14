@@ -155,6 +155,13 @@
 - [0ee67462](https://github.com/stashed/mongodb/commit/0ee67462) Use rs.slaveOk to fix mongo 4.0.11 backup (#1888)
 
 
+### [4.1.13-v27](https://github.com/stashed/mongodb/releases/tag/4.1.13-v27)
+
+- [9bb4e999](https://github.com/stashed/mongodb/commit/9bb4e999) Prepare for release 4.1.13-v27 (#1916)
+- [3aef0db6](https://github.com/stashed/mongodb/commit/3aef0db6) [cherry-pick] Update deps (#1892) (#1900)
+- [90bfad36](https://github.com/stashed/mongodb/commit/90bfad36) Use rs.slaveOk to fix mongo 4.1.13 backup (#1891)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
