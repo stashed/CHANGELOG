@@ -202,6 +202,13 @@
 - [3c32faf0](https://github.com/stashed/mongodb/commit/3c32faf0) [cherry-pick] Update deps (#1892) (#1905)
 
 
+### [6.0.5-v3](https://github.com/stashed/mongodb/releases/tag/6.0.5-v3)
+
+- [fc388b3b](https://github.com/stashed/mongodb/commit/fc388b3b) Prepare for release 6.0.5-v3 (#1924)
+- [d54d6af2](https://github.com/stashed/mongodb/commit/d54d6af2) Fix mg 6.0.5 backup-restore (#1908)
+- [2687edeb](https://github.com/stashed/mongodb/commit/2687edeb) [cherry-pick] Update deps (#1892) (#1907)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
