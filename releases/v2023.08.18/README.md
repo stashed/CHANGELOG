@@ -12,6 +12,15 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.31.0](https://github.com/stashed/enterprise/releases/tag/v0.31.0)
+
+- [a704d1f0](https://github.com/stashed/enterprise/commit/a704d1f02) Prepare for release v0.31.0 (#237)
+- [4aaf8825](https://github.com/stashed/enterprise/commit/4aaf88252) Update deps (#236)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.31.0](https://github.com/stashed/stash/releases/tag/v0.31.0)
