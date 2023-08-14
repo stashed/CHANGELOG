@@ -189,6 +189,13 @@
 - [349e8939](https://github.com/stashed/mongodb/commit/349e8939) [cherry-pick] Update deps (#1892) (#1904)
 
 
+### [5.0.3-v15](https://github.com/stashed/mongodb/releases/tag/5.0.3-v15)
+
+- [bfa14b3c](https://github.com/stashed/mongodb/commit/bfa14b3c) Prepare for release 5.0.3-v15 (#1922)
+- [fc14b59b](https://github.com/stashed/mongodb/commit/fc14b59b) [cherry-pick] Update deps (#1892) (#1906)
+- [0ae911f5](https://github.com/stashed/mongodb/commit/0ae911f5) Fix 5.0 early patch version restore issue (#1880)
+
+
 ### [5.0.15](https://github.com/stashed/mongodb/releases/tag/5.0.15)
 
 - [d9ea0f83](https://github.com/stashed/mongodb/commit/d9ea0f83) Prepare for release 5.0.15 (#1921)
