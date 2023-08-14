@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.08.18",
-  "release_date": "2023-08-14T21:57:12.849211483Z",
+  "release_date": "2023-08-14T21:57:15.343504861Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -140,6 +140,23 @@
             {
               "SHA": "0c7606c6",
               "Subject": "[cherry-pick] Update license verifier (#1200) (#1204)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v15",
+          "commits": [
+            {
+              "SHA": "990a5dff",
+              "Subject": "Prepare for release 14.0-v15 (#1220)"
+            },
+            {
+              "SHA": "1263620a",
+              "Subject": "[cherry-pick] Update deps (#1208) (#1213)"
+            },
+            {
+              "SHA": "c9672862",
+              "Subject": "[cherry-pick] Update license verifier (#1200) (#1205)"
             }
           ]
         }
