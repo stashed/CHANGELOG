@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.08.18",
-  "release_date": "2023-08-14T21:39:00.148161404Z",
+  "release_date": "2023-08-14T21:57:05.966957552Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -67,6 +67,28 @@
             {
               "SHA": "4aaf88252",
               "Subject": "Update deps (#236)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "10.14-v26",
+          "commits": [
+            {
+              "SHA": "a54f7fc5",
+              "Subject": "Prepare for release 10.14-v26 (#1216)"
+            },
+            {
+              "SHA": "ed324cf1",
+              "Subject": "[cherry-pick] Update deps (#1208) (#1209)"
+            },
+            {
+              "SHA": "746f73ec",
+              "Subject": "[cherry-pick] Update license verifier (#1200) (#1201)"
             }
           ]
         }
