@@ -33,6 +33,13 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v26](https://github.com/stashed/postgres/releases/tag/9.6.19-v26)
+
+- [216b6b37](https://github.com/stashed/postgres/commit/216b6b37) Prepare for release 9.6.19-v26 (#1222)
+- [d2e7f4fb](https://github.com/stashed/postgres/commit/d2e7f4fb) [cherry-pick] Update deps (#1208) (#1215)
+- [029164b4](https://github.com/stashed/postgres/commit/029164b4) [cherry-pick] Update license verifier (#1200) (#1207)
+
+
 ### [10.14-v26](https://github.com/stashed/postgres/releases/tag/10.14-v26)
 
 - [a54f7fc5](https://github.com/stashed/postgres/commit/a54f7fc5) Prepare for release 10.14-v26 (#1216)
