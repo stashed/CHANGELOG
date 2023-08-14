@@ -52,6 +52,13 @@
 - [535cd3a7](https://github.com/stashed/elasticsearch/commit/535cd3a7) [cherry-pick] Update license verifier (#1401) (#1405)
 
 
+### [6.5.3-v27](https://github.com/stashed/elasticsearch/releases/tag/6.5.3-v27)
+
+- [3083ad90](https://github.com/stashed/elasticsearch/commit/3083ad90) Prepare for release 6.5.3-v27 (#1427)
+- [bd989773](https://github.com/stashed/elasticsearch/commit/bd989773) [cherry-pick] Update deps (#1412) (#1417)
+- [89721491](https://github.com/stashed/elasticsearch/commit/89721491) [cherry-pick] Update license verifier (#1401) (#1406)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
