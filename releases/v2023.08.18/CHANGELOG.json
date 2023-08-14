@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.08.18",
-  "release_date": "2023-08-14T21:28:01.144281621Z",
+  "release_date": "2023-08-14T21:36:40.274795571Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -67,6 +67,32 @@
             {
               "SHA": "93a4b4cd4",
               "Subject": "Update license verifier (#1529)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "76be456",
+              "Subject": "Prepare for release v0.13.0 (#31)"
+            },
+            {
+              "SHA": "e36e542",
+              "Subject": "Update deps (#30)"
+            },
+            {
+              "SHA": "404390e",
+              "Subject": "Update deps (#29)"
+            },
+            {
+              "SHA": "cc4c1f0",
+              "Subject": "Update license verifier (#28)"
             }
           ]
         }

@@ -31,3 +31,14 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.13.0](https://github.com/stashed/ui-server/releases/tag/v0.13.0)
+
+- [76be456](https://github.com/stashed/ui-server/commit/76be456) Prepare for release v0.13.0 (#31)
+- [e36e542](https://github.com/stashed/ui-server/commit/e36e542) Update deps (#30)
+- [404390e](https://github.com/stashed/ui-server/commit/404390e) Update deps (#29)
+- [cc4c1f0](https://github.com/stashed/ui-server/commit/cc4c1f0) Update license verifier (#28)
+
+
+
