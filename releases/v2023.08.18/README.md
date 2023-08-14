@@ -12,6 +12,16 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.31.0](https://github.com/stashed/cli/releases/tag/v0.31.0)
+
+- [bb941061](https://github.com/stashed/cli/commit/bb941061) Prepare for release v0.31.0 (#186)
+- [30b10340](https://github.com/stashed/cli/commit/30b10340) Update deps (#185)
+- [9a24aeb3](https://github.com/stashed/cli/commit/9a24aeb3) Update license verifier (#184)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.31.0](https://github.com/stashed/enterprise/releases/tag/v0.31.0)
