@@ -87,6 +87,13 @@
 - [2633267d](https://github.com/stashed/elasticsearch/commit/2633267d) [cherry-pick] Update license verifier (#1401) (#1408)
 
 
+### [8.2.0-v10](https://github.com/stashed/elasticsearch/releases/tag/8.2.0-v10)
+
+- [5e52c7b3](https://github.com/stashed/elasticsearch/commit/5e52c7b3) Prepare for release 8.2.0-v10 (#1432)
+- [ed82d9e4](https://github.com/stashed/elasticsearch/commit/ed82d9e4) [cherry-pick] Update deps (#1412) (#1422)
+- [6cace96f](https://github.com/stashed/elasticsearch/commit/6cace96f) [cherry-pick] Update license verifier (#1401) (#1411)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
