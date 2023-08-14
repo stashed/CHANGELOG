@@ -189,6 +189,12 @@
 - [349e8939](https://github.com/stashed/mongodb/commit/349e8939) [cherry-pick] Update deps (#1892) (#1904)
 
 
+### [5.0.15](https://github.com/stashed/mongodb/releases/tag/5.0.15)
+
+- [d9ea0f83](https://github.com/stashed/mongodb/commit/d9ea0f83) Prepare for release 5.0.15 (#1921)
+- [3c32faf0](https://github.com/stashed/mongodb/commit/3c32faf0) [cherry-pick] Update deps (#1892) (#1905)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
