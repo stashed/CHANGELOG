@@ -47,6 +47,13 @@
 - [62f15553](https://github.com/stashed/postgres/commit/62f15553) [cherry-pick] Update license verifier (#1200) (#1202)
 
 
+### [12.4-v26](https://github.com/stashed/postgres/releases/tag/12.4-v26)
+
+- [6fa36063](https://github.com/stashed/postgres/commit/6fa36063) Prepare for release 12.4-v26 (#1218)
+- [63446f68](https://github.com/stashed/postgres/commit/63446f68) [cherry-pick] Update deps (#1208) (#1211)
+- [bd1cfbfd](https://github.com/stashed/postgres/commit/bd1cfbfd) [cherry-pick] Update license verifier (#1200) (#1203)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
