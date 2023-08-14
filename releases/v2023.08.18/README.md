@@ -104,6 +104,16 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v27](https://github.com/stashed/mongodb/releases/tag/3.4.17-v27)
+
+- [31635810](https://github.com/stashed/mongodb/commit/31635810) Prepare for release 3.4.17-v27 (#1909)
+- [6ec316e2](https://github.com/stashed/mongodb/commit/6ec316e2) [cherry-pick] Update deps (#1892) (#1893)
+- [ebe9dcdf](https://github.com/stashed/mongodb/commit/ebe9dcdf) Use rs.slaveOk to fix mongo 3.4.17 backup (#1884)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v26](https://github.com/stashed/postgres/releases/tag/9.6.19-v26)
