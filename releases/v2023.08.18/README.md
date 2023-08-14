@@ -68,6 +68,13 @@
 - [c9672862](https://github.com/stashed/postgres/commit/c9672862) [cherry-pick] Update license verifier (#1200) (#1205)
 
 
+### [15.1-v7](https://github.com/stashed/postgres/releases/tag/15.1-v7)
+
+- [efc38fee](https://github.com/stashed/postgres/commit/efc38fee) Prepare for release 15.1-v7 (#1221)
+- [37bea2c4](https://github.com/stashed/postgres/commit/37bea2c4) [cherry-pick] Update deps (#1208) (#1214)
+- [79262385](https://github.com/stashed/postgres/commit/79262385) [cherry-pick] Update license verifier (#1200) (#1206)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
