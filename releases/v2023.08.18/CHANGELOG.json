@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.08.18",
-  "release_date": "2023-08-15T02:06:23.735658648Z",
+  "release_date": "2023-08-15T02:15:25.110105974Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -589,6 +589,32 @@
             {
               "SHA": "77f327b7",
               "Subject": "[cherry-pick] Update license verifier (#711) (#714)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v15",
+          "commits": [
+            {
+              "SHA": "9c47e0f",
+              "Subject": "Prepare for release 2.6.1-v15 (#114)"
+            },
+            {
+              "SHA": "a18e2c6",
+              "Subject": "[cherry-pick] Update deps (#111) (#112)"
+            },
+            {
+              "SHA": "a93d038",
+              "Subject": "[cherry-pick] Update license verifier (#108) (#109)"
+            },
+            {
+              "SHA": "365c806",
+              "Subject": "[cherry-pick] Fix Cleanup log (#96) (#106)"
             }
           ]
         }

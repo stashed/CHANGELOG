@@ -251,6 +251,17 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v15](https://github.com/stashed/nats/releases/tag/2.6.1-v15)
+
+- [9c47e0f](https://github.com/stashed/nats/commit/9c47e0f) Prepare for release 2.6.1-v15 (#114)
+- [a18e2c6](https://github.com/stashed/nats/commit/a18e2c6) [cherry-pick] Update deps (#111) (#112)
+- [a93d038](https://github.com/stashed/nats/commit/a93d038) [cherry-pick] Update license verifier (#108) (#109)
+- [365c806](https://github.com/stashed/nats/commit/365c806) [cherry-pick] Fix Cleanup log (#96) (#106)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v22](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v22)
