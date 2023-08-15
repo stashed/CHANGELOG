@@ -312,6 +312,13 @@
 - [af8b8f2](https://github.com/stashed/redis/commit/af8b8f2) [cherry-pick] Update license verifier (#180) (#181)
 
 
+### [6.2.5-v15](https://github.com/stashed/redis/releases/tag/6.2.5-v15)
+
+- [628e69c](https://github.com/stashed/redis/commit/628e69c) Prepare for release 6.2.5-v15 (#189)
+- [ccac2f6](https://github.com/stashed/redis/commit/ccac2f6) [cherry-pick] Update deps (#184) (#186)
+- [e6350ca](https://github.com/stashed/redis/commit/e6350ca) [cherry-pick] Update license verifier (#180) (#182)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
