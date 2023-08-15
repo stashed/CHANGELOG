@@ -112,6 +112,19 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2023.08.14](https://github.com/stashed/installer/releases/tag/v2023.08.14)
+
+- [a641610a](https://github.com/stashed/installer/commit/a641610a) Prepare for release v2023.08.14 (#314)
+- [b514321f](https://github.com/stashed/installer/commit/b514321f) Update deps (#313)
+- [b3d902bb](https://github.com/stashed/installer/commit/b3d902bb) Add support for mongodb 5.0.15 backup-restore addon (#311)
+- [7bd860ce](https://github.com/stashed/installer/commit/7bd860ce) Don't mount license vol when both license and licenseSecretName is empty (#312)
+- [6396e2d6](https://github.com/stashed/installer/commit/6396e2d6) Add licenseSecretName values (#310)
+- [05218a8d](https://github.com/stashed/installer/commit/05218a8d) Switch to failurePolicy: Ignore by default for webhooks (#309)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v10](https://github.com/stashed/kubedump/releases/tag/0.1.0-v10)

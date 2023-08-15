@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.08.18",
-  "release_date": "2023-08-15T02:45:42.003077883Z",
+  "release_date": "2023-08-15T02:56:34.056223858Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -256,6 +256,40 @@
             {
               "SHA": "9d550b8",
               "Subject": "Prepare for release 3.5.0-v14 (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2023.08.14",
+          "commits": [
+            {
+              "SHA": "a641610a",
+              "Subject": "Prepare for release v2023.08.14 (#314)"
+            },
+            {
+              "SHA": "b514321f",
+              "Subject": "Update deps (#313)"
+            },
+            {
+              "SHA": "b3d902bb",
+              "Subject": "Add support for mongodb 5.0.15 backup-restore addon (#311)"
+            },
+            {
+              "SHA": "7bd860ce",
+              "Subject": "Don't mount license vol when both license and licenseSecretName is empty (#312)"
+            },
+            {
+              "SHA": "6396e2d6",
+              "Subject": "Add licenseSecretName values (#310)"
+            },
+            {
+              "SHA": "05218a8d",
+              "Subject": "Switch to failurePolicy: Ignore by default for webhooks (#309)"
             }
           ]
         }
