@@ -220,6 +220,12 @@
 - [d972d8e7](https://github.com/stashed/mysql/commit/d972d8e7) [cherry-pick] Update license verifier (#711) (#712)
 
 
+### [8.0.14-v27](https://github.com/stashed/mysql/releases/tag/8.0.14-v27)
+
+- [823af2aa](https://github.com/stashed/mysql/commit/823af2aa) Prepare for release 8.0.14-v27 (#723)
+- [8a4d09d0](https://github.com/stashed/mysql/commit/8a4d09d0) [cherry-pick] Update license verifier (#711) (#713)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
