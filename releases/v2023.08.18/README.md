@@ -104,6 +104,16 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v20](https://github.com/stashed/mariadb/releases/tag/10.5.8-v20)
+
+- [6b90e17](https://github.com/stashed/mariadb/commit/6b90e17) Prepare for release 10.5.8-v20 (#228)
+- [ae007fc](https://github.com/stashed/mariadb/commit/ae007fc) [cherry-pick] Update deps (#226) (#227)
+- [e7e066d](https://github.com/stashed/mariadb/commit/e7e066d) [cherry-pick] Update license verifier (#224) (#225)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v27](https://github.com/stashed/mongodb/releases/tag/3.4.17-v27)

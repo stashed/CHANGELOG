@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.08.18",
-  "release_date": "2023-08-15T01:38:45.475256836Z",
+  "release_date": "2023-08-15T01:47:04.890317879Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -242,6 +242,28 @@
             {
               "SHA": "4aaf88252",
               "Subject": "Update deps (#236)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v20",
+          "commits": [
+            {
+              "SHA": "6b90e17",
+              "Subject": "Prepare for release 10.5.8-v20 (#228)"
+            },
+            {
+              "SHA": "ae007fc",
+              "Subject": "[cherry-pick] Update deps (#226) (#227)"
+            },
+            {
+              "SHA": "e7e066d",
+              "Subject": "[cherry-pick] Update license verifier (#224) (#225)"
             }
           ]
         }
