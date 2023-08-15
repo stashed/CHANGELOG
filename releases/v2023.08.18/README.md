@@ -395,3 +395,13 @@
 
 
 
+## [stashed/vault](https://github.com/stashed/vault)
+
+### [1.10.3-v7](https://github.com/stashed/vault/releases/tag/1.10.3-v7)
+
+- [108e96c3](https://github.com/stashed/vault/commit/108e96c3) Prepare for release 1.10.3-v7 (#23)
+- [b5d77977](https://github.com/stashed/vault/commit/b5d77977) [cherry-pick] Update deps (#21) (#22)
+- [3e339de5](https://github.com/stashed/vault/commit/3e339de5) [cherry-pick] Update license verifier (#19) (#20)
+
+
+
