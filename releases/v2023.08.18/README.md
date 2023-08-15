@@ -22,6 +22,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2023.08.14](https://github.com/stashed/docs/releases/tag/v2023.08.14)
+
+- [9606883](https://github.com/stashed/docs/commit/9606883) Prepare for release v2023.08.14 (#273)
+- [e8ffe20](https://github.com/stashed/docs/commit/e8ffe20) Fix indentation in elasticsearch backup (#271)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v27](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v27)
