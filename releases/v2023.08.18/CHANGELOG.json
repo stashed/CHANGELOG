@@ -1,0 +1,1019 @@
+{
+  "product_line": "Stash",
+  "release": "v2023.08.18",
+  "release_date": "2023-08-15T04:19:27.062233013Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2023.08.18",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "fcb8a910",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "2893b111",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "56274c74",
+              "Subject": "Use updated kmapi Conditions (#208)"
+            },
+            {
+              "SHA": "194d615e",
+              "Subject": "Update license verifier (#206)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2023.08.14",
+          "commits": [
+            {
+              "SHA": "33135ab",
+              "Subject": "Prepare for release v2023.08.14 (#78)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "bb941061",
+              "Subject": "Prepare for release v0.31.0 (#186)"
+            },
+            {
+              "SHA": "30b10340",
+              "Subject": "Update deps (#185)"
+            },
+            {
+              "SHA": "9a24aeb3",
+              "Subject": "Update license verifier (#184)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2023.08.14",
+          "commits": [
+            {
+              "SHA": "9606883",
+              "Subject": "Prepare for release v2023.08.14 (#273)"
+            },
+            {
+              "SHA": "e8ffe20",
+              "Subject": "Fix indentation in elasticsearch backup (#271)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v27",
+          "commits": [
+            {
+              "SHA": "1f5e8c0b",
+              "Subject": "Prepare for release 5.6.4-v27 (#1423)"
+            },
+            {
+              "SHA": "a7603e0e",
+              "Subject": "[cherry-pick] Update deps (#1412) (#1413)"
+            },
+            {
+              "SHA": "0e7db083",
+              "Subject": "[cherry-pick] Update license verifier (#1401) (#1402)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v27",
+          "commits": [
+            {
+              "SHA": "6c58e223",
+              "Subject": "Prepare for release 6.2.4-v27 (#1424)"
+            },
+            {
+              "SHA": "53bb559f",
+              "Subject": "[cherry-pick] Update deps (#1412) (#1414)"
+            },
+            {
+              "SHA": "ab875802",
+              "Subject": "[cherry-pick] Update license verifier (#1401) (#1403)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v27",
+          "commits": [
+            {
+              "SHA": "34b75935",
+              "Subject": "Prepare for release 6.3.0-v27 (#1425)"
+            },
+            {
+              "SHA": "c949ffae",
+              "Subject": "[cherry-pick] Update deps (#1412) (#1415)"
+            },
+            {
+              "SHA": "c834647a",
+              "Subject": "[cherry-pick] Update license verifier (#1401) (#1404)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v27",
+          "commits": [
+            {
+              "SHA": "fa3238de",
+              "Subject": "Prepare for release 6.4.0-v27 (#1426)"
+            },
+            {
+              "SHA": "4e309c43",
+              "Subject": "[cherry-pick] Update deps (#1412) (#1416)"
+            },
+            {
+              "SHA": "535cd3a7",
+              "Subject": "[cherry-pick] Update license verifier (#1401) (#1405)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v27",
+          "commits": [
+            {
+              "SHA": "3083ad90",
+              "Subject": "Prepare for release 6.5.3-v27 (#1427)"
+            },
+            {
+              "SHA": "bd989773",
+              "Subject": "[cherry-pick] Update deps (#1412) (#1417)"
+            },
+            {
+              "SHA": "89721491",
+              "Subject": "[cherry-pick] Update license verifier (#1401) (#1406)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v27",
+          "commits": [
+            {
+              "SHA": "46152912",
+              "Subject": "Prepare for release 6.8.0-v27 (#1428)"
+            },
+            {
+              "SHA": "75418b1b",
+              "Subject": "[cherry-pick] Update deps (#1412) (#1418)"
+            },
+            {
+              "SHA": "a52d876c",
+              "Subject": "[cherry-pick] Update license verifier (#1401) (#1407)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v27",
+          "commits": [
+            {
+              "SHA": "d51640f7",
+              "Subject": "Prepare for release 7.2.0-v27 (#1430)"
+            },
+            {
+              "SHA": "092e99fa",
+              "Subject": "[cherry-pick] Update deps (#1412) (#1420)"
+            },
+            {
+              "SHA": "939ea566",
+              "Subject": "[cherry-pick] Update license verifier (#1401) (#1409)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v27",
+          "commits": [
+            {
+              "SHA": "f2629fc5",
+              "Subject": "Prepare for release 7.3.2-v27 (#1431)"
+            },
+            {
+              "SHA": "a180f5c7",
+              "Subject": "[cherry-pick] Update deps (#1412) (#1421)"
+            },
+            {
+              "SHA": "c1da7015",
+              "Subject": "[cherry-pick] Update license verifier (#1401) (#1410)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v13",
+          "commits": [
+            {
+              "SHA": "bf4e73e5",
+              "Subject": "Prepare for release 7.14.0-v13 (#1429)"
+            },
+            {
+              "SHA": "6c475fd0",
+              "Subject": "[cherry-pick] Update deps (#1412) (#1419)"
+            },
+            {
+              "SHA": "2633267d",
+              "Subject": "[cherry-pick] Update license verifier (#1401) (#1408)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v10",
+          "commits": [
+            {
+              "SHA": "5e52c7b3",
+              "Subject": "Prepare for release 8.2.0-v10 (#1432)"
+            },
+            {
+              "SHA": "ed82d9e4",
+              "Subject": "[cherry-pick] Update deps (#1412) (#1422)"
+            },
+            {
+              "SHA": "6cace96f",
+              "Subject": "[cherry-pick] Update license verifier (#1401) (#1411)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "a704d1f02",
+              "Subject": "Prepare for release v0.31.0 (#237)"
+            },
+            {
+              "SHA": "4aaf88252",
+              "Subject": "Update deps (#236)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v14",
+          "commits": [
+            {
+              "SHA": "9d550b8",
+              "Subject": "Prepare for release 3.5.0-v14 (#81)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2023.08.14",
+          "commits": [
+            {
+              "SHA": "a641610a",
+              "Subject": "Prepare for release v2023.08.14 (#314)"
+            },
+            {
+              "SHA": "b514321f",
+              "Subject": "Update deps (#313)"
+            },
+            {
+              "SHA": "b3d902bb",
+              "Subject": "Add support for mongodb 5.0.15 backup-restore addon (#311)"
+            },
+            {
+              "SHA": "7bd860ce",
+              "Subject": "Don't mount license vol when both license and licenseSecretName is empty (#312)"
+            },
+            {
+              "SHA": "6396e2d6",
+              "Subject": "Add licenseSecretName values (#310)"
+            },
+            {
+              "SHA": "05218a8d",
+              "Subject": "Switch to failurePolicy: Ignore by default for webhooks (#309)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v10",
+          "commits": [
+            {
+              "SHA": "7022e46",
+              "Subject": "Prepare for release 0.1.0-v10 (#45)"
+            },
+            {
+              "SHA": "4ba8582",
+              "Subject": "[cherry-pick] Update deps (#43) (#44)"
+            },
+            {
+              "SHA": "126a77a",
+              "Subject": "Update license verifier (#41) (#42)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v20",
+          "commits": [
+            {
+              "SHA": "6b90e17",
+              "Subject": "Prepare for release 10.5.8-v20 (#228)"
+            },
+            {
+              "SHA": "ae007fc",
+              "Subject": "[cherry-pick] Update deps (#226) (#227)"
+            },
+            {
+              "SHA": "e7e066d",
+              "Subject": "[cherry-pick] Update license verifier (#224) (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v27",
+          "commits": [
+            {
+              "SHA": "31635810",
+              "Subject": "Prepare for release 3.4.17-v27 (#1909)"
+            },
+            {
+              "SHA": "6ec316e2",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1893)"
+            },
+            {
+              "SHA": "ebe9dcdf",
+              "Subject": "Use rs.slaveOk to fix mongo 3.4.17 backup (#1884)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v27",
+          "commits": [
+            {
+              "SHA": "fcb3e7ea",
+              "Subject": "Prepare for release 3.4.22-v27 (#1910)"
+            },
+            {
+              "SHA": "7116c874",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1894)"
+            },
+            {
+              "SHA": "6583d90b",
+              "Subject": "Use rs.slaveOk to fix mongo 3.4.22 backup (#1885)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v27",
+          "commits": [
+            {
+              "SHA": "40e8bd4d",
+              "Subject": "Prepare for release 3.6.8-v27 (#1912)"
+            },
+            {
+              "SHA": "41e660e2",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1896)"
+            },
+            {
+              "SHA": "a3884165",
+              "Subject": "Use rs.slaveOk to fix mongo 3.6.8 backup (#1886)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v27",
+          "commits": [
+            {
+              "SHA": "8d78c8bb",
+              "Subject": "Prepare for release 3.6.13-v27 (#1911)"
+            },
+            {
+              "SHA": "d88c7b7f",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1895)"
+            },
+            {
+              "SHA": "6732af8c",
+              "Subject": "Use rs.slaveOk to fix mongo 3.6.13 backup (#1883)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v27",
+          "commits": [
+            {
+              "SHA": "d089c4d9",
+              "Subject": "Prepare for release 4.0.3-v27 (#1914)"
+            },
+            {
+              "SHA": "398bf1a8",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1898)"
+            },
+            {
+              "SHA": "8e6e78d3",
+              "Subject": "Use rs.slaveOk to fix mongo 4.0.3 backup (#1887)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v27",
+          "commits": [
+            {
+              "SHA": "71661352",
+              "Subject": "Prepare for release 4.0.5-v27 (#1915)"
+            },
+            {
+              "SHA": "0a5b911a",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1899)"
+            },
+            {
+              "SHA": "21950874",
+              "Subject": "Use rs.slaveOk to fix mongo 4.0.5 backup (#1882)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v27",
+          "commits": [
+            {
+              "SHA": "67963872",
+              "Subject": "Prepare for release 4.0.11-v27 (#1913)"
+            },
+            {
+              "SHA": "072abb64",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1897)"
+            },
+            {
+              "SHA": "0ee67462",
+              "Subject": "Use rs.slaveOk to fix mongo 4.0.11 backup (#1888)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v27",
+          "commits": [
+            {
+              "SHA": "4fe47624",
+              "Subject": "Prepare for release 4.1.4-v27 (#1917)"
+            },
+            {
+              "SHA": "ab5889bb",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1901)"
+            },
+            {
+              "SHA": "d1c21e4f",
+              "Subject": "Use rs.slaveOk to fix mongo 4.1.4 backup (#1889)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v27",
+          "commits": [
+            {
+              "SHA": "254b78c9",
+              "Subject": "Prepare for release 4.1.7-v27 (#1918)"
+            },
+            {
+              "SHA": "94d2a8f5",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1902)"
+            },
+            {
+              "SHA": "3b14cf33",
+              "Subject": "Use rs.slaveOk to fix mongo 4.1.7 backup (#1890)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v27",
+          "commits": [
+            {
+              "SHA": "9bb4e999",
+              "Subject": "Prepare for release 4.1.13-v27 (#1916)"
+            },
+            {
+              "SHA": "3aef0db6",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1900)"
+            },
+            {
+              "SHA": "90bfad36",
+              "Subject": "Use rs.slaveOk to fix mongo 4.1.13 backup (#1891)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v27",
+          "commits": [
+            {
+              "SHA": "48c97d77",
+              "Subject": "Prepare for release 4.2.3-v27 (#1919)"
+            },
+            {
+              "SHA": "604b34e2",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1903)"
+            },
+            {
+              "SHA": "29896b2c",
+              "Subject": "Use rs.slaveOk to fix mongo 4.2.3 backup (#1881)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v18",
+          "commits": [
+            {
+              "SHA": "4eaddcf7",
+              "Subject": "Prepare for release 4.4.6-v18 (#1920)"
+            },
+            {
+              "SHA": "349e8939",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1904)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v15",
+          "commits": [
+            {
+              "SHA": "bfa14b3c",
+              "Subject": "Prepare for release 5.0.3-v15 (#1922)"
+            },
+            {
+              "SHA": "fc14b59b",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1906)"
+            },
+            {
+              "SHA": "0ae911f5",
+              "Subject": "Fix 5.0 early patch version restore issue (#1880)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.15",
+          "commits": [
+            {
+              "SHA": "d9ea0f83",
+              "Subject": "Prepare for release 5.0.15 (#1921)"
+            },
+            {
+              "SHA": "3c32faf0",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1905)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v3",
+          "commits": [
+            {
+              "SHA": "fc388b3b",
+              "Subject": "Prepare for release 6.0.5-v3 (#1924)"
+            },
+            {
+              "SHA": "d54d6af2",
+              "Subject": "Fix mg 6.0.5 backup-restore (#1908)"
+            },
+            {
+              "SHA": "2687edeb",
+              "Subject": "[cherry-pick] Update deps (#1892) (#1907)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v27",
+          "commits": [
+            {
+              "SHA": "690a6a1f",
+              "Subject": "Fix gmodules.xyz/logs issue"
+            },
+            {
+              "SHA": "8c164ff2",
+              "Subject": "Prepare for release 5.7.25-v27 (#722)"
+            },
+            {
+              "SHA": "cf9b1708",
+              "Subject": "Exclude system databases during backup (#716)"
+            },
+            {
+              "SHA": "d972d8e7",
+              "Subject": "[cherry-pick] Update license verifier (#711) (#712)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v27",
+          "commits": [
+            {
+              "SHA": "4a2e46f1",
+              "Subject": "Prepare for release 8.0.3-v27 (#725)"
+            },
+            {
+              "SHA": "a1b790d5",
+              "Subject": "[cherry-pick] Update deps (#717) (#721)"
+            },
+            {
+              "SHA": "52f58b34",
+              "Subject": "[cherry-pick] Update license verifier (#711) (#715)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v27",
+          "commits": [
+            {
+              "SHA": "823af2aa",
+              "Subject": "Prepare for release 8.0.14-v27 (#723)"
+            },
+            {
+              "SHA": "8a4d09d0",
+              "Subject": "[cherry-pick] Update license verifier (#711) (#713)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v21",
+          "commits": [
+            {
+              "SHA": "c2c15078",
+              "Subject": "Prepare for release 8.0.21-v21 (#724)"
+            },
+            {
+              "SHA": "ddf262f2",
+              "Subject": "[cherry-pick] Update deps (#717) (#720)"
+            },
+            {
+              "SHA": "77f327b7",
+              "Subject": "[cherry-pick] Update license verifier (#711) (#714)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v15",
+          "commits": [
+            {
+              "SHA": "9c47e0f",
+              "Subject": "Prepare for release 2.6.1-v15 (#114)"
+            },
+            {
+              "SHA": "a18e2c6",
+              "Subject": "[cherry-pick] Update deps (#111) (#112)"
+            },
+            {
+              "SHA": "a93d038",
+              "Subject": "[cherry-pick] Update license verifier (#108) (#109)"
+            },
+            {
+              "SHA": "365c806",
+              "Subject": "[cherry-pick] Fix Cleanup log (#96) (#106)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v10",
+          "commits": [
+            {
+              "SHA": "2717429",
+              "Subject": "Prepare for release 2.8.2-v10 (#115)"
+            },
+            {
+              "SHA": "77a7bc5",
+              "Subject": "[cherry-pick] Update deps (#111) (#113)"
+            },
+            {
+              "SHA": "5eda0f0",
+              "Subject": "[cherry-pick] Update license verifier (#108) (#110)"
+            },
+            {
+              "SHA": "f32fe64",
+              "Subject": "[cherry-pick] Fix Cleanup log (#96) (#107)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v22",
+          "commits": [
+            {
+              "SHA": "44195a4b",
+              "Subject": "Prepare for release 5.7-v22 (#298)"
+            },
+            {
+              "SHA": "5618947a",
+              "Subject": "[cherry-pick] Update deps (#296) (#297)"
+            },
+            {
+              "SHA": "bf715ef2",
+              "Subject": "[cherry-pick] Update license verifier (#294) (#295)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v26",
+          "commits": [
+            {
+              "SHA": "216b6b37",
+              "Subject": "Prepare for release 9.6.19-v26 (#1222)"
+            },
+            {
+              "SHA": "d2e7f4fb",
+              "Subject": "[cherry-pick] Update deps (#1208) (#1215)"
+            },
+            {
+              "SHA": "029164b4",
+              "Subject": "[cherry-pick] Update license verifier (#1200) (#1207)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v26",
+          "commits": [
+            {
+              "SHA": "a54f7fc5",
+              "Subject": "Prepare for release 10.14-v26 (#1216)"
+            },
+            {
+              "SHA": "ed324cf1",
+              "Subject": "[cherry-pick] Update deps (#1208) (#1209)"
+            },
+            {
+              "SHA": "746f73ec",
+              "Subject": "[cherry-pick] Update license verifier (#1200) (#1201)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v26",
+          "commits": [
+            {
+              "SHA": "936bcc3f",
+              "Subject": "Prepare for release 11.9-v26 (#1217)"
+            },
+            {
+              "SHA": "795fb54c",
+              "Subject": "[cherry-pick] Update deps (#1208) (#1210)"
+            },
+            {
+              "SHA": "62f15553",
+              "Subject": "[cherry-pick] Update license verifier (#1200) (#1202)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v26",
+          "commits": [
+            {
+              "SHA": "6fa36063",
+              "Subject": "Prepare for release 12.4-v26 (#1218)"
+            },
+            {
+              "SHA": "63446f68",
+              "Subject": "[cherry-pick] Update deps (#1208) (#1211)"
+            },
+            {
+              "SHA": "bd1cfbfd",
+              "Subject": "[cherry-pick] Update license verifier (#1200) (#1203)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v23",
+          "commits": [
+            {
+              "SHA": "6bd114ee",
+              "Subject": "Prepare for release 13.1-v23 (#1219)"
+            },
+            {
+              "SHA": "78e1b266",
+              "Subject": "[cherry-pick] Update deps (#1208) (#1212)"
+            },
+            {
+              "SHA": "0c7606c6",
+              "Subject": "[cherry-pick] Update license verifier (#1200) (#1204)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v15",
+          "commits": [
+            {
+              "SHA": "990a5dff",
+              "Subject": "Prepare for release 14.0-v15 (#1220)"
+            },
+            {
+              "SHA": "1263620a",
+              "Subject": "[cherry-pick] Update deps (#1208) (#1213)"
+            },
+            {
+              "SHA": "c9672862",
+              "Subject": "[cherry-pick] Update license verifier (#1200) (#1205)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v7",
+          "commits": [
+            {
+              "SHA": "efc38fee",
+              "Subject": "Prepare for release 15.1-v7 (#1221)"
+            },
+            {
+              "SHA": "37bea2c4",
+              "Subject": "[cherry-pick] Update deps (#1208) (#1214)"
+            },
+            {
+              "SHA": "79262385",
+              "Subject": "[cherry-pick] Update license verifier (#1200) (#1206)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v15",
+          "commits": [
+            {
+              "SHA": "355b4c8",
+              "Subject": "Prepare for release 5.0.13-v15 (#188)"
+            },
+            {
+              "SHA": "9bf188a",
+              "Subject": "[cherry-pick] Update deps (#184) (#185)"
+            },
+            {
+              "SHA": "af8b8f2",
+              "Subject": "[cherry-pick] Update license verifier (#180) (#181)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v15",
+          "commits": [
+            {
+              "SHA": "628e69c",
+              "Subject": "Prepare for release 6.2.5-v15 (#189)"
+            },
+            {
+              "SHA": "ccac2f6",
+              "Subject": "[cherry-pick] Update deps (#184) (#186)"
+            },
+            {
+              "SHA": "e6350ca",
+              "Subject": "[cherry-pick] Update license verifier (#180) (#182)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v8",
+          "commits": [
+            {
+              "SHA": "a92be34",
+              "Subject": "Prepare for release 7.0.5-v8 (#190)"
+            },
+            {
+              "SHA": "0839664",
+              "Subject": "[cherry-pick] Update deps (#184) (#187)"
+            },
+            {
+              "SHA": "0d92953",
+              "Subject": "[cherry-pick] Update license verifier (#180) (#183)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.31.0",
+          "commits": [
+            {
+              "SHA": "f96193085",
+              "Subject": "Prepare for release v0.31.0 (#1535)"
+            },
+            {
+              "SHA": "06bacfddb",
+              "Subject": "Update deps (#1534)"
+            },
+            {
+              "SHA": "93a4b4cd4",
+              "Subject": "Update license verifier (#1529)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.13.0",
+          "commits": [
+            {
+              "SHA": "76be456",
+              "Subject": "Prepare for release v0.13.0 (#31)"
+            },
+            {
+              "SHA": "e36e542",
+              "Subject": "Update deps (#30)"
+            },
+            {
+              "SHA": "404390e",
+              "Subject": "Update deps (#29)"
+            },
+            {
+              "SHA": "cc4c1f0",
+              "Subject": "Update license verifier (#28)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v7",
+          "commits": [
+            {
+              "SHA": "108e96c3",
+              "Subject": "Prepare for release 1.10.3-v7 (#23)"
+            },
+            {
+              "SHA": "b5d77977",
+              "Subject": "[cherry-pick] Update deps (#21) (#22)"
+            },
+            {
+              "SHA": "3e339de5",
+              "Subject": "[cherry-pick] Update license verifier (#19) (#20)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
