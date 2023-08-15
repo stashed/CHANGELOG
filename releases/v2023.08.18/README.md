@@ -303,6 +303,16 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v15](https://github.com/stashed/redis/releases/tag/5.0.13-v15)
+
+- [355b4c8](https://github.com/stashed/redis/commit/355b4c8) Prepare for release 5.0.13-v15 (#188)
+- [9bf188a](https://github.com/stashed/redis/commit/9bf188a) [cherry-pick] Update deps (#184) (#185)
+- [af8b8f2](https://github.com/stashed/redis/commit/af8b8f2) [cherry-pick] Update license verifier (#180) (#181)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.31.0](https://github.com/stashed/stash/releases/tag/v0.31.0)
