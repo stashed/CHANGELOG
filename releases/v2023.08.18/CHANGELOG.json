@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.08.18",
-  "release_date": "2023-08-14T22:30:47.010485026Z",
+  "release_date": "2023-08-15T01:38:40.081968998Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -494,6 +494,32 @@
             {
               "SHA": "2687edeb",
               "Subject": "[cherry-pick] Update deps (#1892) (#1907)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v27",
+          "commits": [
+            {
+              "SHA": "690a6a1f",
+              "Subject": "Fix gmodules.xyz/logs issue"
+            },
+            {
+              "SHA": "8c164ff2",
+              "Subject": "Prepare for release 5.7.25-v27 (#722)"
+            },
+            {
+              "SHA": "cf9b1708",
+              "Subject": "Exclude system databases during backup (#716)"
+            },
+            {
+              "SHA": "d972d8e7",
+              "Subject": "[cherry-pick] Update license verifier (#711) (#712)"
             }
           ]
         }

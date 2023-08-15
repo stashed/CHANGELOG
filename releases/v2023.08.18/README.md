@@ -1,4 +1,4 @@
-# Stash v2023.08.18 (2023-08-14)
+# Stash v2023.08.18 (2023-08-15)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
@@ -207,6 +207,17 @@
 - [fc388b3b](https://github.com/stashed/mongodb/commit/fc388b3b) Prepare for release 6.0.5-v3 (#1924)
 - [d54d6af2](https://github.com/stashed/mongodb/commit/d54d6af2) Fix mg 6.0.5 backup-restore (#1908)
 - [2687edeb](https://github.com/stashed/mongodb/commit/2687edeb) [cherry-pick] Update deps (#1892) (#1907)
+
+
+
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v27](https://github.com/stashed/mysql/releases/tag/5.7.25-v27)
+
+- [690a6a1f](https://github.com/stashed/mysql/commit/690a6a1f) Fix gmodules.xyz/logs issue
+- [8c164ff2](https://github.com/stashed/mysql/commit/8c164ff2) Prepare for release 5.7.25-v27 (#722)
+- [cf9b1708](https://github.com/stashed/mysql/commit/cf9b1708) Exclude system databases during backup (#716)
+- [d972d8e7](https://github.com/stashed/mysql/commit/d972d8e7) [cherry-pick] Update license verifier (#711) (#712)
 
 
 
