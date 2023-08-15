@@ -226,6 +226,13 @@
 - [8a4d09d0](https://github.com/stashed/mysql/commit/8a4d09d0) [cherry-pick] Update license verifier (#711) (#713)
 
 
+### [8.0.21-v21](https://github.com/stashed/mysql/releases/tag/8.0.21-v21)
+
+- [c2c15078](https://github.com/stashed/mysql/commit/c2c15078) Prepare for release 8.0.21-v21 (#724)
+- [ddf262f2](https://github.com/stashed/mysql/commit/ddf262f2) [cherry-pick] Update deps (#717) (#720)
+- [77f327b7](https://github.com/stashed/mysql/commit/77f327b7) [cherry-pick] Update license verifier (#711) (#714)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
