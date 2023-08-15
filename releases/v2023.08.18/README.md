@@ -112,6 +112,16 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.1.0-v10](https://github.com/stashed/kubedump/releases/tag/0.1.0-v10)
+
+- [7022e46](https://github.com/stashed/kubedump/commit/7022e46) Prepare for release 0.1.0-v10 (#45)
+- [4ba8582](https://github.com/stashed/kubedump/commit/4ba8582) [cherry-pick] Update deps (#43) (#44)
+- [126a77a](https://github.com/stashed/kubedump/commit/126a77a) Update license verifier (#41) (#42)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v20](https://github.com/stashed/mariadb/releases/tag/10.5.8-v20)
