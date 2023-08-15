@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.08.18",
-  "release_date": "2023-08-15T01:57:21.839881866Z",
+  "release_date": "2023-08-15T02:06:23.735658648Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -589,6 +589,28 @@
             {
               "SHA": "77f327b7",
               "Subject": "[cherry-pick] Update license verifier (#711) (#714)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v22",
+          "commits": [
+            {
+              "SHA": "44195a4b",
+              "Subject": "Prepare for release 5.7-v22 (#298)"
+            },
+            {
+              "SHA": "5618947a",
+              "Subject": "[cherry-pick] Update deps (#296) (#297)"
+            },
+            {
+              "SHA": "bf715ef2",
+              "Subject": "[cherry-pick] Update license verifier (#294) (#295)"
             }
           ]
         }

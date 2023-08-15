@@ -251,6 +251,16 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v22](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v22)
+
+- [44195a4b](https://github.com/stashed/percona-xtradb/commit/44195a4b) Prepare for release 5.7-v22 (#298)
+- [5618947a](https://github.com/stashed/percona-xtradb/commit/5618947a) [cherry-pick] Update deps (#296) (#297)
+- [bf715ef2](https://github.com/stashed/percona-xtradb/commit/bf715ef2) [cherry-pick] Update license verifier (#294) (#295)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v26](https://github.com/stashed/postgres/releases/tag/9.6.19-v26)
