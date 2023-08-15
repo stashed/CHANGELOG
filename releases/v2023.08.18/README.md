@@ -319,6 +319,13 @@
 - [e6350ca](https://github.com/stashed/redis/commit/e6350ca) [cherry-pick] Update license verifier (#180) (#182)
 
 
+### [7.0.5-v8](https://github.com/stashed/redis/releases/tag/7.0.5-v8)
+
+- [a92be34](https://github.com/stashed/redis/commit/a92be34) Prepare for release 7.0.5-v8 (#190)
+- [0839664](https://github.com/stashed/redis/commit/0839664) [cherry-pick] Update deps (#184) (#187)
+- [0d92953](https://github.com/stashed/redis/commit/0d92953) [cherry-pick] Update license verifier (#180) (#183)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
