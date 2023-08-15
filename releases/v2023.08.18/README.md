@@ -261,6 +261,14 @@
 - [365c806](https://github.com/stashed/nats/commit/365c806) [cherry-pick] Fix Cleanup log (#96) (#106)
 
 
+### [2.8.2-v10](https://github.com/stashed/nats/releases/tag/2.8.2-v10)
+
+- [2717429](https://github.com/stashed/nats/commit/2717429) Prepare for release 2.8.2-v10 (#115)
+- [77a7bc5](https://github.com/stashed/nats/commit/77a7bc5) [cherry-pick] Update deps (#111) (#113)
+- [5eda0f0](https://github.com/stashed/nats/commit/5eda0f0) [cherry-pick] Update license verifier (#108) (#110)
+- [f32fe64](https://github.com/stashed/nats/commit/f32fe64) [cherry-pick] Fix Cleanup log (#96) (#107)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 

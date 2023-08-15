@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.08.18",
-  "release_date": "2023-08-15T02:15:25.110105974Z",
+  "release_date": "2023-08-15T02:15:26.498636479Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.08.18",
   "kubernetes_version": "1.19+",
@@ -615,6 +615,27 @@
             {
               "SHA": "365c806",
               "Subject": "[cherry-pick] Fix Cleanup log (#96) (#106)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v10",
+          "commits": [
+            {
+              "SHA": "2717429",
+              "Subject": "Prepare for release 2.8.2-v10 (#115)"
+            },
+            {
+              "SHA": "77a7bc5",
+              "Subject": "[cherry-pick] Update deps (#111) (#113)"
+            },
+            {
+              "SHA": "5eda0f0",
+              "Subject": "[cherry-pick] Update license verifier (#108) (#110)"
+            },
+            {
+              "SHA": "f32fe64",
+              "Subject": "[cherry-pick] Fix Cleanup log (#96) (#107)"
             }
           ]
         }
