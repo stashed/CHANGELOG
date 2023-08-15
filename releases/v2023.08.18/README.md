@@ -12,6 +12,14 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2023.08.14](https://github.com/stashed/bundles/releases/tag/v2023.08.14)
+
+- [33135ab](https://github.com/stashed/bundles/commit/33135ab) Prepare for release v2023.08.14 (#78)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.31.0](https://github.com/stashed/cli/releases/tag/v0.31.0)
