@@ -11,3 +11,11 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.32.0](https://github.com/stashed/stash/releases/tag/v0.32.0)
+
+- [993671e7](https://github.com/stashed/stash/commit/993671e74) Prepare for release v0.32.0 (#1539)
+
+
+
