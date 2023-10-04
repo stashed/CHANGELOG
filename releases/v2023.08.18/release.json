@@ -167,7 +167,7 @@
     {
       "github.com/stashed/installer": {
         "key": "stash-installer",
-        "tag": "v2023.08.14",
+        "tag": "v2023.08.18",
         "commands": [
           "./hack/scripts/import-crds.sh",
           "make update-charts CHART_VERSION=${RELEASE} CHART_REGISTRY=${CHART_REGISTRY} CHART_REGISTRY_URL=${CHART_REGISTRY_URL}",
@@ -200,7 +200,7 @@
     {
       "github.com/stashed/docs": {
         "key": "stash",
-        "tag": "v2023.08.14",
+        "tag": "v2023.08.18",
         "commands": [
           "mv ${SCRIPT_ROOT}/releases/${RELEASE}/docs_changelog.md ${WORKSPACE}/docs/CHANGELOG-${RELEASE}.md"
         ],
@@ -209,7 +209,7 @@
     },
     {
       "github.com/stashed/website": {
-        "tag": "v2023.08.14",
+        "tag": "v2023.08.18",
         "commands": [
           "make set-assets-repo ASSETS_REPO_URL=https://github.com/appscode/static-assets",
           "make docs",
@@ -221,7 +221,7 @@
     },
     {
       "github.com/stashed/bundles": {
-        "tag": "v2023.08.14",
+        "tag": "v2023.08.18",
         "commands": [
           "release-automaton update-bundles --release-file=${SCRIPT_ROOT}/releases/${RELEASE}/release.json --workspace=${WORKSPACE} --charts-dir=charts"
         ],
