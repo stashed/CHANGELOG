@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.10.9",
-  "release_date": "2023-10-04T20:11:06.081086508Z",
+  "release_date": "2023-10-04T20:20:58.283396018Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.10.9",
   "kubernetes_version": "1.19+",
@@ -478,6 +478,20 @@
             {
               "SHA": "5f2f88ea",
               "Subject": "Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1944)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v28",
+          "commits": [
+            {
+              "SHA": "e8925996",
+              "Subject": "Prepare for release 5.7.25-v28 (#727)"
             }
           ]
         }
