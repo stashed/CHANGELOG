@@ -338,3 +338,11 @@
 
 
 
+## [stashed/vault](https://github.com/stashed/vault)
+
+### [1.10.3-v8](https://github.com/stashed/vault/releases/tag/1.10.3-v8)
+
+- [4b96de6a](https://github.com/stashed/vault/commit/4b96de6a) Prepare for release 1.10.3-v8 (#25)
+
+
+
