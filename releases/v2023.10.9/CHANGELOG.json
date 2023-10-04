@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.10.9",
-  "release_date": "2023-10-04T19:12:48.165852695Z",
+  "release_date": "2023-10-04T20:10:42.983313551Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.10.9",
   "kubernetes_version": "1.19+",
@@ -154,6 +154,32 @@
             {
               "SHA": "149f81cc2",
               "Subject": "Add commands for managing restic passwords + Update snapshot download directory  (#239)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v28",
+          "commits": [
+            {
+              "SHA": "bcf4a647",
+              "Subject": "Prepare for release 3.4.17-v28 (#1976)"
+            },
+            {
+              "SHA": "66d02849",
+              "Subject": "Unlock and sync secondary (#1973)"
+            },
+            {
+              "SHA": "8d14efa5",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1947)"
+            },
+            {
+              "SHA": "cb8f9ff8",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1930)"
             }
           ]
         }
