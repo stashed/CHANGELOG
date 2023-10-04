@@ -67,6 +67,11 @@
 - [91ad7fe5](https://github.com/stashed/elasticsearch/commit/91ad7fe5) Prepare for release 7.14.0-v14 (#1440)
 
 
+### [8.2.0-v11](https://github.com/stashed/elasticsearch/releases/tag/8.2.0-v11)
+
+- [8142ea6d](https://github.com/stashed/elasticsearch/commit/8142ea6d) Prepare for release 8.2.0-v11 (#1443)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
