@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.10.9",
-  "release_date": "2023-10-04T20:10:52.631778636Z",
+  "release_date": "2023-10-04T20:10:54.323031569Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.10.9",
   "kubernetes_version": "1.19+",
@@ -306,6 +306,27 @@
             {
               "SHA": "c61568dd",
               "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1934)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v28",
+          "commits": [
+            {
+              "SHA": "26289363",
+              "Subject": "Prepare for release 4.1.13-v28 (#1983)"
+            },
+            {
+              "SHA": "a529618c",
+              "Subject": "Unlock and sync secondary (#1967)"
+            },
+            {
+              "SHA": "c2de7995",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1954)"
+            },
+            {
+              "SHA": "c3118596",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1937)"
             }
           ]
         }
