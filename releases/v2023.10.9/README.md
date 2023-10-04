@@ -36,6 +36,11 @@
 - [3a7ba3fa](https://github.com/stashed/postgres/commit/3a7ba3fa) Prepare for release 10.14-v27 (#1224)
 
 
+### [11.9-v27](https://github.com/stashed/postgres/releases/tag/11.9-v27)
+
+- [b8bb39e3](https://github.com/stashed/postgres/commit/b8bb39e3) Prepare for release 11.9-v27 (#1225)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
