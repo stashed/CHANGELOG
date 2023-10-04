@@ -181,6 +181,14 @@
 - [a8474619](https://github.com/stashed/mongodb/commit/a8474619) Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1928)
 
 
+### [5.0.3-v16](https://github.com/stashed/mongodb/releases/tag/5.0.3-v16)
+
+- [8f480622](https://github.com/stashed/mongodb/commit/8f480622) Prepare for release 5.0.3-v16 (#1990)
+- [70f9d538](https://github.com/stashed/mongodb/commit/70f9d538) Unlock and sync secondary (#1964)
+- [be10f0b2](https://github.com/stashed/mongodb/commit/be10f0b2) Add support for restoring specific snapshot (#1927) (#1960)
+- [147be12d](https://github.com/stashed/mongodb/commit/147be12d) Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1943)
+
+
 ### [5.0.15-v1](https://github.com/stashed/mongodb/releases/tag/5.0.15-v1)
 
 - [070dc6c6](https://github.com/stashed/mongodb/commit/070dc6c6) Prepare for release 5.0.15-v1 (#1989)
