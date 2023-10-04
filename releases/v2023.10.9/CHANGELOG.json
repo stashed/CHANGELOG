@@ -1,0 +1,785 @@
+{
+  "product_line": "Stash",
+  "release": "v2023.10.9",
+  "release_date": "2023-10-04T22:42:16.409280432Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2023.10.9",
+  "kubernetes_version": "1.19+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "47e563c6",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "741d0149",
+              "Subject": "Add restic methods for managing restic keys (#211)"
+            },
+            {
+              "SHA": "3eb3dc0d",
+              "Subject": "Add  new hookExecutionPolicy `OnFinalRetryFailure` (#210)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2023.10.9",
+          "commits": [
+            {
+              "SHA": "da4bf73",
+              "Subject": "Prepare for release v2023.10.9 (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "575a83da",
+              "Subject": "Prepare for release v0.32.0 (#190)"
+            },
+            {
+              "SHA": "a5706148",
+              "Subject": "Add commands for generating restore rules and managing restic keys (#189)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2023.10.9",
+          "commits": [
+            {
+              "SHA": "c5892e3",
+              "Subject": "Prepare for release v2023.10.9 (#278)"
+            },
+            {
+              "SHA": "cb18509",
+              "Subject": "Add new hookExecutionPolicy `OnFinalRetryFailure` (#274)"
+            },
+            {
+              "SHA": "0e93924",
+              "Subject": "Mongo configServer should have at least 3 repliacs (#275)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v28",
+          "commits": [
+            {
+              "SHA": "a8d57072",
+              "Subject": "Prepare for release 5.6.4-v28 (#1434)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v28",
+          "commits": [
+            {
+              "SHA": "7dbca84a",
+              "Subject": "Prepare for release 6.2.4-v28 (#1435)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v28",
+          "commits": [
+            {
+              "SHA": "a9ece1ec",
+              "Subject": "Prepare for release 6.3.0-v28 (#1436)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v28",
+          "commits": [
+            {
+              "SHA": "8b4ab388",
+              "Subject": "Prepare for release 6.4.0-v28 (#1437)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v28",
+          "commits": [
+            {
+              "SHA": "082ca286",
+              "Subject": "Prepare for release 6.5.3-v28 (#1438)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v28",
+          "commits": [
+            {
+              "SHA": "84e1ee57",
+              "Subject": "Prepare for release 6.8.0-v28 (#1439)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v28",
+          "commits": [
+            {
+              "SHA": "3e6a708f",
+              "Subject": "Prepare for release 7.2.0-v28 (#1441)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v28",
+          "commits": [
+            {
+              "SHA": "9249eefe",
+              "Subject": "Prepare for release 7.3.2-v28 (#1442)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v14",
+          "commits": [
+            {
+              "SHA": "91ad7fe5",
+              "Subject": "Prepare for release 7.14.0-v14 (#1440)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v11",
+          "commits": [
+            {
+              "SHA": "8142ea6d",
+              "Subject": "Prepare for release 8.2.0-v11 (#1443)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "433789a4c",
+              "Subject": "Prepare for release v0.32.0 (#240)"
+            },
+            {
+              "SHA": "149f81cc2",
+              "Subject": "Add commands for managing restic passwords + Update snapshot download directory  (#239)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v15",
+          "commits": [
+            {
+              "SHA": "47078d2",
+              "Subject": "Prepare for release 3.5.0-v15 (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2023.10.9",
+          "commits": [
+            {
+              "SHA": "7bd4fbf5",
+              "Subject": "Prepare for release v2023.10.9 (#321)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v11",
+          "commits": [
+            {
+              "SHA": "f4af197",
+              "Subject": "Prepare for release 0.1.0-v11 (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v21",
+          "commits": [
+            {
+              "SHA": "8a94399",
+              "Subject": "Prepare for release 10.5.8-v21 (#230)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v28",
+          "commits": [
+            {
+              "SHA": "bcf4a647",
+              "Subject": "Prepare for release 3.4.17-v28 (#1976)"
+            },
+            {
+              "SHA": "66d02849",
+              "Subject": "Unlock and sync secondary (#1973)"
+            },
+            {
+              "SHA": "8d14efa5",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1947)"
+            },
+            {
+              "SHA": "cb8f9ff8",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1930)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v28",
+          "commits": [
+            {
+              "SHA": "65bf1bd4",
+              "Subject": "Prepare for release 3.4.22-v28 (#1977)"
+            },
+            {
+              "SHA": "7f588f23",
+              "Subject": "Unlock and sync secondary (#1972)"
+            },
+            {
+              "SHA": "704053fb",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1948)"
+            },
+            {
+              "SHA": "fad11e0b",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1931)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v28",
+          "commits": [
+            {
+              "SHA": "64352461",
+              "Subject": "Prepare for release 3.6.8-v28 (#1979)"
+            },
+            {
+              "SHA": "f28e5990",
+              "Subject": "Unlock and sync secondary (#1969)"
+            },
+            {
+              "SHA": "58e82130",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1950)"
+            },
+            {
+              "SHA": "e594e6ef",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1933)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v28",
+          "commits": [
+            {
+              "SHA": "3da732da",
+              "Subject": "Prepare for release 3.6.13-v28 (#1978)"
+            },
+            {
+              "SHA": "3e032a81",
+              "Subject": "Unlock and sync secondary (#1970)"
+            },
+            {
+              "SHA": "4cca80c3",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1949)"
+            },
+            {
+              "SHA": "18c43f7e",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1932)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v28",
+          "commits": [
+            {
+              "SHA": "ed7e2a5f",
+              "Subject": "Prepare for release 4.0.3-v28 (#1981)"
+            },
+            {
+              "SHA": "3340ae34",
+              "Subject": "Unlock and sync secondary (#1971)"
+            },
+            {
+              "SHA": "26f42032",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1952)"
+            },
+            {
+              "SHA": "f16cbfba",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1935)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v28",
+          "commits": [
+            {
+              "SHA": "7d29cfa8",
+              "Subject": "Prepare for release 4.0.5-v28 (#1982)"
+            },
+            {
+              "SHA": "d0461920",
+              "Subject": "Unlock and sync secondary (#1974)"
+            },
+            {
+              "SHA": "2eeec3ba",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1953)"
+            },
+            {
+              "SHA": "4efc8bff",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1936)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v28",
+          "commits": [
+            {
+              "SHA": "9891070f",
+              "Subject": "Prepare for release 4.0.11-v28 (#1980)"
+            },
+            {
+              "SHA": "37bfb091",
+              "Subject": "unlock and sync secondary (#1975)"
+            },
+            {
+              "SHA": "53244213",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1951)"
+            },
+            {
+              "SHA": "c61568dd",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1934)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v28",
+          "commits": [
+            {
+              "SHA": "90543078",
+              "Subject": "Prepare for release 4.1.4-v28 (#1984)"
+            },
+            {
+              "SHA": "62d36ac9",
+              "Subject": "Unlock and sync secondary (#1965)"
+            },
+            {
+              "SHA": "11c75f06",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1955)"
+            },
+            {
+              "SHA": "16475896",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1938)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v28",
+          "commits": [
+            {
+              "SHA": "ad96467e",
+              "Subject": "Prepare for release 4.1.7-v28 (#1985)"
+            },
+            {
+              "SHA": "fe5de7da",
+              "Subject": "Unlock and sync secondary (#1966)"
+            },
+            {
+              "SHA": "d2810a49",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1956)"
+            },
+            {
+              "SHA": "209aaa40",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1939)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v28",
+          "commits": [
+            {
+              "SHA": "26289363",
+              "Subject": "Prepare for release 4.1.13-v28 (#1983)"
+            },
+            {
+              "SHA": "a529618c",
+              "Subject": "Unlock and sync secondary (#1967)"
+            },
+            {
+              "SHA": "c2de7995",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1954)"
+            },
+            {
+              "SHA": "c3118596",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1937)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v28",
+          "commits": [
+            {
+              "SHA": "d716d870",
+              "Subject": "Prepare for release 4.2.3-v28 (#1987)"
+            },
+            {
+              "SHA": "5b708249",
+              "Subject": "Unlock and sync secondary (#1968)"
+            },
+            {
+              "SHA": "89798c12",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1957)"
+            },
+            {
+              "SHA": "3e23f106",
+              "Subject": "[cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1940)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v19",
+          "commits": [
+            {
+              "SHA": "aba61b85",
+              "Subject": "Prepare for release 4.4.6-v19 (#1988)"
+            },
+            {
+              "SHA": "34ab90b8",
+              "Subject": "Unlock and sync secondary hosts (#1945)"
+            },
+            {
+              "SHA": "68c8b8c8",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1958)"
+            },
+            {
+              "SHA": "476c6063",
+              "Subject": "Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1941)"
+            },
+            {
+              "SHA": "a8474619",
+              "Subject": "Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1928)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v16",
+          "commits": [
+            {
+              "SHA": "8f480622",
+              "Subject": "Prepare for release 5.0.3-v16 (#1990)"
+            },
+            {
+              "SHA": "70f9d538",
+              "Subject": "Unlock and sync secondary (#1964)"
+            },
+            {
+              "SHA": "be10f0b2",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1960)"
+            },
+            {
+              "SHA": "147be12d",
+              "Subject": "Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1943)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.15-v1",
+          "commits": [
+            {
+              "SHA": "070dc6c6",
+              "Subject": "Prepare for release 5.0.15-v1 (#1989)"
+            },
+            {
+              "SHA": "95f520db",
+              "Subject": "Unlock and sync secondary (#1963)"
+            },
+            {
+              "SHA": "ff442bc0",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1959)"
+            },
+            {
+              "SHA": "f4bed984",
+              "Subject": "Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1942)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v4",
+          "commits": [
+            {
+              "SHA": "093dcce3",
+              "Subject": "Prepare for release 6.0.5-v4 (#1991)"
+            },
+            {
+              "SHA": "b20054bc",
+              "Subject": "Unlock and sync secondary (#1962)"
+            },
+            {
+              "SHA": "f9357173",
+              "Subject": "Add support for restoring specific snapshot (#1927) (#1961)"
+            },
+            {
+              "SHA": "5f2f88ea",
+              "Subject": "Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1944)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v28",
+          "commits": [
+            {
+              "SHA": "e8925996",
+              "Subject": "Prepare for release 5.7.25-v28 (#727)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v28",
+          "commits": [
+            {
+              "SHA": "00672e31",
+              "Subject": "Prepare for release 8.0.3-v28 (#730)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v28",
+          "commits": [
+            {
+              "SHA": "a7c4579f",
+              "Subject": "Prepare for release 8.0.14-v28 (#728)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v22",
+          "commits": [
+            {
+              "SHA": "2c21d225",
+              "Subject": "Prepare for release 8.0.21-v22 (#729)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v16",
+          "commits": [
+            {
+              "SHA": "fb04742",
+              "Subject": "Prepare for release 2.6.1-v16 (#117)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v11",
+          "commits": [
+            {
+              "SHA": "535e051",
+              "Subject": "Prepare for release 2.8.2-v11 (#118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v23",
+          "commits": [
+            {
+              "SHA": "54009c23",
+              "Subject": "Prepare for release 5.7-v23 (#300)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v27",
+          "commits": [
+            {
+              "SHA": "c8aa8598",
+              "Subject": "Prepare for release 9.6.19-v27 (#1230)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v27",
+          "commits": [
+            {
+              "SHA": "3a7ba3fa",
+              "Subject": "Prepare for release 10.14-v27 (#1224)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v27",
+          "commits": [
+            {
+              "SHA": "b8bb39e3",
+              "Subject": "Prepare for release 11.9-v27 (#1225)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v27",
+          "commits": [
+            {
+              "SHA": "fb6b2835",
+              "Subject": "Prepare for release 12.4-v27 (#1226)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v24",
+          "commits": [
+            {
+              "SHA": "3e815eba",
+              "Subject": "Prepare for release 13.1-v24 (#1227)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v16",
+          "commits": [
+            {
+              "SHA": "7183205b",
+              "Subject": "Prepare for release 14.0-v16 (#1228)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v8",
+          "commits": [
+            {
+              "SHA": "00deb5be",
+              "Subject": "Prepare for release 15.1-v8 (#1229)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v16",
+          "commits": [
+            {
+              "SHA": "e267408",
+              "Subject": "Prepare for release 5.0.13-v16 (#192)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v16",
+          "commits": [
+            {
+              "SHA": "f1e5414",
+              "Subject": "Prepare for release 6.2.5-v16 (#193)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v9",
+          "commits": [
+            {
+              "SHA": "4e11289",
+              "Subject": "Prepare for release 7.0.5-v9 (#194)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "993671e74",
+              "Subject": "Prepare for release v0.32.0 (#1539)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v8",
+          "commits": [
+            {
+              "SHA": "4b96de6a",
+              "Subject": "Prepare for release 1.10.3-v8 (#25)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
