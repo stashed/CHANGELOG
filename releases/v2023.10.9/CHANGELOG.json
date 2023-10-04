@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.10.9",
-  "release_date": "2023-10-04T18:59:38.784968037Z",
+  "release_date": "2023-10-04T19:12:31.126928972Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.10.9",
   "kubernetes_version": "1.19+",
@@ -41,6 +41,20 @@
             {
               "SHA": "a5706148",
               "Subject": "Add commands for generating restore rules and managing restic keys (#189)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v28",
+          "commits": [
+            {
+              "SHA": "a8d57072",
+              "Subject": "Prepare for release 5.6.4-v28 (#1434)"
             }
           ]
         }
