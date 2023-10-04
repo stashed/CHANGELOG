@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.10.9",
-  "release_date": "2023-10-04T18:36:36.877630347Z",
+  "release_date": "2023-10-04T18:48:29.989385856Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.10.9",
   "kubernetes_version": "1.19+",
@@ -23,6 +23,24 @@
             {
               "SHA": "3eb3dc0d",
               "Subject": "Add  new hookExecutionPolicy `OnFinalRetryFailure` (#210)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.32.0",
+          "commits": [
+            {
+              "SHA": "575a83da",
+              "Subject": "Prepare for release v0.32.0 (#190)"
+            },
+            {
+              "SHA": "a5706148",
+              "Subject": "Add commands for generating restore rules and managing restic keys (#189)"
             }
           ]
         }

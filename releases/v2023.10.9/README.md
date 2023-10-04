@@ -11,6 +11,15 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.32.0](https://github.com/stashed/cli/releases/tag/v0.32.0)
+
+- [575a83da](https://github.com/stashed/cli/commit/575a83da) Prepare for release v0.32.0 (#190)
+- [a5706148](https://github.com/stashed/cli/commit/a5706148) Add commands for generating restore rules and managing restic keys (#189)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.32.0](https://github.com/stashed/enterprise/releases/tag/v0.32.0)
