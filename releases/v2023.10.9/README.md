@@ -90,6 +90,14 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2023.10.9](https://github.com/stashed/installer/releases/tag/v2023.10.9)
+
+- [7bd4fbf5](https://github.com/stashed/installer/commit/7bd4fbf5) Prepare for release v2023.10.9 (#321)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v11](https://github.com/stashed/kubedump/releases/tag/0.1.0-v11)
