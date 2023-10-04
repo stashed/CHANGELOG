@@ -37,6 +37,11 @@
 - [a9ece1ec](https://github.com/stashed/elasticsearch/commit/a9ece1ec) Prepare for release 6.3.0-v28 (#1436)
 
 
+### [6.4.0-v28](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v28)
+
+- [8b4ab388](https://github.com/stashed/elasticsearch/commit/8b4ab388) Prepare for release 6.4.0-v28 (#1437)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
