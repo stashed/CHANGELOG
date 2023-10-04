@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.10.9",
-  "release_date": "2023-10-04T21:43:24.685711444Z",
+  "release_date": "2023-10-04T22:04:58.896347044Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.10.9",
   "kubernetes_version": "1.19+",
@@ -41,6 +41,28 @@
             {
               "SHA": "a5706148",
               "Subject": "Add commands for generating restore rules and managing restic keys (#189)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2023.10.9",
+          "commits": [
+            {
+              "SHA": "c5892e3",
+              "Subject": "Prepare for release v2023.10.9 (#278)"
+            },
+            {
+              "SHA": "cb18509",
+              "Subject": "Add new hookExecutionPolicy `OnFinalRetryFailure` (#274)"
+            },
+            {
+              "SHA": "0e93924",
+              "Subject": "Mongo configServer should have at least 3 repliacs (#275)"
             }
           ]
         }

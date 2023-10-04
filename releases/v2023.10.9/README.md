@@ -20,6 +20,16 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2023.10.9](https://github.com/stashed/docs/releases/tag/v2023.10.9)
+
+- [c5892e3](https://github.com/stashed/docs/commit/c5892e3) Prepare for release v2023.10.9 (#278)
+- [cb18509](https://github.com/stashed/docs/commit/cb18509) Add new hookExecutionPolicy `OnFinalRetryFailure` (#274)
+- [0e93924](https://github.com/stashed/docs/commit/0e93924) Mongo configServer should have at least 3 repliacs (#275)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v28](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v28)
