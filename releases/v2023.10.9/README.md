@@ -11,6 +11,14 @@
 
 
 
+## [stashed/bundles](https://github.com/stashed/bundles)
+
+### [v2023.10.9](https://github.com/stashed/bundles/releases/tag/v2023.10.9)
+
+- [da4bf73](https://github.com/stashed/bundles/commit/da4bf73) Prepare for release v2023.10.9 (#79)
+
+
+
 ## [stashed/cli](https://github.com/stashed/cli)
 
 ### [v0.32.0](https://github.com/stashed/cli/releases/tag/v0.32.0)
