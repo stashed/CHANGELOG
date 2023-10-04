@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2023.10.9",
-  "release_date": "2023-10-04T20:21:02.748419175Z",
+  "release_date": "2023-10-04T20:32:06.86636503Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2023.10.9",
   "kubernetes_version": "1.19+",
@@ -154,6 +154,20 @@
             {
               "SHA": "149f81cc2",
               "Subject": "Add commands for managing restic passwords + Update snapshot download directory  (#239)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v21",
+          "commits": [
+            {
+              "SHA": "8a94399",
+              "Subject": "Prepare for release 10.5.8-v21 (#230)"
             }
           ]
         }
