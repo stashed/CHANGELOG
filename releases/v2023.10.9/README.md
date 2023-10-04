@@ -51,6 +51,11 @@
 - [3e815eba](https://github.com/stashed/postgres/commit/3e815eba) Prepare for release 13.1-v24 (#1227)
 
 
+### [14.0-v16](https://github.com/stashed/postgres/releases/tag/14.0-v16)
+
+- [7183205b](https://github.com/stashed/postgres/commit/7183205b) Prepare for release 14.0-v16 (#1228)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
