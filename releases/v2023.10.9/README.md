@@ -11,6 +11,15 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.32.0](https://github.com/stashed/enterprise/releases/tag/v0.32.0)
+
+- [433789a4](https://github.com/stashed/enterprise/commit/433789a4c) Prepare for release v0.32.0 (#240)
+- [149f81cc](https://github.com/stashed/enterprise/commit/149f81cc2) Add commands for managing restic passwords + Update snapshot download directory  (#239)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.32.0](https://github.com/stashed/stash/releases/tag/v0.32.0)
