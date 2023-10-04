@@ -116,6 +116,14 @@
 - [18c43f7e](https://github.com/stashed/mongodb/commit/18c43f7e) [cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1932)
 
 
+### [4.0.11-v28](https://github.com/stashed/mongodb/releases/tag/4.0.11-v28)
+
+- [9891070f](https://github.com/stashed/mongodb/commit/9891070f) Prepare for release 4.0.11-v28 (#1980)
+- [37bfb091](https://github.com/stashed/mongodb/commit/37bfb091) unlock and sync secondary (#1975)
+- [53244213](https://github.com/stashed/mongodb/commit/53244213) Add support for restoring specific snapshot (#1927) (#1951)
+- [c61568dd](https://github.com/stashed/mongodb/commit/c61568dd) [cherry-pick] Add stopBalancer timeout; Retry setBalancerState; Improve logging (#1929) (#1934)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
