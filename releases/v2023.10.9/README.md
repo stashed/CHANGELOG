@@ -213,6 +213,11 @@
 - [e8925996](https://github.com/stashed/mysql/commit/e8925996) Prepare for release 5.7.25-v28 (#727)
 
 
+### [8.0.3-v28](https://github.com/stashed/mysql/releases/tag/8.0.3-v28)
+
+- [00672e31](https://github.com/stashed/mysql/commit/00672e31) Prepare for release 8.0.3-v28 (#730)
+
+
 ### [8.0.14-v28](https://github.com/stashed/mysql/releases/tag/8.0.14-v28)
 
 - [a7c4579f](https://github.com/stashed/mysql/commit/a7c4579f) Prepare for release 8.0.14-v28 (#728)
