@@ -57,6 +57,11 @@
 - [3e6a708f](https://github.com/stashed/elasticsearch/commit/3e6a708f) Prepare for release 7.2.0-v28 (#1441)
 
 
+### [7.3.2-v28](https://github.com/stashed/elasticsearch/releases/tag/7.3.2-v28)
+
+- [9249eefe](https://github.com/stashed/elasticsearch/commit/9249eefe) Prepare for release 7.3.2-v28 (#1442)
+
+
 ### [7.14.0-v14](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v14)
 
 - [91ad7fe5](https://github.com/stashed/elasticsearch/commit/91ad7fe5) Prepare for release 7.14.0-v14 (#1440)
