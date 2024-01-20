@@ -8,15 +8,15 @@ on:
 jobs:
   build:
     name: Build
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
 
     steps:
       - uses: actions/checkout@v1
 
-      - name: Set up Go 1.20
+      - name: Set up Go 1.21
         uses: actions/setup-go@v1
         with:
-          go-version: '1.20'
+          go-version: '1.21'
         id: go
 
       - name: Install yq
@@ -28,25 +28,25 @@ jobs:
 
       - name: Install release automaton
         run: |
-          curl -fsSL -o release-automaton https://github.com/appscodelabs/release-automaton/releases/download/v0.0.37/release-automaton-linux-amd64
+          curl -fsSL -o release-automaton https://github.com/appscodelabs/release-automaton/releases/latest/download/release-automaton-linux-amd64
           chmod +x release-automaton
           sudo mv release-automaton /usr/local/bin/release-automaton
 
       - name: Install Hugo Tools
         run: |
-          curl -fsSL -o hugo-tools https://github.com/appscodelabs/hugo-tools/releases/download/v0.2.23/hugo-tools-linux-amd64
+          curl -fsSL -o hugo-tools https://github.com/appscodelabs/hugo-tools/releases/latest/download/hugo-tools-linux-amd64
           chmod +x hugo-tools
           sudo mv hugo-tools /usr/local/bin/hugo-tools
 
       - name: Install render-gotpl
         run: |
-          curl -fsSL -o render-gotpl https://github.com/appscodelabs/render-gotpl/releases/download/v0.1.5/render-gotpl-linux-amd64
+          curl -fsSL -o render-gotpl https://github.com/appscodelabs/render-gotpl/releases/latest/download/render-gotpl-linux-amd64
           chmod +x render-gotpl
           sudo mv render-gotpl /usr/local/bin/render-gotpl
 
       - name: Install crd-importer
         run: |
-          curl -L -o crd-importer https://github.com/kmodules/crd-importer/releases/download/v0.0.1/crd-importer-linux-amd64
+          curl -L -o crd-importer https://github.com/kmodules/crd-importer/releases/latest/download/crd-importer-linux-amd64
           chmod +x ./crd-importer
           sudo mv ./crd-importer /usr/local/bin/crd-importer
 
