@@ -50,6 +50,14 @@
 - [f8b13f4e](https://github.com/stashed/elasticsearch/commit/f8b13f4e) [cherry-pick] Use k8s 1.29 client libs (#1447) (#1450)
 
 
+### [6.4.0-v29](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v29)
+
+- [b4ecccae](https://github.com/stashed/elasticsearch/commit/b4ecccae) Prepare for release 6.4.0-v29 (#1490)
+- [ded2a668](https://github.com/stashed/elasticsearch/commit/ded2a668) [cherry-pick] Update deps (#1476) (#1480)
+- [3a25ece0](https://github.com/stashed/elasticsearch/commit/3a25ece0) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1469)
+- [9bc0fadf](https://github.com/stashed/elasticsearch/commit/9bc0fadf) [cherry-pick] Use k8s 1.29 client libs (#1447) (#1451)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
