@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.9-rc.0",
-  "release_date": "2024-02-09T20:59:14.120716509Z",
+  "release_date": "2024-02-09T21:09:34.306724779Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.9-rc.0",
   "kubernetes_version": "1.20+",
@@ -35,6 +35,56 @@
             {
               "SHA": "6f5a8df2",
               "Subject": "Use k8s 1.29 client libs (#215)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4bd38bd45",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#1556)"
+            },
+            {
+              "SHA": "2d7859658",
+              "Subject": "Use external-snapshotter/v7"
+            },
+            {
+              "SHA": "c221c3789",
+              "Subject": "Update deps (#1555)"
+            },
+            {
+              "SHA": "8fa0835de",
+              "Subject": "Add disabling TLS Certificate Verification support for Secure S3 Storage (#1554)"
+            },
+            {
+              "SHA": "6d5ad36a8",
+              "Subject": "Fix eas"
+            },
+            {
+              "SHA": "dc70cedd9",
+              "Subject": "Update gendocs script"
+            },
+            {
+              "SHA": "86fb04f87",
+              "Subject": "Configure openapi v3 (#1551)"
+            },
+            {
+              "SHA": "2b252fac5",
+              "Subject": "Use k8s 1.29 client libs (#1550)"
+            },
+            {
+              "SHA": "620a6236b",
+              "Subject": "Use k8s 1.29 client libs (#1547)"
+            },
+            {
+              "SHA": "01bdb47d4",
+              "Subject": "Send audit events hourly"
             }
           ]
         }
