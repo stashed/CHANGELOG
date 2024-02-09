@@ -14,6 +14,16 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.33.0-rc.0](https://github.com/stashed/cli/releases/tag/v0.33.0-rc.0)
+
+- [e9ef1060](https://github.com/stashed/cli/commit/e9ef1060) Prepare for release v0.33.0-rc.0 (#194)
+- [6bfaa69b](https://github.com/stashed/cli/commit/6bfaa69b) Update deps (#193)
+- [2fa9872b](https://github.com/stashed/cli/commit/2fa9872b) Use k8s 1.29 client libs (#192)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.33.0-rc.0](https://github.com/stashed/enterprise/releases/tag/v0.33.0-rc.0)
