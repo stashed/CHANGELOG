@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.9-rc.0",
-  "release_date": "2024-02-09T21:46:47.771790171Z",
+  "release_date": "2024-02-09T21:54:01.810685898Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.9-rc.0",
   "kubernetes_version": "1.20+",
@@ -111,6 +111,32 @@
             {
               "SHA": "272590c64",
               "Subject": "Update InterimVolume storage request calculator function name (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "10.14-v28",
+          "commits": [
+            {
+              "SHA": "c027e2a2",
+              "Subject": "Prepare for release 10.14-v28 (#1258)"
+            },
+            {
+              "SHA": "d1d89159",
+              "Subject": "[cherry-pick] Update deps (#1250) (#1251)"
+            },
+            {
+              "SHA": "55379bf9",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1242) (#1243)"
+            },
+            {
+              "SHA": "5f027026",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1234) (#1235)"
             }
           ]
         }

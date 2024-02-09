@@ -42,6 +42,17 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.14-v28](https://github.com/stashed/postgres/releases/tag/10.14-v28)
+
+- [c027e2a2](https://github.com/stashed/postgres/commit/c027e2a2) Prepare for release 10.14-v28 (#1258)
+- [d1d89159](https://github.com/stashed/postgres/commit/d1d89159) [cherry-pick] Update deps (#1250) (#1251)
+- [55379bf9](https://github.com/stashed/postgres/commit/55379bf9) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1242) (#1243)
+- [5f027026](https://github.com/stashed/postgres/commit/5f027026) [cherry-pick] Use k8s 1.29 client libs (#1234) (#1235)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.33.0-rc.0](https://github.com/stashed/stash/releases/tag/v0.33.0-rc.0)
