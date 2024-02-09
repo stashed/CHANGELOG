@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.9-rc.0",
-  "release_date": "2024-02-09T21:54:07.509706466Z",
+  "release_date": "2024-02-09T21:54:08.684232777Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.9-rc.0",
   "kubernetes_version": "1.20+",
@@ -119,6 +119,27 @@
     {
       "url": "github.com/stashed/postgres",
       "releases": [
+        {
+          "tag": "9.6.19-v28",
+          "commits": [
+            {
+              "SHA": "1298dbbe",
+              "Subject": "Prepare for release 9.6.19-v28 (#1264)"
+            },
+            {
+              "SHA": "083bee7c",
+              "Subject": "[cherry-pick] Update deps (#1250) (#1257)"
+            },
+            {
+              "SHA": "ee274af0",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1242) (#1249)"
+            },
+            {
+              "SHA": "f9c2bb70",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1234) (#1241)"
+            }
+          ]
+        },
         {
           "tag": "10.14-v28",
           "commits": [
