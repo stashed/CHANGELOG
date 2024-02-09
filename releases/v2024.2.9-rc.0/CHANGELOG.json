@@ -1,0 +1,44 @@
+{
+  "product_line": "Stash",
+  "release": "v2024.2.9-rc.0",
+  "release_date": "2024-02-09T20:59:14.120716509Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2024.2.9-rc.0",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a7373104",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "152e1d41",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#219)"
+            },
+            {
+              "SHA": "c604da62",
+              "Subject": "Upsert task params (#218)"
+            },
+            {
+              "SHA": "a91ab94b",
+              "Subject": "Update lint command (#217)"
+            },
+            {
+              "SHA": "ef308633",
+              "Subject": "Fix linter"
+            },
+            {
+              "SHA": "6f5a8df2",
+              "Subject": "Use k8s 1.29 client libs (#215)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
