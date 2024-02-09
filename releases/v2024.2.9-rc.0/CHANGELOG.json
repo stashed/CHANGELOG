@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.9-rc.0",
-  "release_date": "2024-02-09T21:54:08.684232777Z",
+  "release_date": "2024-02-09T22:36:56.983090862Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.9-rc.0",
   "kubernetes_version": "1.20+",
@@ -57,6 +57,32 @@
             {
               "SHA": "2fa9872b",
               "Subject": "Use k8s 1.29 client libs (#192)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v29",
+          "commits": [
+            {
+              "SHA": "ff4072db",
+              "Subject": "Prepare for release 5.6.4-v29 (#1487)"
+            },
+            {
+              "SHA": "401a46bd",
+              "Subject": "[cherry-pick] Update deps (#1476) (#1477)"
+            },
+            {
+              "SHA": "df5b3426",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1466)"
+            },
+            {
+              "SHA": "ac3e9b95",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1448)"
             }
           ]
         }
