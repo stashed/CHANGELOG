@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.9-rc.0",
-  "release_date": "2024-02-09T22:37:05.124870482Z",
+  "release_date": "2024-02-09T22:37:06.442339221Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.9-rc.0",
   "kubernetes_version": "1.20+",
@@ -209,6 +209,31 @@
             {
               "SHA": "e55ccd73",
               "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1455)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v29",
+          "commits": [
+            {
+              "SHA": "b5ba17b3",
+              "Subject": "Prepare for release 7.3.2-v29 (#1495)"
+            },
+            {
+              "SHA": "2be8c1c2",
+              "Subject": "[cherry-pick] Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1474)"
+            },
+            {
+              "SHA": "b6b8d77f",
+              "Subject": "Add support for kibana dashboard spaces (#1464)"
+            },
+            {
+              "SHA": "54e83f21",
+              "Subject": "Add Support for ES v7.3.2 dashboard backup and restore (#1461)"
+            },
+            {
+              "SHA": "7a7a90b8",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1456)"
             }
           ]
         },
