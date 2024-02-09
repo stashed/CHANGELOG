@@ -74,6 +74,15 @@
 - [39aa61a8](https://github.com/stashed/elasticsearch/commit/39aa61a8) [cherry-pick] Use k8s 1.29 client libs (#1447) (#1453)
 
 
+### [7.14.0-v15](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v15)
+
+- [b1e40261](https://github.com/stashed/elasticsearch/commit/b1e40261) Prepare for release 7.14.0-v15 (#1493)
+- [9731068a](https://github.com/stashed/elasticsearch/commit/9731068a) [cherry-pick] Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1472)
+- [edd0d306](https://github.com/stashed/elasticsearch/commit/edd0d306) Add support for kibana dashboard spaces  (#1463)
+- [c64c7f07](https://github.com/stashed/elasticsearch/commit/c64c7f07) Add Support for ES v7.14.0 dashboard backup and restore (#1460)
+- [635f1ad0](https://github.com/stashed/elasticsearch/commit/635f1ad0) [cherry-pick] Use k8s 1.29 client libs (#1447) (#1454)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
