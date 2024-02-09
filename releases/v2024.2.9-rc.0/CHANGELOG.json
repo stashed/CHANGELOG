@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.9-rc.0",
-  "release_date": "2024-02-09T21:39:56.889643615Z",
+  "release_date": "2024-02-09T21:45:51.039779631Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.9-rc.0",
   "kubernetes_version": "1.20+",
@@ -139,6 +139,28 @@
             {
               "SHA": "01bdb47d4",
               "Subject": "Send audit events hourly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4622b7bd",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#34)"
+            },
+            {
+              "SHA": "0ad06c75",
+              "Subject": "Update deps (#33)"
+            },
+            {
+              "SHA": "e44a14af",
+              "Subject": "Use k8s 1.29 client libs (#32)"
             }
           ]
         }

@@ -49,3 +49,13 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.14.0-rc.0](https://github.com/stashed/ui-server/releases/tag/v0.14.0-rc.0)
+
+- [4622b7bd](https://github.com/stashed/ui-server/commit/4622b7bd) Prepare for release v0.14.0-rc.0 (#34)
+- [0ad06c75](https://github.com/stashed/ui-server/commit/0ad06c75) Update deps (#33)
+- [e44a14af](https://github.com/stashed/ui-server/commit/e44a14af) Use k8s 1.29 client libs (#32)
+
+
+
