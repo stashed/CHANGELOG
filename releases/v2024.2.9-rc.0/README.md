@@ -314,6 +314,14 @@
 - [f50f0dc](https://github.com/stashed/nats/commit/f50f0dc) [cherry-pick] Use k8s 1.29 client libs (#120) (#121)
 
 
+### [2.8.2-v12](https://github.com/stashed/nats/releases/tag/2.8.2-v12)
+
+- [76ae834](https://github.com/stashed/nats/commit/76ae834) Prepare for release 2.8.2-v12 (#130)
+- [6428446](https://github.com/stashed/nats/commit/6428446) [cherry-pick] Update deps (#126) (#128)
+- [701911e](https://github.com/stashed/nats/commit/701911e) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#123) (#125)
+- [39b638b](https://github.com/stashed/nats/commit/39b638b) [cherry-pick] Use k8s 1.29 client libs (#120) (#122)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
