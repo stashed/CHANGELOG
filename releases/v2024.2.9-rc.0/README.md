@@ -257,6 +257,18 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v29](https://github.com/stashed/mysql/releases/tag/5.7.25-v29)
+
+- [281bf6b3](https://github.com/stashed/mysql/commit/281bf6b3) Prepare for release 5.7.25-v29 (#751)
+- [72e566db](https://github.com/stashed/mysql/commit/72e566db) [cherry-pick] Update deps (#746) (#747)
+- [b531d9ef](https://github.com/stashed/mysql/commit/b531d9ef) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#741) (#742)
+- [da312878](https://github.com/stashed/mysql/commit/da312878) [cherry-pick] Use k8s 1.29 client libs (#735) (#737)
+- [44c6fe0a](https://github.com/stashed/mysql/commit/44c6fe0a) Don't set all-databases as default for args (#733)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v28](https://github.com/stashed/postgres/releases/tag/9.6.19-v28)
