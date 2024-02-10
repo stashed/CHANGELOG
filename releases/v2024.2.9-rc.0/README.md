@@ -128,6 +128,15 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v16](https://github.com/stashed/etcd/releases/tag/3.5.0-v16)
+
+- [8915468](https://github.com/stashed/etcd/commit/8915468) Prepare for release 3.5.0-v16 (#87)
+- [c55295f](https://github.com/stashed/etcd/commit/c55295f) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#85) (#86)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v23](https://github.com/stashed/mariadb/releases/tag/10.5.8-v23)
