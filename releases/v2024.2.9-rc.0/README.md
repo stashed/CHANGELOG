@@ -1,4 +1,4 @@
-# Stash v2024.2.9-rc.0 (2024-02-09)
+# Stash v2024.2.9-rc.0 (2024-02-10)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
@@ -125,6 +125,17 @@
 - [4fbde18f](https://github.com/stashed/enterprise/commit/4fbde18f1) Use k8s 1.29 client libs (#242)
 - [cd3342c0](https://github.com/stashed/enterprise/commit/cd3342c04) Send audit events hourly
 - [272590c6](https://github.com/stashed/enterprise/commit/272590c64) Update InterimVolume storage request calculator function name (#241)
+
+
+
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v29](https://github.com/stashed/mongodb/releases/tag/3.4.17-v29)
+
+- [c13af7f2](https://github.com/stashed/mongodb/commit/c13af7f2) Prepare for release 3.4.17-v29 (#2064)
+- [212f6698](https://github.com/stashed/mongodb/commit/212f6698) [cherry-pick] Update deps (#2039) (#2049)
+- [749f4849](https://github.com/stashed/mongodb/commit/749f4849) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2024)
+- [8425019e](https://github.com/stashed/mongodb/commit/8425019e) [cherry-pick] Use k8s 1.29 client libs (#1998) (#2002)
 
 
 
