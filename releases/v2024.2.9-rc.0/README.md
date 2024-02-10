@@ -128,6 +128,17 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v23](https://github.com/stashed/mariadb/releases/tag/10.5.8-v23)
+
+- [92adb079](https://github.com/stashed/mariadb/commit/92adb079) Prepare for release 10.5.8-v23 (#238)
+- [146a661b](https://github.com/stashed/mariadb/commit/146a661b) [cherry-pick] Update deps (#236) (#237)
+- [6dd82d4e](https://github.com/stashed/mariadb/commit/6dd82d4e) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#234) (#235)
+- [805b7e72](https://github.com/stashed/mariadb/commit/805b7e72) [cherry-pick] Use k8s 1.29 client libs (#232) (#233)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v29](https://github.com/stashed/mongodb/releases/tag/3.4.17-v29)

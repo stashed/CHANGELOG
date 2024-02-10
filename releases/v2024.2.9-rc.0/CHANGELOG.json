@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.9-rc.0",
-  "release_date": "2024-02-10T00:49:25.373606741Z",
+  "release_date": "2024-02-10T00:55:34.329692848Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.9-rc.0",
   "kubernetes_version": "1.20+",
@@ -338,6 +338,32 @@
             {
               "SHA": "272590c64",
               "Subject": "Update InterimVolume storage request calculator function name (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v23",
+          "commits": [
+            {
+              "SHA": "92adb079",
+              "Subject": "Prepare for release 10.5.8-v23 (#238)"
+            },
+            {
+              "SHA": "146a661b",
+              "Subject": "[cherry-pick] Update deps (#236) (#237)"
+            },
+            {
+              "SHA": "6dd82d4e",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#234) (#235)"
+            },
+            {
+              "SHA": "805b7e72",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#232) (#233)"
             }
           ]
         }
