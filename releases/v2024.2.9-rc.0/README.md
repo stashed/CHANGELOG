@@ -467,3 +467,13 @@
 
 
 
+## [stashed/vault](https://github.com/stashed/vault)
+
+### [1.10.3-v9](https://github.com/stashed/vault/releases/tag/1.10.3-v9)
+
+- [613e95d1](https://github.com/stashed/vault/commit/613e95d1) Prepare for release 1.10.3-v9 (#31)
+- [1a5f95d0](https://github.com/stashed/vault/commit/1a5f95d0) [cherry-pick] Update deps (#29) (#30)
+- [a706d835](https://github.com/stashed/vault/commit/a706d835) [cherry-pick] Use k8s 1.29 client libs (#27) (#28)
+
+
+
