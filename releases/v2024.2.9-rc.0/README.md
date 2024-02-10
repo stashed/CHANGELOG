@@ -138,6 +138,14 @@
 - [8425019e](https://github.com/stashed/mongodb/commit/8425019e) [cherry-pick] Use k8s 1.29 client libs (#1998) (#2002)
 
 
+### [3.4.22-v29](https://github.com/stashed/mongodb/releases/tag/3.4.22-v29)
+
+- [9e8f639f](https://github.com/stashed/mongodb/commit/9e8f639f) Prepare for release 3.4.22-v29 (#2065)
+- [82403e18](https://github.com/stashed/mongodb/commit/82403e18) [cherry-pick] Update deps (#2039) (#2050)
+- [2388cd5c](https://github.com/stashed/mongodb/commit/2388cd5c) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2025)
+- [e9aaf4a0](https://github.com/stashed/mongodb/commit/e9aaf4a0) [cherry-pick] Use k8s 1.29 client libs (#1998) (#2003)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
