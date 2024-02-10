@@ -304,6 +304,17 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v17](https://github.com/stashed/nats/releases/tag/2.6.1-v17)
+
+- [87fd44c](https://github.com/stashed/nats/commit/87fd44c) Prepare for release 2.6.1-v17 (#129)
+- [774bc06](https://github.com/stashed/nats/commit/774bc06) [cherry-pick] Update deps (#126) (#127)
+- [8986edb](https://github.com/stashed/nats/commit/8986edb) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#123) (#124)
+- [f50f0dc](https://github.com/stashed/nats/commit/f50f0dc) [cherry-pick] Use k8s 1.29 client libs (#120) (#121)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v24](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v24)
