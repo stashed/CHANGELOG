@@ -137,6 +137,17 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.1.0-v12](https://github.com/stashed/kubedump/releases/tag/0.1.0-v12)
+
+- [c8ea88c](https://github.com/stashed/kubedump/commit/c8ea88c) Prepare for release 0.1.0-v12 (#55)
+- [b64c87b](https://github.com/stashed/kubedump/commit/b64c87b) [cherry-pick] Update deps (#53) (#54)
+- [7a54044](https://github.com/stashed/kubedump/commit/7a54044) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#51) (#52)
+- [527d154](https://github.com/stashed/kubedump/commit/527d154) [cherry-pick] Use k8s 1.29 client libs (#49) (#50)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v23](https://github.com/stashed/mariadb/releases/tag/10.5.8-v23)
