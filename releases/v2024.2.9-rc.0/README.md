@@ -363,6 +363,17 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v17](https://github.com/stashed/redis/releases/tag/5.0.13-v17)
+
+- [ea1ecca](https://github.com/stashed/redis/commit/ea1ecca) Prepare for release 5.0.13-v17 (#208)
+- [938a96a](https://github.com/stashed/redis/commit/938a96a) [cherry-pick] Update deps (#204) (#205)
+- [4a80c23](https://github.com/stashed/redis/commit/4a80c23) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#200) (#201)
+- [33440aa](https://github.com/stashed/redis/commit/33440aa) [cherry-pick] Use k8s 1.29 client libs (#196) (#197)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.33.0-rc.0](https://github.com/stashed/stash/releases/tag/v0.33.0-rc.0)
