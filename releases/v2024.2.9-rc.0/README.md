@@ -276,6 +276,14 @@
 - [b976105c](https://github.com/stashed/mysql/commit/b976105c) [cherry-pick] Use k8s 1.29 client libs (#735) (#738)
 
 
+### [8.0.21-v23](https://github.com/stashed/mysql/releases/tag/8.0.21-v23)
+
+- [81b49dae](https://github.com/stashed/mysql/commit/81b49dae) Prepare for release 8.0.21-v23 (#753)
+- [1e6948b0](https://github.com/stashed/mysql/commit/1e6948b0) [cherry-pick] Update deps (#746) (#749)
+- [66c5d072](https://github.com/stashed/mysql/commit/66c5d072) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#741) (#744)
+- [61c02de7](https://github.com/stashed/mysql/commit/61c02de7) [cherry-pick] Use k8s 1.29 client libs (#735) (#739)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
