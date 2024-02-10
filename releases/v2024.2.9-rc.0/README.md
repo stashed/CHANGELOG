@@ -304,6 +304,17 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v24](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v24)
+
+- [3b132129](https://github.com/stashed/percona-xtradb/commit/3b132129) Prepare for release 5.7-v24 (#310)
+- [162d38f0](https://github.com/stashed/percona-xtradb/commit/162d38f0) [cherry-pick] Update deps (#308) (#309)
+- [7df261de](https://github.com/stashed/percona-xtradb/commit/7df261de) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#306) (#307)
+- [16812768](https://github.com/stashed/percona-xtradb/commit/16812768) [cherry-pick] Use k8s 1.29 client libs (#304) (#305)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v28](https://github.com/stashed/postgres/releases/tag/9.6.19-v28)
