@@ -2,6 +2,7 @@
 
 | Stash Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
+| [v2024.2.9-rc.0](https:/github.com/stashed/CHANGELOG/releases/tag/v2024.2.9-rc.0) | 2024-02-10 | [User Guide](https://stash.run/docs/v2024.2.9-rc.0) | [CHANGELOG](/releases/v2024.2.9-rc.0/README.md) | 1.20+ |
 | [v2023.10.9](https:/github.com/stashed/CHANGELOG/releases/tag/v2023.10.9) | 2023-10-04 | [User Guide](https://stash.run/docs/v2023.10.9) | [CHANGELOG](/releases/v2023.10.9/README.md) | 1.19+ |
 | [v2023.08.18](https:/github.com/stashed/CHANGELOG/releases/tag/v2023.08.18) | 2023-08-15 | [User Guide](https://stash.run/docs/v2023.08.18) | [CHANGELOG](/releases/v2023.08.18/README.md) | 1.19+ |
 | [v2023.05.31](https:/github.com/stashed/CHANGELOG/releases/tag/v2023.05.31) | 2023-05-30 | [User Guide](https://stash.run/docs/v2023.05.31) | [CHANGELOG](/releases/v2023.05.31/README.md) | 1.19+ |
@@ -39,8 +40,8 @@
 | [v2020.10.21](https:/github.com/stashed/CHANGELOG/releases/tag/v2020.10.21) | 2020-10-22 | [User Guide](https://stash.run/docs/v2020.10.21) | [CHANGELOG](/releases/v2020.10.21/README.md) | 1.12+ |
 | [v2020.09.29](https:/github.com/stashed/CHANGELOG/releases/tag/v2020.09.29) | 2020-09-29 | [User Guide](https://stash.run/docs/v2020.09.29) | [CHANGELOG](/releases/v2020.09.29/README.md) | 1.12+ |
 | [v2020.09.16](https:/github.com/stashed/CHANGELOG/releases/tag/v2020.09.16) | 2020-09-16 | [User Guide](https://stash.run/docs/v2020.09.16) | [CHANGELOG](/releases/v2020.09.16/README.md) | 1.12+ |
-| [v2020.08.27](https:/github.com/stashed/CHANGELOG/releases/tag/v2020.08.27) | 2020-08-27 | [User Guide](https://stash.run/docs/v2020.08.27) | [CHANGELOG](/releases/v2020.08.27/README.md) | 1.12+ |
 | [v2020.08.27-rc.0](https:/github.com/stashed/CHANGELOG/releases/tag/v2020.08.27-rc.0) | 2020-08-27 | [User Guide](https://stash.run/docs/v2020.08.27-rc.0) | [CHANGELOG](/releases/v2020.08.27-rc.0/README.md) | 1.12+ |
+| [v2020.08.27](https:/github.com/stashed/CHANGELOG/releases/tag/v2020.08.27) | 2020-08-27 | [User Guide](https://stash.run/docs/v2020.08.27) | [CHANGELOG](/releases/v2020.08.27/README.md) | 1.12+ |
 | [v2020.08.26-rc.1](https:/github.com/stashed/CHANGELOG/releases/tag/v2020.08.26-rc.1) | 2020-08-27 | [User Guide](https://stash.run/docs/v2020.08.26-rc.1) | [CHANGELOG](/releases/v2020.08.26-rc.1/README.md) | 1.12+ |
 | [v2020.08.26-rc.0](https:/github.com/stashed/CHANGELOG/releases/tag/v2020.08.26-rc.0) | 2020-08-26 | [User Guide](https://stash.run/docs/v2020.08.26-rc.0) | [CHANGELOG](/releases/v2020.08.26-rc.0/README.md) | 1.12+ |
 | [v0.9.0-rc.6](https://github.com/stashed/stash/releases/tag/v0.9.0-rc.6) | 2020-02-24 | [User Guide](https://stash.run/docs/v0.9.0-rc.6) | [CHANGELOG](https://github.com/stashed/stash/releases/tag/v0.9.0-rc.6) | 1.11.x+ |

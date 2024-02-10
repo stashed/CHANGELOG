@@ -1,0 +1,1307 @@
+{
+  "product_line": "Stash",
+  "release": "v2024.2.9-rc.0",
+  "release_date": "2024-02-10T04:35:34.662512057Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2024.2.9-rc.0",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.0",
+          "commits": [
+            {
+              "SHA": "a7373104",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "152e1d41",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#219)"
+            },
+            {
+              "SHA": "c604da62",
+              "Subject": "Upsert task params (#218)"
+            },
+            {
+              "SHA": "a91ab94b",
+              "Subject": "Update lint command (#217)"
+            },
+            {
+              "SHA": "ef308633",
+              "Subject": "Fix linter"
+            },
+            {
+              "SHA": "6f5a8df2",
+              "Subject": "Use k8s 1.29 client libs (#215)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2024.2.9-rc.0",
+          "commits": [
+            {
+              "SHA": "f8fe76e",
+              "Subject": "Prepare for release v2024.2.9-rc.0 (#80)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.0",
+          "commits": [
+            {
+              "SHA": "e9ef1060",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#194)"
+            },
+            {
+              "SHA": "6bfaa69b",
+              "Subject": "Update deps (#193)"
+            },
+            {
+              "SHA": "2fa9872b",
+              "Subject": "Use k8s 1.29 client libs (#192)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2024.2.9-rc.0",
+          "commits": [
+            {
+              "SHA": "7eae0d4",
+              "Subject": "Prepare for release v2024.2.9-rc.0 (#284)"
+            },
+            {
+              "SHA": "b016a41",
+              "Subject": "Update license update command"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v29",
+          "commits": [
+            {
+              "SHA": "ff4072db",
+              "Subject": "Prepare for release 5.6.4-v29 (#1487)"
+            },
+            {
+              "SHA": "401a46bd",
+              "Subject": "[cherry-pick] Update deps (#1476) (#1477)"
+            },
+            {
+              "SHA": "df5b3426",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1466)"
+            },
+            {
+              "SHA": "ac3e9b95",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1448)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v29",
+          "commits": [
+            {
+              "SHA": "29e0e68b",
+              "Subject": "Prepare for release 6.2.4-v29 (#1488)"
+            },
+            {
+              "SHA": "3cac9319",
+              "Subject": "[cherry-pick] Update deps (#1476) (#1478)"
+            },
+            {
+              "SHA": "0ca14e64",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1467)"
+            },
+            {
+              "SHA": "c625ef36",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1449)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v29",
+          "commits": [
+            {
+              "SHA": "3030fac0",
+              "Subject": "Prepare for release 6.3.0-v29 (#1489)"
+            },
+            {
+              "SHA": "7ab46bb8",
+              "Subject": "[cherry-pick] Update deps (#1476) (#1479)"
+            },
+            {
+              "SHA": "e6837aaf",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1468)"
+            },
+            {
+              "SHA": "f8b13f4e",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1450)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v29",
+          "commits": [
+            {
+              "SHA": "b4ecccae",
+              "Subject": "Prepare for release 6.4.0-v29 (#1490)"
+            },
+            {
+              "SHA": "ded2a668",
+              "Subject": "[cherry-pick] Update deps (#1476) (#1480)"
+            },
+            {
+              "SHA": "3a25ece0",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1469)"
+            },
+            {
+              "SHA": "9bc0fadf",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1451)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v29",
+          "commits": [
+            {
+              "SHA": "bdcaa0e7",
+              "Subject": "Prepare for release 6.5.3-v29 (#1491)"
+            },
+            {
+              "SHA": "e699231e",
+              "Subject": "[cherry-pick] Update deps (#1476) (#1481)"
+            },
+            {
+              "SHA": "9cf2d65c",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1470)"
+            },
+            {
+              "SHA": "f69899fd",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1452)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v29",
+          "commits": [
+            {
+              "SHA": "44c54065",
+              "Subject": "Prepare for release 6.8.0-v29 (#1492)"
+            },
+            {
+              "SHA": "b9a96d34",
+              "Subject": "[cherry-pick] Update deps (#1476) (#1482)"
+            },
+            {
+              "SHA": "a2b29367",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1471)"
+            },
+            {
+              "SHA": "39aa61a8",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1453)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v29",
+          "commits": [
+            {
+              "SHA": "9c1db06d",
+              "Subject": "Prepare for release 7.2.0-v29 (#1494)"
+            },
+            {
+              "SHA": "bffe38f9",
+              "Subject": "[cherry-pick] Update deps (#1476) (#1484)"
+            },
+            {
+              "SHA": "99242034",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1473)"
+            },
+            {
+              "SHA": "e55ccd73",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1455)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v29",
+          "commits": [
+            {
+              "SHA": "b5ba17b3",
+              "Subject": "Prepare for release 7.3.2-v29 (#1495)"
+            },
+            {
+              "SHA": "2be8c1c2",
+              "Subject": "[cherry-pick] Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1474)"
+            },
+            {
+              "SHA": "b6b8d77f",
+              "Subject": "Add support for kibana dashboard spaces (#1464)"
+            },
+            {
+              "SHA": "54e83f21",
+              "Subject": "Add Support for ES v7.3.2 dashboard backup and restore (#1461)"
+            },
+            {
+              "SHA": "7a7a90b8",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1456)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v15",
+          "commits": [
+            {
+              "SHA": "b1e40261",
+              "Subject": "Prepare for release 7.14.0-v15 (#1493)"
+            },
+            {
+              "SHA": "9731068a",
+              "Subject": "[cherry-pick] Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1472)"
+            },
+            {
+              "SHA": "edd0d306",
+              "Subject": "Add support for kibana dashboard spaces  (#1463)"
+            },
+            {
+              "SHA": "c64c7f07",
+              "Subject": "Add Support for ES v7.14.0 dashboard backup and restore (#1460)"
+            },
+            {
+              "SHA": "635f1ad0",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1454)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v12",
+          "commits": [
+            {
+              "SHA": "12360a2e",
+              "Subject": "Prepare for release 8.2.0-v12 (#1496)"
+            },
+            {
+              "SHA": "ffdfddad",
+              "Subject": "[cherry-pick] Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1462) (#1475)"
+            },
+            {
+              "SHA": "d1d5985d",
+              "Subject": "Add support for kibana dashboard spaces (#1465)"
+            },
+            {
+              "SHA": "24ecc281",
+              "Subject": "Add Support for ES v8.2.0 dashboard backup and restore (#1459)"
+            },
+            {
+              "SHA": "feb7c4ad",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1447) (#1457)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.0",
+          "commits": [
+            {
+              "SHA": "926b54873",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#247)"
+            },
+            {
+              "SHA": "728318a76",
+              "Subject": "Use external-snapshotter v7"
+            },
+            {
+              "SHA": "e187755d7",
+              "Subject": "Update deps (#246)"
+            },
+            {
+              "SHA": "b0ca48ecc",
+              "Subject": "Add disabling TLS Certificate Verification support for Secure `S3` Storage (#245)"
+            },
+            {
+              "SHA": "8a2572742",
+              "Subject": "Add kibana dashboard backup and restore support (#244)"
+            },
+            {
+              "SHA": "0d77a3401",
+              "Subject": "Fix eas"
+            },
+            {
+              "SHA": "af352f7e2",
+              "Subject": "Update gendocs script"
+            },
+            {
+              "SHA": "cc95c59ed",
+              "Subject": "Configure openapi v3"
+            },
+            {
+              "SHA": "4fbde18f1",
+              "Subject": "Use k8s 1.29 client libs (#242)"
+            },
+            {
+              "SHA": "cd3342c04",
+              "Subject": "Send audit events hourly"
+            },
+            {
+              "SHA": "272590c64",
+              "Subject": "Update InterimVolume storage request calculator function name (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v16",
+          "commits": [
+            {
+              "SHA": "8915468",
+              "Subject": "Prepare for release 3.5.0-v16 (#87)"
+            },
+            {
+              "SHA": "c55295f",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#85) (#86)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2024.2.9-rc.0",
+          "commits": [
+            {
+              "SHA": "56bd5380",
+              "Subject": "Prepare for release v2024.2.9-rc.0 (#328)"
+            },
+            {
+              "SHA": "20c7b9a2",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#326)"
+            },
+            {
+              "SHA": "c66f9803",
+              "Subject": "Add dashboard backup and restore support (#325)"
+            },
+            {
+              "SHA": "f6f31321",
+              "Subject": "Use k8s 1.29 client libs (#324)"
+            },
+            {
+              "SHA": "722af4d3",
+              "Subject": "Check for image existence (#323)"
+            },
+            {
+              "SHA": "4ed53d44",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v12",
+          "commits": [
+            {
+              "SHA": "c8ea88c",
+              "Subject": "Prepare for release 0.1.0-v12 (#55)"
+            },
+            {
+              "SHA": "b64c87b",
+              "Subject": "[cherry-pick] Update deps (#53) (#54)"
+            },
+            {
+              "SHA": "7a54044",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#51) (#52)"
+            },
+            {
+              "SHA": "527d154",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#49) (#50)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v23",
+          "commits": [
+            {
+              "SHA": "92adb079",
+              "Subject": "Prepare for release 10.5.8-v23 (#238)"
+            },
+            {
+              "SHA": "146a661b",
+              "Subject": "[cherry-pick] Update deps (#236) (#237)"
+            },
+            {
+              "SHA": "6dd82d4e",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#234) (#235)"
+            },
+            {
+              "SHA": "805b7e72",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#232) (#233)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v29",
+          "commits": [
+            {
+              "SHA": "c13af7f2",
+              "Subject": "Prepare for release 3.4.17-v29 (#2064)"
+            },
+            {
+              "SHA": "212f6698",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2049)"
+            },
+            {
+              "SHA": "749f4849",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2024)"
+            },
+            {
+              "SHA": "8425019e",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2002)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v29",
+          "commits": [
+            {
+              "SHA": "9e8f639f",
+              "Subject": "Prepare for release 3.4.22-v29 (#2065)"
+            },
+            {
+              "SHA": "82403e18",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2050)"
+            },
+            {
+              "SHA": "2388cd5c",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2025)"
+            },
+            {
+              "SHA": "e9aaf4a0",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2003)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v29",
+          "commits": [
+            {
+              "SHA": "83bd3ca6",
+              "Subject": "Prepare for release 3.6.8-v29 (#2067)"
+            },
+            {
+              "SHA": "a4ac2495",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2052)"
+            },
+            {
+              "SHA": "b0fcceb6",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2027)"
+            },
+            {
+              "SHA": "4183dce4",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2005)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v29",
+          "commits": [
+            {
+              "SHA": "d436bac9",
+              "Subject": "Prepare for release 3.6.13-v29 (#2066)"
+            },
+            {
+              "SHA": "0c784ae5",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2051)"
+            },
+            {
+              "SHA": "b166ba18",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2026)"
+            },
+            {
+              "SHA": "89bf4a8b",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2004)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v29",
+          "commits": [
+            {
+              "SHA": "1d55691c",
+              "Subject": "Prepare for release 4.0.3-v29 (#2069)"
+            },
+            {
+              "SHA": "3fcfa629",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2054)"
+            },
+            {
+              "SHA": "a5471f8f",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2029)"
+            },
+            {
+              "SHA": "e26590ae",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2007)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v29",
+          "commits": [
+            {
+              "SHA": "4d047823",
+              "Subject": "Prepare for release 4.0.5-v29 (#2070)"
+            },
+            {
+              "SHA": "bd30b43a",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2055)"
+            },
+            {
+              "SHA": "e6d4e4c8",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2030)"
+            },
+            {
+              "SHA": "b5a80d5e",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2008)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v29",
+          "commits": [
+            {
+              "SHA": "970d7a65",
+              "Subject": "Prepare for release 4.0.11-v29 (#2068)"
+            },
+            {
+              "SHA": "aa662509",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2053)"
+            },
+            {
+              "SHA": "2f79e431",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2028)"
+            },
+            {
+              "SHA": "fc915fda",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2006)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v29",
+          "commits": [
+            {
+              "SHA": "84fa06fa",
+              "Subject": "Prepare for release 4.1.4-v29 (#2072)"
+            },
+            {
+              "SHA": "2941b00e",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2057)"
+            },
+            {
+              "SHA": "c777ebda",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2032)"
+            },
+            {
+              "SHA": "0d95db7f",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2010)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v29",
+          "commits": [
+            {
+              "SHA": "3487b26b",
+              "Subject": "Prepare for release 4.1.7-v29 (#2073)"
+            },
+            {
+              "SHA": "edb5c6fc",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2058)"
+            },
+            {
+              "SHA": "48a7bddb",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2033)"
+            },
+            {
+              "SHA": "88b717dc",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2011)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v29",
+          "commits": [
+            {
+              "SHA": "a378670e",
+              "Subject": "Prepare for release 4.1.13-v29 (#2071)"
+            },
+            {
+              "SHA": "3322389c",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2056)"
+            },
+            {
+              "SHA": "cb6a03ad",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2031)"
+            },
+            {
+              "SHA": "f35e6d45",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2009)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v29",
+          "commits": [
+            {
+              "SHA": "b442c846",
+              "Subject": "Prepare for release 4.2.3-v29 (#2074)"
+            },
+            {
+              "SHA": "987f365c",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2059)"
+            },
+            {
+              "SHA": "c3489059",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2034)"
+            },
+            {
+              "SHA": "c22e4250",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2012)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v20",
+          "commits": [
+            {
+              "SHA": "dcbd4cba",
+              "Subject": "Prepare for release 4.4.6-v20 (#2075)"
+            },
+            {
+              "SHA": "7e68a707",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2060)"
+            },
+            {
+              "SHA": "f4361716",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2035)"
+            },
+            {
+              "SHA": "9844fd23",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2013)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v17",
+          "commits": [
+            {
+              "SHA": "eed701a8",
+              "Subject": "Prepare for release 5.0.3-v17 (#2077)"
+            },
+            {
+              "SHA": "63e6f8b8",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2062)"
+            },
+            {
+              "SHA": "817a5a24",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2037)"
+            },
+            {
+              "SHA": "7c1a1b56",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2001)"
+            },
+            {
+              "SHA": "3b98fbfb",
+              "Subject": "currentOp command update (#1995)"
+            },
+            {
+              "SHA": "03259fa1",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2015)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.15-v2",
+          "commits": [
+            {
+              "SHA": "f9129172",
+              "Subject": "Prepare for release 5.0.15-v2 (#2076)"
+            },
+            {
+              "SHA": "51380ede",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2061)"
+            },
+            {
+              "SHA": "f371d67f",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2036)"
+            },
+            {
+              "SHA": "14512d91",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2000)"
+            },
+            {
+              "SHA": "53a8791c",
+              "Subject": "currentOp command update (#1994)"
+            },
+            {
+              "SHA": "607a859f",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2014)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v5",
+          "commits": [
+            {
+              "SHA": "959a6454",
+              "Subject": "Prepare for release 6.0.5-v5 (#2078)"
+            },
+            {
+              "SHA": "2481466c",
+              "Subject": "[cherry-pick] Update deps (#2039) (#2063)"
+            },
+            {
+              "SHA": "603acda9",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#2017) (#2038)"
+            },
+            {
+              "SHA": "03362717",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#1999)"
+            },
+            {
+              "SHA": "3c35e5fc",
+              "Subject": "Command and tickers updated (#1993)"
+            },
+            {
+              "SHA": "f43fb564",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1998) (#2016)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v29",
+          "commits": [
+            {
+              "SHA": "281bf6b3",
+              "Subject": "Prepare for release 5.7.25-v29 (#751)"
+            },
+            {
+              "SHA": "72e566db",
+              "Subject": "[cherry-pick] Update deps (#746) (#747)"
+            },
+            {
+              "SHA": "b531d9ef",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#741) (#742)"
+            },
+            {
+              "SHA": "da312878",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#735) (#737)"
+            },
+            {
+              "SHA": "44c6fe0a",
+              "Subject": "Don't set all-databases as default for args (#733)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v29",
+          "commits": [
+            {
+              "SHA": "4379d0d1",
+              "Subject": "Prepare for release 8.0.3-v29 (#754)"
+            },
+            {
+              "SHA": "55b685c1",
+              "Subject": "[cherry-pick] Update deps (#746) (#750)"
+            },
+            {
+              "SHA": "8c8860f6",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#741) (#745)"
+            },
+            {
+              "SHA": "ba633e81",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#735) (#740)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v29",
+          "commits": [
+            {
+              "SHA": "b5ec7da8",
+              "Subject": "Prepare for release 8.0.14-v29 (#752)"
+            },
+            {
+              "SHA": "c7584d82",
+              "Subject": "Update deps (#746) (#748)"
+            },
+            {
+              "SHA": "8be31363",
+              "Subject": "[cherry-pick] Add support Disabling TLS Certificate Verification for Secure S3 Storage (#741) (#743)"
+            },
+            {
+              "SHA": "b976105c",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#735) (#738)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v23",
+          "commits": [
+            {
+              "SHA": "81b49dae",
+              "Subject": "Prepare for release 8.0.21-v23 (#753)"
+            },
+            {
+              "SHA": "1e6948b0",
+              "Subject": "[cherry-pick] Update deps (#746) (#749)"
+            },
+            {
+              "SHA": "66c5d072",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#741) (#744)"
+            },
+            {
+              "SHA": "61c02de7",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#735) (#739)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v17",
+          "commits": [
+            {
+              "SHA": "87fd44c",
+              "Subject": "Prepare for release 2.6.1-v17 (#129)"
+            },
+            {
+              "SHA": "774bc06",
+              "Subject": "[cherry-pick] Update deps (#126) (#127)"
+            },
+            {
+              "SHA": "8986edb",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#123) (#124)"
+            },
+            {
+              "SHA": "f50f0dc",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#120) (#121)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v12",
+          "commits": [
+            {
+              "SHA": "76ae834",
+              "Subject": "Prepare for release 2.8.2-v12 (#130)"
+            },
+            {
+              "SHA": "6428446",
+              "Subject": "[cherry-pick] Update deps (#126) (#128)"
+            },
+            {
+              "SHA": "701911e",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#123) (#125)"
+            },
+            {
+              "SHA": "39b638b",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#120) (#122)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v24",
+          "commits": [
+            {
+              "SHA": "3b132129",
+              "Subject": "Prepare for release 5.7-v24 (#310)"
+            },
+            {
+              "SHA": "162d38f0",
+              "Subject": "[cherry-pick] Update deps (#308) (#309)"
+            },
+            {
+              "SHA": "7df261de",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#306) (#307)"
+            },
+            {
+              "SHA": "16812768",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#304) (#305)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v28",
+          "commits": [
+            {
+              "SHA": "1298dbbe",
+              "Subject": "Prepare for release 9.6.19-v28 (#1264)"
+            },
+            {
+              "SHA": "083bee7c",
+              "Subject": "[cherry-pick] Update deps (#1250) (#1257)"
+            },
+            {
+              "SHA": "ee274af0",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1242) (#1249)"
+            },
+            {
+              "SHA": "f9c2bb70",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1234) (#1241)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v28",
+          "commits": [
+            {
+              "SHA": "c027e2a2",
+              "Subject": "Prepare for release 10.14-v28 (#1258)"
+            },
+            {
+              "SHA": "d1d89159",
+              "Subject": "[cherry-pick] Update deps (#1250) (#1251)"
+            },
+            {
+              "SHA": "55379bf9",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1242) (#1243)"
+            },
+            {
+              "SHA": "5f027026",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1234) (#1235)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v28",
+          "commits": [
+            {
+              "SHA": "29d470cc",
+              "Subject": "Prepare for release 11.9-v28 (#1259)"
+            },
+            {
+              "SHA": "04aaf44c",
+              "Subject": "[cherry-pick] Update deps (#1250) (#1252)"
+            },
+            {
+              "SHA": "210165b4",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1242) (#1244)"
+            },
+            {
+              "SHA": "b232264d",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1234) (#1236)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v28",
+          "commits": [
+            {
+              "SHA": "c0667397",
+              "Subject": "Prepare for release 12.4-v28 (#1260)"
+            },
+            {
+              "SHA": "a3a6b107",
+              "Subject": "[cherry-pick] Update deps (#1250) (#1253)"
+            },
+            {
+              "SHA": "9a35e5d8",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1242) (#1245)"
+            },
+            {
+              "SHA": "e12724e1",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1234) (#1237)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v25",
+          "commits": [
+            {
+              "SHA": "e8caeb88",
+              "Subject": "Prepare for release 13.1-v25 (#1261)"
+            },
+            {
+              "SHA": "b5f19962",
+              "Subject": "[cherry-pick] Update deps (#1250) (#1254)"
+            },
+            {
+              "SHA": "d0d8f879",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1242) (#1246)"
+            },
+            {
+              "SHA": "a7ee90fe",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1234) (#1238)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v17",
+          "commits": [
+            {
+              "SHA": "d2d8e1e6",
+              "Subject": "Prepare for release 14.0-v17 (#1262)"
+            },
+            {
+              "SHA": "a4a2f372",
+              "Subject": "[cherry-pick] Update deps (#1250) (#1255)"
+            },
+            {
+              "SHA": "37bef4c2",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1242) (#1247)"
+            },
+            {
+              "SHA": "a1e5b9e0",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1234) (#1239)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v9",
+          "commits": [
+            {
+              "SHA": "d7d48fe0",
+              "Subject": "Prepare for release 15.1-v9 (#1263)"
+            },
+            {
+              "SHA": "a6efcbbc",
+              "Subject": "[cherry-pick] Update deps (#1250) (#1256)"
+            },
+            {
+              "SHA": "fc400a3b",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#1242) (#1248)"
+            },
+            {
+              "SHA": "449876a7",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#1234) (#1240)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v17",
+          "commits": [
+            {
+              "SHA": "ea1ecca",
+              "Subject": "Prepare for release 5.0.13-v17 (#208)"
+            },
+            {
+              "SHA": "938a96a",
+              "Subject": "[cherry-pick] Update deps (#204) (#205)"
+            },
+            {
+              "SHA": "4a80c23",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#200) (#201)"
+            },
+            {
+              "SHA": "33440aa",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#196) (#197)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v17",
+          "commits": [
+            {
+              "SHA": "2770727",
+              "Subject": "Prepare for release 6.2.5-v17 (#209)"
+            },
+            {
+              "SHA": "eea6853",
+              "Subject": "[cherry-pick] Update deps (#204) (#206)"
+            },
+            {
+              "SHA": "4ceecb7",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#200) (#202)"
+            },
+            {
+              "SHA": "f0d103a",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#196) (#198)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v10",
+          "commits": [
+            {
+              "SHA": "16a721d",
+              "Subject": "Prepare for release 7.0.5-v10 (#210)"
+            },
+            {
+              "SHA": "bc586b3",
+              "Subject": "[cherry-pick] Update deps (#204) (#207)"
+            },
+            {
+              "SHA": "ab433e4",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#200) (#203)"
+            },
+            {
+              "SHA": "596efd3",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#196) (#199)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.33.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4bd38bd45",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#1556)"
+            },
+            {
+              "SHA": "2d7859658",
+              "Subject": "Use external-snapshotter/v7"
+            },
+            {
+              "SHA": "c221c3789",
+              "Subject": "Update deps (#1555)"
+            },
+            {
+              "SHA": "8fa0835de",
+              "Subject": "Add disabling TLS Certificate Verification support for Secure S3 Storage (#1554)"
+            },
+            {
+              "SHA": "6d5ad36a8",
+              "Subject": "Fix eas"
+            },
+            {
+              "SHA": "dc70cedd9",
+              "Subject": "Update gendocs script"
+            },
+            {
+              "SHA": "86fb04f87",
+              "Subject": "Configure openapi v3 (#1551)"
+            },
+            {
+              "SHA": "2b252fac5",
+              "Subject": "Use k8s 1.29 client libs (#1550)"
+            },
+            {
+              "SHA": "620a6236b",
+              "Subject": "Use k8s 1.29 client libs (#1547)"
+            },
+            {
+              "SHA": "01bdb47d4",
+              "Subject": "Send audit events hourly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.14.0-rc.0",
+          "commits": [
+            {
+              "SHA": "4622b7bd",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#34)"
+            },
+            {
+              "SHA": "0ad06c75",
+              "Subject": "Update deps (#33)"
+            },
+            {
+              "SHA": "e44a14af",
+              "Subject": "Use k8s 1.29 client libs (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v9",
+          "commits": [
+            {
+              "SHA": "613e95d1",
+              "Subject": "Prepare for release 1.10.3-v9 (#31)"
+            },
+            {
+              "SHA": "1a5f95d0",
+              "Subject": "[cherry-pick] Update deps (#29) (#30)"
+            },
+            {
+              "SHA": "a706d835",
+              "Subject": "[cherry-pick] Use k8s 1.29 client libs (#27) (#28)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
