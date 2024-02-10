@@ -268,6 +268,14 @@
 - [44c6fe0a](https://github.com/stashed/mysql/commit/44c6fe0a) Don't set all-databases as default for args (#733)
 
 
+### [8.0.3-v29](https://github.com/stashed/mysql/releases/tag/8.0.3-v29)
+
+- [4379d0d1](https://github.com/stashed/mysql/commit/4379d0d1) Prepare for release 8.0.3-v29 (#754)
+- [55b685c1](https://github.com/stashed/mysql/commit/55b685c1) [cherry-pick] Update deps (#746) (#750)
+- [8c8860f6](https://github.com/stashed/mysql/commit/8c8860f6) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#741) (#745)
+- [ba633e81](https://github.com/stashed/mysql/commit/ba633e81) [cherry-pick] Use k8s 1.29 client libs (#735) (#740)
+
+
 ### [8.0.14-v29](https://github.com/stashed/mysql/releases/tag/8.0.14-v29)
 
 - [b5ec7da8](https://github.com/stashed/mysql/commit/b5ec7da8) Prepare for release 8.0.14-v29 (#752)
