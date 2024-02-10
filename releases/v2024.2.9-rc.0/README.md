@@ -373,6 +373,14 @@
 - [33440aa](https://github.com/stashed/redis/commit/33440aa) [cherry-pick] Use k8s 1.29 client libs (#196) (#197)
 
 
+### [6.2.5-v17](https://github.com/stashed/redis/releases/tag/6.2.5-v17)
+
+- [2770727](https://github.com/stashed/redis/commit/2770727) Prepare for release 6.2.5-v17 (#209)
+- [eea6853](https://github.com/stashed/redis/commit/eea6853) [cherry-pick] Update deps (#204) (#206)
+- [4ceecb7](https://github.com/stashed/redis/commit/4ceecb7) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#200) (#202)
+- [f0d103a](https://github.com/stashed/redis/commit/f0d103a) [cherry-pick] Use k8s 1.29 client libs (#196) (#198)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
