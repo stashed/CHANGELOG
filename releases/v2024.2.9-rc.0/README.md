@@ -137,6 +137,19 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2024.2.9-rc.0](https://github.com/stashed/installer/releases/tag/v2024.2.9-rc.0)
+
+- [56bd5380](https://github.com/stashed/installer/commit/56bd5380) Prepare for release v2024.2.9-rc.0 (#328)
+- [20c7b9a2](https://github.com/stashed/installer/commit/20c7b9a2) Add support Disabling TLS Certificate Verification for Secure S3 Storage (#326)
+- [c66f9803](https://github.com/stashed/installer/commit/c66f9803) Add dashboard backup and restore support (#325)
+- [f6f31321](https://github.com/stashed/installer/commit/f6f31321) Use k8s 1.29 client libs (#324)
+- [722af4d3](https://github.com/stashed/installer/commit/722af4d3) Check for image existence (#323)
+- [4ed53d44](https://github.com/stashed/installer/commit/4ed53d44) Update deps
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v12](https://github.com/stashed/kubedump/releases/tag/0.1.0-v12)
