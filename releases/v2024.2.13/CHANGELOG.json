@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.13",
-  "release_date": "2024-02-13T23:53:22.190118554Z",
+  "release_date": "2024-02-13T23:59:14.662004979Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.13",
   "kubernetes_version": "1.20+",
@@ -421,6 +421,20 @@
             {
               "SHA": "e3cf2123",
               "Subject": "Prepare for release 8.0.21-v24 (#758)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v18",
+          "commits": [
+            {
+              "SHA": "f0bc785",
+              "Subject": "Prepare for release 2.6.1-v18 (#132)"
             }
           ]
         }
