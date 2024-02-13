@@ -16,3 +16,23 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.33.0](https://github.com/stashed/stash/releases/tag/v0.33.0)
+
+- [8f76d737](https://github.com/stashed/stash/commit/8f76d7376) Prepare for release v0.33.0 (#1558)
+- [b0ecb486](https://github.com/stashed/stash/commit/b0ecb486c) Resolve Empty String Bug Across Different Storage Providers Excluding `S3` (#1557)
+- [8cb8f6f6](https://github.com/stashed/stash/commit/8cb8f6f6d) Fix webhook server
+- [4bd38bd4](https://github.com/stashed/stash/commit/4bd38bd45) Prepare for release v0.33.0-rc.0 (#1556)
+- [2d785965](https://github.com/stashed/stash/commit/2d7859658) Use external-snapshotter/v7
+- [c221c378](https://github.com/stashed/stash/commit/c221c3789) Update deps (#1555)
+- [8fa0835d](https://github.com/stashed/stash/commit/8fa0835de) Add disabling TLS Certificate Verification support for Secure S3 Storage (#1554)
+- [6d5ad36a](https://github.com/stashed/stash/commit/6d5ad36a8) Fix eas
+- [dc70cedd](https://github.com/stashed/stash/commit/dc70cedd9) Update gendocs script
+- [86fb04f8](https://github.com/stashed/stash/commit/86fb04f87) Configure openapi v3 (#1551)
+- [2b252fac](https://github.com/stashed/stash/commit/2b252fac5) Use k8s 1.29 client libs (#1550)
+- [620a6236](https://github.com/stashed/stash/commit/620a6236b) Use k8s 1.29 client libs (#1547)
+- [01bdb47d](https://github.com/stashed/stash/commit/01bdb47d4) Send audit events hourly
+
+
+
