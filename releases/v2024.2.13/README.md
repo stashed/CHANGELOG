@@ -259,6 +259,11 @@
 - [96a6d0f](https://github.com/stashed/redis/commit/96a6d0f) Prepare for release 6.2.5-v18 (#213)
 
 
+### [7.0.5-v11](https://github.com/stashed/redis/releases/tag/7.0.5-v11)
+
+- [9902062](https://github.com/stashed/redis/commit/9902062) Prepare for release 7.0.5-v11 (#214)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
