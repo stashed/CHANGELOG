@@ -112,6 +112,11 @@
 - [f6207dac](https://github.com/stashed/mongodb/commit/f6207dac) Prepare for release 3.4.22-v30 (#2081)
 
 
+### [3.6.13-v30](https://github.com/stashed/mongodb/releases/tag/3.6.13-v30)
+
+- [61271bff](https://github.com/stashed/mongodb/commit/61271bff) Prepare for release 3.6.13-v30 (#2082)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
