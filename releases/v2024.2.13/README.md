@@ -185,6 +185,11 @@
 - [b3aa034b](https://github.com/stashed/mysql/commit/b3aa034b) Prepare for release 5.7.25-v30 (#756)
 
 
+### [8.0.14-v30](https://github.com/stashed/mysql/releases/tag/8.0.14-v30)
+
+- [d63e3687](https://github.com/stashed/mysql/commit/d63e3687) Prepare for release 8.0.14-v30 (#757)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
