@@ -27,6 +27,14 @@
 
 
 
+## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
+
+### [5.6.4-v30](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v30)
+
+- [0f3a558d](https://github.com/stashed/elasticsearch/commit/0f3a558d) Prepare for release 5.6.4-v30 (#1498)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.33.0](https://github.com/stashed/enterprise/releases/tag/v0.33.0)
