@@ -162,6 +162,11 @@
 - [809c73d8](https://github.com/stashed/mongodb/commit/809c73d8) Prepare for release 4.4.6-v21 (#2091)
 
 
+### [5.0.15-v3](https://github.com/stashed/mongodb/releases/tag/5.0.15-v3)
+
+- [bee01d90](https://github.com/stashed/mongodb/commit/bee01d90) Prepare for release 5.0.15-v3 (#2092)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
