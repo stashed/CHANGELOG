@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.13",
-  "release_date": "2024-02-13T19:05:47.741608946Z",
+  "release_date": "2024-02-13T19:17:31.512959885Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.13",
   "kubernetes_version": "1.20+",
@@ -43,6 +43,68 @@
             {
               "SHA": "6f5a8df2",
               "Subject": "Use k8s 1.29 client libs (#215)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "056fe40ea",
+              "Subject": "Prepare for release v0.33.0 (#249)"
+            },
+            {
+              "SHA": "d00e48c4c",
+              "Subject": "Resolve Empty String Bug Across Different Storage Providers Excluding S3 (#248)"
+            },
+            {
+              "SHA": "926b54873",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#247)"
+            },
+            {
+              "SHA": "728318a76",
+              "Subject": "Use external-snapshotter v7"
+            },
+            {
+              "SHA": "e187755d7",
+              "Subject": "Update deps (#246)"
+            },
+            {
+              "SHA": "b0ca48ecc",
+              "Subject": "Add disabling TLS Certificate Verification support for Secure `S3` Storage (#245)"
+            },
+            {
+              "SHA": "8a2572742",
+              "Subject": "Add kibana dashboard backup and restore support (#244)"
+            },
+            {
+              "SHA": "0d77a3401",
+              "Subject": "Fix eas"
+            },
+            {
+              "SHA": "af352f7e2",
+              "Subject": "Update gendocs script"
+            },
+            {
+              "SHA": "cc95c59ed",
+              "Subject": "Configure openapi v3"
+            },
+            {
+              "SHA": "4fbde18f1",
+              "Subject": "Use k8s 1.29 client libs (#242)"
+            },
+            {
+              "SHA": "cd3342c04",
+              "Subject": "Send audit events hourly"
+            },
+            {
+              "SHA": "272590c64",
+              "Subject": "Update InterimVolume storage request calculator function name (#241)"
             }
           ]
         }

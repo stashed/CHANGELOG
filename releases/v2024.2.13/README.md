@@ -16,6 +16,26 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.33.0](https://github.com/stashed/enterprise/releases/tag/v0.33.0)
+
+- [056fe40e](https://github.com/stashed/enterprise/commit/056fe40ea) Prepare for release v0.33.0 (#249)
+- [d00e48c4](https://github.com/stashed/enterprise/commit/d00e48c4c) Resolve Empty String Bug Across Different Storage Providers Excluding S3 (#248)
+- [926b5487](https://github.com/stashed/enterprise/commit/926b54873) Prepare for release v0.33.0-rc.0 (#247)
+- [728318a7](https://github.com/stashed/enterprise/commit/728318a76) Use external-snapshotter v7
+- [e187755d](https://github.com/stashed/enterprise/commit/e187755d7) Update deps (#246)
+- [b0ca48ec](https://github.com/stashed/enterprise/commit/b0ca48ecc) Add disabling TLS Certificate Verification support for Secure `S3` Storage (#245)
+- [8a257274](https://github.com/stashed/enterprise/commit/8a2572742) Add kibana dashboard backup and restore support (#244)
+- [0d77a340](https://github.com/stashed/enterprise/commit/0d77a3401) Fix eas
+- [af352f7e](https://github.com/stashed/enterprise/commit/af352f7e2) Update gendocs script
+- [cc95c59e](https://github.com/stashed/enterprise/commit/cc95c59ed) Configure openapi v3
+- [4fbde18f](https://github.com/stashed/enterprise/commit/4fbde18f1) Use k8s 1.29 client libs (#242)
+- [cd3342c0](https://github.com/stashed/enterprise/commit/cd3342c04) Send audit events hourly
+- [272590c6](https://github.com/stashed/enterprise/commit/272590c64) Update InterimVolume storage request calculator function name (#241)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.33.0](https://github.com/stashed/stash/releases/tag/v0.33.0)
