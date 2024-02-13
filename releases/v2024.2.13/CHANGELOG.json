@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.13",
-  "release_date": "2024-02-13T22:40:04.810641466Z",
+  "release_date": "2024-02-13T22:49:46.632494205Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.13",
   "kubernetes_version": "1.20+",
@@ -226,6 +226,20 @@
             {
               "SHA": "272590c64",
               "Subject": "Update InterimVolume storage request calculator function name (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v30",
+          "commits": [
+            {
+              "SHA": "5081c341",
+              "Subject": "Prepare for release 3.4.17-v30 (#2080)"
             }
           ]
         }
