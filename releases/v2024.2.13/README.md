@@ -254,6 +254,11 @@
 - [aa46891](https://github.com/stashed/redis/commit/aa46891) Prepare for release 5.0.13-v18 (#212)
 
 
+### [6.2.5-v18](https://github.com/stashed/redis/releases/tag/6.2.5-v18)
+
+- [96a6d0f](https://github.com/stashed/redis/commit/96a6d0f) Prepare for release 6.2.5-v18 (#213)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
