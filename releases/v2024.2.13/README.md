@@ -107,6 +107,11 @@
 - [5081c341](https://github.com/stashed/mongodb/commit/5081c341) Prepare for release 3.4.17-v30 (#2080)
 
 
+### [3.4.22-v30](https://github.com/stashed/mongodb/releases/tag/3.4.22-v30)
+
+- [f6207dac](https://github.com/stashed/mongodb/commit/f6207dac) Prepare for release 3.4.22-v30 (#2081)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
