@@ -122,6 +122,11 @@
 - [61271bff](https://github.com/stashed/mongodb/commit/61271bff) Prepare for release 3.6.13-v30 (#2082)
 
 
+### [4.0.3-v30](https://github.com/stashed/mongodb/releases/tag/4.0.3-v30)
+
+- [f326d30a](https://github.com/stashed/mongodb/commit/f326d30a) Prepare for release 4.0.3-v30 (#2085)
+
+
 ### [4.0.11-v30](https://github.com/stashed/mongodb/releases/tag/4.0.11-v30)
 
 - [44da1d6f](https://github.com/stashed/mongodb/commit/44da1d6f) Prepare for release 4.0.11-v30 (#2084)
