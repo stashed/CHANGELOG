@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.13",
-  "release_date": "2024-02-13T22:39:59.444525964Z",
+  "release_date": "2024-02-13T22:40:00.821309203Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.13",
   "kubernetes_version": "1.20+",
@@ -128,6 +128,15 @@
             {
               "SHA": "b888ee9a",
               "Subject": "Prepare for release 6.8.0-v30 (#1503)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v16",
+          "commits": [
+            {
+              "SHA": "f1b23a52",
+              "Subject": "Prepare for release 7.14.0-v16 (#1504)"
             }
           ]
         }
