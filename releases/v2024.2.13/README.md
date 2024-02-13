@@ -172,6 +172,11 @@
 - [bee01d90](https://github.com/stashed/mongodb/commit/bee01d90) Prepare for release 5.0.15-v3 (#2092)
 
 
+### [6.0.5-v6](https://github.com/stashed/mongodb/releases/tag/6.0.5-v6)
+
+- [fae938ce](https://github.com/stashed/mongodb/commit/fae938ce) Prepare for release 6.0.5-v6 (#2094)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
