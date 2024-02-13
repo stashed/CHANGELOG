@@ -100,6 +100,14 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v24](https://github.com/stashed/mariadb/releases/tag/10.5.8-v24)
+
+- [caae4d31](https://github.com/stashed/mariadb/commit/caae4d31) Prepare for release 10.5.8-v24 (#240)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v30](https://github.com/stashed/mongodb/releases/tag/3.4.17-v30)

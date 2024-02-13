@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.13",
-  "release_date": "2024-02-13T22:58:14.518148645Z",
+  "release_date": "2024-02-13T23:06:05.530861373Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.13",
   "kubernetes_version": "1.20+",
@@ -226,6 +226,20 @@
             {
               "SHA": "272590c64",
               "Subject": "Update InterimVolume storage request calculator function name (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v24",
+          "commits": [
+            {
+              "SHA": "caae4d31",
+              "Subject": "Prepare for release 10.5.8-v24 (#240)"
             }
           ]
         }
