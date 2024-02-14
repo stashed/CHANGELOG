@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.13",
-  "release_date": "2024-02-14T00:20:08.24149162Z",
+  "release_date": "2024-02-14T00:51:58.321224839Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.13",
   "kubernetes_version": "1.20+",
@@ -240,6 +240,44 @@
             {
               "SHA": "e1609a4",
               "Subject": "Prepare for release 3.5.0-v17 (#89)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2024.2.13",
+          "commits": [
+            {
+              "SHA": "2b363d9f",
+              "Subject": "Prepare for release v2024.2.13 (#329)"
+            },
+            {
+              "SHA": "56bd5380",
+              "Subject": "Prepare for release v2024.2.9-rc.0 (#328)"
+            },
+            {
+              "SHA": "20c7b9a2",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#326)"
+            },
+            {
+              "SHA": "c66f9803",
+              "Subject": "Add dashboard backup and restore support (#325)"
+            },
+            {
+              "SHA": "f6f31321",
+              "Subject": "Use k8s 1.29 client libs (#324)"
+            },
+            {
+              "SHA": "722af4d3",
+              "Subject": "Check for image existence (#323)"
+            },
+            {
+              "SHA": "4ed53d44",
+              "Subject": "Update deps"
             }
           ]
         }
