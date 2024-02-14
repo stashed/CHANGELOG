@@ -27,6 +27,17 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2024.2.13](https://github.com/stashed/docs/releases/tag/v2024.2.13)
+
+- [6b84f9a](https://github.com/stashed/docs/commit/6b84f9a) Prepare for release v2024.2.13 (#286)
+- [acef893](https://github.com/stashed/docs/commit/acef893) Update docs for stashed/cli@2330558e (#285)
+- [7eae0d4](https://github.com/stashed/docs/commit/7eae0d4) Prepare for release v2024.2.9-rc.0 (#284)
+- [b016a41](https://github.com/stashed/docs/commit/b016a41) Update license update command
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v30](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v30)
