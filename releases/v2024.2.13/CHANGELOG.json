@@ -1,0 +1,783 @@
+{
+  "product_line": "Stash",
+  "release": "v2024.2.13",
+  "release_date": "2024-02-14T01:12:32.698224943Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2024.2.13",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "8624cbcb",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "999853f0",
+              "Subject": "Fix flags"
+            },
+            {
+              "SHA": "a7373104",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "152e1d41",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#219)"
+            },
+            {
+              "SHA": "c604da62",
+              "Subject": "Upsert task params (#218)"
+            },
+            {
+              "SHA": "a91ab94b",
+              "Subject": "Update lint command (#217)"
+            },
+            {
+              "SHA": "ef308633",
+              "Subject": "Fix linter"
+            },
+            {
+              "SHA": "6f5a8df2",
+              "Subject": "Use k8s 1.29 client libs (#215)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2024.2.13",
+          "commits": [
+            {
+              "SHA": "3466aad",
+              "Subject": "Prepare for release v2024.2.13 (#81)"
+            },
+            {
+              "SHA": "f8fe76e",
+              "Subject": "Prepare for release v2024.2.9-rc.0 (#80)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "2330558e",
+              "Subject": "Prepare for release v0.33.0 (#195)"
+            },
+            {
+              "SHA": "e9ef1060",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#194)"
+            },
+            {
+              "SHA": "6bfaa69b",
+              "Subject": "Update deps (#193)"
+            },
+            {
+              "SHA": "2fa9872b",
+              "Subject": "Use k8s 1.29 client libs (#192)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2024.2.13",
+          "commits": [
+            {
+              "SHA": "6b84f9a",
+              "Subject": "Prepare for release v2024.2.13 (#286)"
+            },
+            {
+              "SHA": "acef893",
+              "Subject": "Update docs for stashed/cli@2330558e (#285)"
+            },
+            {
+              "SHA": "7eae0d4",
+              "Subject": "Prepare for release v2024.2.9-rc.0 (#284)"
+            },
+            {
+              "SHA": "b016a41",
+              "Subject": "Update license update command"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v30",
+          "commits": [
+            {
+              "SHA": "0f3a558d",
+              "Subject": "Prepare for release 5.6.4-v30 (#1498)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v30",
+          "commits": [
+            {
+              "SHA": "0380f47c",
+              "Subject": "Prepare for release 6.2.4-v30 (#1499)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v30",
+          "commits": [
+            {
+              "SHA": "92104224",
+              "Subject": "Prepare for release 6.3.0-v30 (#1500)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v30",
+          "commits": [
+            {
+              "SHA": "6d8db1c3",
+              "Subject": "Prepare for release 6.4.0-v30 (#1501)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v30",
+          "commits": [
+            {
+              "SHA": "967b0d5d",
+              "Subject": "Prepare for release 6.5.3-v30 (#1502)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v30",
+          "commits": [
+            {
+              "SHA": "b888ee9a",
+              "Subject": "Prepare for release 6.8.0-v30 (#1503)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v30",
+          "commits": [
+            {
+              "SHA": "b341edf1",
+              "Subject": "Prepare for release 7.2.0-v30 (#1505)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v30",
+          "commits": [
+            {
+              "SHA": "fe59875e",
+              "Subject": "Prepare for release 7.3.2-v30 (#1506)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v16",
+          "commits": [
+            {
+              "SHA": "f1b23a52",
+              "Subject": "Prepare for release 7.14.0-v16 (#1504)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v13",
+          "commits": [
+            {
+              "SHA": "99781148",
+              "Subject": "Prepare for release 8.2.0-v13 (#1507)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "056fe40ea",
+              "Subject": "Prepare for release v0.33.0 (#249)"
+            },
+            {
+              "SHA": "d00e48c4c",
+              "Subject": "Resolve Empty String Bug Across Different Storage Providers Excluding S3 (#248)"
+            },
+            {
+              "SHA": "926b54873",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#247)"
+            },
+            {
+              "SHA": "728318a76",
+              "Subject": "Use external-snapshotter v7"
+            },
+            {
+              "SHA": "e187755d7",
+              "Subject": "Update deps (#246)"
+            },
+            {
+              "SHA": "b0ca48ecc",
+              "Subject": "Add disabling TLS Certificate Verification support for Secure `S3` Storage (#245)"
+            },
+            {
+              "SHA": "8a2572742",
+              "Subject": "Add kibana dashboard backup and restore support (#244)"
+            },
+            {
+              "SHA": "0d77a3401",
+              "Subject": "Fix eas"
+            },
+            {
+              "SHA": "af352f7e2",
+              "Subject": "Update gendocs script"
+            },
+            {
+              "SHA": "cc95c59ed",
+              "Subject": "Configure openapi v3"
+            },
+            {
+              "SHA": "4fbde18f1",
+              "Subject": "Use k8s 1.29 client libs (#242)"
+            },
+            {
+              "SHA": "cd3342c04",
+              "Subject": "Send audit events hourly"
+            },
+            {
+              "SHA": "272590c64",
+              "Subject": "Update InterimVolume storage request calculator function name (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v17",
+          "commits": [
+            {
+              "SHA": "e1609a4",
+              "Subject": "Prepare for release 3.5.0-v17 (#89)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2024.2.13",
+          "commits": [
+            {
+              "SHA": "2b363d9f",
+              "Subject": "Prepare for release v2024.2.13 (#329)"
+            },
+            {
+              "SHA": "56bd5380",
+              "Subject": "Prepare for release v2024.2.9-rc.0 (#328)"
+            },
+            {
+              "SHA": "20c7b9a2",
+              "Subject": "Add support Disabling TLS Certificate Verification for Secure S3 Storage (#326)"
+            },
+            {
+              "SHA": "c66f9803",
+              "Subject": "Add dashboard backup and restore support (#325)"
+            },
+            {
+              "SHA": "f6f31321",
+              "Subject": "Use k8s 1.29 client libs (#324)"
+            },
+            {
+              "SHA": "722af4d3",
+              "Subject": "Check for image existence (#323)"
+            },
+            {
+              "SHA": "4ed53d44",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v13",
+          "commits": [
+            {
+              "SHA": "f60b817",
+              "Subject": "Prepare for release 0.1.0-v13 (#57)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v24",
+          "commits": [
+            {
+              "SHA": "caae4d31",
+              "Subject": "Prepare for release 10.5.8-v24 (#240)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v30",
+          "commits": [
+            {
+              "SHA": "5081c341",
+              "Subject": "Prepare for release 3.4.17-v30 (#2080)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v30",
+          "commits": [
+            {
+              "SHA": "f6207dac",
+              "Subject": "Prepare for release 3.4.22-v30 (#2081)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v30",
+          "commits": [
+            {
+              "SHA": "2387f378",
+              "Subject": "Prepare for release 3.6.8-v30 (#2083)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v30",
+          "commits": [
+            {
+              "SHA": "61271bff",
+              "Subject": "Prepare for release 3.6.13-v30 (#2082)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v30",
+          "commits": [
+            {
+              "SHA": "f326d30a",
+              "Subject": "Prepare for release 4.0.3-v30 (#2085)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v30",
+          "commits": [
+            {
+              "SHA": "7e96bbf7",
+              "Subject": "Prepare for release 4.0.5-v30 (#2086)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v30",
+          "commits": [
+            {
+              "SHA": "44da1d6f",
+              "Subject": "Prepare for release 4.0.11-v30 (#2084)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v30",
+          "commits": [
+            {
+              "SHA": "2356a00a",
+              "Subject": "Prepare for release 4.1.4-v30 (#2088)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v30",
+          "commits": [
+            {
+              "SHA": "bdaaef1d",
+              "Subject": "Prepare for release 4.1.7-v30 (#2089)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v30",
+          "commits": [
+            {
+              "SHA": "5469bb49",
+              "Subject": "Prepare for release 4.1.13-v30 (#2087)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v30",
+          "commits": [
+            {
+              "SHA": "2bc8be8a",
+              "Subject": "Prepare for release 4.2.3-v30 (#2090)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v21",
+          "commits": [
+            {
+              "SHA": "809c73d8",
+              "Subject": "Prepare for release 4.4.6-v21 (#2091)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v18",
+          "commits": [
+            {
+              "SHA": "8de25714",
+              "Subject": "Prepare for release 5.0.3-v18 (#2093)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.15-v3",
+          "commits": [
+            {
+              "SHA": "bee01d90",
+              "Subject": "Prepare for release 5.0.15-v3 (#2092)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v6",
+          "commits": [
+            {
+              "SHA": "fae938ce",
+              "Subject": "Prepare for release 6.0.5-v6 (#2094)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v30",
+          "commits": [
+            {
+              "SHA": "b3aa034b",
+              "Subject": "Prepare for release 5.7.25-v30 (#756)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v30",
+          "commits": [
+            {
+              "SHA": "81c6d225",
+              "Subject": "Prepare for release 8.0.3-v30 (#759)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v30",
+          "commits": [
+            {
+              "SHA": "d63e3687",
+              "Subject": "Prepare for release 8.0.14-v30 (#757)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v24",
+          "commits": [
+            {
+              "SHA": "e3cf2123",
+              "Subject": "Prepare for release 8.0.21-v24 (#758)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v18",
+          "commits": [
+            {
+              "SHA": "f0bc785",
+              "Subject": "Prepare for release 2.6.1-v18 (#132)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v13",
+          "commits": [
+            {
+              "SHA": "9e86ae7",
+              "Subject": "Prepare for release 2.8.2-v13 (#133)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v25",
+          "commits": [
+            {
+              "SHA": "2890ead5",
+              "Subject": "Prepare for release 5.7-v25 (#312)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v29",
+          "commits": [
+            {
+              "SHA": "c52291e5",
+              "Subject": "Prepare for release 9.6.19-v29 (#1272)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v29",
+          "commits": [
+            {
+              "SHA": "80a3c18f",
+              "Subject": "Prepare for release 10.14-v29 (#1266)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v29",
+          "commits": [
+            {
+              "SHA": "8df3672a",
+              "Subject": "Prepare for release 11.9-v29 (#1267)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v29",
+          "commits": [
+            {
+              "SHA": "67373668",
+              "Subject": "Prepare for release 12.4-v29 (#1268)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v26",
+          "commits": [
+            {
+              "SHA": "b058e4fc",
+              "Subject": "Prepare for release 13.1-v26 (#1269)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v18",
+          "commits": [
+            {
+              "SHA": "e4d8de36",
+              "Subject": "Prepare for release 14.0-v18 (#1270)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v10",
+          "commits": [
+            {
+              "SHA": "e1f30a46",
+              "Subject": "Prepare for release 15.1-v10 (#1271)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v18",
+          "commits": [
+            {
+              "SHA": "aa46891",
+              "Subject": "Prepare for release 5.0.13-v18 (#212)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v18",
+          "commits": [
+            {
+              "SHA": "96a6d0f",
+              "Subject": "Prepare for release 6.2.5-v18 (#213)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v11",
+          "commits": [
+            {
+              "SHA": "9902062",
+              "Subject": "Prepare for release 7.0.5-v11 (#214)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.33.0",
+          "commits": [
+            {
+              "SHA": "8f76d7376",
+              "Subject": "Prepare for release v0.33.0 (#1558)"
+            },
+            {
+              "SHA": "b0ecb486c",
+              "Subject": "Resolve Empty String Bug Across Different Storage Providers Excluding `S3` (#1557)"
+            },
+            {
+              "SHA": "8cb8f6f6d",
+              "Subject": "Fix webhook server"
+            },
+            {
+              "SHA": "4bd38bd45",
+              "Subject": "Prepare for release v0.33.0-rc.0 (#1556)"
+            },
+            {
+              "SHA": "2d7859658",
+              "Subject": "Use external-snapshotter/v7"
+            },
+            {
+              "SHA": "c221c3789",
+              "Subject": "Update deps (#1555)"
+            },
+            {
+              "SHA": "8fa0835de",
+              "Subject": "Add disabling TLS Certificate Verification support for Secure S3 Storage (#1554)"
+            },
+            {
+              "SHA": "6d5ad36a8",
+              "Subject": "Fix eas"
+            },
+            {
+              "SHA": "dc70cedd9",
+              "Subject": "Update gendocs script"
+            },
+            {
+              "SHA": "86fb04f87",
+              "Subject": "Configure openapi v3 (#1551)"
+            },
+            {
+              "SHA": "2b252fac5",
+              "Subject": "Use k8s 1.29 client libs (#1550)"
+            },
+            {
+              "SHA": "620a6236b",
+              "Subject": "Use k8s 1.29 client libs (#1547)"
+            },
+            {
+              "SHA": "01bdb47d4",
+              "Subject": "Send audit events hourly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.14.0",
+          "commits": [
+            {
+              "SHA": "9e9d2512",
+              "Subject": "Prepare for release v0.14.0 (#36)"
+            },
+            {
+              "SHA": "2473d4b9",
+              "Subject": "Configure openapi v3 (#35)"
+            },
+            {
+              "SHA": "4622b7bd",
+              "Subject": "Prepare for release v0.14.0-rc.0 (#34)"
+            },
+            {
+              "SHA": "0ad06c75",
+              "Subject": "Update deps (#33)"
+            },
+            {
+              "SHA": "e44a14af",
+              "Subject": "Use k8s 1.29 client libs (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v10",
+          "commits": [
+            {
+              "SHA": "53f85d89",
+              "Subject": "Prepare for release 1.10.3-v10 (#33)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
