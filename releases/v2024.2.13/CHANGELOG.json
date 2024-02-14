@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.13",
-  "release_date": "2024-02-13T23:59:16.344955263Z",
+  "release_date": "2024-02-14T00:05:52.065193916Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.13",
   "kubernetes_version": "1.20+",
@@ -226,6 +226,20 @@
             {
               "SHA": "272590c64",
               "Subject": "Update InterimVolume storage request calculator function name (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v17",
+          "commits": [
+            {
+              "SHA": "e1609a4",
+              "Subject": "Prepare for release 3.5.0-v17 (#89)"
             }
           ]
         }

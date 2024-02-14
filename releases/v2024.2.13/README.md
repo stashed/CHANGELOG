@@ -1,4 +1,4 @@
-# Stash v2024.2.13 (2024-02-13)
+# Stash v2024.2.13 (2024-02-14)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
@@ -97,6 +97,14 @@
 - [4fbde18f](https://github.com/stashed/enterprise/commit/4fbde18f1) Use k8s 1.29 client libs (#242)
 - [cd3342c0](https://github.com/stashed/enterprise/commit/cd3342c04) Send audit events hourly
 - [272590c6](https://github.com/stashed/enterprise/commit/272590c64) Update InterimVolume storage request calculator function name (#241)
+
+
+
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v17](https://github.com/stashed/etcd/releases/tag/3.5.0-v17)
+
+- [e1609a4](https://github.com/stashed/etcd/commit/e1609a4) Prepare for release 3.5.0-v17 (#89)
 
 
 
