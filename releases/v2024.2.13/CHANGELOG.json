@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.2.13",
-  "release_date": "2024-02-14T00:13:12.684476957Z",
+  "release_date": "2024-02-14T00:20:08.24149162Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.2.13",
   "kubernetes_version": "1.20+",
@@ -678,6 +678,20 @@
             {
               "SHA": "e44a14af",
               "Subject": "Use k8s 1.29 client libs (#32)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v10",
+          "commits": [
+            {
+              "SHA": "53f85d89",
+              "Subject": "Prepare for release 1.10.3-v10 (#33)"
             }
           ]
         }
