@@ -40,3 +40,13 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.15.0](https://github.com/stashed/ui-server/releases/tag/v0.15.0)
+
+- [53dadbe9](https://github.com/stashed/ui-server/commit/53dadbe9) Prepare for release v0.15.0 (#39)
+- [c708bdd2](https://github.com/stashed/ui-server/commit/c708bdd2) Use Go 1.22 (#38)
+- [e0c26d2a](https://github.com/stashed/ui-server/commit/e0c26d2a) Use Go 1.22 (#37)
+
+
+

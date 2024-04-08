@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.4.8",
-  "release_date": "2024-04-08T21:24:07.957104567Z",
+  "release_date": "2024-04-08T21:24:51.348281907Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.4.8",
   "kubernetes_version": "1.20+",
@@ -85,6 +85,28 @@
             {
               "SHA": "a31779145",
               "Subject": "Use Go 1.22 (#1564)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "53dadbe9",
+              "Subject": "Prepare for release v0.15.0 (#39)"
+            },
+            {
+              "SHA": "c708bdd2",
+              "Subject": "Use Go 1.22 (#38)"
+            },
+            {
+              "SHA": "e0c26d2a",
+              "Subject": "Use Go 1.22 (#37)"
             }
           ]
         }
