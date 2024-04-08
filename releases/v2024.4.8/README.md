@@ -9,3 +9,13 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.34.0](https://github.com/stashed/stash/releases/tag/v0.34.0)
+
+- [c0166b9a](https://github.com/stashed/stash/commit/c0166b9ab) Prepare for release v0.34.0 (#1567)
+- [99e49802](https://github.com/stashed/stash/commit/99e49802f) Use Go 1.22 (#1566)
+- [a3177914](https://github.com/stashed/stash/commit/a31779145) Use Go 1.22 (#1564)
+
+
+
