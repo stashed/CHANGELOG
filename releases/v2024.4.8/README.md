@@ -85,6 +85,13 @@
 - [a7e835e0](https://github.com/stashed/elasticsearch/commit/a7e835e0) Use Go 1.22 (#1521) (#1528)
 
 
+### [8.2.0-v14](https://github.com/stashed/elasticsearch/releases/tag/8.2.0-v14)
+
+- [5c652e9b](https://github.com/stashed/elasticsearch/commit/5c652e9b) Prepare for release 8.2.0-v14 (#1541)
+- [5816087b](https://github.com/stashed/elasticsearch/commit/5816087b) Use Go 1.22 (#1510) (#1520)
+- [6fda5520](https://github.com/stashed/elasticsearch/commit/6fda5520) Use Go 1.22 (#1521) (#1531)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
