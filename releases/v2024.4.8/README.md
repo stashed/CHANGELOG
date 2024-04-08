@@ -117,6 +117,12 @@
 - [a70cbdfc](https://github.com/stashed/mongodb/commit/a70cbdfc) Use Go 1.22 (#2098) (#2105)
 
 
+### [3.6.8-v31](https://github.com/stashed/mongodb/releases/tag/3.6.8-v31)
+
+- [1d63b61c](https://github.com/stashed/mongodb/commit/1d63b61c) Prepare for release 3.6.8-v31 (#2122)
+- [27c70e3e](https://github.com/stashed/mongodb/commit/27c70e3e) Use Go 1.22 (#2098) (#2107)
+
+
 ### [3.6.13-v31](https://github.com/stashed/mongodb/releases/tag/3.6.13-v31)
 
 - [f5a988bd](https://github.com/stashed/mongodb/commit/f5a988bd) Prepare for release 3.6.13-v31 (#2121)
