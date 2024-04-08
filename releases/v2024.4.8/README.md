@@ -9,6 +9,17 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.34.0](https://github.com/stashed/cli/releases/tag/v0.34.0)
+
+- [3a2104b6](https://github.com/stashed/cli/commit/3a2104b6) Prepare for release v0.34.0 (#200)
+- [97c3c9dc](https://github.com/stashed/cli/commit/97c3c9dc) Use Go 1.22 (#199)
+- [57359de6](https://github.com/stashed/cli/commit/57359de6) Use Go 1.22 (#198)
+- [cc9996a7](https://github.com/stashed/cli/commit/cc9996a7) Update external snapshotter deps v4 to v7 (#197)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.34.0](https://github.com/stashed/enterprise/releases/tag/v0.34.0)
