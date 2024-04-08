@@ -32,6 +32,14 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v30](https://github.com/stashed/postgres/releases/tag/9.6.19-v30)
+
+- [fbd16044](https://github.com/stashed/postgres/commit/fbd16044) Prepare for release 9.6.19-v30 (#1310)
+- [ccc209f2](https://github.com/stashed/postgres/commit/ccc209f2) [cherry-pick] Use Go 1.22 (#1294) (#1302)
+- [6e158932](https://github.com/stashed/postgres/commit/6e158932) [cherry-pick] Use Go 1.22 (#1285) (#1293)
+- [8ad02897](https://github.com/stashed/postgres/commit/8ad02897) TLS fix for Postgres (#1276) (#1284)
+
+
 ### [10.14-v30](https://github.com/stashed/postgres/releases/tag/10.14-v30)
 
 - [96117cdb](https://github.com/stashed/postgres/commit/96117cdb) Prepare for release 10.14-v30 (#1303)
