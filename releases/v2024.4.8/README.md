@@ -80,6 +80,10 @@
 - [38de64a2](https://github.com/stashed/postgres/commit/38de64a2) TLS fix for Postgres (#1276) (#1282)
 
 
+### [16.1](https://github.com/stashed/postgres/releases/tag/16.1)
+
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
