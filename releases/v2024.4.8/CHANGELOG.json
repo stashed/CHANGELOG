@@ -1,0 +1,24 @@
+{
+  "product_line": "Stash",
+  "release": "v2024.4.8",
+  "release_date": "2024-04-08T20:10:42.728472843Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2024.4.8",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "be710277",
+              "Subject": "Use Go 1.22 (#221)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
