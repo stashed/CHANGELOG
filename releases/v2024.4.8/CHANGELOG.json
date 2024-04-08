@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.4.8",
-  "release_date": "2024-04-08T23:26:44.440864106Z",
+  "release_date": "2024-04-08T23:26:45.896302168Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.4.8",
   "kubernetes_version": "1.20+",
@@ -334,6 +334,19 @@
             {
               "SHA": "71013236",
               "Subject": "Use Go 1.22 (#2098) (#2108)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v31",
+          "commits": [
+            {
+              "SHA": "0987370a",
+              "Subject": "Prepare for release 4.1.4-v31 (#2127)"
+            },
+            {
+              "SHA": "d611f612",
+              "Subject": "Use Go 1.22 (#2098) (#2112)"
             }
           ]
         },
