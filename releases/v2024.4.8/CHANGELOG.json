@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.4.8",
-  "release_date": "2024-04-08T21:32:17.941985939Z",
+  "release_date": "2024-04-08T21:32:19.227212996Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.4.8",
   "kubernetes_version": "1.20+",
@@ -152,6 +152,27 @@
             {
               "SHA": "574e5101",
               "Subject": "TLS fix for Postgres (#1276) (#1280)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v19",
+          "commits": [
+            {
+              "SHA": "fb410c7d",
+              "Subject": "Prepare for release 14.0-v19 (#1307)"
+            },
+            {
+              "SHA": "f0ec4a9b",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1294) (#1299)"
+            },
+            {
+              "SHA": "a0d2cb4e",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1285) (#1290)"
+            },
+            {
+              "SHA": "a713b5ce",
+              "Subject": "TLS fix for Postgres (#1276) (#1281)"
             }
           ]
         }
