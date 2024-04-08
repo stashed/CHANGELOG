@@ -177,6 +177,12 @@
 - [e89fb707](https://github.com/stashed/mongodb/commit/e89fb707) Use Go 1.22 (#2098) (#2115)
 
 
+### [5.0.3-v19](https://github.com/stashed/mongodb/releases/tag/5.0.3-v19)
+
+- [e3f0395d](https://github.com/stashed/mongodb/commit/e3f0395d) Prepare for release 5.0.3-v19 (#2132)
+- [af619bb9](https://github.com/stashed/mongodb/commit/af619bb9) Use Go 1.22 (#2098) (#2117)
+
+
 ### [5.0.15-v4](https://github.com/stashed/mongodb/releases/tag/5.0.15-v4)
 
 - [cd1774de](https://github.com/stashed/mongodb/commit/cd1774de) Prepare for release 5.0.15-v4 (#2131)
