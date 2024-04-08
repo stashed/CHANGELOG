@@ -147,6 +147,12 @@
 - [71013236](https://github.com/stashed/mongodb/commit/71013236) Use Go 1.22 (#2098) (#2108)
 
 
+### [4.1.13-v31](https://github.com/stashed/mongodb/releases/tag/4.1.13-v31)
+
+- [0a3b3fcd](https://github.com/stashed/mongodb/commit/0a3b3fcd) Prepare for release 4.1.13-v31 (#2126)
+- [114ffe42](https://github.com/stashed/mongodb/commit/114ffe42) Use Go 1.22 (#2098) (#2111)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
