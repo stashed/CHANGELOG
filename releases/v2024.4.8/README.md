@@ -56,6 +56,14 @@
 - [29abe734](https://github.com/stashed/postgres/commit/29abe734) TLS fix for Postgres (#1276) (#1279)
 
 
+### [13.1-v27](https://github.com/stashed/postgres/releases/tag/13.1-v27)
+
+- [5a0180f3](https://github.com/stashed/postgres/commit/5a0180f3) Prepare for release 13.1-v27 (#1306)
+- [9bd70f79](https://github.com/stashed/postgres/commit/9bd70f79) [cherry-pick] Use Go 1.22 (#1294) (#1298)
+- [c5f3f4e7](https://github.com/stashed/postgres/commit/c5f3f4e7) [cherry-pick] Use Go 1.22 (#1285) (#1289)
+- [574e5101](https://github.com/stashed/postgres/commit/574e5101) TLS fix for Postgres (#1276) (#1280)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
