@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.4.8",
-  "release_date": "2024-04-08T21:32:23.154805947Z",
+  "release_date": "2024-04-08T22:23:52.693846276Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.4.8",
   "kubernetes_version": "1.20+",
@@ -41,6 +41,28 @@
             {
               "SHA": "cc9996a7",
               "Subject": "Update external snapshotter deps v4 to v7 (#197)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v31",
+          "commits": [
+            {
+              "SHA": "9b4eb820",
+              "Subject": "Prepare for release 5.6.4-v31 (#1532)"
+            },
+            {
+              "SHA": "64d18cf3",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1521) (#1522)"
+            },
+            {
+              "SHA": "d1ea4dc7",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1510) (#1511)"
             }
           ]
         }
