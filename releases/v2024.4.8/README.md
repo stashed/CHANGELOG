@@ -71,6 +71,13 @@
 - [ad6db703](https://github.com/stashed/elasticsearch/commit/ad6db703) [cherry-pick] Use Go 1.22 (#1510) (#1518)
 
 
+### [7.3.2-v31](https://github.com/stashed/elasticsearch/releases/tag/7.3.2-v31)
+
+- [e79d7c36](https://github.com/stashed/elasticsearch/commit/e79d7c36) Prepare for release 7.3.2-v31 (#1540)
+- [19a2baee](https://github.com/stashed/elasticsearch/commit/19a2baee) Use Go 1.22 (#1510) (#1519)
+- [fccdd7ae](https://github.com/stashed/elasticsearch/commit/fccdd7ae) Use Go 1.22 (#1521) (#1530)
+
+
 ### [7.14.0-v17](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v17)
 
 - [07732198](https://github.com/stashed/elasticsearch/commit/07732198) Prepare for release 7.14.0-v17 (#1538)
