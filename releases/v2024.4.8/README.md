@@ -300,6 +300,16 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v19](https://github.com/stashed/redis/releases/tag/5.0.13-v19)
+
+- [454812a](https://github.com/stashed/redis/commit/454812a) Prepare for release 5.0.13-v19 (#224)
+- [b0d2bc8](https://github.com/stashed/redis/commit/b0d2bc8) [cherry-pick] Use Go 1.22 (#220) (#221)
+- [91e6c34](https://github.com/stashed/redis/commit/91e6c34) [cherry-pick] Use Go 1.22 (#216) (#217)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.34.0](https://github.com/stashed/stash/releases/tag/v0.34.0)
