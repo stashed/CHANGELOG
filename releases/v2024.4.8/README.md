@@ -113,6 +113,19 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2024.4.8](https://github.com/stashed/installer/releases/tag/v2024.4.8)
+
+- [a5779c26](https://github.com/stashed/installer/commit/a5779c26) Prepare for release v2024.4.8 (#336)
+- [85724696](https://github.com/stashed/installer/commit/85724696) Use Go 1.22 (#335)
+- [78d05dfa](https://github.com/stashed/installer/commit/78d05dfa) Use Go 1.22 (#334)
+- [462dae9e](https://github.com/stashed/installer/commit/462dae9e) Add pg version 16 support (#331)
+- [14ca5b0a](https://github.com/stashed/installer/commit/14ca5b0a) Add node selector, toleration and affinity rules for jobs (#333)
+- [6675e10f](https://github.com/stashed/installer/commit/6675e10f) Add `--ignore-groupkinds` flag in kubedump function (#332)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v14](https://github.com/stashed/kubedump/releases/tag/0.1.0-v14)

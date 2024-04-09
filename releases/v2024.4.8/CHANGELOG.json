@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.4.8",
-  "release_date": "2024-04-09T01:00:46.105611044Z",
+  "release_date": "2024-04-09T01:11:31.091228035Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.4.8",
   "kubernetes_version": "1.20+",
@@ -260,6 +260,40 @@
             {
               "SHA": "4a6c248",
               "Subject": "[cherry-pick] Use Go 1.22 (#91) (#92)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2024.4.8",
+          "commits": [
+            {
+              "SHA": "a5779c26",
+              "Subject": "Prepare for release v2024.4.8 (#336)"
+            },
+            {
+              "SHA": "85724696",
+              "Subject": "Use Go 1.22 (#335)"
+            },
+            {
+              "SHA": "78d05dfa",
+              "Subject": "Use Go 1.22 (#334)"
+            },
+            {
+              "SHA": "462dae9e",
+              "Subject": "Add pg version 16 support (#331)"
+            },
+            {
+              "SHA": "14ca5b0a",
+              "Subject": "Add node selector, toleration and affinity rules for jobs (#333)"
+            },
+            {
+              "SHA": "6675e10f",
+              "Subject": "Add `--ignore-groupkinds` flag in kubedump function (#332)"
             }
           ]
         }
