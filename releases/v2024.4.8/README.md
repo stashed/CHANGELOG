@@ -205,6 +205,13 @@
 - [d12b9957](https://github.com/stashed/mysql/commit/d12b9957) [cherry-pick] Use Go 1.22 (#762) (#763)
 
 
+### [8.0.3-v31](https://github.com/stashed/mysql/releases/tag/8.0.3-v31)
+
+- [12351196](https://github.com/stashed/mysql/commit/12351196) Prepare for release 8.0.3-v31 (#775)
+- [572d4433](https://github.com/stashed/mysql/commit/572d4433) [cherry-pick] Use Go 1.22 (#767) (#771)
+- [003dd782](https://github.com/stashed/mysql/commit/003dd782) [cherry-pick] Use Go 1.22 (#762) (#766)
+
+
 ### [8.0.14-v31](https://github.com/stashed/mysql/releases/tag/8.0.14-v31)
 
 - [bddcbc5e](https://github.com/stashed/mysql/commit/bddcbc5e) Prepare for release 8.0.14-v31 (#773)
