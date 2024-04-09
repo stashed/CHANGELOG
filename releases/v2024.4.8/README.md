@@ -20,6 +20,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2024.4.8](https://github.com/stashed/docs/releases/tag/v2024.4.8)
+
+- [57976c5](https://github.com/stashed/docs/commit/57976c5) Prepare for release v2024.4.8 (#289)
+- [5b1eb61](https://github.com/stashed/docs/commit/5b1eb61) Use Go 1.22 (#288)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v31](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v31)
