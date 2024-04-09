@@ -246,6 +246,13 @@
 - [a1daf1a](https://github.com/stashed/nats/commit/a1daf1a) [cherry-pick] Use Go 1.22 (#135) (#136)
 
 
+### [2.8.2-v14](https://github.com/stashed/nats/releases/tag/2.8.2-v14)
+
+- [dd6c32c](https://github.com/stashed/nats/commit/dd6c32c) Prepare for release 2.8.2-v14 (#142)
+- [f3f64d8](https://github.com/stashed/nats/commit/f3f64d8) [cherry-pick] Use Go 1.22 (#138) (#140)
+- [4bf6909](https://github.com/stashed/nats/commit/4bf6909) [cherry-pick] Use Go 1.22 (#135) (#137)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
