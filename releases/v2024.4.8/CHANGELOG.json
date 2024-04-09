@@ -1,0 +1,995 @@
+{
+  "product_line": "Stash",
+  "release": "v2024.4.8",
+  "release_date": "2024-04-09T01:36:02.410596386Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2024.4.8",
+  "kubernetes_version": "1.20+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "be710277",
+              "Subject": "Use Go 1.22 (#221)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/bundles",
+      "releases": [
+        {
+          "tag": "v2024.4.8",
+          "commits": [
+            {
+              "SHA": "0f45bf9",
+              "Subject": "Prepare for release v2024.4.8 (#83)"
+            },
+            {
+              "SHA": "6684d78",
+              "Subject": "Use Go 1.22 (#82)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "3a2104b6",
+              "Subject": "Prepare for release v0.34.0 (#200)"
+            },
+            {
+              "SHA": "97c3c9dc",
+              "Subject": "Use Go 1.22 (#199)"
+            },
+            {
+              "SHA": "57359de6",
+              "Subject": "Use Go 1.22 (#198)"
+            },
+            {
+              "SHA": "cc9996a7",
+              "Subject": "Update external snapshotter deps v4 to v7 (#197)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2024.4.8",
+          "commits": [
+            {
+              "SHA": "57976c5",
+              "Subject": "Prepare for release v2024.4.8 (#289)"
+            },
+            {
+              "SHA": "5b1eb61",
+              "Subject": "Use Go 1.22 (#288)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v31",
+          "commits": [
+            {
+              "SHA": "9b4eb820",
+              "Subject": "Prepare for release 5.6.4-v31 (#1532)"
+            },
+            {
+              "SHA": "64d18cf3",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1521) (#1522)"
+            },
+            {
+              "SHA": "d1ea4dc7",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1510) (#1511)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v31",
+          "commits": [
+            {
+              "SHA": "7c84bbc1",
+              "Subject": "Prepare for release 6.2.4-v31 (#1533)"
+            },
+            {
+              "SHA": "fed5d9e2",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1521) (#1523)"
+            },
+            {
+              "SHA": "1f63d8ec",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1510) (#1512)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v31",
+          "commits": [
+            {
+              "SHA": "c9cdfcd6",
+              "Subject": "Prepare for release 6.3.0-v31 (#1534)"
+            },
+            {
+              "SHA": "735faaf2",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1521) (#1524)"
+            },
+            {
+              "SHA": "1f3097e6",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1510) (#1513)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v31",
+          "commits": [
+            {
+              "SHA": "6fdc0ea7",
+              "Subject": "Prepare for release 6.4.0-v31 (#1535)"
+            },
+            {
+              "SHA": "d4c96d76",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1521) (#1525)"
+            },
+            {
+              "SHA": "2314563b",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1510) (#1514)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v31",
+          "commits": [
+            {
+              "SHA": "0dc8cd3d",
+              "Subject": "Prepare for release 6.5.3-v31 (#1536)"
+            },
+            {
+              "SHA": "9dd6338f",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1521) (#1526)"
+            },
+            {
+              "SHA": "3f9bce22",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1510) (#1515)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v31",
+          "commits": [
+            {
+              "SHA": "1f7abda9",
+              "Subject": "Prepare for release 6.8.0-v31 (#1537)"
+            },
+            {
+              "SHA": "237ace67",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1521) (#1527)"
+            },
+            {
+              "SHA": "670a073a",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1510) (#1516)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v31",
+          "commits": [
+            {
+              "SHA": "7a4aeeaa",
+              "Subject": "Prepare for release 7.2.0-v31 (#1539)"
+            },
+            {
+              "SHA": "2bcea750",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1521) (#1529)"
+            },
+            {
+              "SHA": "ad6db703",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1510) (#1518)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v31",
+          "commits": [
+            {
+              "SHA": "e79d7c36",
+              "Subject": "Prepare for release 7.3.2-v31 (#1540)"
+            },
+            {
+              "SHA": "19a2baee",
+              "Subject": "Use Go 1.22 (#1510) (#1519)"
+            },
+            {
+              "SHA": "fccdd7ae",
+              "Subject": "Use Go 1.22 (#1521) (#1530)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v17",
+          "commits": [
+            {
+              "SHA": "07732198",
+              "Subject": "Prepare for release 7.14.0-v17 (#1538)"
+            },
+            {
+              "SHA": "84560940",
+              "Subject": "Use Go 1.22 (#1510) (#1517)"
+            },
+            {
+              "SHA": "a7e835e0",
+              "Subject": "Use Go 1.22 (#1521) (#1528)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v14",
+          "commits": [
+            {
+              "SHA": "5c652e9b",
+              "Subject": "Prepare for release 8.2.0-v14 (#1541)"
+            },
+            {
+              "SHA": "5816087b",
+              "Subject": "Use Go 1.22 (#1510) (#1520)"
+            },
+            {
+              "SHA": "6fda5520",
+              "Subject": "Use Go 1.22 (#1521) (#1531)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "abdda99c1",
+              "Subject": "Prepare for release v0.34.0 (#252)"
+            },
+            {
+              "SHA": "ac0a94b12",
+              "Subject": "Use Go 1.22 (#251)"
+            },
+            {
+              "SHA": "219416023",
+              "Subject": "Use Go 1.22 (#250)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v18",
+          "commits": [
+            {
+              "SHA": "7831686",
+              "Subject": "Prepare for release 3.5.0-v18 (#95)"
+            },
+            {
+              "SHA": "1615a10",
+              "Subject": "[cherry-pick] Use Go 1.22 (#93) (#94)"
+            },
+            {
+              "SHA": "4a6c248",
+              "Subject": "[cherry-pick] Use Go 1.22 (#91) (#92)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2024.4.8",
+          "commits": [
+            {
+              "SHA": "a5779c26",
+              "Subject": "Prepare for release v2024.4.8 (#336)"
+            },
+            {
+              "SHA": "85724696",
+              "Subject": "Use Go 1.22 (#335)"
+            },
+            {
+              "SHA": "78d05dfa",
+              "Subject": "Use Go 1.22 (#334)"
+            },
+            {
+              "SHA": "462dae9e",
+              "Subject": "Add pg version 16 support (#331)"
+            },
+            {
+              "SHA": "14ca5b0a",
+              "Subject": "Add node selector, toleration and affinity rules for jobs (#333)"
+            },
+            {
+              "SHA": "6675e10f",
+              "Subject": "Add `--ignore-groupkinds` flag in kubedump function (#332)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v14",
+          "commits": [
+            {
+              "SHA": "6774b71",
+              "Subject": "Prepare for release 0.1.0-v14 (#64)"
+            },
+            {
+              "SHA": "756520f",
+              "Subject": "Use Go 1.22 (#60) (#61)"
+            },
+            {
+              "SHA": "30bb01b",
+              "Subject": "Use Go 1.22 (#62) (#63)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v25",
+          "commits": [
+            {
+              "SHA": "77c27b4d",
+              "Subject": "Prepare for release 10.5.8-v25 (#246)"
+            },
+            {
+              "SHA": "b8cfb2c2",
+              "Subject": "[cherry-pick] Use Go 1.22 (#244) (#245)"
+            },
+            {
+              "SHA": "9c86fee6",
+              "Subject": "[cherry-pick] Use Go 1.22 (#242) (#243)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v31",
+          "commits": [
+            {
+              "SHA": "58b55d55",
+              "Subject": "Prepare for release 3.4.17-v31 (#2119)"
+            },
+            {
+              "SHA": "15f8513c",
+              "Subject": "Use Go 1.22 (#2098) (#2104)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v31",
+          "commits": [
+            {
+              "SHA": "15bc4a8e",
+              "Subject": "Prepare for release 3.4.22-v31 (#2120)"
+            },
+            {
+              "SHA": "a70cbdfc",
+              "Subject": "Use Go 1.22 (#2098) (#2105)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v31",
+          "commits": [
+            {
+              "SHA": "1d63b61c",
+              "Subject": "Prepare for release 3.6.8-v31 (#2122)"
+            },
+            {
+              "SHA": "27c70e3e",
+              "Subject": "Use Go 1.22 (#2098) (#2107)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v31",
+          "commits": [
+            {
+              "SHA": "f5a988bd",
+              "Subject": "Prepare for release 3.6.13-v31 (#2121)"
+            },
+            {
+              "SHA": "e4fbdca1",
+              "Subject": "Use Go 1.22 (#2098) (#2106)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v31",
+          "commits": [
+            {
+              "SHA": "c8a40f84",
+              "Subject": "Prepare for release 4.0.3-v31 (#2124)"
+            },
+            {
+              "SHA": "c320e2e3",
+              "Subject": "Use Go 1.22 (#2098) (#2109)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v31",
+          "commits": [
+            {
+              "SHA": "4f1dd2ea",
+              "Subject": "Prepare for release 4.0.5-v31 (#2125)"
+            },
+            {
+              "SHA": "8dbf0b26",
+              "Subject": "Use Go 1.22 (#2098) (#2110)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v31",
+          "commits": [
+            {
+              "SHA": "4a1ca435",
+              "Subject": "Prepare for release 4.0.11-v31 (#2123)"
+            },
+            {
+              "SHA": "71013236",
+              "Subject": "Use Go 1.22 (#2098) (#2108)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v31",
+          "commits": [
+            {
+              "SHA": "0987370a",
+              "Subject": "Prepare for release 4.1.4-v31 (#2127)"
+            },
+            {
+              "SHA": "d611f612",
+              "Subject": "Use Go 1.22 (#2098) (#2112)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v31",
+          "commits": [
+            {
+              "SHA": "4bc37444",
+              "Subject": "Prepare for release 4.1.7-v31 (#2128)"
+            },
+            {
+              "SHA": "f1b8cbbb",
+              "Subject": "Use Go 1.22 (#2098) (#2113)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v31",
+          "commits": [
+            {
+              "SHA": "0a3b3fcd",
+              "Subject": "Prepare for release 4.1.13-v31 (#2126)"
+            },
+            {
+              "SHA": "114ffe42",
+              "Subject": "Use Go 1.22 (#2098) (#2111)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v31",
+          "commits": [
+            {
+              "SHA": "a4399e27",
+              "Subject": "Prepare for release 4.2.3-v31 (#2129)"
+            },
+            {
+              "SHA": "0d7bc575",
+              "Subject": "Use Go 1.22 (#2098) (#2114)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v22",
+          "commits": [
+            {
+              "SHA": "c0a13d5a",
+              "Subject": "Prepare for release 4.4.6-v22 (#2130)"
+            },
+            {
+              "SHA": "e89fb707",
+              "Subject": "Use Go 1.22 (#2098) (#2115)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v19",
+          "commits": [
+            {
+              "SHA": "e3f0395d",
+              "Subject": "Prepare for release 5.0.3-v19 (#2132)"
+            },
+            {
+              "SHA": "af619bb9",
+              "Subject": "Use Go 1.22 (#2098) (#2117)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.15-v4",
+          "commits": [
+            {
+              "SHA": "cd1774de",
+              "Subject": "Prepare for release 5.0.15-v4 (#2131)"
+            },
+            {
+              "SHA": "b97c1fd6",
+              "Subject": "Use Go 1.22 (#2098) (#2116)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v7",
+          "commits": [
+            {
+              "SHA": "f54a09de",
+              "Subject": "Prepare for release 6.0.5-v7 (#2133)"
+            },
+            {
+              "SHA": "65963e0b",
+              "Subject": "Use Go 1.22 (#2098) (#2118)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v31",
+          "commits": [
+            {
+              "SHA": "b05bf372",
+              "Subject": "Prepare for release 5.7.25-v31 (#772)"
+            },
+            {
+              "SHA": "9bc2d64b",
+              "Subject": "[cherry-pick] Use Go 1.22 (#767) (#768)"
+            },
+            {
+              "SHA": "d12b9957",
+              "Subject": "[cherry-pick] Use Go 1.22 (#762) (#763)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v31",
+          "commits": [
+            {
+              "SHA": "12351196",
+              "Subject": "Prepare for release 8.0.3-v31 (#775)"
+            },
+            {
+              "SHA": "572d4433",
+              "Subject": "[cherry-pick] Use Go 1.22 (#767) (#771)"
+            },
+            {
+              "SHA": "003dd782",
+              "Subject": "[cherry-pick] Use Go 1.22 (#762) (#766)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v31",
+          "commits": [
+            {
+              "SHA": "bddcbc5e",
+              "Subject": "Prepare for release 8.0.14-v31 (#773)"
+            },
+            {
+              "SHA": "fb6655db",
+              "Subject": "[cherry-pick] Use Go 1.22 (#767) (#769)"
+            },
+            {
+              "SHA": "9168a96f",
+              "Subject": "[cherry-pick] Use Go 1.22 (#762) (#764)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v25",
+          "commits": [
+            {
+              "SHA": "7ccbafa0",
+              "Subject": "Prepare for release 8.0.21-v25 (#774)"
+            },
+            {
+              "SHA": "65d51861",
+              "Subject": "[cherry-pick] Use Go 1.22 (#767) (#770)"
+            },
+            {
+              "SHA": "fa68ec10",
+              "Subject": "[cherry-pick] Use Go 1.22 (#762) (#765)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v19",
+          "commits": [
+            {
+              "SHA": "3b03387",
+              "Subject": "Prepare for release 2.6.1-v19 (#141)"
+            },
+            {
+              "SHA": "b82f62f",
+              "Subject": "[cherry-pick] Use Go 1.22 (#138) (#139)"
+            },
+            {
+              "SHA": "a1daf1a",
+              "Subject": "[cherry-pick] Use Go 1.22 (#135) (#136)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v14",
+          "commits": [
+            {
+              "SHA": "dd6c32c",
+              "Subject": "Prepare for release 2.8.2-v14 (#142)"
+            },
+            {
+              "SHA": "f3f64d8",
+              "Subject": "[cherry-pick] Use Go 1.22 (#138) (#140)"
+            },
+            {
+              "SHA": "4bf6909",
+              "Subject": "[cherry-pick] Use Go 1.22 (#135) (#137)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v26",
+          "commits": [
+            {
+              "SHA": "3e476cf1",
+              "Subject": "Prepare for release 5.7-v26 (#319)"
+            },
+            {
+              "SHA": "4792bc77",
+              "Subject": "[cherry-pick] Use Go 1.22 (#317) (#318)"
+            },
+            {
+              "SHA": "4092d00f",
+              "Subject": "[cherry-pick] Use Go 1.22 (#315) (#316)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v30",
+          "commits": [
+            {
+              "SHA": "fbd16044",
+              "Subject": "Prepare for release 9.6.19-v30 (#1310)"
+            },
+            {
+              "SHA": "ccc209f2",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1294) (#1302)"
+            },
+            {
+              "SHA": "6e158932",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1285) (#1293)"
+            },
+            {
+              "SHA": "8ad02897",
+              "Subject": "TLS fix for Postgres (#1276) (#1284)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v30",
+          "commits": [
+            {
+              "SHA": "96117cdb",
+              "Subject": "Prepare for release 10.14-v30 (#1303)"
+            },
+            {
+              "SHA": "14485d33",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1294) (#1295)"
+            },
+            {
+              "SHA": "50933257",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1285) (#1286)"
+            },
+            {
+              "SHA": "6a572310",
+              "Subject": "TLS fix for Postgres (#1276) (#1277)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v30",
+          "commits": [
+            {
+              "SHA": "f0dce3ab",
+              "Subject": "Prepare for release 11.9-v30 (#1304)"
+            },
+            {
+              "SHA": "ae71d48f",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1294) (#1296)"
+            },
+            {
+              "SHA": "42d88fa3",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1285) (#1287)"
+            },
+            {
+              "SHA": "71b29f42",
+              "Subject": "TLS fix for Postgres (#1276) (#1278)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v30",
+          "commits": [
+            {
+              "SHA": "0fbdd5ca",
+              "Subject": "Prepare for release 12.4-v30 (#1305)"
+            },
+            {
+              "SHA": "60928e72",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1294) (#1297)"
+            },
+            {
+              "SHA": "bba3655d",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1285) (#1288)"
+            },
+            {
+              "SHA": "29abe734",
+              "Subject": "TLS fix for Postgres (#1276) (#1279)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v27",
+          "commits": [
+            {
+              "SHA": "5a0180f3",
+              "Subject": "Prepare for release 13.1-v27 (#1306)"
+            },
+            {
+              "SHA": "9bd70f79",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1294) (#1298)"
+            },
+            {
+              "SHA": "c5f3f4e7",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1285) (#1289)"
+            },
+            {
+              "SHA": "574e5101",
+              "Subject": "TLS fix for Postgres (#1276) (#1280)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v19",
+          "commits": [
+            {
+              "SHA": "fb410c7d",
+              "Subject": "Prepare for release 14.0-v19 (#1307)"
+            },
+            {
+              "SHA": "f0ec4a9b",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1294) (#1299)"
+            },
+            {
+              "SHA": "a0d2cb4e",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1285) (#1290)"
+            },
+            {
+              "SHA": "a713b5ce",
+              "Subject": "TLS fix for Postgres (#1276) (#1281)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v11",
+          "commits": [
+            {
+              "SHA": "d1f558b5",
+              "Subject": "Prepare for release 15.1-v11 (#1308)"
+            },
+            {
+              "SHA": "5e31b5e3",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1294) (#1300)"
+            },
+            {
+              "SHA": "1ef33931",
+              "Subject": "[cherry-pick] Use Go 1.22 (#1285) (#1291)"
+            },
+            {
+              "SHA": "38de64a2",
+              "Subject": "TLS fix for Postgres (#1276) (#1282)"
+            }
+          ]
+        },
+        {
+          "tag": "16.1",
+          "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v19",
+          "commits": [
+            {
+              "SHA": "454812a",
+              "Subject": "Prepare for release 5.0.13-v19 (#224)"
+            },
+            {
+              "SHA": "b0d2bc8",
+              "Subject": "[cherry-pick] Use Go 1.22 (#220) (#221)"
+            },
+            {
+              "SHA": "91e6c34",
+              "Subject": "[cherry-pick] Use Go 1.22 (#216) (#217)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v19",
+          "commits": [
+            {
+              "SHA": "82df5aa",
+              "Subject": "Prepare for release 6.2.5-v19 (#225)"
+            },
+            {
+              "SHA": "c92bc97",
+              "Subject": "[cherry-pick] Use Go 1.22 (#220) (#222)"
+            },
+            {
+              "SHA": "7132972",
+              "Subject": "[cherry-pick] Use Go 1.22 (#216) (#218)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v12",
+          "commits": [
+            {
+              "SHA": "c3d5394",
+              "Subject": "Prepare for release 7.0.5-v12 (#226)"
+            },
+            {
+              "SHA": "2a9d78d",
+              "Subject": "[cherry-pick] Use Go 1.22 (#220) (#223)"
+            },
+            {
+              "SHA": "ca351a1",
+              "Subject": "[cherry-pick] Use Go 1.22 (#216) (#219)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.34.0",
+          "commits": [
+            {
+              "SHA": "c0166b9ab",
+              "Subject": "Prepare for release v0.34.0 (#1567)"
+            },
+            {
+              "SHA": "99e49802f",
+              "Subject": "Use Go 1.22 (#1566)"
+            },
+            {
+              "SHA": "a31779145",
+              "Subject": "Use Go 1.22 (#1564)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.15.0",
+          "commits": [
+            {
+              "SHA": "53dadbe9",
+              "Subject": "Prepare for release v0.15.0 (#39)"
+            },
+            {
+              "SHA": "c708bdd2",
+              "Subject": "Use Go 1.22 (#38)"
+            },
+            {
+              "SHA": "e0c26d2a",
+              "Subject": "Use Go 1.22 (#37)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v11",
+          "commits": [
+            {
+              "SHA": "cc9393ba",
+              "Subject": "Prepare for release 1.10.3-v11 (#39)"
+            },
+            {
+              "SHA": "7f427970",
+              "Subject": "[cherry-pick] Use Go 1.22 (#37) (#38)"
+            },
+            {
+              "SHA": "bb505746",
+              "Subject": "[cherry-pick] Use Go 1.22 (#35) (#36)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
