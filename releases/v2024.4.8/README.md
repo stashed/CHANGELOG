@@ -316,6 +316,13 @@
 - [7132972](https://github.com/stashed/redis/commit/7132972) [cherry-pick] Use Go 1.22 (#216) (#218)
 
 
+### [7.0.5-v12](https://github.com/stashed/redis/releases/tag/7.0.5-v12)
+
+- [c3d5394](https://github.com/stashed/redis/commit/c3d5394) Prepare for release 7.0.5-v12 (#226)
+- [2a9d78d](https://github.com/stashed/redis/commit/2a9d78d) [cherry-pick] Use Go 1.22 (#220) (#223)
+- [ca351a1](https://github.com/stashed/redis/commit/ca351a1) [cherry-pick] Use Go 1.22 (#216) (#219)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
