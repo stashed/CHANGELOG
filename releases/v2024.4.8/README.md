@@ -237,6 +237,16 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v26](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v26)
+
+- [3e476cf1](https://github.com/stashed/percona-xtradb/commit/3e476cf1) Prepare for release 5.7-v26 (#319)
+- [4792bc77](https://github.com/stashed/percona-xtradb/commit/4792bc77) [cherry-pick] Use Go 1.22 (#317) (#318)
+- [4092d00f](https://github.com/stashed/percona-xtradb/commit/4092d00f) [cherry-pick] Use Go 1.22 (#315) (#316)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v30](https://github.com/stashed/postgres/releases/tag/9.6.19-v30)

@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.4.8",
-  "release_date": "2024-04-09T00:14:54.348604438Z",
+  "release_date": "2024-04-09T00:22:10.682850866Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.4.8",
   "kubernetes_version": "1.20+",
@@ -533,6 +533,28 @@
             {
               "SHA": "fa68ec10",
               "Subject": "[cherry-pick] Use Go 1.22 (#762) (#765)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v26",
+          "commits": [
+            {
+              "SHA": "3e476cf1",
+              "Subject": "Prepare for release 5.7-v26 (#319)"
+            },
+            {
+              "SHA": "4792bc77",
+              "Subject": "[cherry-pick] Use Go 1.22 (#317) (#318)"
+            },
+            {
+              "SHA": "4092d00f",
+              "Subject": "[cherry-pick] Use Go 1.22 (#315) (#316)"
             }
           ]
         }
