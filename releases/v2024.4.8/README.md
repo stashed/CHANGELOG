@@ -391,3 +391,13 @@
 
 
 
+## [stashed/vault](https://github.com/stashed/vault)
+
+### [1.10.3-v11](https://github.com/stashed/vault/releases/tag/1.10.3-v11)
+
+- [cc9393ba](https://github.com/stashed/vault/commit/cc9393ba) Prepare for release 1.10.3-v11 (#39)
+- [7f427970](https://github.com/stashed/vault/commit/7f427970) [cherry-pick] Use Go 1.22 (#37) (#38)
+- [bb505746](https://github.com/stashed/vault/commit/bb505746) [cherry-pick] Use Go 1.22 (#35) (#36)
+
+
+
