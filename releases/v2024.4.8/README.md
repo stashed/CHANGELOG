@@ -103,6 +103,16 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v18](https://github.com/stashed/etcd/releases/tag/3.5.0-v18)
+
+- [7831686](https://github.com/stashed/etcd/commit/7831686) Prepare for release 3.5.0-v18 (#95)
+- [1615a10](https://github.com/stashed/etcd/commit/1615a10) [cherry-pick] Use Go 1.22 (#93) (#94)
+- [4a6c248](https://github.com/stashed/etcd/commit/4a6c248) [cherry-pick] Use Go 1.22 (#91) (#92)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v25](https://github.com/stashed/mariadb/releases/tag/10.5.8-v25)
