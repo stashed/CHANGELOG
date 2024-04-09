@@ -113,6 +113,16 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.1.0-v14](https://github.com/stashed/kubedump/releases/tag/0.1.0-v14)
+
+- [6774b71](https://github.com/stashed/kubedump/commit/6774b71) Prepare for release 0.1.0-v14 (#64)
+- [756520f](https://github.com/stashed/kubedump/commit/756520f) Use Go 1.22 (#60) (#61)
+- [30bb01b](https://github.com/stashed/kubedump/commit/30bb01b) Use Go 1.22 (#62) (#63)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v25](https://github.com/stashed/mariadb/releases/tag/10.5.8-v25)
