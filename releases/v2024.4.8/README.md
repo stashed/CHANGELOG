@@ -103,6 +103,16 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v25](https://github.com/stashed/mariadb/releases/tag/10.5.8-v25)
+
+- [77c27b4d](https://github.com/stashed/mariadb/commit/77c27b4d) Prepare for release 10.5.8-v25 (#246)
+- [b8cfb2c2](https://github.com/stashed/mariadb/commit/b8cfb2c2) [cherry-pick] Use Go 1.22 (#244) (#245)
+- [9c86fee6](https://github.com/stashed/mariadb/commit/9c86fee6) [cherry-pick] Use Go 1.22 (#242) (#243)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v31](https://github.com/stashed/mongodb/releases/tag/3.4.17-v31)
