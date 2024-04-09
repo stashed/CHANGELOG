@@ -1,4 +1,4 @@
-# Stash v2024.4.8 (2024-04-08)
+# Stash v2024.4.8 (2024-04-09)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
@@ -193,6 +193,16 @@
 
 - [f54a09de](https://github.com/stashed/mongodb/commit/f54a09de) Prepare for release 6.0.5-v7 (#2133)
 - [65963e0b](https://github.com/stashed/mongodb/commit/65963e0b) Use Go 1.22 (#2098) (#2118)
+
+
+
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v31](https://github.com/stashed/mysql/releases/tag/5.7.25-v31)
+
+- [b05bf372](https://github.com/stashed/mysql/commit/b05bf372) Prepare for release 5.7.25-v31 (#772)
+- [9bc2d64b](https://github.com/stashed/mysql/commit/9bc2d64b) [cherry-pick] Use Go 1.22 (#767) (#768)
+- [d12b9957](https://github.com/stashed/mysql/commit/d12b9957) [cherry-pick] Use Go 1.22 (#762) (#763)
 
 
 
