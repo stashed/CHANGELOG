@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.8.27",
-  "release_date": "2024-08-27T18:13:02.493025113Z",
+  "release_date": "2024-08-27T18:51:54.16485666Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.8.27",
   "kubernetes_version": "1.26+",
@@ -49,6 +49,20 @@
             {
               "SHA": "cf294209",
               "Subject": "Use Go 1.23 (#202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v32",
+          "commits": [
+            {
+              "SHA": "022bfe28",
+              "Subject": "Prepare for release 5.6.4-v32 (#1547)"
             }
           ]
         }
