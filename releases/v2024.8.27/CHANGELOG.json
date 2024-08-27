@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.8.27",
-  "release_date": "2024-08-27T22:12:26.937577894Z",
+  "release_date": "2024-08-27T22:12:28.199805509Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.8.27",
   "kubernetes_version": "1.26+",
@@ -475,6 +475,23 @@
             {
               "SHA": "94005b3",
               "Subject": "Use Go 1.23 (#144) (#149)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v15",
+          "commits": [
+            {
+              "SHA": "a903d63",
+              "Subject": "Prepare for release 2.8.2-v15 (#146)"
+            },
+            {
+              "SHA": "d6444b9",
+              "Subject": "Remove docker registry support (#151)"
+            },
+            {
+              "SHA": "5742b06",
+              "Subject": "Use Go 1.23 (#144) (#148)"
             }
           ]
         }

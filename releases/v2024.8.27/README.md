@@ -226,6 +226,13 @@
 - [94005b3](https://github.com/stashed/nats/commit/94005b3) Use Go 1.23 (#144) (#149)
 
 
+### [2.8.2-v15](https://github.com/stashed/nats/releases/tag/2.8.2-v15)
+
+- [a903d63](https://github.com/stashed/nats/commit/a903d63) Prepare for release 2.8.2-v15 (#146)
+- [d6444b9](https://github.com/stashed/nats/commit/d6444b9) Remove docker registry support (#151)
+- [5742b06](https://github.com/stashed/nats/commit/5742b06) Use Go 1.23 (#144) (#148)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
