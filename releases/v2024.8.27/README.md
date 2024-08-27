@@ -217,6 +217,16 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v20](https://github.com/stashed/nats/releases/tag/2.6.1-v20)
+
+- [58b60c8](https://github.com/stashed/nats/commit/58b60c8) Prepare for release 2.6.1-v20 (#145)
+- [2dcb9d1](https://github.com/stashed/nats/commit/2dcb9d1) Remove docker registry support (#150)
+- [94005b3](https://github.com/stashed/nats/commit/94005b3) Use Go 1.23 (#144) (#149)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v27](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v27)
