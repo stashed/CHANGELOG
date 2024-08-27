@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.8.27",
-  "release_date": "2024-08-27T15:29:13.737380918Z",
+  "release_date": "2024-08-27T16:08:09.398247577Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.8.27",
   "kubernetes_version": "1.26+",
@@ -23,6 +23,28 @@
             {
               "SHA": "36516c28",
               "Subject": "Use Go 1.23 (#222)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "4f64305b6",
+              "Subject": "Prepare for release v0.35.0 (#255)"
+            },
+            {
+              "SHA": "52835160d",
+              "Subject": "Fix backupsession running issue after deadline exceed (#253)"
+            },
+            {
+              "SHA": "fa5833a75",
+              "Subject": "Use Go 1.23 (#254)"
             }
           ]
         }

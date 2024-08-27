@@ -11,6 +11,16 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.35.0](https://github.com/stashed/enterprise/releases/tag/v0.35.0)
+
+- [4f64305b](https://github.com/stashed/enterprise/commit/4f64305b6) Prepare for release v0.35.0 (#255)
+- [52835160](https://github.com/stashed/enterprise/commit/52835160d) Fix backupsession running issue after deadline exceed (#253)
+- [fa5833a7](https://github.com/stashed/enterprise/commit/fa5833a75) Use Go 1.23 (#254)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.35.0](https://github.com/stashed/stash/releases/tag/v0.35.0)
