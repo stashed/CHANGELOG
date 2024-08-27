@@ -88,6 +88,15 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v32](https://github.com/stashed/mongodb/releases/tag/3.4.17-v32)
+
+- [855e9eb6](https://github.com/stashed/mongodb/commit/855e9eb6) Prepare for release 3.4.17-v32 (#2154)
+- [671e6536](https://github.com/stashed/mongodb/commit/671e6536) [cherry-pick] Fix MongoDB url connection str for external databases (#2138) (#2139)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v31](https://github.com/stashed/postgres/releases/tag/9.6.19-v31)
