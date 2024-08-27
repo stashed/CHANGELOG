@@ -11,3 +11,13 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.35.0](https://github.com/stashed/stash/releases/tag/v0.35.0)
+
+- [74a2c770](https://github.com/stashed/stash/commit/74a2c770d) Prepare for release v0.35.0 (#1577)
+- [c1f2acfd](https://github.com/stashed/stash/commit/c1f2acfd9) Use Go 1.23 (#1574)
+- [6747863e](https://github.com/stashed/stash/commit/6747863e8) Test against k8s 1.31 (#1573)
+
+
+
