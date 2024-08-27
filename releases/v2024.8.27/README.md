@@ -268,6 +268,15 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v20](https://github.com/stashed/redis/releases/tag/5.0.13-v20)
+
+- [8a1d962](https://github.com/stashed/redis/commit/8a1d962) Prepare for release 5.0.13-v20 (#229)
+- [2af01a1](https://github.com/stashed/redis/commit/2af01a1) Use Go 1.23 (#228) (#235)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.35.0](https://github.com/stashed/stash/releases/tag/v0.35.0)
