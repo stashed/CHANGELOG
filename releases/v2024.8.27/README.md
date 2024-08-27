@@ -195,6 +195,12 @@
 - [a669d830](https://github.com/stashed/mysql/commit/a669d830) Use Go 1.23 (#782) (#790)
 
 
+### [8.0.21-v26](https://github.com/stashed/mysql/releases/tag/8.0.21-v26)
+
+- [05d3f4a3](https://github.com/stashed/mysql/commit/05d3f4a3) Prepare for release 8.0.21-v26 (#785)
+- [47d1209f](https://github.com/stashed/mysql/commit/47d1209f) Use Go 1.23 (#782) (#789)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
