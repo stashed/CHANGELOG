@@ -174,6 +174,12 @@
 - [f604ef85](https://github.com/stashed/mongodb/commit/f604ef85) [cherry-pick] Fix MongoDB url connection str for external databases (#2138) (#2151)
 
 
+### [6.0.5-v8](https://github.com/stashed/mongodb/releases/tag/6.0.5-v8)
+
+- [c5810d8d](https://github.com/stashed/mongodb/commit/c5810d8d) Prepare for release 6.0.5-v8 (#2168)
+- [10476599](https://github.com/stashed/mongodb/commit/10476599) [cherry-pick] Fix MongoDB url connection str for external databases (#2138) (#2153)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
