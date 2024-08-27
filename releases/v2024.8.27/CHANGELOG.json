@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.8.27",
-  "release_date": "2024-08-27T19:27:12.076440793Z",
+  "release_date": "2024-08-27T19:53:28.119403305Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.8.27",
   "kubernetes_version": "1.26+",
@@ -378,6 +378,24 @@
             {
               "SHA": "10476599",
               "Subject": "[cherry-pick] Fix MongoDB url connection str for external databases (#2138) (#2153)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v32",
+          "commits": [
+            {
+              "SHA": "dc20d8fa",
+              "Subject": "Prepare for release 5.7.25-v32 (#783)"
+            },
+            {
+              "SHA": "bb4b75c0",
+              "Subject": "Use Go 1.23 (#782) (#791)"
             }
           ]
         }
