@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.8.27",
-  "release_date": "2024-08-27T16:08:09.398247577Z",
+  "release_date": "2024-08-27T16:39:52.227188203Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.8.27",
   "kubernetes_version": "1.26+",
@@ -23,6 +23,32 @@
             {
               "SHA": "36516c28",
               "Subject": "Use Go 1.23 (#222)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "a4dd874e",
+              "Subject": "Prepare for release v0.35.0 (#204)"
+            },
+            {
+              "SHA": "7fac7e02",
+              "Subject": "Add restic `check` and `rebuild-index` cmd for better repository debugging (#203)"
+            },
+            {
+              "SHA": "6b48bb80",
+              "Subject": "Print output for download cmd (#201)"
+            },
+            {
+              "SHA": "cf294209",
+              "Subject": "Use Go 1.23 (#202)"
             }
           ]
         }

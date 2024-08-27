@@ -11,6 +11,17 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.35.0](https://github.com/stashed/cli/releases/tag/v0.35.0)
+
+- [a4dd874e](https://github.com/stashed/cli/commit/a4dd874e) Prepare for release v0.35.0 (#204)
+- [7fac7e02](https://github.com/stashed/cli/commit/7fac7e02) Add restic `check` and `rebuild-index` cmd for better repository debugging (#203)
+- [6b48bb80](https://github.com/stashed/cli/commit/6b48bb80) Print output for download cmd (#201)
+- [cf294209](https://github.com/stashed/cli/commit/cf294209) Use Go 1.23 (#202)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.35.0](https://github.com/stashed/enterprise/releases/tag/v0.35.0)
