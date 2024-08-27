@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.8.27",
-  "release_date": "2024-08-27T18:12:54.914062698Z",
+  "release_date": "2024-08-27T18:12:56.011960986Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.8.27",
   "kubernetes_version": "1.26+",
@@ -102,6 +102,19 @@
             {
               "SHA": "1ffec1f8",
               "Subject": "Get postgresw sslmode from appbinding clientconfig url (#1322) (#1324)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v31",
+          "commits": [
+            {
+              "SHA": "e159aa8e",
+              "Subject": "Prepare for release 12.4-v31 (#1333)"
+            },
+            {
+              "SHA": "3af46c2d",
+              "Subject": "Get postgresw sslmode from appbinding clientconfig url (#1322) (#1325)"
             }
           ]
         }
