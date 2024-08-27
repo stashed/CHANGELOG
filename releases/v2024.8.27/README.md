@@ -351,3 +351,13 @@
 
 
 
+## [stashed/vault](https://github.com/stashed/vault)
+
+### [1.10.3-v12](https://github.com/stashed/vault/releases/tag/1.10.3-v12)
+
+- [21d5420a](https://github.com/stashed/vault/commit/21d5420a) Prepare for release 1.10.3-v12 (#42)
+- [f16ae4a0](https://github.com/stashed/vault/commit/f16ae4a0) Use Go 1.23 (#41) (#46)
+- [9247d6bb](https://github.com/stashed/vault/commit/9247d6bb) Remove docker registry support (#44)
+
+
+
