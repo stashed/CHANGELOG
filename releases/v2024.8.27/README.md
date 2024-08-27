@@ -120,6 +120,12 @@
 - [25de1602](https://github.com/stashed/mongodb/commit/25de1602) Fix MongoDB url connection str for external databases (#2138) (#2144)
 
 
+### [4.0.5-v32](https://github.com/stashed/mongodb/releases/tag/4.0.5-v32)
+
+- [ca4a260f](https://github.com/stashed/mongodb/commit/ca4a260f) Prepare for release 4.0.5-v32 (#2160)
+- [f056b393](https://github.com/stashed/mongodb/commit/f056b393) Fix MongoDB url connection str for external databases (#2138) (#2145)
+
+
 ### [4.0.11-v32](https://github.com/stashed/mongodb/releases/tag/4.0.11-v32)
 
 - [cefa6f1f](https://github.com/stashed/mongodb/commit/cefa6f1f) Prepare for release 4.0.11-v32 (#2158)
