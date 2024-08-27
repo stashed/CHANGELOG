@@ -282,6 +282,12 @@
 - [00a261f](https://github.com/stashed/redis/commit/00a261f) Use Go 1.23 (#228) (#234)
 
 
+### [7.0.5-v13](https://github.com/stashed/redis/releases/tag/7.0.5-v13)
+
+- [e690a70](https://github.com/stashed/redis/commit/e690a70) Prepare for release 7.0.5-v13 (#231)
+- [10f53a9](https://github.com/stashed/redis/commit/10f53a9) Use Go 1.23 (#228) (#233)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
