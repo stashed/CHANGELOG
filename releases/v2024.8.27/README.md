@@ -58,6 +58,12 @@
 - [87232642](https://github.com/stashed/postgres/commit/87232642) Get postgresw sslmode from appbinding clientconfig url (#1322) (#1326)
 
 
+### [14.0-v20](https://github.com/stashed/postgres/releases/tag/14.0-v20)
+
+- [f6202ce4](https://github.com/stashed/postgres/commit/f6202ce4) Prepare for release 14.0-v20 (#1335)
+- [1d419325](https://github.com/stashed/postgres/commit/1d419325) Get postgresw sslmode from appbinding clientconfig url (#1322) (#1327)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
