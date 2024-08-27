@@ -59,6 +59,12 @@
 - [83fbb80a](https://github.com/stashed/elasticsearch/commit/83fbb80a) Prepare for release 7.2.0-v32 (#1554)
 
 
+### [7.3.2-v32](https://github.com/stashed/elasticsearch/releases/tag/7.3.2-v32)
+
+- [5659abd7](https://github.com/stashed/elasticsearch/commit/5659abd7) Prepare for release 7.3.2-v32 (#1555)
+- [ac4829c5](https://github.com/stashed/elasticsearch/commit/ac4829c5) Add support for creating space during dashboard restore (#1544)
+
+
 ### [7.14.0-v18](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v18)
 
 - [43d959e5](https://github.com/stashed/elasticsearch/commit/43d959e5) Prepare for release 7.14.0-v18 (#1553)
