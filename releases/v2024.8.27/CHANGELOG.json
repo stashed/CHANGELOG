@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.8.27",
-  "release_date": "2024-08-27T22:12:28.199805509Z",
+  "release_date": "2024-08-27T22:22:01.1657061Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.8.27",
   "kubernetes_version": "1.26+",
@@ -178,6 +178,20 @@
             {
               "SHA": "fa5833a75",
               "Subject": "Use Go 1.23 (#254)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v19",
+          "commits": [
+            {
+              "SHA": "901d0a4",
+              "Subject": "Prepare for release 3.5.0-v19 (#98)"
             }
           ]
         }
