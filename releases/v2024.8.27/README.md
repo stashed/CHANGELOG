@@ -71,6 +71,12 @@
 - [45964df8](https://github.com/stashed/elasticsearch/commit/45964df8) Add support for creating space during dashboard restore (#1545)
 
 
+### [8.2.0-v15](https://github.com/stashed/elasticsearch/releases/tag/8.2.0-v15)
+
+- [def1a44b](https://github.com/stashed/elasticsearch/commit/def1a44b) Prepare for release 8.2.0-v15 (#1556)
+- [f565882f](https://github.com/stashed/elasticsearch/commit/f565882f) Add support for creating space during dashboard restore (#1543)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 

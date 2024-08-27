@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.8.27",
-  "release_date": "2024-08-27T18:52:05.915408103Z",
+  "release_date": "2024-08-27T18:52:07.320743972Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.8.27",
   "kubernetes_version": "1.26+",
@@ -143,6 +143,19 @@
             {
               "SHA": "45964df8",
               "Subject": "Add support for creating space during dashboard restore (#1545)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v15",
+          "commits": [
+            {
+              "SHA": "def1a44b",
+              "Subject": "Prepare for release 8.2.0-v15 (#1556)"
+            },
+            {
+              "SHA": "f565882f",
+              "Subject": "Add support for creating space during dashboard restore (#1543)"
             }
           ]
         }
