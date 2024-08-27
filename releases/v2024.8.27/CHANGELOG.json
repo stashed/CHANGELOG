@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.8.27",
-  "release_date": "2024-08-27T19:53:32.388216822Z",
+  "release_date": "2024-08-27T20:31:40.865254141Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.8.27",
   "kubernetes_version": "1.26+",
@@ -178,6 +178,24 @@
             {
               "SHA": "fa5833a75",
               "Subject": "Use Go 1.23 (#254)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v26",
+          "commits": [
+            {
+              "SHA": "b674f8ec",
+              "Subject": "Prepare for release 10.5.8-v26 (#249)"
+            },
+            {
+              "SHA": "a020b223",
+              "Subject": "Use Go 1.23 (#248) (#251)"
             }
           ]
         }

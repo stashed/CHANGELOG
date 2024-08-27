@@ -88,6 +88,15 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v26](https://github.com/stashed/mariadb/releases/tag/10.5.8-v26)
+
+- [b674f8ec](https://github.com/stashed/mariadb/commit/b674f8ec) Prepare for release 10.5.8-v26 (#249)
+- [a020b223](https://github.com/stashed/mariadb/commit/a020b223) Use Go 1.23 (#248) (#251)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v32](https://github.com/stashed/mongodb/releases/tag/3.4.17-v32)
