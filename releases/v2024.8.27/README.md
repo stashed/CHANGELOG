@@ -44,6 +44,11 @@
 - [7da7110e](https://github.com/stashed/elasticsearch/commit/7da7110e) Prepare for release 6.4.0-v32 (#1550)
 
 
+### [6.5.3-v32](https://github.com/stashed/elasticsearch/releases/tag/6.5.3-v32)
+
+- [0e879140](https://github.com/stashed/elasticsearch/commit/0e879140) Prepare for release 6.5.3-v32 (#1551)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
