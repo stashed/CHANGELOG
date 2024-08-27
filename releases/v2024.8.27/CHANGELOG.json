@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.8.27",
-  "release_date": "2024-08-27T19:27:02.67119233Z",
+  "release_date": "2024-08-27T19:27:04.488137654Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.8.27",
   "kubernetes_version": "1.26+",
@@ -313,6 +313,19 @@
             {
               "SHA": "db585560",
               "Subject": "Fix MongoDB url connection str for external databases (#2138) (#2146)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v32",
+          "commits": [
+            {
+              "SHA": "5ce8589a",
+              "Subject": "Prepare for release 4.2.3-v32 (#2164)"
+            },
+            {
+              "SHA": "b1cba825",
+              "Subject": "Fix MongoDB url connection str for external databases (#2138) (#2149)"
             }
           ]
         }
