@@ -54,6 +54,12 @@
 - [65c68556](https://github.com/stashed/elasticsearch/commit/65c68556) Prepare for release 6.8.0-v32 (#1552)
 
 
+### [7.14.0-v18](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v18)
+
+- [43d959e5](https://github.com/stashed/elasticsearch/commit/43d959e5) Prepare for release 7.14.0-v18 (#1553)
+- [45964df8](https://github.com/stashed/elasticsearch/commit/45964df8) Add support for creating space during dashboard restore (#1545)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
