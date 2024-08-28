@@ -22,6 +22,16 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2024.8.27](https://github.com/stashed/docs/releases/tag/v2024.8.27)
+
+- [00ce37d](https://github.com/stashed/docs/commit/00ce37d) Prepare for release v2024.8.27 (#294)
+- [6eede55](https://github.com/stashed/docs/commit/6eede55) Use Go 1.23 (#290)
+- [e993026](https://github.com/stashed/docs/commit/e993026) Fix preview
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v32](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v32)
