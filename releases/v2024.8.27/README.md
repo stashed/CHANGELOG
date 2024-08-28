@@ -1,4 +1,4 @@
-# Stash v2024.8.27 (2024-08-27)
+# Stash v2024.8.27 (2024-08-28)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
@@ -93,6 +93,16 @@
 ### [3.5.0-v19](https://github.com/stashed/etcd/releases/tag/3.5.0-v19)
 
 - [901d0a4](https://github.com/stashed/etcd/commit/901d0a4) Prepare for release 3.5.0-v19 (#98)
+
+
+
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2024.8.27](https://github.com/stashed/installer/releases/tag/v2024.8.27)
+
+- [7f7b18f1](https://github.com/stashed/installer/commit/7f7b18f1) Prepare for release v2024.8.27 (#343)
+- [ae2d4f99](https://github.com/stashed/installer/commit/ae2d4f99) Use Go 1.23 (#342)
+- [604ef4f3](https://github.com/stashed/installer/commit/604ef4f3) Test against k8s 1.31 (#341)
 
 
 
