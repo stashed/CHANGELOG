@@ -1,0 +1,810 @@
+{
+  "product_line": "Stash",
+  "release": "v2024.8.27",
+  "release_date": "2024-08-28T05:15:53.463078239Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2024.8.27",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "865b404c",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "9f543113",
+              "Subject": "Add condition for backup disruption (#223)"
+            },
+            {
+              "SHA": "36516c28",
+              "Subject": "Use Go 1.23 (#222)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "a4dd874e",
+              "Subject": "Prepare for release v0.35.0 (#204)"
+            },
+            {
+              "SHA": "7fac7e02",
+              "Subject": "Add restic `check` and `rebuild-index` cmd for better repository debugging (#203)"
+            },
+            {
+              "SHA": "6b48bb80",
+              "Subject": "Print output for download cmd (#201)"
+            },
+            {
+              "SHA": "cf294209",
+              "Subject": "Use Go 1.23 (#202)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2024.8.27",
+          "commits": [
+            {
+              "SHA": "00ce37d",
+              "Subject": "Prepare for release v2024.8.27 (#294)"
+            },
+            {
+              "SHA": "6eede55",
+              "Subject": "Use Go 1.23 (#290)"
+            },
+            {
+              "SHA": "e993026",
+              "Subject": "Fix preview"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v32",
+          "commits": [
+            {
+              "SHA": "022bfe28",
+              "Subject": "Prepare for release 5.6.4-v32 (#1547)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v32",
+          "commits": [
+            {
+              "SHA": "a1e71bca",
+              "Subject": "Prepare for release 6.2.4-v32 (#1548)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v32",
+          "commits": [
+            {
+              "SHA": "590c4411",
+              "Subject": "Prepare for release 6.3.0-v32 (#1549)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v32",
+          "commits": [
+            {
+              "SHA": "7da7110e",
+              "Subject": "Prepare for release 6.4.0-v32 (#1550)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v32",
+          "commits": [
+            {
+              "SHA": "0e879140",
+              "Subject": "Prepare for release 6.5.3-v32 (#1551)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v32",
+          "commits": [
+            {
+              "SHA": "65c68556",
+              "Subject": "Prepare for release 6.8.0-v32 (#1552)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v32",
+          "commits": [
+            {
+              "SHA": "83fbb80a",
+              "Subject": "Prepare for release 7.2.0-v32 (#1554)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v32",
+          "commits": [
+            {
+              "SHA": "5659abd7",
+              "Subject": "Prepare for release 7.3.2-v32 (#1555)"
+            },
+            {
+              "SHA": "ac4829c5",
+              "Subject": "Add support for creating space during dashboard restore (#1544)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v18",
+          "commits": [
+            {
+              "SHA": "43d959e5",
+              "Subject": "Prepare for release 7.14.0-v18 (#1553)"
+            },
+            {
+              "SHA": "45964df8",
+              "Subject": "Add support for creating space during dashboard restore (#1545)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v15",
+          "commits": [
+            {
+              "SHA": "def1a44b",
+              "Subject": "Prepare for release 8.2.0-v15 (#1556)"
+            },
+            {
+              "SHA": "f565882f",
+              "Subject": "Add support for creating space during dashboard restore (#1543)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "4f64305b6",
+              "Subject": "Prepare for release v0.35.0 (#255)"
+            },
+            {
+              "SHA": "52835160d",
+              "Subject": "Fix backupsession running issue after deadline exceed (#253)"
+            },
+            {
+              "SHA": "fa5833a75",
+              "Subject": "Use Go 1.23 (#254)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v19",
+          "commits": [
+            {
+              "SHA": "901d0a4",
+              "Subject": "Prepare for release 3.5.0-v19 (#98)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2024.8.27",
+          "commits": [
+            {
+              "SHA": "7f7b18f1",
+              "Subject": "Prepare for release v2024.8.27 (#343)"
+            },
+            {
+              "SHA": "ae2d4f99",
+              "Subject": "Use Go 1.23 (#342)"
+            },
+            {
+              "SHA": "604ef4f3",
+              "Subject": "Test against k8s 1.31 (#341)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v15",
+          "commits": [
+            {
+              "SHA": "f2c07a3",
+              "Subject": "Prepare for release 0.1.0-v15 (#67)"
+            },
+            {
+              "SHA": "92e5c91",
+              "Subject": "Use Go 1.23 (#66) (#69)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v26",
+          "commits": [
+            {
+              "SHA": "b674f8ec",
+              "Subject": "Prepare for release 10.5.8-v26 (#249)"
+            },
+            {
+              "SHA": "a020b223",
+              "Subject": "Use Go 1.23 (#248) (#251)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v32",
+          "commits": [
+            {
+              "SHA": "855e9eb6",
+              "Subject": "Prepare for release 3.4.17-v32 (#2154)"
+            },
+            {
+              "SHA": "671e6536",
+              "Subject": "[cherry-pick] Fix MongoDB url connection str for external databases (#2138) (#2139)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v32",
+          "commits": [
+            {
+              "SHA": "852d1338",
+              "Subject": "Prepare for release 3.4.22-v32 (#2155)"
+            },
+            {
+              "SHA": "e3a34ce3",
+              "Subject": "Fix MongoDB url connection str for external databases (#2138) (#2140)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v32",
+          "commits": [
+            {
+              "SHA": "de6e934e",
+              "Subject": "Prepare for release 3.6.8-v32 (#2157)"
+            },
+            {
+              "SHA": "d440be0d",
+              "Subject": "Fix MongoDB url connection str for external databases (#2138) (#2142)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v32",
+          "commits": [
+            {
+              "SHA": "8098d72f",
+              "Subject": "Prepare for release 3.6.13-v32 (#2156)"
+            },
+            {
+              "SHA": "90b99bb7",
+              "Subject": "Fix MongoDB url connection str for external databases (#2138) (#2141)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v32",
+          "commits": [
+            {
+              "SHA": "864e0893",
+              "Subject": "Prepare for release 4.0.3-v32 (#2159)"
+            },
+            {
+              "SHA": "25de1602",
+              "Subject": "Fix MongoDB url connection str for external databases (#2138) (#2144)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v32",
+          "commits": [
+            {
+              "SHA": "ca4a260f",
+              "Subject": "Prepare for release 4.0.5-v32 (#2160)"
+            },
+            {
+              "SHA": "f056b393",
+              "Subject": "Fix MongoDB url connection str for external databases (#2138) (#2145)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v32",
+          "commits": [
+            {
+              "SHA": "cefa6f1f",
+              "Subject": "Prepare for release 4.0.11-v32 (#2158)"
+            },
+            {
+              "SHA": "71014a6a",
+              "Subject": "Fix MongoDB url connection str for external databases (#2138) (#2143)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v32",
+          "commits": [
+            {
+              "SHA": "02f6b9fe",
+              "Subject": "Prepare for release 4.1.4-v32 (#2162)"
+            },
+            {
+              "SHA": "03dc6c0b",
+              "Subject": "Fix MongoDB url connection str for external databases (#2138) (#2147)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v32",
+          "commits": [
+            {
+              "SHA": "04b231f7",
+              "Subject": "Prepare for release 4.1.7-v32 (#2163)"
+            },
+            {
+              "SHA": "4fba2286",
+              "Subject": "Fix MongoDB url connection str for external databases (#2138) (#2148)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v32",
+          "commits": [
+            {
+              "SHA": "e872ccab",
+              "Subject": "Prepare for release 4.1.13-v32 (#2161)"
+            },
+            {
+              "SHA": "db585560",
+              "Subject": "Fix MongoDB url connection str for external databases (#2138) (#2146)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v32",
+          "commits": [
+            {
+              "SHA": "5ce8589a",
+              "Subject": "Prepare for release 4.2.3-v32 (#2164)"
+            },
+            {
+              "SHA": "b1cba825",
+              "Subject": "Fix MongoDB url connection str for external databases (#2138) (#2149)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v23",
+          "commits": [
+            {
+              "SHA": "4e0a833c",
+              "Subject": "Prepare for release 4.4.6-v23 (#2165)"
+            },
+            {
+              "SHA": "58665885",
+              "Subject": "[cherry-pick] Fix MongoDB url connection str for external databases (#2138) (#2150)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v20",
+          "commits": [
+            {
+              "SHA": "d3add779",
+              "Subject": "Prepare for release 5.0.3-v20 (#2167)"
+            },
+            {
+              "SHA": "1cd5902d",
+              "Subject": "[cherry-pick] Fix MongoDB url connection str for external databases (#2138) (#2152)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.15-v5",
+          "commits": [
+            {
+              "SHA": "e075d41a",
+              "Subject": "Prepare for release 5.0.15-v5 (#2166)"
+            },
+            {
+              "SHA": "f604ef85",
+              "Subject": "[cherry-pick] Fix MongoDB url connection str for external databases (#2138) (#2151)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v8",
+          "commits": [
+            {
+              "SHA": "c5810d8d",
+              "Subject": "Prepare for release 6.0.5-v8 (#2168)"
+            },
+            {
+              "SHA": "10476599",
+              "Subject": "[cherry-pick] Fix MongoDB url connection str for external databases (#2138) (#2153)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v32",
+          "commits": [
+            {
+              "SHA": "dc20d8fa",
+              "Subject": "Prepare for release 5.7.25-v32 (#783)"
+            },
+            {
+              "SHA": "bb4b75c0",
+              "Subject": "Use Go 1.23 (#782) (#791)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v32",
+          "commits": [
+            {
+              "SHA": "3e2f7a10",
+              "Subject": "Prepare for release 8.0.3-v32 (#786)"
+            },
+            {
+              "SHA": "f5b4e4ad",
+              "Subject": "Use Go 1.23 (#782) (#788)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v32",
+          "commits": [
+            {
+              "SHA": "9af04bf3",
+              "Subject": "Prepare for release 8.0.14-v32 (#784)"
+            },
+            {
+              "SHA": "a669d830",
+              "Subject": "Use Go 1.23 (#782) (#790)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v26",
+          "commits": [
+            {
+              "SHA": "05d3f4a3",
+              "Subject": "Prepare for release 8.0.21-v26 (#785)"
+            },
+            {
+              "SHA": "47d1209f",
+              "Subject": "Use Go 1.23 (#782) (#789)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v20",
+          "commits": [
+            {
+              "SHA": "58b60c8",
+              "Subject": "Prepare for release 2.6.1-v20 (#145)"
+            },
+            {
+              "SHA": "2dcb9d1",
+              "Subject": "Remove docker registry support (#150)"
+            },
+            {
+              "SHA": "94005b3",
+              "Subject": "Use Go 1.23 (#144) (#149)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v15",
+          "commits": [
+            {
+              "SHA": "a903d63",
+              "Subject": "Prepare for release 2.8.2-v15 (#146)"
+            },
+            {
+              "SHA": "d6444b9",
+              "Subject": "Remove docker registry support (#151)"
+            },
+            {
+              "SHA": "5742b06",
+              "Subject": "Use Go 1.23 (#144) (#148)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v27",
+          "commits": [
+            {
+              "SHA": "fd5e2104",
+              "Subject": "Prepare for release 5.7-v27 (#322)"
+            },
+            {
+              "SHA": "4dedfa78",
+              "Subject": "Use Go 1.23 (#321) (#324)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v31",
+          "commits": [
+            {
+              "SHA": "8ef9f3d5",
+              "Subject": "Prepare for release 9.6.19-v31 (#1338)"
+            },
+            {
+              "SHA": "c4ace0d3",
+              "Subject": "Get postgresw sslmode from appbinding clientconfig url (#1322) (#1330)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v31",
+          "commits": [
+            {
+              "SHA": "48a9b619",
+              "Subject": "Prepare for release 10.14-v31 (#1331)"
+            },
+            {
+              "SHA": "55607a3e",
+              "Subject": "Get postgresw sslmode from appbinding clientconfig url (#1322) (#1323)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v31",
+          "commits": [
+            {
+              "SHA": "61302a08",
+              "Subject": "Prepare for release 11.9-v31 (#1332)"
+            },
+            {
+              "SHA": "1ffec1f8",
+              "Subject": "Get postgresw sslmode from appbinding clientconfig url (#1322) (#1324)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v31",
+          "commits": [
+            {
+              "SHA": "e159aa8e",
+              "Subject": "Prepare for release 12.4-v31 (#1333)"
+            },
+            {
+              "SHA": "3af46c2d",
+              "Subject": "Get postgresw sslmode from appbinding clientconfig url (#1322) (#1325)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v28",
+          "commits": [
+            {
+              "SHA": "468a1f45",
+              "Subject": "Prepare for release 13.1-v28 (#1334)"
+            },
+            {
+              "SHA": "87232642",
+              "Subject": "Get postgresw sslmode from appbinding clientconfig url (#1322) (#1326)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v20",
+          "commits": [
+            {
+              "SHA": "f6202ce4",
+              "Subject": "Prepare for release 14.0-v20 (#1335)"
+            },
+            {
+              "SHA": "1d419325",
+              "Subject": "Get postgresw sslmode from appbinding clientconfig url (#1322) (#1327)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v12",
+          "commits": [
+            {
+              "SHA": "0937f528",
+              "Subject": "Prepare for release 15.1-v12 (#1336)"
+            },
+            {
+              "SHA": "00d54c52",
+              "Subject": "Get postgresw sslmode from appbinding clientconfig url (#1322) (#1328)"
+            }
+          ]
+        },
+        {
+          "tag": "16.1-v1",
+          "commits": [
+            {
+              "SHA": "b936987e",
+              "Subject": "Prepare for release 16.1-v1 (#1337)"
+            },
+            {
+              "SHA": "7a9f6f98",
+              "Subject": "Get postgresw sslmode from appbinding clientconfig url (#1322) (#1329)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v20",
+          "commits": [
+            {
+              "SHA": "8a1d962",
+              "Subject": "Prepare for release 5.0.13-v20 (#229)"
+            },
+            {
+              "SHA": "2af01a1",
+              "Subject": "Use Go 1.23 (#228) (#235)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v20",
+          "commits": [
+            {
+              "SHA": "5b9b074",
+              "Subject": "Prepare for release 6.2.5-v20 (#230)"
+            },
+            {
+              "SHA": "00a261f",
+              "Subject": "Use Go 1.23 (#228) (#234)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v13",
+          "commits": [
+            {
+              "SHA": "e690a70",
+              "Subject": "Prepare for release 7.0.5-v13 (#231)"
+            },
+            {
+              "SHA": "10f53a9",
+              "Subject": "Use Go 1.23 (#228) (#233)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.35.0",
+          "commits": [
+            {
+              "SHA": "74a2c770d",
+              "Subject": "Prepare for release v0.35.0 (#1577)"
+            },
+            {
+              "SHA": "c1f2acfd9",
+              "Subject": "Use Go 1.23 (#1574)"
+            },
+            {
+              "SHA": "6747863e8",
+              "Subject": "Test against k8s 1.31 (#1573)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.16.0",
+          "commits": [
+            {
+              "SHA": "12b8cc87",
+              "Subject": "Prepare for release v0.16.0 (#41)"
+            },
+            {
+              "SHA": "a3c2e27b",
+              "Subject": "Use Go 1.23 (#40)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v12",
+          "commits": [
+            {
+              "SHA": "21d5420a",
+              "Subject": "Prepare for release 1.10.3-v12 (#42)"
+            },
+            {
+              "SHA": "f16ae4a0",
+              "Subject": "Use Go 1.23 (#41) (#46)"
+            },
+            {
+              "SHA": "9247d6bb",
+              "Subject": "Remove docker registry support (#44)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
