@@ -69,6 +69,12 @@
 - [7731b0f5](https://github.com/stashed/mongodb/commit/7731b0f5) Prepare for release 4.0.11-v33 (#2193)
 
 
+### [4.1.4-v33](https://github.com/stashed/mongodb/releases/tag/4.1.4-v33)
+
+- [169c4084](https://github.com/stashed/mongodb/commit/169c4084) Prepare for release 4.1.4-v33 (#2197)
+- [3c4d0f4c](https://github.com/stashed/mongodb/commit/3c4d0f4c) Fix --oplog and --db arguments error (#2173) (#2182)
+
+
 ### [4.1.13-v33](https://github.com/stashed/mongodb/releases/tag/4.1.13-v33)
 
 - [09f15435](https://github.com/stashed/mongodb/commit/09f15435) Prepare for release 4.1.13-v33 (#2196)
