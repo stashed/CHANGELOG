@@ -10,3 +10,12 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.36.0](https://github.com/stashed/stash/releases/tag/v0.36.0)
+
+- [ef7a17bb](https://github.com/stashed/stash/commit/ef7a17bb4) Prepare for release v0.36.0 (#1581)
+- [f9966814](https://github.com/stashed/stash/commit/f99668149) Use KIND v0.24.0 (#1580)
+
+
+
