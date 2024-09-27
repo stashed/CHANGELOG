@@ -91,6 +91,11 @@
 - [686da5f7](https://github.com/stashed/mongodb/commit/686da5f7) Prepare for release 4.2.3-v33 (#2199)
 
 
+### [4.4.6-v24](https://github.com/stashed/mongodb/releases/tag/4.4.6-v24)
+
+- [cc246f5f](https://github.com/stashed/mongodb/commit/cc246f5f) Prepare for release 4.4.6-v24 (#2200)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
