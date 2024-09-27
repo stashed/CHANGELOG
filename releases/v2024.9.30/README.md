@@ -34,6 +34,12 @@
 - [55f83331](https://github.com/stashed/mongodb/commit/55f83331) Fix --oplog and --db arguments error (#2173) (#2174)
 
 
+### [3.4.22-v33](https://github.com/stashed/mongodb/releases/tag/3.4.22-v33)
+
+- [4f7f60a4](https://github.com/stashed/mongodb/commit/4f7f60a4) Prepare for release 3.4.22-v33 (#2190)
+- [2e9cd2c7](https://github.com/stashed/mongodb/commit/2e9cd2c7) Fix --oplog and --db arguments error (#2173) (#2175)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
