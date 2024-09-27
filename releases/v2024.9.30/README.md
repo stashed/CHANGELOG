@@ -40,6 +40,12 @@
 - [2e9cd2c7](https://github.com/stashed/mongodb/commit/2e9cd2c7) Fix --oplog and --db arguments error (#2173) (#2175)
 
 
+### [3.6.13-v33](https://github.com/stashed/mongodb/releases/tag/3.6.13-v33)
+
+- [dd822eaa](https://github.com/stashed/mongodb/commit/dd822eaa) Prepare for release 3.6.13-v33 (#2191)
+- [b0f73ddf](https://github.com/stashed/mongodb/commit/b0f73ddf) Fix --oplog and --db arguments error (#2173) (#2176)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
