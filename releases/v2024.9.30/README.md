@@ -96,6 +96,11 @@
 - [cc246f5f](https://github.com/stashed/mongodb/commit/cc246f5f) Prepare for release 4.4.6-v24 (#2200)
 
 
+### [5.0.15-v6](https://github.com/stashed/mongodb/releases/tag/5.0.15-v6)
+
+- [7b65267a](https://github.com/stashed/mongodb/commit/7b65267a) Prepare for release 5.0.15-v6 (#2201)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
