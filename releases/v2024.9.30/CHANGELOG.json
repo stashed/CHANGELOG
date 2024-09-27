@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T02:08:59.020183097Z",
+  "release_date": "2024-09-27T02:34:56.690046072Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -33,6 +33,24 @@
             {
               "SHA": "2eb6b48d",
               "Subject": "Prepare for release v0.36.0 (#205)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2024.9.30",
+          "commits": [
+            {
+              "SHA": "e1d2067",
+              "Subject": "Prepare for release v2024.9.30 (#297)"
+            },
+            {
+              "SHA": "dd61776",
+              "Subject": "Use KIND v0.24.0 (#295)"
             }
           ]
         }

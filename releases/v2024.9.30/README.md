@@ -18,6 +18,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2024.9.30](https://github.com/stashed/docs/releases/tag/v2024.9.30)
+
+- [e1d2067](https://github.com/stashed/docs/commit/e1d2067) Prepare for release v2024.9.30 (#297)
+- [dd61776](https://github.com/stashed/docs/commit/dd61776) Use KIND v0.24.0 (#295)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.36.0](https://github.com/stashed/enterprise/releases/tag/v0.36.0)
