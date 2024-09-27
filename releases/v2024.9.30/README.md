@@ -27,3 +27,11 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.17.0](https://github.com/stashed/ui-server/releases/tag/v0.17.0)
+
+- [04e5e6b2](https://github.com/stashed/ui-server/commit/04e5e6b2) Prepare for release v0.17.0 (#42)
+
+
+

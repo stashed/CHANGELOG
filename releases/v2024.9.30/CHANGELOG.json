@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T01:36:03.709452056Z",
+  "release_date": "2024-09-27T01:42:11.965784883Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -51,6 +51,20 @@
             {
               "SHA": "f99668149",
               "Subject": "Use KIND v0.24.0 (#1580)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "04e5e6b2",
+              "Subject": "Prepare for release v0.17.0 (#42)"
             }
           ]
         }
