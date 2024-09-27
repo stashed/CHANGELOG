@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T01:55:06.114944797Z",
+  "release_date": "2024-09-27T01:55:07.546822468Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -152,6 +152,19 @@
             {
               "SHA": "3c4d0f4c",
               "Subject": "Fix --oplog and --db arguments error (#2173) (#2182)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v33",
+          "commits": [
+            {
+              "SHA": "fa94de5b",
+              "Subject": "Prepare for release 4.1.7-v33 (#2198)"
+            },
+            {
+              "SHA": "ffe23f8a",
+              "Subject": "Fix --oplog and --db arguments error (#2173) (#2183)"
             }
           ]
         },
