@@ -1,0 +1,28 @@
+{
+  "product_line": "Stash",
+  "release": "v2024.9.30",
+  "release_date": "2024-09-27T01:12:46.184609014Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2024.9.30",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "c6c78d52",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "46e84c06",
+              "Subject": "Use KIND v0.24.0 (#225)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
