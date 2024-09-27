@@ -1,0 +1,316 @@
+{
+  "product_line": "Stash",
+  "release": "v2024.9.30",
+  "release_date": "2024-09-27T02:34:56.690046072Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2024.9.30",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "c6c78d52",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "46e84c06",
+              "Subject": "Use KIND v0.24.0 (#225)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "2eb6b48d",
+              "Subject": "Prepare for release v0.36.0 (#205)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2024.9.30",
+          "commits": [
+            {
+              "SHA": "e1d2067",
+              "Subject": "Prepare for release v2024.9.30 (#297)"
+            },
+            {
+              "SHA": "dd61776",
+              "Subject": "Use KIND v0.24.0 (#295)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "6f330f412",
+              "Subject": "Prepare for release v0.36.0 (#257)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2024.9.30",
+          "commits": [
+            {
+              "SHA": "189f9cf5",
+              "Subject": "Prepare for release v2024.9.30 (#347)"
+            },
+            {
+              "SHA": "a793309d",
+              "Subject": "Use seccompProfile RuntimeDefault (#346)"
+            },
+            {
+              "SHA": "8356df1e",
+              "Subject": "Add imagelist"
+            },
+            {
+              "SHA": "2e0fec68",
+              "Subject": "Revise metrics config user roles"
+            },
+            {
+              "SHA": "a8b4f092",
+              "Subject": "Revise appcatalog permissions"
+            },
+            {
+              "SHA": "07e82e3d",
+              "Subject": "Revise user roles (#345)"
+            },
+            {
+              "SHA": "145494b9",
+              "Subject": "Use KIND v0.24.0 (#344)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v33",
+          "commits": [
+            {
+              "SHA": "72315b9a",
+              "Subject": "Prepare for release 3.4.17-v33 (#2189)"
+            },
+            {
+              "SHA": "55f83331",
+              "Subject": "Fix --oplog and --db arguments error (#2173) (#2174)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v33",
+          "commits": [
+            {
+              "SHA": "4f7f60a4",
+              "Subject": "Prepare for release 3.4.22-v33 (#2190)"
+            },
+            {
+              "SHA": "2e9cd2c7",
+              "Subject": "Fix --oplog and --db arguments error (#2173) (#2175)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v33",
+          "commits": [
+            {
+              "SHA": "bec1d5db",
+              "Subject": "Prepare for release 3.6.8-v33 (#2192)"
+            },
+            {
+              "SHA": "91ef428b",
+              "Subject": "Fix --oplog and --db arguments error (#2173) (#2177)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v33",
+          "commits": [
+            {
+              "SHA": "dd822eaa",
+              "Subject": "Prepare for release 3.6.13-v33 (#2191)"
+            },
+            {
+              "SHA": "b0f73ddf",
+              "Subject": "Fix --oplog and --db arguments error (#2173) (#2176)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v33",
+          "commits": [
+            {
+              "SHA": "b4921b6f",
+              "Subject": "Prepare for release 4.0.3-v33 (#2194)"
+            },
+            {
+              "SHA": "99eee161",
+              "Subject": "Fix --oplog and --db arguments error (#2173) (#2179)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v33",
+          "commits": [
+            {
+              "SHA": "20b4ac2c",
+              "Subject": "Prepare for release 4.0.5-v33 (#2195)"
+            },
+            {
+              "SHA": "a6d22a7a",
+              "Subject": "Fix --oplog and --db arguments error (#2173) (#2180)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v33",
+          "commits": [
+            {
+              "SHA": "7731b0f5",
+              "Subject": "Prepare for release 4.0.11-v33 (#2193)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v33",
+          "commits": [
+            {
+              "SHA": "169c4084",
+              "Subject": "Prepare for release 4.1.4-v33 (#2197)"
+            },
+            {
+              "SHA": "3c4d0f4c",
+              "Subject": "Fix --oplog and --db arguments error (#2173) (#2182)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v33",
+          "commits": [
+            {
+              "SHA": "fa94de5b",
+              "Subject": "Prepare for release 4.1.7-v33 (#2198)"
+            },
+            {
+              "SHA": "ffe23f8a",
+              "Subject": "Fix --oplog and --db arguments error (#2173) (#2183)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v33",
+          "commits": [
+            {
+              "SHA": "09f15435",
+              "Subject": "Prepare for release 4.1.13-v33 (#2196)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v33",
+          "commits": [
+            {
+              "SHA": "686da5f7",
+              "Subject": "Prepare for release 4.2.3-v33 (#2199)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v24",
+          "commits": [
+            {
+              "SHA": "cc246f5f",
+              "Subject": "Prepare for release 4.4.6-v24 (#2200)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v21",
+          "commits": [
+            {
+              "SHA": "8fd1e40c",
+              "Subject": "Prepare for release 5.0.3-v21 (#2202)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.15-v6",
+          "commits": [
+            {
+              "SHA": "7b65267a",
+              "Subject": "Prepare for release 5.0.15-v6 (#2201)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v9",
+          "commits": [
+            {
+              "SHA": "69244680",
+              "Subject": "Prepare for release 6.0.5-v9 (#2203)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.36.0",
+          "commits": [
+            {
+              "SHA": "ef7a17bb4",
+              "Subject": "Prepare for release v0.36.0 (#1581)"
+            },
+            {
+              "SHA": "f99668149",
+              "Subject": "Use KIND v0.24.0 (#1580)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.17.0",
+          "commits": [
+            {
+              "SHA": "04e5e6b2",
+              "Subject": "Prepare for release v0.17.0 (#42)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
