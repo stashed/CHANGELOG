@@ -26,6 +26,20 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2024.9.30](https://github.com/stashed/installer/releases/tag/v2024.9.30)
+
+- [189f9cf5](https://github.com/stashed/installer/commit/189f9cf5) Prepare for release v2024.9.30 (#347)
+- [a793309d](https://github.com/stashed/installer/commit/a793309d) Use seccompProfile RuntimeDefault (#346)
+- [8356df1e](https://github.com/stashed/installer/commit/8356df1e) Add imagelist
+- [2e0fec68](https://github.com/stashed/installer/commit/2e0fec68) Revise metrics config user roles
+- [a8b4f092](https://github.com/stashed/installer/commit/a8b4f092) Revise appcatalog permissions
+- [07e82e3d](https://github.com/stashed/installer/commit/07e82e3d) Revise user roles (#345)
+- [145494b9](https://github.com/stashed/installer/commit/145494b9) Use KIND v0.24.0 (#344)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v33](https://github.com/stashed/mongodb/releases/tag/3.4.17-v33)

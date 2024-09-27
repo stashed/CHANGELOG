@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.9.30",
-  "release_date": "2024-09-27T01:55:14.322816018Z",
+  "release_date": "2024-09-27T02:08:59.020183097Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.9.30",
   "kubernetes_version": "1.26+",
@@ -47,6 +47,44 @@
             {
               "SHA": "6f330f412",
               "Subject": "Prepare for release v0.36.0 (#257)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2024.9.30",
+          "commits": [
+            {
+              "SHA": "189f9cf5",
+              "Subject": "Prepare for release v2024.9.30 (#347)"
+            },
+            {
+              "SHA": "a793309d",
+              "Subject": "Use seccompProfile RuntimeDefault (#346)"
+            },
+            {
+              "SHA": "8356df1e",
+              "Subject": "Add imagelist"
+            },
+            {
+              "SHA": "2e0fec68",
+              "Subject": "Revise metrics config user roles"
+            },
+            {
+              "SHA": "a8b4f092",
+              "Subject": "Revise appcatalog permissions"
+            },
+            {
+              "SHA": "07e82e3d",
+              "Subject": "Revise user roles (#345)"
+            },
+            {
+              "SHA": "145494b9",
+              "Subject": "Use KIND v0.24.0 (#344)"
             }
           ]
         }
