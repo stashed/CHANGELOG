@@ -10,6 +10,14 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.36.0](https://github.com/stashed/enterprise/releases/tag/v0.36.0)
+
+- [6f330f41](https://github.com/stashed/enterprise/commit/6f330f412) Prepare for release v0.36.0 (#257)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.36.0](https://github.com/stashed/stash/releases/tag/v0.36.0)
