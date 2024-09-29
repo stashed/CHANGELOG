@@ -50,6 +50,14 @@ jobs:
           chmod +x ./crd-importer
           sudo mv ./crd-importer /usr/local/bin/crd-importer
 
+      - name: Install image packer
+        run: |
+          cd /tmp
+          curl -fsSL -O https://github.com/kmodules/image-packer/releases/latest/download/image-packer-linux-amd64.tar.gz
+          tar -xvf image-packer-linux-amd64.tar.gz
+          chmod +x image-packer-linux-amd64
+          sudo mv image-packer-linux-amd64 /usr/local/bin/image-packer
+
       - name: Install Helm 3
         run: |
           curl https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash
