@@ -34,3 +34,12 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.18.0](https://github.com/stashed/ui-server/releases/tag/v0.18.0)
+
+- [c9376e31](https://github.com/stashed/ui-server/commit/c9376e31) Prepare for release v0.18.0 (#44)
+- [7f38e876](https://github.com/stashed/ui-server/commit/7f38e876) Use debian:12 base image (#43)
+
+
+
