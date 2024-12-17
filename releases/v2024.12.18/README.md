@@ -190,6 +190,12 @@
 - [476f673d](https://github.com/stashed/mongodb/commit/476f673d) Use debian:12 base image (#2205) (#2218)
 
 
+### [6.0.5-v10](https://github.com/stashed/mongodb/releases/tag/6.0.5-v10)
+
+- [bb7a2e10](https://github.com/stashed/mongodb/commit/bb7a2e10) Prepare for release 6.0.5-v10 (#2235)
+- [85edc0ff](https://github.com/stashed/mongodb/commit/85edc0ff) Use debian:12 base image (#2205) (#2220)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
