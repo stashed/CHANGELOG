@@ -31,6 +31,17 @@
 
 
 
+## [stashed/postgres](https://github.com/stashed/postgres)
+
+### [10.14-v32](https://github.com/stashed/postgres/releases/tag/10.14-v32)
+
+- [aa4657a6](https://github.com/stashed/postgres/commit/aa4657a6) Prepare for release 10.14-v32 (#1366)
+- [9bbd920b](https://github.com/stashed/postgres/commit/9bbd920b) Use debian:12 base image (#1356) (#1357)
+- [3b30ab34](https://github.com/stashed/postgres/commit/3b30ab34) Fix ci (#1348)
+- [7f5e6613](https://github.com/stashed/postgres/commit/7f5e6613) Remove docker registry (#1340)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.37.0](https://github.com/stashed/stash/releases/tag/v0.37.0)
