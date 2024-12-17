@@ -86,6 +86,13 @@
 - [3275d2b7](https://github.com/stashed/elasticsearch/commit/3275d2b7) Remove docker registry support (#1564)
 
 
+### [8.2.0-v16](https://github.com/stashed/elasticsearch/releases/tag/8.2.0-v16)
+
+- [22c08e5e](https://github.com/stashed/elasticsearch/commit/22c08e5e) Prepare for release 8.2.0-v16 (#1588)
+- [a1fa89fb](https://github.com/stashed/elasticsearch/commit/a1fa89fb) Use debian:12 base image (#1568) (#1578)
+- [3953e658](https://github.com/stashed/elasticsearch/commit/3953e658) Remove docker registry support (#1567)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
