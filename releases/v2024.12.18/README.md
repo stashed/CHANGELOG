@@ -65,6 +65,13 @@
 - [0d6061c6](https://github.com/stashed/elasticsearch/commit/0d6061c6) Remove docker registry support (#1563)
 
 
+### [7.2.0-v33](https://github.com/stashed/elasticsearch/releases/tag/7.2.0-v33)
+
+- [f6fc183c](https://github.com/stashed/elasticsearch/commit/f6fc183c) Prepare for release 7.2.0-v33 (#1586)
+- [2c36fd90](https://github.com/stashed/elasticsearch/commit/2c36fd90) Use debian:12 base image (#1568) (#1576)
+- [67539698](https://github.com/stashed/elasticsearch/commit/67539698) Remove docker registry support (#1565)
+
+
 ### [7.14.0-v19](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v19)
 
 - [123a2ac8](https://github.com/stashed/elasticsearch/commit/123a2ac8) Prepare for release 7.14.0-v19 (#1585)
