@@ -33,6 +33,14 @@
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
+### [9.6.19-v32](https://github.com/stashed/postgres/releases/tag/9.6.19-v32)
+
+- [3bae251e](https://github.com/stashed/postgres/commit/3bae251e) Prepare for release 9.6.19-v32 (#1373)
+- [c555e6b8](https://github.com/stashed/postgres/commit/c555e6b8) Use debian:12 base image (#1356) (#1364)
+- [5605ba9c](https://github.com/stashed/postgres/commit/5605ba9c) Fix ci (#1355)
+- [4bb344d5](https://github.com/stashed/postgres/commit/4bb344d5) Remove docker registry (#1347)
+
+
 ### [10.14-v32](https://github.com/stashed/postgres/releases/tag/10.14-v32)
 
 - [aa4657a6](https://github.com/stashed/postgres/commit/aa4657a6) Prepare for release 10.14-v32 (#1366)
