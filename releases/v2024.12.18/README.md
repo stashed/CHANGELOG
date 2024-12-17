@@ -30,6 +30,13 @@
 - [505c24be](https://github.com/stashed/elasticsearch/commit/505c24be) Remove docker registry support (#1558)
 
 
+### [6.2.4-v33](https://github.com/stashed/elasticsearch/releases/tag/6.2.4-v33)
+
+- [a88234a3](https://github.com/stashed/elasticsearch/commit/a88234a3) Prepare for release 6.2.4-v33 (#1580)
+- [c2bf0ea4](https://github.com/stashed/elasticsearch/commit/c2bf0ea4) [cherry-pick] Use debian:12 base image (#1568) (#1570)
+- [9fe5b292](https://github.com/stashed/elasticsearch/commit/9fe5b292) Remove docker registry support (#1559)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
