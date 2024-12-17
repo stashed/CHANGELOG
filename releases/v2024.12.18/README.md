@@ -178,6 +178,12 @@
 - [b37818d5](https://github.com/stashed/mongodb/commit/b37818d5) Use debian:12 base image (#2205) (#2217)
 
 
+### [5.0.15-v7](https://github.com/stashed/mongodb/releases/tag/5.0.15-v7)
+
+- [d80984a1](https://github.com/stashed/mongodb/commit/d80984a1) Prepare for release 5.0.15-v7 (#2233)
+- [476f673d](https://github.com/stashed/mongodb/commit/476f673d) Use debian:12 base image (#2205) (#2218)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
