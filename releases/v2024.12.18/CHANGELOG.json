@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.12.18",
-  "release_date": "2024-12-17T22:12:57.682783504Z",
+  "release_date": "2024-12-17T22:12:58.790750792Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -101,6 +101,23 @@
             {
               "SHA": "01e177ca",
               "Subject": "Remove docker registry support (#1560)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v33",
+          "commits": [
+            {
+              "SHA": "542f3af6",
+              "Subject": "Prepare for release 6.4.0-v33 (#1582)"
+            },
+            {
+              "SHA": "9cb0f847",
+              "Subject": "Use debian:12 base image (#1568) (#1572)"
+            },
+            {
+              "SHA": "fe39fce0",
+              "Subject": "Remove docker registry support (#1561)"
             }
           ]
         }
