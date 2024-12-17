@@ -13,6 +13,16 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.37.0](https://github.com/stashed/enterprise/releases/tag/v0.37.0)
+
+- [bd5b4582](https://github.com/stashed/enterprise/commit/bd5b45826) Prepare for release v0.37.0 (#260)
+- [ce7dcec5](https://github.com/stashed/enterprise/commit/ce7dcec59) Use debian:12 base image (#259)
+- [2cc2b868](https://github.com/stashed/enterprise/commit/2cc2b8689) Use debian:12 base image (#258)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.37.0](https://github.com/stashed/stash/releases/tag/v0.37.0)
