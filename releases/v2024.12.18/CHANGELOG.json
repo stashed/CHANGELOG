@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.12.18",
-  "release_date": "2024-12-17T21:58:41.700770777Z",
+  "release_date": "2024-12-17T21:58:42.846519463Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -221,6 +221,10 @@
               "Subject": "Remove docker registry (#1346)"
             }
           ]
+        },
+        {
+          "tag": "17.2",
+          "commits": null
         }
       ]
     },

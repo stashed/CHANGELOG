@@ -89,6 +89,10 @@
 - [3b2ec15c](https://github.com/stashed/postgres/commit/3b2ec15c) Remove docker registry (#1346)
 
 
+### [17.2](https://github.com/stashed/postgres/releases/tag/17.2)
+
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
