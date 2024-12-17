@@ -166,6 +166,12 @@
 - [19c6d407](https://github.com/stashed/mongodb/commit/19c6d407) Use debian:12 base image (#2205) (#2213)
 
 
+### [4.2.3-v34](https://github.com/stashed/mongodb/releases/tag/4.2.3-v34)
+
+- [21242246](https://github.com/stashed/mongodb/commit/21242246) Prepare for release 4.2.3-v34 (#2231)
+- [153a446f](https://github.com/stashed/mongodb/commit/153a446f) Use debian:12 base image (#2205) (#2216)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
