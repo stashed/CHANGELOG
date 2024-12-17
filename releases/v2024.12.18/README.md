@@ -21,6 +21,16 @@
 
 
 
+## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
+
+### [5.6.4-v33](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v33)
+
+- [fa5b7b2f](https://github.com/stashed/elasticsearch/commit/fa5b7b2f) Prepare for release 5.6.4-v33 (#1579)
+- [3b38c8bd](https://github.com/stashed/elasticsearch/commit/3b38c8bd) Use debian:12 base image (#1568) (#1569)
+- [505c24be](https://github.com/stashed/elasticsearch/commit/505c24be) Remove docker registry support (#1558)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.37.0](https://github.com/stashed/enterprise/releases/tag/v0.37.0)
