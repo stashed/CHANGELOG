@@ -49,6 +49,14 @@
 - [1c5830ee](https://github.com/stashed/postgres/commit/1c5830ee) Remove docker registry (#1341)
 
 
+### [12.4-v32](https://github.com/stashed/postgres/releases/tag/12.4-v32)
+
+- [529981a3](https://github.com/stashed/postgres/commit/529981a3) Prepare for release 12.4-v32 (#1368)
+- [f7e4e660](https://github.com/stashed/postgres/commit/f7e4e660) Use debian:12 base image (#1356) (#1359)
+- [557c5946](https://github.com/stashed/postgres/commit/557c5946) Fix ci (#1350)
+- [90f32a1f](https://github.com/stashed/postgres/commit/90f32a1f) Remove docker registry (#1342)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
