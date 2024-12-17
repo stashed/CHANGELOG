@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.12.18",
-  "release_date": "2024-12-17T22:13:06.322955605Z",
+  "release_date": "2024-12-17T22:25:34.317020699Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -242,6 +242,24 @@
             {
               "SHA": "2cc2b8689",
               "Subject": "Use debian:12 base image (#258)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v34",
+          "commits": [
+            {
+              "SHA": "b99e6dd1",
+              "Subject": "Prepare for release 3.4.17-v34 (#2221)"
+            },
+            {
+              "SHA": "9554ccd0",
+              "Subject": "Use debian:12 base image (#2205) (#2206)"
             }
           ]
         }
