@@ -118,6 +118,12 @@
 - [070a6a8c](https://github.com/stashed/mongodb/commit/070a6a8c) Use debian:12 base image (#2205) (#2207)
 
 
+### [3.6.8-v34](https://github.com/stashed/mongodb/releases/tag/3.6.8-v34)
+
+- [6337c127](https://github.com/stashed/mongodb/commit/6337c127) Prepare for release 3.6.8-v34 (#2224)
+- [7174720b](https://github.com/stashed/mongodb/commit/7174720b) Use debian:12 base image (#2205) (#2209)
+
+
 ### [3.6.13-v34](https://github.com/stashed/mongodb/releases/tag/3.6.13-v34)
 
 - [39b9cd24](https://github.com/stashed/mongodb/commit/39b9cd24) Prepare for release 3.6.13-v34 (#2223)
