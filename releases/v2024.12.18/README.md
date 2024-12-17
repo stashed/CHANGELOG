@@ -13,3 +13,14 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.37.0](https://github.com/stashed/stash/releases/tag/v0.37.0)
+
+- [a4703c42](https://github.com/stashed/stash/commit/a4703c429) Prepare for release v0.37.0 (#1587)
+- [771f9c2a](https://github.com/stashed/stash/commit/771f9c2a0) Use kind v0.25.0 (#1585)
+- [6692288a](https://github.com/stashed/stash/commit/6692288a3) Use debian:12 base image (#1584)
+- [018ff2f7](https://github.com/stashed/stash/commit/018ff2f7f) Use debian:12 base image (#1582)
+
+
+
