@@ -81,6 +81,14 @@
 - [dda4a557](https://github.com/stashed/postgres/commit/dda4a557) Remove docker registry (#1345)
 
 
+### [16.1-v2](https://github.com/stashed/postgres/releases/tag/16.1-v2)
+
+- [b78b6322](https://github.com/stashed/postgres/commit/b78b6322) Prepare for release 16.1-v2 (#1372)
+- [8352a9b3](https://github.com/stashed/postgres/commit/8352a9b3) Use debian:12 base image (#1356) (#1363)
+- [b07338b7](https://github.com/stashed/postgres/commit/b07338b7) Fix ci (#1354)
+- [3b2ec15c](https://github.com/stashed/postgres/commit/3b2ec15c) Remove docker registry (#1346)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
