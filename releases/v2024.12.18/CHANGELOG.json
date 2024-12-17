@@ -1,0 +1,40 @@
+{
+  "product_line": "Stash",
+  "release": "v2024.12.18",
+  "release_date": "2024-12-17T19:42:28.10579177Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2024.12.18",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.37.0",
+          "commits": [
+            {
+              "SHA": "8f07b3c5",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "0cab85aa",
+              "Subject": "Run dump command in bash shell (#228)"
+            },
+            {
+              "SHA": "fb4061fd",
+              "Subject": "Add support for templating for exec hook command (#229)"
+            },
+            {
+              "SHA": "2e1520fd",
+              "Subject": "Use kind v0.25.0 (#227)"
+            },
+            {
+              "SHA": "785bc7ee",
+              "Subject": "Use debian:12 base image (#226)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
