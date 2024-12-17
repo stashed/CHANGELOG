@@ -58,6 +58,13 @@
 - [d1e0a4cc](https://github.com/stashed/elasticsearch/commit/d1e0a4cc) Remove docker registry support (#1562)
 
 
+### [6.8.0-v33](https://github.com/stashed/elasticsearch/releases/tag/6.8.0-v33)
+
+- [65ee63c2](https://github.com/stashed/elasticsearch/commit/65ee63c2) Prepare for release 6.8.0-v33 (#1584)
+- [fcf09b2f](https://github.com/stashed/elasticsearch/commit/fcf09b2f) Use debian:12 base image (#1568) (#1574)
+- [0d6061c6](https://github.com/stashed/elasticsearch/commit/0d6061c6) Remove docker registry support (#1563)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
