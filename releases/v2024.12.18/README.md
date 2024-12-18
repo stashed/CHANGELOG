@@ -319,6 +319,13 @@
 - [b35422d](https://github.com/stashed/redis/commit/b35422d) Remove docker registry (#236)
 
 
+### [6.2.5-v21](https://github.com/stashed/redis/releases/tag/6.2.5-v21)
+
+- [8cadd6c](https://github.com/stashed/redis/commit/8cadd6c) Prepare for release 6.2.5-v21 (#244)
+- [e4c7393](https://github.com/stashed/redis/commit/e4c7393) Use debian:12 base image (#239) (#241)
+- [b4aa39f](https://github.com/stashed/redis/commit/b4aa39f) Remove docker registry (#237)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
