@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.12.18",
-  "release_date": "2024-12-18T03:21:25.32984438Z",
+  "release_date": "2024-12-18T03:28:11.505120097Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -541,6 +541,28 @@
             {
               "SHA": "a1c214b1",
               "Subject": "Remove docker registry support (#794)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v28",
+          "commits": [
+            {
+              "SHA": "a27e9057",
+              "Subject": "Prepare for release 5.7-v28 (#329)"
+            },
+            {
+              "SHA": "b1ed0e79",
+              "Subject": "Use debian:12 base image (#327) (#328)"
+            },
+            {
+              "SHA": "f09b7459",
+              "Subject": "[cherry-pick] Use debian:12 base image (#325) (#326)"
             }
           ]
         }

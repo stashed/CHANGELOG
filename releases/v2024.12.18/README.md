@@ -239,6 +239,16 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v28](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v28)
+
+- [a27e9057](https://github.com/stashed/percona-xtradb/commit/a27e9057) Prepare for release 5.7-v28 (#329)
+- [b1ed0e79](https://github.com/stashed/percona-xtradb/commit/b1ed0e79) Use debian:12 base image (#327) (#328)
+- [f09b7459](https://github.com/stashed/percona-xtradb/commit/f09b7459) [cherry-pick] Use debian:12 base image (#325) (#326)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v32](https://github.com/stashed/postgres/releases/tag/9.6.19-v32)
