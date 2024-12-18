@@ -104,6 +104,15 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v20](https://github.com/stashed/etcd/releases/tag/3.5.0-v20)
+
+- [5e4749a](https://github.com/stashed/etcd/commit/5e4749a) Prepare for release 3.5.0-v20 (#106)
+- [75abfaa](https://github.com/stashed/etcd/commit/75abfaa) [cherry-pick] Use debian:12 base image (#104) (#105)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v27](https://github.com/stashed/mariadb/releases/tag/10.5.8-v27)
