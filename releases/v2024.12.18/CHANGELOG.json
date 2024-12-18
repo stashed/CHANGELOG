@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.12.18",
-  "release_date": "2024-12-18T08:33:15.989756241Z",
+  "release_date": "2024-12-18T11:29:56.644318029Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -260,6 +260,68 @@
             {
               "SHA": "75abfaa",
               "Subject": "[cherry-pick] Use debian:12 base image (#104) (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2024.12.18",
+          "commits": [
+            {
+              "SHA": "848c27da",
+              "Subject": "Prepare for release v2024.12.18 (#381)"
+            },
+            {
+              "SHA": "f3a6becb",
+              "Subject": "Check image arch (#377)"
+            },
+            {
+              "SHA": "96d42726",
+              "Subject": "Add `multi-dump-args` in backup arguments section (#373)"
+            },
+            {
+              "SHA": "c69f9823",
+              "Subject": "Update cve report (#379)"
+            },
+            {
+              "SHA": "3acacc8f",
+              "Subject": "Update cve report (#378)"
+            },
+            {
+              "SHA": "00187530",
+              "Subject": "Update cve report (#376)"
+            },
+            {
+              "SHA": "0ffdef58",
+              "Subject": "Update cve report (#375)"
+            },
+            {
+              "SHA": "1049873b",
+              "Subject": "Update cve report (#374)"
+            },
+            {
+              "SHA": "cc0e41e3",
+              "Subject": "Update cve report (#372)"
+            },
+            {
+              "SHA": "fc059f8d",
+              "Subject": "Update cve report (#371)"
+            },
+            {
+              "SHA": "bed81bf8",
+              "Subject": "Use kind v0.25.0 (#370)"
+            },
+            {
+              "SHA": "79852fb8",
+              "Subject": "Update cve report (#369)"
+            },
+            {
+              "SHA": "5b58fc1e",
+              "Subject": "Update cve report (#368)"
             }
           ]
         }

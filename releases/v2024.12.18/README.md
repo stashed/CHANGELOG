@@ -113,6 +113,26 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2024.12.18](https://github.com/stashed/installer/releases/tag/v2024.12.18)
+
+- [848c27da](https://github.com/stashed/installer/commit/848c27da) Prepare for release v2024.12.18 (#381)
+- [f3a6becb](https://github.com/stashed/installer/commit/f3a6becb) Check image arch (#377)
+- [96d42726](https://github.com/stashed/installer/commit/96d42726) Add `multi-dump-args` in backup arguments section (#373)
+- [c69f9823](https://github.com/stashed/installer/commit/c69f9823) Update cve report (#379)
+- [3acacc8f](https://github.com/stashed/installer/commit/3acacc8f) Update cve report (#378)
+- [00187530](https://github.com/stashed/installer/commit/00187530) Update cve report (#376)
+- [0ffdef58](https://github.com/stashed/installer/commit/0ffdef58) Update cve report (#375)
+- [1049873b](https://github.com/stashed/installer/commit/1049873b) Update cve report (#374)
+- [cc0e41e3](https://github.com/stashed/installer/commit/cc0e41e3) Update cve report (#372)
+- [fc059f8d](https://github.com/stashed/installer/commit/fc059f8d) Update cve report (#371)
+- [bed81bf8](https://github.com/stashed/installer/commit/bed81bf8) Use kind v0.25.0 (#370)
+- [79852fb8](https://github.com/stashed/installer/commit/79852fb8) Update cve report (#369)
+- [5b58fc1e](https://github.com/stashed/installer/commit/5b58fc1e) Update cve report (#368)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.1.0-v16](https://github.com/stashed/kubedump/releases/tag/0.1.0-v16)
