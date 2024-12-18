@@ -113,6 +113,16 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.1.0-v16](https://github.com/stashed/kubedump/releases/tag/0.1.0-v16)
+
+- [7b4ed69](https://github.com/stashed/kubedump/commit/7b4ed69) Prepare for release 0.1.0-v16 (#74)
+- [0e56b50](https://github.com/stashed/kubedump/commit/0e56b50) Use debian:12 base image (#72) (#73)
+- [77f8072](https://github.com/stashed/kubedump/commit/77f8072) [cherry-pick] Use debian:12 base image (#70) (#71)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v27](https://github.com/stashed/mariadb/releases/tag/10.5.8-v27)

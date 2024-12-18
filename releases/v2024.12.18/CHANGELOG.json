@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.12.18",
-  "release_date": "2024-12-18T07:15:38.814803625Z",
+  "release_date": "2024-12-18T08:25:48.955650992Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -260,6 +260,28 @@
             {
               "SHA": "75abfaa",
               "Subject": "[cherry-pick] Use debian:12 base image (#104) (#105)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.1.0-v16",
+          "commits": [
+            {
+              "SHA": "7b4ed69",
+              "Subject": "Prepare for release 0.1.0-v16 (#74)"
+            },
+            {
+              "SHA": "0e56b50",
+              "Subject": "Use debian:12 base image (#72) (#73)"
+            },
+            {
+              "SHA": "77f8072",
+              "Subject": "[cherry-pick] Use debian:12 base image (#70) (#71)"
             }
           ]
         }
