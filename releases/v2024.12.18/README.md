@@ -326,6 +326,12 @@
 - [b4aa39f](https://github.com/stashed/redis/commit/b4aa39f) Remove docker registry (#237)
 
 
+### [7.0.5-v14](https://github.com/stashed/redis/releases/tag/7.0.5-v14)
+
+- [e3ac0a9](https://github.com/stashed/redis/commit/e3ac0a9) Prepare for release 7.0.5-v14 (#246)
+- [09d4fbd](https://github.com/stashed/redis/commit/09d4fbd) Use debian:12 base image (#239) (#242)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
