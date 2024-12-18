@@ -205,6 +205,14 @@
 - [d66c5633](https://github.com/stashed/mysql/commit/d66c5633) [cherry-pick] Add support for providing multiple dump args (#802) (#803)
 
 
+### [8.0.14-v33](https://github.com/stashed/mysql/releases/tag/8.0.14-v33)
+
+- [c600101a](https://github.com/stashed/mysql/commit/c600101a) Prepare for release 8.0.14-v33 (#808)
+- [6ad5f067](https://github.com/stashed/mysql/commit/6ad5f067) [cherry-pick] Add support for providing multiple dump args (#802) (#804)
+- [4519bfaa](https://github.com/stashed/mysql/commit/4519bfaa) [cherry-pick] Use debian:12 base image (#796) (#798)
+- [240674b5](https://github.com/stashed/mysql/commit/240674b5) Remove docker registry support (#793)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
