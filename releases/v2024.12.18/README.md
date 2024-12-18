@@ -1,4 +1,4 @@
-# Stash v2024.12.18 (2024-12-17)
+# Stash v2024.12.18 (2024-12-18)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
@@ -194,6 +194,15 @@
 
 - [bb7a2e10](https://github.com/stashed/mongodb/commit/bb7a2e10) Prepare for release 6.0.5-v10 (#2235)
 - [85edc0ff](https://github.com/stashed/mongodb/commit/85edc0ff) Use debian:12 base image (#2205) (#2220)
+
+
+
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v34](https://github.com/stashed/mysql/releases/tag/5.7.25-v34)
+
+- [58817a8a](https://github.com/stashed/mysql/commit/58817a8a) Prepare for release 5.7.25-v33 (#807)
+- [d66c5633](https://github.com/stashed/mysql/commit/d66c5633) [cherry-pick] Add support for providing multiple dump args (#802) (#803)
 
 
 
