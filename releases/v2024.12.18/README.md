@@ -104,6 +104,15 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v27](https://github.com/stashed/mariadb/releases/tag/10.5.8-v27)
+
+- [dbc3a4e6](https://github.com/stashed/mariadb/commit/dbc3a4e6) Prepare for release 10.5.8-v27 (#254)
+- [725695de](https://github.com/stashed/mariadb/commit/725695de) [cherry-pick] Use debian:12 base image (#252) (#253)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v34](https://github.com/stashed/mongodb/releases/tag/3.4.17-v34)
