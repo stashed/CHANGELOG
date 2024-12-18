@@ -310,6 +310,16 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v21](https://github.com/stashed/redis/releases/tag/5.0.13-v21)
+
+- [0eb9fce](https://github.com/stashed/redis/commit/0eb9fce) Prepare for release 5.0.13-v21 (#243)
+- [5a8f4c0](https://github.com/stashed/redis/commit/5a8f4c0) Use debian:12 base image (#239) (#240)
+- [b35422d](https://github.com/stashed/redis/commit/b35422d) Remove docker registry (#236)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.37.0](https://github.com/stashed/stash/releases/tag/v0.37.0)

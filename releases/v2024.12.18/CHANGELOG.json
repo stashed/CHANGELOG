@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.12.18",
-  "release_date": "2024-12-18T03:02:07.424377587Z",
+  "release_date": "2024-12-18T03:21:22.951464661Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -720,6 +720,28 @@
         {
           "tag": "17.2",
           "commits": null
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v21",
+          "commits": [
+            {
+              "SHA": "0eb9fce",
+              "Subject": "Prepare for release 5.0.13-v21 (#243)"
+            },
+            {
+              "SHA": "5a8f4c0",
+              "Subject": "Use debian:12 base image (#239) (#240)"
+            },
+            {
+              "SHA": "b35422d",
+              "Subject": "Remove docker registry (#236)"
+            }
+          ]
         }
       ]
     },
