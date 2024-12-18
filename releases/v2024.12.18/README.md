@@ -248,6 +248,13 @@
 - [157dde7](https://github.com/stashed/nats/commit/157dde7) Use debian:12 base image (#154) (#155)
 
 
+### [2.8.2-v16](https://github.com/stashed/nats/releases/tag/2.8.2-v16)
+
+- [dae9f36](https://github.com/stashed/nats/commit/dae9f36) Prepare for release 2.8.2-v16 (#161)
+- [0cbaec7](https://github.com/stashed/nats/commit/0cbaec7) [cherry-pick] Use debian:12 base image (#157) (#159)
+- [0530b04](https://github.com/stashed/nats/commit/0530b04) [cherry-pick] Use debian:12 base image (#154) (#156)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
