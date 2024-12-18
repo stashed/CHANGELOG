@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2024.12.18",
-  "release_date": "2024-12-18T02:55:23.652045355Z",
+  "release_date": "2024-12-18T02:55:24.881808732Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2024.12.18",
   "kubernetes_version": "1.26+",
@@ -460,6 +460,27 @@
             {
               "SHA": "d66c5633",
               "Subject": "[cherry-pick] Add support for providing multiple dump args (#802) (#803)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v33",
+          "commits": [
+            {
+              "SHA": "683a19f1",
+              "Subject": "Prepare for release 8.0.3-v33 (#810)"
+            },
+            {
+              "SHA": "07d774a0",
+              "Subject": "[cherry-pick] Add support for providing multiple dump args (#802) (#806)"
+            },
+            {
+              "SHA": "cc9420a7",
+              "Subject": "[cherry-pick] Use debian:12 base image (#796) (#800)"
+            },
+            {
+              "SHA": "7533b851",
+              "Subject": "Remove docker registry support (#795)"
             }
           ]
         },
