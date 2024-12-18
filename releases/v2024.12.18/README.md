@@ -239,6 +239,16 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v21](https://github.com/stashed/nats/releases/tag/2.6.1-v21)
+
+- [434cc9a](https://github.com/stashed/nats/commit/434cc9a) Prepare for release 2.6.1-v21 (#160)
+- [c905550](https://github.com/stashed/nats/commit/c905550) Use debian:12 base image (#157) (#158)
+- [157dde7](https://github.com/stashed/nats/commit/157dde7) Use debian:12 base image (#154) (#155)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v28](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v28)
