@@ -21,6 +21,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2024.12.18](https://github.com/stashed/docs/releases/tag/v2024.12.18)
+
+- [d43734c](https://github.com/stashed/docs/commit/d43734c) Prepare for release v2024.12.18 (#300)
+- [4ed9a44](https://github.com/stashed/docs/commit/4ed9a44) Use kind v0.25.0 (#298)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v33](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v33)
