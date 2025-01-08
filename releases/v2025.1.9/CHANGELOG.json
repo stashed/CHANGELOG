@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T14:47:23.349526886Z",
+  "release_date": "2025-01-08T14:55:48.442422599Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -358,6 +358,20 @@
             {
               "SHA": "c863e013",
               "Subject": "Update github action modules (#2237) (#2252)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v35",
+          "commits": [
+            {
+              "SHA": "575329d2",
+              "Subject": "Prepare for release 5.7.25-v35 (#815)"
             }
           ]
         }

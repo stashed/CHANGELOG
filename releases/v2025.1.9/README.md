@@ -176,6 +176,14 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v35](https://github.com/stashed/mysql/releases/tag/5.7.25-v35)
+
+- [575329d2](https://github.com/stashed/mysql/commit/575329d2) Prepare for release 5.7.25-v35 (#815)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v33](https://github.com/stashed/postgres/releases/tag/9.6.19-v33)
