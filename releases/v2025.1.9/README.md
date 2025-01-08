@@ -11,6 +11,16 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.38.0](https://github.com/stashed/cli/releases/tag/v0.38.0)
+
+- [cad2245d](https://github.com/stashed/cli/commit/cad2245d) Prepare for release v0.38.0 (#209)
+- [8a3c87ab](https://github.com/stashed/cli/commit/8a3c87ab) Update website link
+- [107959f1](https://github.com/stashed/cli/commit/107959f1) Update github action modules (#207)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.38.0](https://github.com/stashed/enterprise/releases/tag/v0.38.0)
