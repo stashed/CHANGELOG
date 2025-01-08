@@ -11,6 +11,15 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.38.0](https://github.com/stashed/enterprise/releases/tag/v0.38.0)
+
+- [9d7359fb](https://github.com/stashed/enterprise/commit/9d7359fb0) Prepare for release v0.38.0 (#263)
+- [ff2132de](https://github.com/stashed/enterprise/commit/ff2132ded) Update github action modules (#261)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.38.0](https://github.com/stashed/stash/releases/tag/v0.38.0)
