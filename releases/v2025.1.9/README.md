@@ -286,6 +286,11 @@
 - [92e7938b](https://github.com/stashed/postgres/commit/92e7938b) Prepare for release 16.1-v3 (#1384)
 
 
+### [17.2-v1](https://github.com/stashed/postgres/releases/tag/17.2-v1)
+
+- [2bcfcf25](https://github.com/stashed/postgres/commit/2bcfcf25) Prepare for release v2025.1.9 (#1386) (#1387)
+
+
 
 ## [stashed/redis](https://github.com/stashed/redis)
 
