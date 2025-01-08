@@ -48,6 +48,11 @@
 - [134e2307](https://github.com/stashed/elasticsearch/commit/134e2307) Prepare for release 6.5.3-v34 (#1596)
 
 
+### [6.8.0-v34](https://github.com/stashed/elasticsearch/releases/tag/6.8.0-v34)
+
+- [fbbbd83e](https://github.com/stashed/elasticsearch/commit/fbbbd83e) Prepare for release 6.8.0-v34 (#1597)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
