@@ -151,6 +151,12 @@
 - [c33a7092](https://github.com/stashed/mongodb/commit/c33a7092) Update github action modules (#2237) (#2248)
 
 
+### [4.4.6-v26](https://github.com/stashed/mongodb/releases/tag/4.4.6-v26)
+
+- [d39714ec](https://github.com/stashed/mongodb/commit/d39714ec) Prepare for release 4.4.6-v26 (#2264)
+- [a2f27a49](https://github.com/stashed/mongodb/commit/a2f27a49) Update github action modules (#2237) (#2249)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
