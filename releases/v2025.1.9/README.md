@@ -38,6 +38,11 @@
 - [e236c166](https://github.com/stashed/elasticsearch/commit/e236c166) Prepare for release 6.3.0-v34 (#1594)
 
 
+### [6.4.0-v34](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v34)
+
+- [26ce88af](https://github.com/stashed/elasticsearch/commit/26ce88af) Prepare for release 6.4.0-v34 (#1595)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
