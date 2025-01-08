@@ -83,6 +83,14 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v21](https://github.com/stashed/etcd/releases/tag/3.5.0-v21)
+
+- [faff449](https://github.com/stashed/etcd/commit/faff449) Prepare for release 3.5.0-v21 (#110)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v28](https://github.com/stashed/mariadb/releases/tag/10.5.8-v28)
