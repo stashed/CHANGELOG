@@ -47,6 +47,11 @@
 - [86ac876c](https://github.com/stashed/postgres/commit/86ac876c) Prepare for release 12.4-v33 (#1380)
 
 
+### [13.1-v30](https://github.com/stashed/postgres/releases/tag/13.1-v30)
+
+- [41819e5f](https://github.com/stashed/postgres/commit/41819e5f) Prepare for release 13.1-v30 (#1381)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
