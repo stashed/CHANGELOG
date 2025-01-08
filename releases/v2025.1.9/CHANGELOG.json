@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T14:25:08.746978554Z",
+  "release_date": "2025-01-08T14:37:41.705230377Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -45,6 +45,20 @@
             {
               "SHA": "107959f1",
               "Subject": "Update github action modules (#207)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v34",
+          "commits": [
+            {
+              "SHA": "bde4b6d0",
+              "Subject": "Prepare for release 5.6.4-v34 (#1592)"
             }
           ]
         }
