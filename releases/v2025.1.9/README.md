@@ -145,6 +145,12 @@
 - [d2258afc](https://github.com/stashed/mongodb/commit/d2258afc) Update github action modules (#2237) (#2245)
 
 
+### [4.2.3-v35](https://github.com/stashed/mongodb/releases/tag/4.2.3-v35)
+
+- [ec44fe21](https://github.com/stashed/mongodb/commit/ec44fe21) Prepare for release 4.2.3-v35 (#2263)
+- [c33a7092](https://github.com/stashed/mongodb/commit/c33a7092) Update github action modules (#2237) (#2248)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
