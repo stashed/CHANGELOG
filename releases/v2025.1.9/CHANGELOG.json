@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T14:55:54.213532183Z",
+  "release_date": "2025-01-08T15:16:02.421267854Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -158,6 +158,20 @@
             {
               "SHA": "ff2132ded",
               "Subject": "Update github action modules (#261)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v28",
+          "commits": [
+            {
+              "SHA": "5ca38f79",
+              "Subject": "Prepare for release 10.5.8-v28 (#258)"
             }
           ]
         }
