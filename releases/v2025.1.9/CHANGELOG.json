@@ -1,0 +1,691 @@
+{
+  "product_line": "Stash",
+  "release": "v2025.1.9",
+  "release_date": "2025-01-08T19:21:45.768944393Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2025.1.9",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "498a6be5",
+              "Subject": "Print license expiration timestamp"
+            },
+            {
+              "SHA": "5284189f",
+              "Subject": "Fix patching"
+            },
+            {
+              "SHA": "47ce09a4",
+              "Subject": "Update github action modules (#231)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "cad2245d",
+              "Subject": "Prepare for release v0.38.0 (#209)"
+            },
+            {
+              "SHA": "8a3c87ab",
+              "Subject": "Update website link"
+            },
+            {
+              "SHA": "107959f1",
+              "Subject": "Update github action modules (#207)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2025.1.9",
+          "commits": [
+            {
+              "SHA": "8680860",
+              "Subject": "Prepare for release v2025.1.9 (#303)"
+            },
+            {
+              "SHA": "97cb9f5",
+              "Subject": "Update github action modules (#301)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v34",
+          "commits": [
+            {
+              "SHA": "bde4b6d0",
+              "Subject": "Prepare for release 5.6.4-v34 (#1592)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v34",
+          "commits": [
+            {
+              "SHA": "3cba0f11",
+              "Subject": "Prepare for release 6.2.4-v34 (#1593)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v34",
+          "commits": [
+            {
+              "SHA": "e236c166",
+              "Subject": "Prepare for release 6.3.0-v34 (#1594)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v34",
+          "commits": [
+            {
+              "SHA": "26ce88af",
+              "Subject": "Prepare for release 6.4.0-v34 (#1595)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v34",
+          "commits": [
+            {
+              "SHA": "134e2307",
+              "Subject": "Prepare for release 6.5.3-v34 (#1596)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v34",
+          "commits": [
+            {
+              "SHA": "fbbbd83e",
+              "Subject": "Prepare for release 6.8.0-v34 (#1597)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v34",
+          "commits": [
+            {
+              "SHA": "964b8382",
+              "Subject": "Prepare for release 7.2.0-v34 (#1599)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v34",
+          "commits": [
+            {
+              "SHA": "a2ed9fd2",
+              "Subject": "Prepare for release 7.3.2-v34 (#1600)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v20",
+          "commits": [
+            {
+              "SHA": "f4adf6e4",
+              "Subject": "Prepare for release 7.14.0-v20 (#1598)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v17",
+          "commits": [
+            {
+              "SHA": "1453067d",
+              "Subject": "Prepare for release 8.2.0-v17 (#1601)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "9d7359fb0",
+              "Subject": "Prepare for release v0.38.0 (#263)"
+            },
+            {
+              "SHA": "ff2132ded",
+              "Subject": "Update github action modules (#261)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v21",
+          "commits": [
+            {
+              "SHA": "faff449",
+              "Subject": "Prepare for release 3.5.0-v21 (#110)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2025.1.9",
+          "commits": [
+            {
+              "SHA": "50ebd27e",
+              "Subject": "Prepare for release v2025.1.9 (#389)"
+            },
+            {
+              "SHA": "bf00e04e",
+              "Subject": "Update cve report (#388)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.2.0-v2",
+          "commits": [
+            {
+              "SHA": "46b182e",
+              "Subject": "Prepare for release 0.2.0-v2 (#79)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v28",
+          "commits": [
+            {
+              "SHA": "5ca38f79",
+              "Subject": "Prepare for release 10.5.8-v28 (#258)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v35",
+          "commits": [
+            {
+              "SHA": "4465b3d2",
+              "Subject": "Prepare for release 3.4.17-v35 (#2253)"
+            },
+            {
+              "SHA": "1bd26b49",
+              "Subject": "[cherry-pick] Update github action modules (#2237) (#2238)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v35",
+          "commits": [
+            {
+              "SHA": "0cc7b736",
+              "Subject": "Prepare for release 3.4.22-v35 (#2254)"
+            },
+            {
+              "SHA": "52d14959",
+              "Subject": "Update github action modules (#2237) (#2239)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v35",
+          "commits": [
+            {
+              "SHA": "cf104dd5",
+              "Subject": "Prepare for release 3.6.8-v35 (#2256)"
+            },
+            {
+              "SHA": "2f4dad74",
+              "Subject": "Update github action modules (#2237) (#2241)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v35",
+          "commits": [
+            {
+              "SHA": "7c55b6ac",
+              "Subject": "Prepare for release 3.6.13-v35 (#2255)"
+            },
+            {
+              "SHA": "28107bc3",
+              "Subject": "Update github action modules (#2237) (#2240)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v35",
+          "commits": [
+            {
+              "SHA": "81e23d1e",
+              "Subject": "Prepare for release 4.0.3-v35 (#2258)"
+            },
+            {
+              "SHA": "aaf7583b",
+              "Subject": "Update github action modules (#2237) (#2243)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v35",
+          "commits": [
+            {
+              "SHA": "c8155ef9",
+              "Subject": "Prepare for release 4.0.5-v35 (#2259)"
+            },
+            {
+              "SHA": "eec6152b",
+              "Subject": "Update github action modules (#2237) (#2244)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v35",
+          "commits": [
+            {
+              "SHA": "a559af87",
+              "Subject": "Prepare for release 4.0.11-v35 (#2257)"
+            },
+            {
+              "SHA": "d8c2d720",
+              "Subject": "Update github action modules (#2237) (#2242)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v35",
+          "commits": [
+            {
+              "SHA": "97d59d84",
+              "Subject": "Prepare for release 4.1.4-v35 (#2261)"
+            },
+            {
+              "SHA": "80e1a02f",
+              "Subject": "Update github action modules (#2237) (#2246)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v35",
+          "commits": [
+            {
+              "SHA": "663bf53d",
+              "Subject": "Prepare for release 4.1.7-v35 (#2262)"
+            },
+            {
+              "SHA": "b8205b24",
+              "Subject": "Update github action modules (#2237) (#2247)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v35",
+          "commits": [
+            {
+              "SHA": "54d299ff",
+              "Subject": "Prepare for release 4.1.13-v35 (#2260)"
+            },
+            {
+              "SHA": "d2258afc",
+              "Subject": "Update github action modules (#2237) (#2245)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v35",
+          "commits": [
+            {
+              "SHA": "ec44fe21",
+              "Subject": "Prepare for release 4.2.3-v35 (#2263)"
+            },
+            {
+              "SHA": "c33a7092",
+              "Subject": "Update github action modules (#2237) (#2248)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v26",
+          "commits": [
+            {
+              "SHA": "d39714ec",
+              "Subject": "Prepare for release 4.4.6-v26 (#2264)"
+            },
+            {
+              "SHA": "a2f27a49",
+              "Subject": "Update github action modules (#2237) (#2249)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v23",
+          "commits": [
+            {
+              "SHA": "24c25729",
+              "Subject": "Prepare for release 5.0.3-v23 (#2266)"
+            },
+            {
+              "SHA": "ab0e5df8",
+              "Subject": "Update github action modules (#2237) (#2251)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.15-v8",
+          "commits": [
+            {
+              "SHA": "86e3bf04",
+              "Subject": "Prepare for release 5.0.15-v8 (#2265)"
+            },
+            {
+              "SHA": "8e62c556",
+              "Subject": "Update github action modules (#2237) (#2250)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v11",
+          "commits": [
+            {
+              "SHA": "67cff5f0",
+              "Subject": "Prepare for release 6.0.5-v11 (#2267)"
+            },
+            {
+              "SHA": "c863e013",
+              "Subject": "Update github action modules (#2237) (#2252)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v35",
+          "commits": [
+            {
+              "SHA": "575329d2",
+              "Subject": "Prepare for release 5.7.25-v35 (#815)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v34",
+          "commits": [
+            {
+              "SHA": "7c000b67",
+              "Subject": "Prepare for release 8.0.3-v34 (#818)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v34",
+          "commits": [
+            {
+              "SHA": "38197fa3",
+              "Subject": "Prepare for release 8.0.14-v34 (#816)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v28",
+          "commits": [
+            {
+              "SHA": "77e793e7",
+              "Subject": "Prepare for release 8.0.21-v28 (#817)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v22",
+          "commits": [
+            {
+              "SHA": "a8c11b8",
+              "Subject": "Prepare for release 2.6.1-v22 (#165)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v17",
+          "commits": [
+            {
+              "SHA": "de67b44",
+              "Subject": "Prepare for release 2.8.2-v17 (#166)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v29",
+          "commits": [
+            {
+              "SHA": "7e1b3fbc",
+              "Subject": "Prepare for release 5.7-v29 (#333)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v33",
+          "commits": [
+            {
+              "SHA": "4c034aef",
+              "Subject": "Prepare for release 9.6.19-v33 (#1385)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v33",
+          "commits": [
+            {
+              "SHA": "a6a1804d",
+              "Subject": "Prepare for release 10.14-v33 (#1378)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v33",
+          "commits": [
+            {
+              "SHA": "4f49de35",
+              "Subject": "Prepare for release 11.9-v33 (#1379)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v33",
+          "commits": [
+            {
+              "SHA": "86ac876c",
+              "Subject": "Prepare for release 12.4-v33 (#1380)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v30",
+          "commits": [
+            {
+              "SHA": "41819e5f",
+              "Subject": "Prepare for release 13.1-v30 (#1381)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v22",
+          "commits": [
+            {
+              "SHA": "1e0cd351",
+              "Subject": "Prepare for release 14.0-v22 (#1382)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v14",
+          "commits": [
+            {
+              "SHA": "f5ddc525",
+              "Subject": "Prepare for release 15.1-v14 (#1383)"
+            }
+          ]
+        },
+        {
+          "tag": "16.1-v3",
+          "commits": [
+            {
+              "SHA": "92e7938b",
+              "Subject": "Prepare for release 16.1-v3 (#1384)"
+            }
+          ]
+        },
+        {
+          "tag": "17.2-v1",
+          "commits": [
+            {
+              "SHA": "2bcfcf25",
+              "Subject": "Prepare for release v2025.1.9 (#1386) (#1387)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v22",
+          "commits": [
+            {
+              "SHA": "64de9a5",
+              "Subject": "Prepare for release 5.0.13-v22 (#250)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v22",
+          "commits": [
+            {
+              "SHA": "9159407",
+              "Subject": "Prepare for release 6.2.5-v22 (#251)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v15",
+          "commits": [
+            {
+              "SHA": "432d847",
+              "Subject": "Prepare for release 7.0.5-v15 (#252)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "149cbfb0f",
+              "Subject": "Prepare for release v0.38.0 (#1589)"
+            },
+            {
+              "SHA": "b2d2d3a57",
+              "Subject": "Update github action modules (#1588)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "41dc9b16",
+              "Subject": "Prepare for release v0.19.0 (#46)"
+            },
+            {
+              "SHA": "17d88fc2",
+              "Subject": "Update github action modules (#45)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v14",
+          "commits": [
+            {
+              "SHA": "9067757e",
+              "Subject": "Prepare for release 1.10.3-v14 (#51)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
