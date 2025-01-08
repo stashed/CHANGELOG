@@ -11,3 +11,12 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.38.0](https://github.com/stashed/stash/releases/tag/v0.38.0)
+
+- [149cbfb0](https://github.com/stashed/stash/commit/149cbfb0f) Prepare for release v0.38.0 (#1589)
+- [b2d2d3a5](https://github.com/stashed/stash/commit/b2d2d3a57) Update github action modules (#1588)
+
+
+
