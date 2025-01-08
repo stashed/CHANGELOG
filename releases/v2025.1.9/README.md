@@ -169,6 +169,12 @@
 - [8e62c556](https://github.com/stashed/mongodb/commit/8e62c556) Update github action modules (#2237) (#2250)
 
 
+### [6.0.5-v11](https://github.com/stashed/mongodb/releases/tag/6.0.5-v11)
+
+- [67cff5f0](https://github.com/stashed/mongodb/commit/67cff5f0) Prepare for release 6.0.5-v11 (#2267)
+- [c863e013](https://github.com/stashed/mongodb/commit/c863e013) Update github action modules (#2237) (#2252)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 

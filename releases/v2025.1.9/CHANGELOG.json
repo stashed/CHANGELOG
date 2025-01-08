@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T14:47:22.068729819Z",
+  "release_date": "2025-01-08T14:47:23.349526886Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -345,6 +345,19 @@
             {
               "SHA": "8e62c556",
               "Subject": "Update github action modules (#2237) (#2250)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v11",
+          "commits": [
+            {
+              "SHA": "67cff5f0",
+              "Subject": "Prepare for release 6.0.5-v11 (#2267)"
+            },
+            {
+              "SHA": "c863e013",
+              "Subject": "Update github action modules (#2237) (#2252)"
             }
           ]
         }
