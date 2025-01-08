@@ -109,6 +109,12 @@
 - [28107bc3](https://github.com/stashed/mongodb/commit/28107bc3) Update github action modules (#2237) (#2240)
 
 
+### [4.0.11-v35](https://github.com/stashed/mongodb/releases/tag/4.0.11-v35)
+
+- [a559af87](https://github.com/stashed/mongodb/commit/a559af87) Prepare for release 4.0.11-v35 (#2257)
+- [d8c2d720](https://github.com/stashed/mongodb/commit/d8c2d720) Update github action modules (#2237) (#2242)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
