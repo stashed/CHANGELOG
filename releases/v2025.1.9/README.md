@@ -97,6 +97,12 @@
 - [52d14959](https://github.com/stashed/mongodb/commit/52d14959) Update github action modules (#2237) (#2239)
 
 
+### [3.6.8-v35](https://github.com/stashed/mongodb/releases/tag/3.6.8-v35)
+
+- [cf104dd5](https://github.com/stashed/mongodb/commit/cf104dd5) Prepare for release 3.6.8-v35 (#2256)
+- [2f4dad74](https://github.com/stashed/mongodb/commit/2f4dad74) Update github action modules (#2237) (#2241)
+
+
 ### [3.6.13-v35](https://github.com/stashed/mongodb/releases/tag/3.6.13-v35)
 
 - [7c55b6ac](https://github.com/stashed/mongodb/commit/7c55b6ac) Prepare for release 3.6.13-v35 (#2255)
