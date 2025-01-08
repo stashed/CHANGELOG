@@ -91,6 +91,15 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2025.1.9](https://github.com/stashed/installer/releases/tag/v2025.1.9)
+
+- [50ebd27e](https://github.com/stashed/installer/commit/50ebd27e) Prepare for release v2025.1.9 (#389)
+- [bf00e04e](https://github.com/stashed/installer/commit/bf00e04e) Update cve report (#388)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.2.0-v2](https://github.com/stashed/kubedump/releases/tag/0.2.0-v2)
