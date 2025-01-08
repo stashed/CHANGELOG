@@ -127,6 +127,12 @@
 - [d8c2d720](https://github.com/stashed/mongodb/commit/d8c2d720) Update github action modules (#2237) (#2242)
 
 
+### [4.1.13-v35](https://github.com/stashed/mongodb/releases/tag/4.1.13-v35)
+
+- [54d299ff](https://github.com/stashed/mongodb/commit/54d299ff) Prepare for release 4.1.13-v35 (#2260)
+- [d2258afc](https://github.com/stashed/mongodb/commit/d2258afc) Update github action modules (#2237) (#2245)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
