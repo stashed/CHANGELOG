@@ -91,6 +91,12 @@
 - [1bd26b49](https://github.com/stashed/mongodb/commit/1bd26b49) [cherry-pick] Update github action modules (#2237) (#2238)
 
 
+### [3.4.22-v35](https://github.com/stashed/mongodb/releases/tag/3.4.22-v35)
+
+- [0cc7b736](https://github.com/stashed/mongodb/commit/0cc7b736) Prepare for release 3.4.22-v35 (#2254)
+- [52d14959](https://github.com/stashed/mongodb/commit/52d14959) Update github action modules (#2237) (#2239)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
