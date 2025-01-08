@@ -157,6 +157,12 @@
 - [a2f27a49](https://github.com/stashed/mongodb/commit/a2f27a49) Update github action modules (#2237) (#2249)
 
 
+### [5.0.15-v8](https://github.com/stashed/mongodb/releases/tag/5.0.15-v8)
+
+- [86e3bf04](https://github.com/stashed/mongodb/commit/86e3bf04) Prepare for release 5.0.15-v8 (#2265)
+- [8e62c556](https://github.com/stashed/mongodb/commit/8e62c556) Update github action modules (#2237) (#2250)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
