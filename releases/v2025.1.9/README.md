@@ -188,6 +188,11 @@
 - [38197fa3](https://github.com/stashed/mysql/commit/38197fa3) Prepare for release 8.0.14-v34 (#816)
 
 
+### [8.0.21-v28](https://github.com/stashed/mysql/releases/tag/8.0.21-v28)
+
+- [77e793e7](https://github.com/stashed/mysql/commit/77e793e7) Prepare for release 8.0.21-v28 (#817)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
