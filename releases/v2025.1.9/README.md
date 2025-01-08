@@ -21,6 +21,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2025.1.9](https://github.com/stashed/docs/releases/tag/v2025.1.9)
+
+- [8680860](https://github.com/stashed/docs/commit/8680860) Prepare for release v2025.1.9 (#303)
+- [97cb9f5](https://github.com/stashed/docs/commit/97cb9f5) Update github action modules (#301)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v34](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v34)
