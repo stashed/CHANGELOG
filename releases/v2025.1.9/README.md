@@ -115,6 +115,12 @@
 - [aaf7583b](https://github.com/stashed/mongodb/commit/aaf7583b) Update github action modules (#2237) (#2243)
 
 
+### [4.0.5-v35](https://github.com/stashed/mongodb/releases/tag/4.0.5-v35)
+
+- [c8155ef9](https://github.com/stashed/mongodb/commit/c8155ef9) Prepare for release 4.0.5-v35 (#2259)
+- [eec6152b](https://github.com/stashed/mongodb/commit/eec6152b) Update github action modules (#2237) (#2244)
+
+
 ### [4.0.11-v35](https://github.com/stashed/mongodb/releases/tag/4.0.11-v35)
 
 - [a559af87](https://github.com/stashed/mongodb/commit/a559af87) Prepare for release 4.0.11-v35 (#2257)
