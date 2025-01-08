@@ -37,6 +37,11 @@
 - [a6a1804d](https://github.com/stashed/postgres/commit/a6a1804d) Prepare for release 10.14-v33 (#1378)
 
 
+### [11.9-v33](https://github.com/stashed/postgres/releases/tag/11.9-v33)
+
+- [4f49de35](https://github.com/stashed/postgres/commit/4f49de35) Prepare for release 11.9-v33 (#1379)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
