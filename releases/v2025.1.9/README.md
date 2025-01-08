@@ -39,3 +39,12 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.19.0](https://github.com/stashed/ui-server/releases/tag/v0.19.0)
+
+- [41dc9b16](https://github.com/stashed/ui-server/commit/41dc9b16) Prepare for release v0.19.0 (#46)
+- [17d88fc2](https://github.com/stashed/ui-server/commit/17d88fc2) Update github action modules (#45)
+
+
+

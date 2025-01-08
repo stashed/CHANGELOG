@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.1.9",
-  "release_date": "2025-01-08T14:16:02.228062538Z",
+  "release_date": "2025-01-08T14:16:41.959826378Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.1.9",
   "kubernetes_version": "1.26+",
@@ -81,6 +81,24 @@
             {
               "SHA": "b2d2d3a57",
               "Subject": "Update github action modules (#1588)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.19.0",
+          "commits": [
+            {
+              "SHA": "41dc9b16",
+              "Subject": "Prepare for release v0.19.0 (#46)"
+            },
+            {
+              "SHA": "17d88fc2",
+              "Subject": "Update github action modules (#45)"
             }
           ]
         }
