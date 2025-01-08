@@ -1,0 +1,32 @@
+{
+  "product_line": "Stash",
+  "release": "v2025.1.9",
+  "release_date": "2025-01-08T12:51:40.058542501Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2025.1.9",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.38.0",
+          "commits": [
+            {
+              "SHA": "498a6be5",
+              "Subject": "Print license expiration timestamp"
+            },
+            {
+              "SHA": "5284189f",
+              "Subject": "Fix patching"
+            },
+            {
+              "SHA": "47ce09a4",
+              "Subject": "Update github action modules (#231)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
