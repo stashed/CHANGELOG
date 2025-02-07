@@ -87,6 +87,13 @@
 - [b9514529](https://github.com/stashed/elasticsearch/commit/b9514529) [cherry-pick] Update restic version (#1603) (#1610)
 
 
+### [8.2.0-v18](https://github.com/stashed/elasticsearch/releases/tag/8.2.0-v18)
+
+- [717d0969](https://github.com/stashed/elasticsearch/commit/717d0969) Prepare for release 8.2.0-v18 (#1634)
+- [a6d1dc01](https://github.com/stashed/elasticsearch/commit/a6d1dc01) [cherry-pick] Disable image caching in setup-qemu action (#1614) (#1624)
+- [3ea5dd70](https://github.com/stashed/elasticsearch/commit/3ea5dd70) [cherry-pick] Update restic version (#1603) (#1613)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
