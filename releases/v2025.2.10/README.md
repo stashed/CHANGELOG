@@ -115,6 +115,26 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2025.2.10](https://github.com/stashed/installer/releases/tag/v2025.2.10)
+
+- [09898516](https://github.com/stashed/installer/commit/09898516) Prepare for release v2025.2.10 (#401)
+- [971ef33e](https://github.com/stashed/installer/commit/971ef33e) Update cve report (#400)
+- [4704946c](https://github.com/stashed/installer/commit/4704946c) Disable image caching in setup-qemu action (#399)
+- [8eb237bf](https://github.com/stashed/installer/commit/8eb237bf) Update ace-user-roles chart
+- [c92c9519](https://github.com/stashed/installer/commit/c92c9519) Update cve report (#398)
+- [7369e608](https://github.com/stashed/installer/commit/7369e608) Move user roles to ace-user-roles chart (#397)
+- [1954bb86](https://github.com/stashed/installer/commit/1954bb86) Update cve report (#396)
+- [54ce67d1](https://github.com/stashed/installer/commit/54ce67d1) Update cve report (#395)
+- [8f970059](https://github.com/stashed/installer/commit/8f970059) Update cve report (#394)
+- [62876004](https://github.com/stashed/installer/commit/62876004) Update cve report (#393)
+- [a2d8500a](https://github.com/stashed/installer/commit/a2d8500a) Update cve report (#392)
+- [5eacce8e](https://github.com/stashed/installer/commit/5eacce8e) Update cve report (#391)
+- [a2f509d1](https://github.com/stashed/installer/commit/a2f509d1) Update cve report (#390)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.2.0-v3](https://github.com/stashed/kubedump/releases/tag/0.2.0-v3)

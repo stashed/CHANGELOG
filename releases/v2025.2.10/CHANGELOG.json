@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.2.10",
-  "release_date": "2025-02-07T17:25:31.983901378Z",
+  "release_date": "2025-02-07T20:07:18.115328107Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.2.10",
   "kubernetes_version": "1.26+",
@@ -268,6 +268,68 @@
             {
               "SHA": "7b7dad5",
               "Subject": "[cherry-pick] Update restic version (#112) (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2025.2.10",
+          "commits": [
+            {
+              "SHA": "09898516",
+              "Subject": "Prepare for release v2025.2.10 (#401)"
+            },
+            {
+              "SHA": "971ef33e",
+              "Subject": "Update cve report (#400)"
+            },
+            {
+              "SHA": "4704946c",
+              "Subject": "Disable image caching in setup-qemu action (#399)"
+            },
+            {
+              "SHA": "8eb237bf",
+              "Subject": "Update ace-user-roles chart"
+            },
+            {
+              "SHA": "c92c9519",
+              "Subject": "Update cve report (#398)"
+            },
+            {
+              "SHA": "7369e608",
+              "Subject": "Move user roles to ace-user-roles chart (#397)"
+            },
+            {
+              "SHA": "1954bb86",
+              "Subject": "Update cve report (#396)"
+            },
+            {
+              "SHA": "54ce67d1",
+              "Subject": "Update cve report (#395)"
+            },
+            {
+              "SHA": "8f970059",
+              "Subject": "Update cve report (#394)"
+            },
+            {
+              "SHA": "62876004",
+              "Subject": "Update cve report (#393)"
+            },
+            {
+              "SHA": "a2d8500a",
+              "Subject": "Update cve report (#392)"
+            },
+            {
+              "SHA": "5eacce8e",
+              "Subject": "Update cve report (#391)"
+            },
+            {
+              "SHA": "a2f509d1",
+              "Subject": "Update cve report (#390)"
             }
           ]
         }
