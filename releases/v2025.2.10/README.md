@@ -336,6 +336,13 @@
 - [6d662ea](https://github.com/stashed/redis/commit/6d662ea) [cherry-pick] Update restic version (#254) (#256)
 
 
+### [7.0.5-v16](https://github.com/stashed/redis/releases/tag/7.0.5-v16)
+
+- [53850f7](https://github.com/stashed/redis/commit/53850f7) Prepare for release 7.0.5-v16 (#264)
+- [9b700ec](https://github.com/stashed/redis/commit/9b700ec) [cherry-pick] Disable image caching in setup-qemu action (#258) (#261)
+- [7a61b63](https://github.com/stashed/redis/commit/7a61b63) [cherry-pick] Update restic version (#254) (#257)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
