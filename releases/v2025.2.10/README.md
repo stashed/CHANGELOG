@@ -320,6 +320,16 @@
 
 
 
+## [stashed/redis](https://github.com/stashed/redis)
+
+### [5.0.13-v23](https://github.com/stashed/redis/releases/tag/5.0.13-v23)
+
+- [e12616a](https://github.com/stashed/redis/commit/e12616a) Prepare for release 5.0.13-v23 (#262)
+- [c5a8610](https://github.com/stashed/redis/commit/c5a8610) [cherry-pick] Disable image caching in setup-qemu action (#258) (#259)
+- [dff5ca5](https://github.com/stashed/redis/commit/dff5ca5) [cherry-pick] Update restic version (#254) (#255)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.39.0](https://github.com/stashed/stash/releases/tag/v0.39.0)
