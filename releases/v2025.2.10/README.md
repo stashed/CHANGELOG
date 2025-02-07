@@ -105,6 +105,16 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v29](https://github.com/stashed/mariadb/releases/tag/10.5.8-v29)
+
+- [70e1a3b9](https://github.com/stashed/mariadb/commit/70e1a3b9) Prepare for release 10.5.8-v29 (#263)
+- [0eb5bc7b](https://github.com/stashed/mariadb/commit/0eb5bc7b) [cherry-pick] Disable image caching in setup-qemu action (#261) (#262)
+- [dcd7d9f0](https://github.com/stashed/mariadb/commit/dcd7d9f0) [cherry-pick] Update restic version (#259) (#260)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v36](https://github.com/stashed/mongodb/releases/tag/3.4.17-v36)
