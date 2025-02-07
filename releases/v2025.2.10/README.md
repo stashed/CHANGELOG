@@ -12,6 +12,16 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.39.0](https://github.com/stashed/cli/releases/tag/v0.39.0)
+
+- [866f7dd6](https://github.com/stashed/cli/commit/866f7dd6) Prepare for release v0.39.0 (#211)
+- [fad79b34](https://github.com/stashed/cli/commit/fad79b34) Disable image caching in setup-qemu action (#210)
+- [b758aab7](https://github.com/stashed/cli/commit/b758aab7) Add migrate and prune cmd (#208)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.39.0](https://github.com/stashed/enterprise/releases/tag/v0.39.0)
