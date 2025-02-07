@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.2.10",
-  "release_date": "2025-02-07T15:33:08.110950785Z",
+  "release_date": "2025-02-07T15:55:56.204707877Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.2.10",
   "kubernetes_version": "1.26+",
@@ -49,6 +49,28 @@
             {
               "SHA": "b758aab7",
               "Subject": "Add migrate and prune cmd (#208)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v35",
+          "commits": [
+            {
+              "SHA": "5f2c245e",
+              "Subject": "Prepare for release 5.6.4-v35 (#1625)"
+            },
+            {
+              "SHA": "b90237a4",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1614) (#1615)"
+            },
+            {
+              "SHA": "b8fe6734",
+              "Subject": "[cherry-pick] Update restic version (#1603) (#1604)"
             }
           ]
         }
