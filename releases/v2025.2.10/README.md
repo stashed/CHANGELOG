@@ -263,6 +263,13 @@
 - [62bb480](https://github.com/stashed/nats/commit/62bb480) [cherry-pick] Update restic version (#168) (#169)
 
 
+### [2.8.2-v18](https://github.com/stashed/nats/releases/tag/2.8.2-v18)
+
+- [85cc12a](https://github.com/stashed/nats/commit/85cc12a) Prepare for release 2.8.2-v18 (#175)
+- [05a954c](https://github.com/stashed/nats/commit/05a954c) [cherry-pick] Disable image caching in setup-qemu action (#171) (#173)
+- [94db04d](https://github.com/stashed/nats/commit/94db04d) [cherry-pick] Update restic version (#168) (#170)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
