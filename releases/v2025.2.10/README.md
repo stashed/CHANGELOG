@@ -32,3 +32,12 @@
 
 
 
+## [stashed/ui-server](https://github.com/stashed/ui-server)
+
+### [v0.20.0](https://github.com/stashed/ui-server/releases/tag/v0.20.0)
+
+- [231a0ca6](https://github.com/stashed/ui-server/commit/231a0ca6) Prepare for release v0.20.0 (#48)
+- [a4ea7d63](https://github.com/stashed/ui-server/commit/a4ea7d63) Disable image caching in setup-qemu action (#47)
+
+
+
