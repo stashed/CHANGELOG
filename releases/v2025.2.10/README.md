@@ -76,6 +76,13 @@
 - [bf99b8d5](https://github.com/stashed/postgres/commit/bf99b8d5) [cherry-pick] Update restic version (#1388) (#1394)
 
 
+### [16.1-v4](https://github.com/stashed/postgres/releases/tag/16.1-v4)
+
+- [6d792f01](https://github.com/stashed/postgres/commit/6d792f01) Prepare for release 16.1-v4 (#1414)
+- [8b7996ad](https://github.com/stashed/postgres/commit/8b7996ad) [cherry-pick] Disable image caching in setup-qemu action (#1398) (#1405)
+- [054fcd82](https://github.com/stashed/postgres/commit/054fcd82) [cherry-pick] Update restic version (#1388) (#1395)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
