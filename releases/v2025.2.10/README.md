@@ -329,6 +329,13 @@
 - [dff5ca5](https://github.com/stashed/redis/commit/dff5ca5) [cherry-pick] Update restic version (#254) (#255)
 
 
+### [6.2.5-v23](https://github.com/stashed/redis/releases/tag/6.2.5-v23)
+
+- [6950b3b](https://github.com/stashed/redis/commit/6950b3b) Prepare for release 6.2.5-v23 (#263)
+- [543fd7b](https://github.com/stashed/redis/commit/543fd7b) [cherry-pick] Disable image caching in setup-qemu action (#258) (#260)
+- [6d662ea](https://github.com/stashed/redis/commit/6d662ea) [cherry-pick] Update restic version (#254) (#256)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
