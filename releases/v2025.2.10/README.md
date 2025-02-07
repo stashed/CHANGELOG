@@ -12,6 +12,16 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.39.0](https://github.com/stashed/enterprise/releases/tag/v0.39.0)
+
+- [b86ea011](https://github.com/stashed/enterprise/commit/b86ea0118) Prepare for release v0.39.0 (#265)
+- [f1752bc9](https://github.com/stashed/enterprise/commit/f1752bc95) Disable image caching in setup-qemu action (#264)
+- [68d24fa0](https://github.com/stashed/enterprise/commit/68d24fa08) Update restic version (#262)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.39.0](https://github.com/stashed/stash/releases/tag/v0.39.0)
