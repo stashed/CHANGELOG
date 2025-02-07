@@ -213,6 +213,16 @@
 
 
 
+## [stashed/mysql](https://github.com/stashed/mysql)
+
+### [5.7.25-v36](https://github.com/stashed/mysql/releases/tag/5.7.25-v36)
+
+- [257e8d05](https://github.com/stashed/mysql/commit/257e8d05) Prepare for release 5.7.25-v36 (#830)
+- [deeba6a7](https://github.com/stashed/mysql/commit/deeba6a7) [cherry-pick] Disable image caching in setup-qemu action (#825) (#826)
+- [5bfced7b](https://github.com/stashed/mysql/commit/5bfced7b) [cherry-pick] Update restic version (#820) (#821)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v34](https://github.com/stashed/postgres/releases/tag/9.6.19-v34)
