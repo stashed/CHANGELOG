@@ -115,6 +115,16 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.2.0-v3](https://github.com/stashed/kubedump/releases/tag/0.2.0-v3)
+
+- [b545ada](https://github.com/stashed/kubedump/commit/b545ada) Prepare for release 0.2.0-v3 (#87)
+- [4ede154](https://github.com/stashed/kubedump/commit/4ede154) [cherry-pick] Disable image caching in setup-qemu action (#84) (#86)
+- [5a0efef](https://github.com/stashed/kubedump/commit/5a0efef) [cherry-pick] Update restic version (#81) (#83)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v29](https://github.com/stashed/mariadb/releases/tag/10.5.8-v29)
