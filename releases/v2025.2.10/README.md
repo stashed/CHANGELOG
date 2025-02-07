@@ -105,6 +105,16 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v22](https://github.com/stashed/etcd/releases/tag/3.5.0-v22)
+
+- [0c1d256](https://github.com/stashed/etcd/commit/0c1d256) Prepare for release 3.5.0-v22 (#116)
+- [620a813](https://github.com/stashed/etcd/commit/620a813) [cherry-pick] Disable image caching in setup-qemu action (#114) (#115)
+- [7b7dad5](https://github.com/stashed/etcd/commit/7b7dad5) [cherry-pick] Update restic version (#112) (#113)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v29](https://github.com/stashed/mariadb/releases/tag/10.5.8-v29)
