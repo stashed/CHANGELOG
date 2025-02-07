@@ -45,6 +45,13 @@
 - [db22e620](https://github.com/stashed/elasticsearch/commit/db22e620) [cherry-pick] Update restic version (#1603) (#1606)
 
 
+### [6.4.0-v35](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v35)
+
+- [3ed7d8e4](https://github.com/stashed/elasticsearch/commit/3ed7d8e4) Prepare for release 6.4.0-v35 (#1628)
+- [ae0fce40](https://github.com/stashed/elasticsearch/commit/ae0fce40) [cherry-pick] Disable image caching in setup-qemu action (#1614) (#1618)
+- [7b87f0ee](https://github.com/stashed/elasticsearch/commit/7b87f0ee) [cherry-pick] Update restic version (#1603) (#1607)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
