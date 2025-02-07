@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.2.10",
-  "release_date": "2025-02-07T15:32:59.380561214Z",
+  "release_date": "2025-02-07T15:33:00.70125602Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.2.10",
   "kubernetes_version": "1.26+",
@@ -127,6 +127,23 @@
             {
               "SHA": "b5788bea",
               "Subject": "[cherry-pick] Update restic version (#1388) (#1391)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v31",
+          "commits": [
+            {
+              "SHA": "a6c02931",
+              "Subject": "Prepare for release 13.1-v31 (#1411)"
+            },
+            {
+              "SHA": "c94b0c39",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1398) (#1402)"
+            },
+            {
+              "SHA": "d542947c",
+              "Subject": "[cherry-pick] Update restic version (#1388) (#1392)"
             }
           ]
         }
