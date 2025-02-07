@@ -1,0 +1,1075 @@
+{
+  "product_line": "Stash",
+  "release": "v2025.2.10",
+  "release_date": "2025-02-07T20:23:30.970584793Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2025.2.10",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "b00f8871",
+              "Subject": "Disable image caching in setup-qemu action (#233)"
+            },
+            {
+              "SHA": "61802361",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "eecb97c1",
+              "Subject": "Add migrate and prune cmd (#232)"
+            },
+            {
+              "SHA": "ee10b7ea",
+              "Subject": "Fix ci"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "866f7dd6",
+              "Subject": "Prepare for release v0.39.0 (#211)"
+            },
+            {
+              "SHA": "fad79b34",
+              "Subject": "Disable image caching in setup-qemu action (#210)"
+            },
+            {
+              "SHA": "b758aab7",
+              "Subject": "Add migrate and prune cmd (#208)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2025.2.10",
+          "commits": [
+            {
+              "SHA": "f4f78b9",
+              "Subject": "Prepare for release v2025.2.10 (#307)"
+            },
+            {
+              "SHA": "90f315f",
+              "Subject": "Add docs for migrate cmd (#305)"
+            },
+            {
+              "SHA": "3d46dd7",
+              "Subject": "Update docs for stashed/cli@fad79b34 (#306)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v35",
+          "commits": [
+            {
+              "SHA": "5f2c245e",
+              "Subject": "Prepare for release 5.6.4-v35 (#1625)"
+            },
+            {
+              "SHA": "b90237a4",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1614) (#1615)"
+            },
+            {
+              "SHA": "b8fe6734",
+              "Subject": "[cherry-pick] Update restic version (#1603) (#1604)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v35",
+          "commits": [
+            {
+              "SHA": "b2663085",
+              "Subject": "Prepare for release 6.2.4-v35 (#1626)"
+            },
+            {
+              "SHA": "44c95271",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1614) (#1616)"
+            },
+            {
+              "SHA": "fc80ad14",
+              "Subject": "[cherry-pick] Update restic version (#1603) (#1605)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v35",
+          "commits": [
+            {
+              "SHA": "3c295520",
+              "Subject": "Prepare for release 6.3.0-v35 (#1627)"
+            },
+            {
+              "SHA": "9e7e00d5",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1614) (#1617)"
+            },
+            {
+              "SHA": "db22e620",
+              "Subject": "[cherry-pick] Update restic version (#1603) (#1606)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v35",
+          "commits": [
+            {
+              "SHA": "3ed7d8e4",
+              "Subject": "Prepare for release 6.4.0-v35 (#1628)"
+            },
+            {
+              "SHA": "ae0fce40",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1614) (#1618)"
+            },
+            {
+              "SHA": "7b87f0ee",
+              "Subject": "[cherry-pick] Update restic version (#1603) (#1607)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v35",
+          "commits": [
+            {
+              "SHA": "830678ce",
+              "Subject": "Prepare for release 6.5.3-v35 (#1629)"
+            },
+            {
+              "SHA": "0a963458",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1614) (#1619)"
+            },
+            {
+              "SHA": "eaa4fbab",
+              "Subject": "[cherry-pick] Update restic version (#1603) (#1608)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v35",
+          "commits": [
+            {
+              "SHA": "02924342",
+              "Subject": "Prepare for release 6.8.0-v35 (#1630)"
+            },
+            {
+              "SHA": "ffc3d9fb",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1614) (#1620)"
+            },
+            {
+              "SHA": "02fd28a6",
+              "Subject": "[cherry-pick] Update restic version (#1603) (#1609)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v35",
+          "commits": [
+            {
+              "SHA": "92eb442f",
+              "Subject": "Prepare for release 7.2.0-v35 (#1632)"
+            },
+            {
+              "SHA": "ff052666",
+              "Subject": "Disable image caching in setup-qemu action (#1614) (#1622)"
+            },
+            {
+              "SHA": "86232647",
+              "Subject": "[cherry-pick] Update restic version (#1603) (#1611)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v35",
+          "commits": [
+            {
+              "SHA": "eb91a6ef",
+              "Subject": "Prepare for release 7.3.2-v35 (#1633)"
+            },
+            {
+              "SHA": "ca1b37f8",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1614) (#1623)"
+            },
+            {
+              "SHA": "b52104a3",
+              "Subject": "[cherry-pick] Update restic version (#1603) (#1612)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v21",
+          "commits": [
+            {
+              "SHA": "5ec833d8",
+              "Subject": "Prepare for release 7.14.0-v21 (#1631)"
+            },
+            {
+              "SHA": "97c9045a",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1614) (#1621)"
+            },
+            {
+              "SHA": "b9514529",
+              "Subject": "[cherry-pick] Update restic version (#1603) (#1610)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v18",
+          "commits": [
+            {
+              "SHA": "717d0969",
+              "Subject": "Prepare for release 8.2.0-v18 (#1634)"
+            },
+            {
+              "SHA": "a6d1dc01",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1614) (#1624)"
+            },
+            {
+              "SHA": "3ea5dd70",
+              "Subject": "[cherry-pick] Update restic version (#1603) (#1613)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "b86ea0118",
+              "Subject": "Prepare for release v0.39.0 (#265)"
+            },
+            {
+              "SHA": "f1752bc95",
+              "Subject": "Disable image caching in setup-qemu action (#264)"
+            },
+            {
+              "SHA": "68d24fa08",
+              "Subject": "Update restic version (#262)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v22",
+          "commits": [
+            {
+              "SHA": "0c1d256",
+              "Subject": "Prepare for release 3.5.0-v22 (#116)"
+            },
+            {
+              "SHA": "620a813",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#114) (#115)"
+            },
+            {
+              "SHA": "7b7dad5",
+              "Subject": "[cherry-pick] Update restic version (#112) (#113)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2025.2.10",
+          "commits": [
+            {
+              "SHA": "09898516",
+              "Subject": "Prepare for release v2025.2.10 (#401)"
+            },
+            {
+              "SHA": "971ef33e",
+              "Subject": "Update cve report (#400)"
+            },
+            {
+              "SHA": "4704946c",
+              "Subject": "Disable image caching in setup-qemu action (#399)"
+            },
+            {
+              "SHA": "8eb237bf",
+              "Subject": "Update ace-user-roles chart"
+            },
+            {
+              "SHA": "c92c9519",
+              "Subject": "Update cve report (#398)"
+            },
+            {
+              "SHA": "7369e608",
+              "Subject": "Move user roles to ace-user-roles chart (#397)"
+            },
+            {
+              "SHA": "1954bb86",
+              "Subject": "Update cve report (#396)"
+            },
+            {
+              "SHA": "54ce67d1",
+              "Subject": "Update cve report (#395)"
+            },
+            {
+              "SHA": "8f970059",
+              "Subject": "Update cve report (#394)"
+            },
+            {
+              "SHA": "62876004",
+              "Subject": "Update cve report (#393)"
+            },
+            {
+              "SHA": "a2d8500a",
+              "Subject": "Update cve report (#392)"
+            },
+            {
+              "SHA": "5eacce8e",
+              "Subject": "Update cve report (#391)"
+            },
+            {
+              "SHA": "a2f509d1",
+              "Subject": "Update cve report (#390)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.2.0-v3",
+          "commits": [
+            {
+              "SHA": "b545ada",
+              "Subject": "Prepare for release 0.2.0-v3 (#87)"
+            },
+            {
+              "SHA": "4ede154",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#84) (#86)"
+            },
+            {
+              "SHA": "5a0efef",
+              "Subject": "[cherry-pick] Update restic version (#81) (#83)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v29",
+          "commits": [
+            {
+              "SHA": "70e1a3b9",
+              "Subject": "Prepare for release 10.5.8-v29 (#263)"
+            },
+            {
+              "SHA": "0eb5bc7b",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#261) (#262)"
+            },
+            {
+              "SHA": "dcd7d9f0",
+              "Subject": "[cherry-pick] Update restic version (#259) (#260)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v36",
+          "commits": [
+            {
+              "SHA": "f64d40b3",
+              "Subject": "Prepare for release 3.4.17-v36 (#2301)"
+            },
+            {
+              "SHA": "cf7807ef",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2286)"
+            },
+            {
+              "SHA": "1ff0f59b",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2270)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v36",
+          "commits": [
+            {
+              "SHA": "94ef56df",
+              "Subject": "Prepare for release 3.4.22-v36 (#2302)"
+            },
+            {
+              "SHA": "3a656739",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2287)"
+            },
+            {
+              "SHA": "55888ffb",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2271)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v36",
+          "commits": [
+            {
+              "SHA": "1219a35f",
+              "Subject": "Prepare for release 3.6.8-v36 (#2304)"
+            },
+            {
+              "SHA": "1cc6c2b0",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2289)"
+            },
+            {
+              "SHA": "9d0178c2",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2273)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v36",
+          "commits": [
+            {
+              "SHA": "70a3f3fe",
+              "Subject": "Prepare for release 3.6.13-v36 (#2303)"
+            },
+            {
+              "SHA": "4217f92e",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2288)"
+            },
+            {
+              "SHA": "3ba004de",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2272)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v36",
+          "commits": [
+            {
+              "SHA": "82a3ac18",
+              "Subject": "Prepare for release 4.0.3-v36 (#2306)"
+            },
+            {
+              "SHA": "182512dd",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2291)"
+            },
+            {
+              "SHA": "79eee9fa",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2275)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v36",
+          "commits": [
+            {
+              "SHA": "56049b22",
+              "Subject": "Prepare for release 4.0.5-v36 (#2307)"
+            },
+            {
+              "SHA": "4ebce67d",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2292)"
+            },
+            {
+              "SHA": "9b3e93d4",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2276)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v36",
+          "commits": [
+            {
+              "SHA": "d00cdc47",
+              "Subject": "Prepare for release 4.0.11-v36 (#2305)"
+            },
+            {
+              "SHA": "612b0aa0",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2290)"
+            },
+            {
+              "SHA": "a332beeb",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2274)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v36",
+          "commits": [
+            {
+              "SHA": "c67e09e3",
+              "Subject": "Prepare for release 4.1.4-v36 (#2309)"
+            },
+            {
+              "SHA": "7423de7d",
+              "Subject": "Disable image caching in setup-qemu action (#2285) (#2294)"
+            },
+            {
+              "SHA": "8672dfae",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2278)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v36",
+          "commits": [
+            {
+              "SHA": "8eab55d4",
+              "Subject": "Prepare for release 4.1.7-v36 (#2310)"
+            },
+            {
+              "SHA": "8e0f9b8e",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2295)"
+            },
+            {
+              "SHA": "be1c5d9b",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2279)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v36",
+          "commits": [
+            {
+              "SHA": "f364722e",
+              "Subject": "Prepare for release 4.1.13-v36 (#2308)"
+            },
+            {
+              "SHA": "6f8f58ff",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2293)"
+            },
+            {
+              "SHA": "51ee3ca0",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2277)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v36",
+          "commits": [
+            {
+              "SHA": "cadfc376",
+              "Subject": "Prepare for release 4.2.3-v36 (#2311)"
+            },
+            {
+              "SHA": "2a745251",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2296)"
+            },
+            {
+              "SHA": "55ef66e5",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2280)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v27",
+          "commits": [
+            {
+              "SHA": "0cfbef59",
+              "Subject": "Prepare for release 4.4.6-v27 (#2312)"
+            },
+            {
+              "SHA": "c12214c7",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2297)"
+            },
+            {
+              "SHA": "d0985d74",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2281)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v24",
+          "commits": [
+            {
+              "SHA": "09763920",
+              "Subject": "Prepare for release 5.0.3-v24 (#2314)"
+            },
+            {
+              "SHA": "4d48cdb2",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2299)"
+            },
+            {
+              "SHA": "39bdd9f9",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2283)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.15-v9",
+          "commits": [
+            {
+              "SHA": "87821d0c",
+              "Subject": "Prepare for release 5.0.15-v9 (#2313)"
+            },
+            {
+              "SHA": "c41e45b5",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2298)"
+            },
+            {
+              "SHA": "59e5d4fc",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2282)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v12",
+          "commits": [
+            {
+              "SHA": "dbe016d1",
+              "Subject": "Prepare for release 6.0.5-v12 (#2315)"
+            },
+            {
+              "SHA": "b5945352",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#2285) (#2300)"
+            },
+            {
+              "SHA": "20f2f4c6",
+              "Subject": "[cherry-pick] Update restic version (#2269) (#2284)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v36",
+          "commits": [
+            {
+              "SHA": "257e8d05",
+              "Subject": "Prepare for release 5.7.25-v36 (#830)"
+            },
+            {
+              "SHA": "deeba6a7",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#825) (#826)"
+            },
+            {
+              "SHA": "5bfced7b",
+              "Subject": "[cherry-pick] Update restic version (#820) (#821)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v35",
+          "commits": [
+            {
+              "SHA": "f3792803",
+              "Subject": "Prepare for release 8.0.3-v35 (#833)"
+            },
+            {
+              "SHA": "f0646a51",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#825) (#829)"
+            },
+            {
+              "SHA": "7191623e",
+              "Subject": "[cherry-pick] Update restic version (#820) (#824)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v35",
+          "commits": [
+            {
+              "SHA": "11a16e41",
+              "Subject": "Prepare for release 8.0.14-v35 (#831)"
+            },
+            {
+              "SHA": "15cbc75b",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#825) (#827)"
+            },
+            {
+              "SHA": "8c316cf6",
+              "Subject": "[cherry-pick] Update restic version (#820) (#822)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v29",
+          "commits": [
+            {
+              "SHA": "40477676",
+              "Subject": "Prepare for release 8.0.21-v29 (#832)"
+            },
+            {
+              "SHA": "9b47b6b0",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#825) (#828)"
+            },
+            {
+              "SHA": "e821a3a7",
+              "Subject": "[cherry-pick] Update restic version (#820) (#823)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v23",
+          "commits": [
+            {
+              "SHA": "494f136",
+              "Subject": "Prepare for release 2.6.1-v23 (#174)"
+            },
+            {
+              "SHA": "6ecd84e",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#171) (#172)"
+            },
+            {
+              "SHA": "62bb480",
+              "Subject": "[cherry-pick] Update restic version (#168) (#169)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v18",
+          "commits": [
+            {
+              "SHA": "85cc12a",
+              "Subject": "Prepare for release 2.8.2-v18 (#175)"
+            },
+            {
+              "SHA": "05a954c",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#171) (#173)"
+            },
+            {
+              "SHA": "94db04d",
+              "Subject": "[cherry-pick] Update restic version (#168) (#170)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v30",
+          "commits": [
+            {
+              "SHA": "e1953f66",
+              "Subject": "Prepare for release 5.7-v30 (#339)"
+            },
+            {
+              "SHA": "8182d43a",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#337) (#338)"
+            },
+            {
+              "SHA": "691eb9f1",
+              "Subject": "[cherry-pick] Update restic version (#335) (#336)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v34",
+          "commits": [
+            {
+              "SHA": "0f832438",
+              "Subject": "Prepare for release 9.6.19-v34 (#1416)"
+            },
+            {
+              "SHA": "51caddc6",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1398) (#1407)"
+            },
+            {
+              "SHA": "9eeca7df",
+              "Subject": "[cherry-pick] Update restic version (#1388) (#1397)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v34",
+          "commits": [
+            {
+              "SHA": "7b7ea7b3",
+              "Subject": "Prepare for release 10.14-v34 (#1408)"
+            },
+            {
+              "SHA": "959c3900",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1398) (#1399)"
+            },
+            {
+              "SHA": "43ca4e5c",
+              "Subject": "[cherry-pick] Update restic version (#1388) (#1389)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v34",
+          "commits": [
+            {
+              "SHA": "24116ad4",
+              "Subject": "Prepare for release 11.9-v34 (#1409)"
+            },
+            {
+              "SHA": "e89b2d64",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1398) (#1400)"
+            },
+            {
+              "SHA": "2ba1328a",
+              "Subject": "[cherry-pick] Update restic version (#1388) (#1390)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v34",
+          "commits": [
+            {
+              "SHA": "ea14aa72",
+              "Subject": "Prepare for release 12.4-v34 (#1410)"
+            },
+            {
+              "SHA": "4eed066f",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1398) (#1401)"
+            },
+            {
+              "SHA": "b5788bea",
+              "Subject": "[cherry-pick] Update restic version (#1388) (#1391)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v31",
+          "commits": [
+            {
+              "SHA": "a6c02931",
+              "Subject": "Prepare for release 13.1-v31 (#1411)"
+            },
+            {
+              "SHA": "c94b0c39",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1398) (#1402)"
+            },
+            {
+              "SHA": "d542947c",
+              "Subject": "[cherry-pick] Update restic version (#1388) (#1392)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v23",
+          "commits": [
+            {
+              "SHA": "801d7c5c",
+              "Subject": "Prepare for release 14.0-v23 (#1412)"
+            },
+            {
+              "SHA": "c3f7e3d2",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1398) (#1403)"
+            },
+            {
+              "SHA": "93d67b4c",
+              "Subject": "[cherry-pick] Update restic version (#1388) (#1393)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v15",
+          "commits": [
+            {
+              "SHA": "d83e7e57",
+              "Subject": "Prepare for release 15.1-v15 (#1413)"
+            },
+            {
+              "SHA": "d1902c9c",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1398) (#1404)"
+            },
+            {
+              "SHA": "bf99b8d5",
+              "Subject": "[cherry-pick] Update restic version (#1388) (#1394)"
+            }
+          ]
+        },
+        {
+          "tag": "16.1-v4",
+          "commits": [
+            {
+              "SHA": "6d792f01",
+              "Subject": "Prepare for release 16.1-v4 (#1414)"
+            },
+            {
+              "SHA": "8b7996ad",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1398) (#1405)"
+            },
+            {
+              "SHA": "054fcd82",
+              "Subject": "[cherry-pick] Update restic version (#1388) (#1395)"
+            }
+          ]
+        },
+        {
+          "tag": "17.2-v2",
+          "commits": [
+            {
+              "SHA": "1dd5ba4a",
+              "Subject": "Prepare for release 17.2-v2 (#1415)"
+            },
+            {
+              "SHA": "01ebd71f",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#1398) (#1406)"
+            },
+            {
+              "SHA": "51e3194f",
+              "Subject": "[cherry-pick] Update restic version (#1388) (#1396)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v23",
+          "commits": [
+            {
+              "SHA": "e12616a",
+              "Subject": "Prepare for release 5.0.13-v23 (#262)"
+            },
+            {
+              "SHA": "c5a8610",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#258) (#259)"
+            },
+            {
+              "SHA": "dff5ca5",
+              "Subject": "[cherry-pick] Update restic version (#254) (#255)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v23",
+          "commits": [
+            {
+              "SHA": "6950b3b",
+              "Subject": "Prepare for release 6.2.5-v23 (#263)"
+            },
+            {
+              "SHA": "543fd7b",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#258) (#260)"
+            },
+            {
+              "SHA": "6d662ea",
+              "Subject": "[cherry-pick] Update restic version (#254) (#256)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v16",
+          "commits": [
+            {
+              "SHA": "53850f7",
+              "Subject": "Prepare for release 7.0.5-v16 (#264)"
+            },
+            {
+              "SHA": "9b700ec",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#258) (#261)"
+            },
+            {
+              "SHA": "7a61b63",
+              "Subject": "[cherry-pick] Update restic version (#254) (#257)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.39.0",
+          "commits": [
+            {
+              "SHA": "38fe5bff5",
+              "Subject": "Prepare for release v0.39.0 (#1592)"
+            },
+            {
+              "SHA": "4b2a313f5",
+              "Subject": "Disable image caching in setup-qemu action (#1591)"
+            },
+            {
+              "SHA": "391dd9829",
+              "Subject": "Update restic version (#1590)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.20.0",
+          "commits": [
+            {
+              "SHA": "231a0ca6",
+              "Subject": "Prepare for release v0.20.0 (#48)"
+            },
+            {
+              "SHA": "a4ea7d63",
+              "Subject": "Disable image caching in setup-qemu action (#47)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v15",
+          "commits": [
+            {
+              "SHA": "b0f4f247",
+              "Subject": "Prepare for release 1.10.3-v15 (#57)"
+            },
+            {
+              "SHA": "7fb6f494",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#55) (#56)"
+            },
+            {
+              "SHA": "0c81799c",
+              "Subject": "[cherry-pick] Update restic version (#53) (#54)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
