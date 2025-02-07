@@ -410,3 +410,13 @@
 
 
 
+## [stashed/vault](https://github.com/stashed/vault)
+
+### [1.10.3-v15](https://github.com/stashed/vault/releases/tag/1.10.3-v15)
+
+- [b0f4f247](https://github.com/stashed/vault/commit/b0f4f247) Prepare for release 1.10.3-v15 (#57)
+- [7fb6f494](https://github.com/stashed/vault/commit/7fb6f494) [cherry-pick] Disable image caching in setup-qemu action (#55) (#56)
+- [0c81799c](https://github.com/stashed/vault/commit/0c81799c) [cherry-pick] Update restic version (#53) (#54)
+
+
+
