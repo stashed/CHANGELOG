@@ -222,6 +222,13 @@
 - [5bfced7b](https://github.com/stashed/mysql/commit/5bfced7b) [cherry-pick] Update restic version (#820) (#821)
 
 
+### [8.0.14-v35](https://github.com/stashed/mysql/releases/tag/8.0.14-v35)
+
+- [11a16e41](https://github.com/stashed/mysql/commit/11a16e41) Prepare for release 8.0.14-v35 (#831)
+- [15cbc75b](https://github.com/stashed/mysql/commit/15cbc75b) [cherry-pick] Disable image caching in setup-qemu action (#825) (#827)
+- [8c316cf6](https://github.com/stashed/mysql/commit/8c316cf6) [cherry-pick] Update restic version (#820) (#822)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
