@@ -22,6 +22,16 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2025.2.10](https://github.com/stashed/docs/releases/tag/v2025.2.10)
+
+- [f4f78b9](https://github.com/stashed/docs/commit/f4f78b9) Prepare for release v2025.2.10 (#307)
+- [90f315f](https://github.com/stashed/docs/commit/90f315f) Add docs for migrate cmd (#305)
+- [3d46dd7](https://github.com/stashed/docs/commit/3d46dd7) Update docs for stashed/cli@fad79b34 (#306)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v35](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v35)

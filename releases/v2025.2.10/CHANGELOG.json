@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.2.10",
-  "release_date": "2025-02-07T20:07:18.115328107Z",
+  "release_date": "2025-02-07T20:23:30.970584793Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.2.10",
   "kubernetes_version": "1.26+",
@@ -49,6 +49,28 @@
             {
               "SHA": "b758aab7",
               "Subject": "Add migrate and prune cmd (#208)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2025.2.10",
+          "commits": [
+            {
+              "SHA": "f4f78b9",
+              "Subject": "Prepare for release v2025.2.10 (#307)"
+            },
+            {
+              "SHA": "90f315f",
+              "Subject": "Add docs for migrate cmd (#305)"
+            },
+            {
+              "SHA": "3d46dd7",
+              "Subject": "Update docs for stashed/cli@fad79b34 (#306)"
             }
           ]
         }
