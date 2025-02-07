@@ -254,6 +254,16 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v30](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v30)
+
+- [e1953f66](https://github.com/stashed/percona-xtradb/commit/e1953f66) Prepare for release 5.7-v30 (#339)
+- [8182d43a](https://github.com/stashed/percona-xtradb/commit/8182d43a) [cherry-pick] Disable image caching in setup-qemu action (#337) (#338)
+- [691eb9f1](https://github.com/stashed/percona-xtradb/commit/691eb9f1) [cherry-pick] Update restic version (#335) (#336)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v34](https://github.com/stashed/postgres/releases/tag/9.6.19-v34)

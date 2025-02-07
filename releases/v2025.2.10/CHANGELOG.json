@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.2.10",
-  "release_date": "2025-02-07T16:52:05.500339455Z",
+  "release_date": "2025-02-07T16:58:42.602529421Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.2.10",
   "kubernetes_version": "1.26+",
@@ -601,6 +601,28 @@
             {
               "SHA": "e821a3a7",
               "Subject": "[cherry-pick] Update restic version (#820) (#823)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v30",
+          "commits": [
+            {
+              "SHA": "e1953f66",
+              "Subject": "Prepare for release 5.7-v30 (#339)"
+            },
+            {
+              "SHA": "8182d43a",
+              "Subject": "[cherry-pick] Disable image caching in setup-qemu action (#337) (#338)"
+            },
+            {
+              "SHA": "691eb9f1",
+              "Subject": "[cherry-pick] Update restic version (#335) (#336)"
             }
           ]
         }
