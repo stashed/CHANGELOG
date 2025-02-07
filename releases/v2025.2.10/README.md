@@ -121,6 +121,13 @@
 - [55888ffb](https://github.com/stashed/mongodb/commit/55888ffb) [cherry-pick] Update restic version (#2269) (#2271)
 
 
+### [3.6.13-v36](https://github.com/stashed/mongodb/releases/tag/3.6.13-v36)
+
+- [70a3f3fe](https://github.com/stashed/mongodb/commit/70a3f3fe) Prepare for release 3.6.13-v36 (#2303)
+- [4217f92e](https://github.com/stashed/mongodb/commit/4217f92e) [cherry-pick] Disable image caching in setup-qemu action (#2285) (#2288)
+- [3ba004de](https://github.com/stashed/mongodb/commit/3ba004de) [cherry-pick] Update restic version (#2269) (#2272)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
