@@ -12,3 +12,13 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.39.0](https://github.com/stashed/stash/releases/tag/v0.39.0)
+
+- [38fe5bff](https://github.com/stashed/stash/commit/38fe5bff5) Prepare for release v0.39.0 (#1592)
+- [4b2a313f](https://github.com/stashed/stash/commit/4b2a313f5) Disable image caching in setup-qemu action (#1591)
+- [391dd982](https://github.com/stashed/stash/commit/391dd9829) Update restic version (#1590)
+
+
+
