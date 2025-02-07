@@ -254,6 +254,16 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v23](https://github.com/stashed/nats/releases/tag/2.6.1-v23)
+
+- [494f136](https://github.com/stashed/nats/commit/494f136) Prepare for release 2.6.1-v23 (#174)
+- [6ecd84e](https://github.com/stashed/nats/commit/6ecd84e) [cherry-pick] Disable image caching in setup-qemu action (#171) (#172)
+- [62bb480](https://github.com/stashed/nats/commit/62bb480) [cherry-pick] Update restic version (#168) (#169)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v30](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v30)
