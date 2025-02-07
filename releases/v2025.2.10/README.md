@@ -83,6 +83,13 @@
 - [054fcd82](https://github.com/stashed/postgres/commit/054fcd82) [cherry-pick] Update restic version (#1388) (#1395)
 
 
+### [17.2-v2](https://github.com/stashed/postgres/releases/tag/17.2-v2)
+
+- [1dd5ba4a](https://github.com/stashed/postgres/commit/1dd5ba4a) Prepare for release 17.2-v2 (#1415)
+- [01ebd71f](https://github.com/stashed/postgres/commit/01ebd71f) [cherry-pick] Disable image caching in setup-qemu action (#1398) (#1406)
+- [51e3194f](https://github.com/stashed/postgres/commit/51e3194f) [cherry-pick] Update restic version (#1388) (#1396)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
