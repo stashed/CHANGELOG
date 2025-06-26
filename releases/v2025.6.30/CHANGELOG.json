@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-26T18:27:48.029460775Z",
+  "release_date": "2025-06-26T18:27:50.176390429Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -311,6 +311,27 @@
             {
               "SHA": "ef63e0d6",
               "Subject": "Use Go 1.24 (#2317) (#2320)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v37",
+          "commits": [
+            {
+              "SHA": "0a827f87",
+              "Subject": "Prepare for release 4.0.11-v37 (#2380)"
+            },
+            {
+              "SHA": "0549a57a",
+              "Subject": "[cherry-pick] Use ubuntu-latest (#2356) (#2361)"
+            },
+            {
+              "SHA": "b648b638",
+              "Subject": "[cherry-pick] Extract json before unmarshal in mongodb commands (#2340) (#2345)"
+            },
+            {
+              "SHA": "5829b653",
+              "Subject": "Use Go 1.24 (#2317) (#2322)"
             }
           ]
         }
