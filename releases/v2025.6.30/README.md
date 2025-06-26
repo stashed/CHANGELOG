@@ -347,6 +347,12 @@
 - [198128d](https://github.com/stashed/redis/commit/198128d) Use Go 1.24 (#266) (#268)
 
 
+### [7.0.5-v17](https://github.com/stashed/redis/releases/tag/7.0.5-v17)
+
+- [0f12e09](https://github.com/stashed/redis/commit/0f12e09) Prepare for release 7.0.5-v17 (#272)
+- [3c51731](https://github.com/stashed/redis/commit/3c51731) Use Go 1.24 (#266) (#269)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
