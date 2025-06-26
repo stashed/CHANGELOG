@@ -414,3 +414,12 @@
 
 
 
+## [stashed/vault](https://github.com/stashed/vault)
+
+### [1.10.3-v16](https://github.com/stashed/vault/releases/tag/1.10.3-v16)
+
+- [b865d799](https://github.com/stashed/vault/commit/b865d799) Prepare for release 1.10.3-v16 (#61)
+- [d973b761](https://github.com/stashed/vault/commit/d973b761) Use Go 1.24 (#59) (#60)
+
+
+
