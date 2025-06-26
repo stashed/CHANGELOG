@@ -59,6 +59,13 @@
 - [09a0a2c5](https://github.com/stashed/postgres/commit/09a0a2c5) Use Go 1.24 (#1418) (#1421)
 
 
+### [13.1-v32](https://github.com/stashed/postgres/releases/tag/13.1-v32)
+
+- [b37c89b1](https://github.com/stashed/postgres/commit/b37c89b1) Prepare for release 13.1-v32 (#1434)
+- [9b6d66af](https://github.com/stashed/postgres/commit/9b6d66af) Use ubuntu-latest (#1435) (#1439)
+- [15a4986e](https://github.com/stashed/postgres/commit/15a4986e) Use Go 1.24 (#1418) (#1422)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
