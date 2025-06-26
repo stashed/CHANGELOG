@@ -99,6 +99,16 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v30](https://github.com/stashed/mariadb/releases/tag/10.5.8-v30)
+
+- [c79644b3](https://github.com/stashed/mariadb/commit/c79644b3) Prepare for release 10.5.8-v30 (#269)
+- [aa004e5e](https://github.com/stashed/mariadb/commit/aa004e5e) Use ubuntu-latest (#267) (#268)
+- [262d7bd7](https://github.com/stashed/mariadb/commit/262d7bd7) Use Go 1.24 (#265) (#266)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v37](https://github.com/stashed/mongodb/releases/tag/3.4.17-v37)
