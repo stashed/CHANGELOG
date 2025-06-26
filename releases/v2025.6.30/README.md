@@ -80,6 +80,12 @@
 - [fd446a94](https://github.com/stashed/elasticsearch/commit/fd446a94) Use Go 1.24 (#1636) (#1643)
 
 
+### [8.2.0-v19](https://github.com/stashed/elasticsearch/releases/tag/8.2.0-v19)
+
+- [4bbdecb9](https://github.com/stashed/elasticsearch/commit/4bbdecb9) Prepare for release 8.2.0-v19 (#1656)
+- [9c717d5c](https://github.com/stashed/elasticsearch/commit/9c717d5c) Use Go 1.24 (#1636) (#1646)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
