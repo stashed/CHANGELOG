@@ -15,6 +15,15 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.40.0](https://github.com/stashed/cli/releases/tag/v0.40.0)
+
+- [ea013162](https://github.com/stashed/cli/commit/ea013162) Prepare for release v0.40.0 (#213)
+- [f6e7b2cb](https://github.com/stashed/cli/commit/f6e7b2cb) Use Go 1.24 (#212)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.40.0](https://github.com/stashed/enterprise/releases/tag/v0.40.0)
