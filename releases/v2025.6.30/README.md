@@ -44,6 +44,12 @@
 - [03f1d3d8](https://github.com/stashed/elasticsearch/commit/03f1d3d8) Use Go 1.24 (#1636) (#1639)
 
 
+### [6.4.0-v36](https://github.com/stashed/elasticsearch/releases/tag/6.4.0-v36)
+
+- [d9ecb3c4](https://github.com/stashed/elasticsearch/commit/d9ecb3c4) Prepare for release 6.4.0-v36 (#1650)
+- [988e213c](https://github.com/stashed/elasticsearch/commit/988e213c) Use Go 1.24 (#1636) (#1640)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
