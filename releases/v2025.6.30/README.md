@@ -80,6 +80,13 @@
 - [d919488a](https://github.com/stashed/postgres/commit/d919488a) Use Go 1.24 (#1418) (#1424)
 
 
+### [16.1-v5](https://github.com/stashed/postgres/releases/tag/16.1-v5)
+
+- [92088205](https://github.com/stashed/postgres/commit/92088205) Prepare for release 16.1-v5 (#1451)
+- [19424ed5](https://github.com/stashed/postgres/commit/19424ed5) Use ubuntu-latest (#1435) (#1442)
+- [e9f07128](https://github.com/stashed/postgres/commit/e9f07128) Use Go 1.24 (#1418) (#1425)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
