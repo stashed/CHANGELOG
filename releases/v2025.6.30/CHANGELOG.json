@@ -1,0 +1,48 @@
+{
+  "product_line": "Stash",
+  "release": "v2025.6.30",
+  "release_date": "2025-06-26T15:36:39.726347547Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2025.6.30",
+  "kubernetes_version": "1.26+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "ebed5dcc",
+              "Subject": "Update vulnerable deps"
+            },
+            {
+              "SHA": "dba46622",
+              "Subject": "Test against k8s 1.32 (#240)"
+            },
+            {
+              "SHA": "30149e76",
+              "Subject": "Test against k8s 1.32 (#239)"
+            },
+            {
+              "SHA": "a5b165eb",
+              "Subject": "Test against k8s 1.32 (#238)"
+            },
+            {
+              "SHA": "95844d1b",
+              "Subject": "Test against k8s 1.32 (#237)"
+            },
+            {
+              "SHA": "9e1f46fe",
+              "Subject": "Use Go 1.24 (#235)"
+            },
+            {
+              "SHA": "d3ef3bcd",
+              "Subject": "Use Go 1.24 (#234)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
