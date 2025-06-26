@@ -157,6 +157,14 @@
 - [5829b653](https://github.com/stashed/mongodb/commit/5829b653) Use Go 1.24 (#2317) (#2322)
 
 
+### [4.1.4-v37](https://github.com/stashed/mongodb/releases/tag/4.1.4-v37)
+
+- [50c8b474](https://github.com/stashed/mongodb/commit/50c8b474) Prepare for release 4.1.4-v37 (#2384)
+- [b2de57a2](https://github.com/stashed/mongodb/commit/b2de57a2) Use ubuntu-latest (#2356) (#2365)
+- [1e3be3f4](https://github.com/stashed/mongodb/commit/1e3be3f4) [cherry-pick] Extract json before unmarshal in mongodb commands (#2340) (#2349)
+- [ecdf8b0b](https://github.com/stashed/mongodb/commit/ecdf8b0b) Use Go 1.24 (#2317) (#2326)
+
+
 ### [4.1.13-v37](https://github.com/stashed/mongodb/releases/tag/4.1.13-v37)
 
 - [0ab97946](https://github.com/stashed/mongodb/commit/0ab97946) Prepare for release 4.1.13-v37 (#2383)
