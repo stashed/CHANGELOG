@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-26T15:48:52.536602262Z",
+  "release_date": "2025-06-26T16:10:57.444500819Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -39,6 +39,36 @@
             {
               "SHA": "d3ef3bcd",
               "Subject": "Use Go 1.24 (#234)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "991adf2c3",
+              "Subject": "Prepare for release v0.40.0 (#271)"
+            },
+            {
+              "SHA": "5833e645e",
+              "Subject": "Update go.sum"
+            },
+            {
+              "SHA": "3b34fefba",
+              "Subject": "Add task queue feature for concurrent backupSessions (#270)"
+            },
+            {
+              "SHA": "1102e66af",
+              "Subject": "Incrorporate with k8s-v32 changes (#269)"
+            },
+            {
+              "SHA": "dbe516c2c",
+              "Subject": "Stop publishing to docker hub"
             }
           ]
         }

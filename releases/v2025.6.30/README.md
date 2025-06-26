@@ -15,6 +15,18 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.40.0](https://github.com/stashed/enterprise/releases/tag/v0.40.0)
+
+- [991adf2c](https://github.com/stashed/enterprise/commit/991adf2c3) Prepare for release v0.40.0 (#271)
+- [5833e645](https://github.com/stashed/enterprise/commit/5833e645e) Update go.sum
+- [3b34fefb](https://github.com/stashed/enterprise/commit/3b34fefba) Add task queue feature for concurrent backupSessions (#270)
+- [1102e66a](https://github.com/stashed/enterprise/commit/1102e66af) Incrorporate with k8s-v32 changes (#269)
+- [dbe516c2](https://github.com/stashed/enterprise/commit/dbe516c2c) Stop publishing to docker hub
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.40.0](https://github.com/stashed/stash/releases/tag/v0.40.0)
