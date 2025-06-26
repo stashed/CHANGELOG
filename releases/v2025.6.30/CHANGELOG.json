@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-26T17:08:10.508303521Z",
+  "release_date": "2025-06-26T17:08:11.924701008Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -95,6 +95,23 @@
     {
       "url": "github.com/stashed/postgres",
       "releases": [
+        {
+          "tag": "9.6.19-v35",
+          "commits": [
+            {
+              "SHA": "132369d2",
+              "Subject": "Prepare for release 9.6.19-v35 (#1453)"
+            },
+            {
+              "SHA": "56005629",
+              "Subject": "Use ubuntu-latest (#1435) (#1444)"
+            },
+            {
+              "SHA": "6260f257",
+              "Subject": "Use Go 1.24 (#1418) (#1427)"
+            }
+          ]
+        },
         {
           "tag": "10.14-v35",
           "commits": [
