@@ -15,3 +15,12 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.40.0](https://github.com/stashed/stash/releases/tag/v0.40.0)
+
+- [ab6e434a](https://github.com/stashed/stash/commit/ab6e434a8) Prepare for release v0.40.0 (#1601)
+- [4e393a9d](https://github.com/stashed/stash/commit/4e393a9d6) Stop publishing to docker hub
+
+
+

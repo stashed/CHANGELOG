@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-26T15:36:39.726347547Z",
+  "release_date": "2025-06-26T15:48:52.536602262Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -39,6 +39,24 @@
             {
               "SHA": "d3ef3bcd",
               "Subject": "Use Go 1.24 (#234)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.40.0",
+          "commits": [
+            {
+              "SHA": "ab6e434a8",
+              "Subject": "Prepare for release v0.40.0 (#1601)"
+            },
+            {
+              "SHA": "4e393a9d6",
+              "Subject": "Stop publishing to docker hub"
             }
           ]
         }
