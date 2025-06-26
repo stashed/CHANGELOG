@@ -275,6 +275,12 @@
 - [ad37719](https://github.com/stashed/nats/commit/ad37719) Use Go 1.24 (#177) (#178)
 
 
+### [2.8.2-v19](https://github.com/stashed/nats/releases/tag/2.8.2-v19)
+
+- [738c4ac](https://github.com/stashed/nats/commit/738c4ac) Prepare for release 2.8.2-v19 (#181)
+- [76de72c](https://github.com/stashed/nats/commit/76de72c) Use Go 1.24 (#177) (#179)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
