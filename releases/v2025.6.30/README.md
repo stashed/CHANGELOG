@@ -99,6 +99,15 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v23](https://github.com/stashed/etcd/releases/tag/3.5.0-v23)
+
+- [84543a3](https://github.com/stashed/etcd/commit/84543a3) Prepare for release 3.5.0-v23 (#120)
+- [1115070](https://github.com/stashed/etcd/commit/1115070) Use Go 1.24 (#118) (#119)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v30](https://github.com/stashed/mariadb/releases/tag/10.5.8-v30)

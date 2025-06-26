@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-26T19:24:34.943511974Z",
+  "release_date": "2025-06-26T19:31:01.120936622Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -222,6 +222,24 @@
             {
               "SHA": "dbe516c2c",
               "Subject": "Stop publishing to docker hub"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v23",
+          "commits": [
+            {
+              "SHA": "84543a3",
+              "Subject": "Prepare for release 3.5.0-v23 (#120)"
+            },
+            {
+              "SHA": "1115070",
+              "Subject": "Use Go 1.24 (#118) (#119)"
             }
           ]
         }
