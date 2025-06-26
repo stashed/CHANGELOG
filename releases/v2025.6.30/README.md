@@ -242,6 +242,13 @@
 - [9e268c96](https://github.com/stashed/mysql/commit/9e268c96) Use Go 1.24 (#835) (#837)
 
 
+### [8.0.21-v30](https://github.com/stashed/mysql/releases/tag/8.0.21-v30)
+
+- [bb6b4a71](https://github.com/stashed/mysql/commit/bb6b4a71) Prepare for release 8.0.21-v30 (#847)
+- [bc6dd0c2](https://github.com/stashed/mysql/commit/bc6dd0c2) Use ubuntu-latest (#840) (#843)
+- [d88dd7c0](https://github.com/stashed/mysql/commit/d88dd7c0) Use Go 1.24 (#835) (#838)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
