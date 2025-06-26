@@ -197,6 +197,15 @@
 - [cf7dd4e5](https://github.com/stashed/mongodb/commit/cf7dd4e5) Use Go 1.24 (#2317) (#2329)
 
 
+### [5.0.15-v10](https://github.com/stashed/mongodb/releases/tag/5.0.15-v10)
+
+- [fd2ef311](https://github.com/stashed/mongodb/commit/fd2ef311) Prepare for release 5.0.15-v10 (#2388)
+- [096a6bef](https://github.com/stashed/mongodb/commit/096a6bef) Use ubuntu-latest (#2356) (#2369)
+- [e4b17e70](https://github.com/stashed/mongodb/commit/e4b17e70) Extract json before unmarshal (#2334)
+- [3f2ad4cd](https://github.com/stashed/mongodb/commit/3f2ad4cd) [cherry-pick] Extract json before unmarshal in mongodb commands (#2340) (#2353)
+- [b94ed8b4](https://github.com/stashed/mongodb/commit/b94ed8b4) Use Go 1.24 (#2317) (#2330)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
