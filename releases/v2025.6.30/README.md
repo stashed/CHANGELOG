@@ -215,6 +215,16 @@
 - [b94ed8b4](https://github.com/stashed/mongodb/commit/b94ed8b4) Use Go 1.24 (#2317) (#2330)
 
 
+### [6.0.5-v13](https://github.com/stashed/mongodb/releases/tag/6.0.5-v13)
+
+- [c0191c04](https://github.com/stashed/mongodb/commit/c0191c04) Prepare for release 6.0.5-v13 (#2390)
+- [85dfe1e5](https://github.com/stashed/mongodb/commit/85dfe1e5) Use ubuntu-latest (#2356) (#2374)
+- [ead9823a](https://github.com/stashed/mongodb/commit/ead9823a) extract json before unmarshal and use `65534` USER in dockerfile (#2333)
+- [fd7c4b33](https://github.com/stashed/mongodb/commit/fd7c4b33) Extract json before unmarshal in mongodb commands (#2340) (#2354)
+- [7acdcec0](https://github.com/stashed/mongodb/commit/7acdcec0) Update CI runners image version
+- [739272b6](https://github.com/stashed/mongodb/commit/739272b6) Use Go 1.24 (#2317) (#2332)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 

@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-26T18:28:10.138768505Z",
+  "release_date": "2025-06-26T18:28:12.298789351Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -529,6 +529,35 @@
             {
               "SHA": "b94ed8b4",
               "Subject": "Use Go 1.24 (#2317) (#2330)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v13",
+          "commits": [
+            {
+              "SHA": "c0191c04",
+              "Subject": "Prepare for release 6.0.5-v13 (#2390)"
+            },
+            {
+              "SHA": "85dfe1e5",
+              "Subject": "Use ubuntu-latest (#2356) (#2374)"
+            },
+            {
+              "SHA": "ead9823a",
+              "Subject": "extract json before unmarshal and use `65534` USER in dockerfile (#2333)"
+            },
+            {
+              "SHA": "fd7c4b33",
+              "Subject": "Extract json before unmarshal in mongodb commands (#2340) (#2354)"
+            },
+            {
+              "SHA": "7acdcec0",
+              "Subject": "Update CI runners image version"
+            },
+            {
+              "SHA": "739272b6",
+              "Subject": "Use Go 1.24 (#2317) (#2332)"
             }
           ]
         }
