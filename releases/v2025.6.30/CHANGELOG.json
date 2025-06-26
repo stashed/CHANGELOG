@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-26T16:10:57.444500819Z",
+  "release_date": "2025-06-26T16:17:04.685094692Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -87,6 +87,24 @@
             {
               "SHA": "4e393a9d6",
               "Subject": "Stop publishing to docker hub"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.21.0",
+          "commits": [
+            {
+              "SHA": "7c4d7ec2",
+              "Subject": "Prepare for release v0.21.0 (#50)"
+            },
+            {
+              "SHA": "de51d640",
+              "Subject": "Use Go 1.24 (#49)"
             }
           ]
         }
