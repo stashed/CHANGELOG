@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-26T18:28:12.298789351Z",
+  "release_date": "2025-06-26T18:48:45.715747Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -558,6 +558,28 @@
             {
               "SHA": "739272b6",
               "Subject": "Use Go 1.24 (#2317) (#2332)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v37",
+          "commits": [
+            {
+              "SHA": "920a4ec6",
+              "Subject": "Prepare for release 5.7.25-v37 (#845)"
+            },
+            {
+              "SHA": "8123bff1",
+              "Subject": "Use ubuntu-latest (#840) (#841)"
+            },
+            {
+              "SHA": "b602d8f2",
+              "Subject": "Use Go 1.24 (#835) (#836)"
             }
           ]
         }
