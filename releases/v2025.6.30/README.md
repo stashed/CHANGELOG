@@ -267,6 +267,15 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v24](https://github.com/stashed/nats/releases/tag/2.6.1-v24)
+
+- [4e0da1e](https://github.com/stashed/nats/commit/4e0da1e) Prepare for release 2.6.1-v24 (#180)
+- [ad37719](https://github.com/stashed/nats/commit/ad37719) Use Go 1.24 (#177) (#178)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v31](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v31)
