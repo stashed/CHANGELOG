@@ -68,6 +68,12 @@
 - [f907477f](https://github.com/stashed/elasticsearch/commit/f907477f) Use Go 1.24 (#1636) (#1644)
 
 
+### [7.3.2-v36](https://github.com/stashed/elasticsearch/releases/tag/7.3.2-v36)
+
+- [4261f70e](https://github.com/stashed/elasticsearch/commit/4261f70e) Prepare for release 7.3.2-v36 (#1655)
+- [b5509445](https://github.com/stashed/elasticsearch/commit/b5509445) Use Go 1.24 (#1636) (#1645)
+
+
 ### [7.14.0-v22](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v22)
 
 - [c31fbb60](https://github.com/stashed/elasticsearch/commit/c31fbb60) Prepare for release 7.14.0-v22 (#1653)
