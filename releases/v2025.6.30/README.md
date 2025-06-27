@@ -1,4 +1,4 @@
-# Stash v2025.6.30 (2025-06-26)
+# Stash v2025.6.30 (2025-06-27)
 
 
 ## [stashed/apimachinery](https://github.com/stashed/apimachinery)
@@ -105,6 +105,38 @@
 
 - [84543a3](https://github.com/stashed/etcd/commit/84543a3) Prepare for release 3.5.0-v23 (#120)
 - [1115070](https://github.com/stashed/etcd/commit/1115070) Use Go 1.24 (#118) (#119)
+
+
+
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2025.6.30](https://github.com/stashed/installer/releases/tag/v2025.6.30)
+
+- [2a0577f9](https://github.com/stashed/installer/commit/2a0577f9) Prepare for release v2025.6.30 (#483)
+- [a7968b37](https://github.com/stashed/installer/commit/a7968b37) Add enableTaskQueue feature for taskqueue (#475)
+- [e0518e26](https://github.com/stashed/installer/commit/e0518e26) Update cve report (#482)
+- [28728b32](https://github.com/stashed/installer/commit/28728b32) Update cve report (#481)
+- [770d1af7](https://github.com/stashed/installer/commit/770d1af7) Update cve report (#480)
+- [0fb1b60f](https://github.com/stashed/installer/commit/0fb1b60f) Update cve report (#479)
+- [ddef1625](https://github.com/stashed/installer/commit/ddef1625) Update cve report (#478)
+- [5b5b1cf4](https://github.com/stashed/installer/commit/5b5b1cf4) Update cve report (#477)
+- [61bb9a9c](https://github.com/stashed/installer/commit/61bb9a9c) Update cve report (#476)
+- [061e7f40](https://github.com/stashed/installer/commit/061e7f40) Update cve report (#474)
+- [36bc481e](https://github.com/stashed/installer/commit/36bc481e) Update cve report (#473)
+- [1bad65cb](https://github.com/stashed/installer/commit/1bad65cb) Update cve report (#472)
+- [1df2f52f](https://github.com/stashed/installer/commit/1df2f52f) Update cve report (#471)
+- [414477eb](https://github.com/stashed/installer/commit/414477eb) Update cve report (#470)
+- [3b831874](https://github.com/stashed/installer/commit/3b831874) Update cve report (#469)
+- [1dc8d0e5](https://github.com/stashed/installer/commit/1dc8d0e5) Update cve report (#468)
+- [af6e6b9f](https://github.com/stashed/installer/commit/af6e6b9f) Update cve report (#467)
+- [a7545cef](https://github.com/stashed/installer/commit/a7545cef) Update cve report (#466)
+- [00ac7508](https://github.com/stashed/installer/commit/00ac7508) Update cve report (#465)
+- [93a525c1](https://github.com/stashed/installer/commit/93a525c1) Update cve report (#464)
+- [78a91b3b](https://github.com/stashed/installer/commit/78a91b3b) Update cve report (#463)
+- [6755a475](https://github.com/stashed/installer/commit/6755a475) Update cve report (#462)
+- [f3e1dd73](https://github.com/stashed/installer/commit/f3e1dd73) Update cve report (#461)
+- [ccaebdd9](https://github.com/stashed/installer/commit/ccaebdd9) Update cve report (#460)
+- [71c5db61](https://github.com/stashed/installer/commit/71c5db61) Update cve report (#459)
 
 
 

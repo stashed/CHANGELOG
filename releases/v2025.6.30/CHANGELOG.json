@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.6.30",
-  "release_date": "2025-06-26T19:47:24.890641296Z",
+  "release_date": "2025-06-27T01:13:57.853281785Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.6.30",
   "kubernetes_version": "1.26+",
@@ -240,6 +240,116 @@
             {
               "SHA": "1115070",
               "Subject": "Use Go 1.24 (#118) (#119)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2025.6.30",
+          "commits": [
+            {
+              "SHA": "2a0577f9",
+              "Subject": "Prepare for release v2025.6.30 (#483)"
+            },
+            {
+              "SHA": "a7968b37",
+              "Subject": "Add enableTaskQueue feature for taskqueue (#475)"
+            },
+            {
+              "SHA": "e0518e26",
+              "Subject": "Update cve report (#482)"
+            },
+            {
+              "SHA": "28728b32",
+              "Subject": "Update cve report (#481)"
+            },
+            {
+              "SHA": "770d1af7",
+              "Subject": "Update cve report (#480)"
+            },
+            {
+              "SHA": "0fb1b60f",
+              "Subject": "Update cve report (#479)"
+            },
+            {
+              "SHA": "ddef1625",
+              "Subject": "Update cve report (#478)"
+            },
+            {
+              "SHA": "5b5b1cf4",
+              "Subject": "Update cve report (#477)"
+            },
+            {
+              "SHA": "61bb9a9c",
+              "Subject": "Update cve report (#476)"
+            },
+            {
+              "SHA": "061e7f40",
+              "Subject": "Update cve report (#474)"
+            },
+            {
+              "SHA": "36bc481e",
+              "Subject": "Update cve report (#473)"
+            },
+            {
+              "SHA": "1bad65cb",
+              "Subject": "Update cve report (#472)"
+            },
+            {
+              "SHA": "1df2f52f",
+              "Subject": "Update cve report (#471)"
+            },
+            {
+              "SHA": "414477eb",
+              "Subject": "Update cve report (#470)"
+            },
+            {
+              "SHA": "3b831874",
+              "Subject": "Update cve report (#469)"
+            },
+            {
+              "SHA": "1dc8d0e5",
+              "Subject": "Update cve report (#468)"
+            },
+            {
+              "SHA": "af6e6b9f",
+              "Subject": "Update cve report (#467)"
+            },
+            {
+              "SHA": "a7545cef",
+              "Subject": "Update cve report (#466)"
+            },
+            {
+              "SHA": "00ac7508",
+              "Subject": "Update cve report (#465)"
+            },
+            {
+              "SHA": "93a525c1",
+              "Subject": "Update cve report (#464)"
+            },
+            {
+              "SHA": "78a91b3b",
+              "Subject": "Update cve report (#463)"
+            },
+            {
+              "SHA": "6755a475",
+              "Subject": "Update cve report (#462)"
+            },
+            {
+              "SHA": "f3e1dd73",
+              "Subject": "Update cve report (#461)"
+            },
+            {
+              "SHA": "ccaebdd9",
+              "Subject": "Update cve report (#460)"
+            },
+            {
+              "SHA": "71c5db61",
+              "Subject": "Update cve report (#459)"
             }
           ]
         }
