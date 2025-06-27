@@ -24,6 +24,16 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2025.6.30](https://github.com/stashed/docs/releases/tag/v2025.6.30)
+
+- [9e9c5c3](https://github.com/stashed/docs/commit/9e9c5c3) Prepare for release v2025.6.30 (#311)
+- [2ecff3a](https://github.com/stashed/docs/commit/2ecff3a) Test against k8s 1.32 (#310)
+- [02f9613](https://github.com/stashed/docs/commit/02f9613) Use Go 1.24 (#309)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v36](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v36)
