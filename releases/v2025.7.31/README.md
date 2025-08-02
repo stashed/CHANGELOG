@@ -38,6 +38,13 @@
 - [e1e1e29e](https://github.com/stashed/postgres/commit/e1e1e29e) [cherry-pick] Test against k8s 1.33 (#1455) (#1456)
 
 
+### [11.9-v36](https://github.com/stashed/postgres/releases/tag/11.9-v36)
+
+- [274f7bd3](https://github.com/stashed/postgres/commit/274f7bd3) Prepare for release 11.9-v36 (#1476)
+- [c0e66cfe](https://github.com/stashed/postgres/commit/c0e66cfe) [cherry-pick] Add Automatic Restic Unlock feature (#1465) (#1467)
+- [b4f995fa](https://github.com/stashed/postgres/commit/b4f995fa) [cherry-pick] Test against k8s 1.33 (#1455) (#1457)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
