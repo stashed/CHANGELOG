@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.7.31",
-  "release_date": "2025-08-02T06:34:17.221250715Z",
+  "release_date": "2025-08-02T06:40:10.238226465Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.7.31",
   "kubernetes_version": "1.28+",
@@ -67,6 +67,20 @@
             {
               "SHA": "4ddb96f4e",
               "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "ca7d9a52",
+              "Subject": "Prepare for release v0.22.0 (#51)"
             }
           ]
         }
