@@ -102,6 +102,15 @@
 
 
 
+## [stashed/etcd](https://github.com/stashed/etcd)
+
+### [3.5.0-v24](https://github.com/stashed/etcd/releases/tag/3.5.0-v24)
+
+- [191a495](https://github.com/stashed/etcd/commit/191a495) Prepare for release 3.5.0-v24 (#124)
+- [570dd4a](https://github.com/stashed/etcd/commit/570dd4a) [cherry-pick] Add Automatic Restic Unlock feature (#122) (#123)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.5.8-v31](https://github.com/stashed/mariadb/releases/tag/10.5.8-v31)
