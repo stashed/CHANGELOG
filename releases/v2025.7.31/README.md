@@ -397,3 +397,12 @@
 
 
 
+## [stashed/vault](https://github.com/stashed/vault)
+
+### [1.10.3-v17](https://github.com/stashed/vault/releases/tag/1.10.3-v17)
+
+- [1bb529e9](https://github.com/stashed/vault/commit/1bb529e9) Prepare for release 1.10.3-v17 (#65)
+- [8113127b](https://github.com/stashed/vault/commit/8113127b) [cherry-pick] Add Automatic Restic Unlock feature (#63) (#64)
+
+
+
