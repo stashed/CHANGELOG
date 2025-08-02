@@ -251,6 +251,15 @@
 
 
 
+## [stashed/nats](https://github.com/stashed/nats)
+
+### [2.6.1-v25](https://github.com/stashed/nats/releases/tag/2.6.1-v25)
+
+- [45e2aa1](https://github.com/stashed/nats/commit/45e2aa1) Prepare for release 2.6.1-v25 (#186)
+- [87770a8](https://github.com/stashed/nats/commit/87770a8) [cherry-pick] Add Automatic Restic Unlock feature (#183) (#184)
+
+
+
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
 ### [5.7-v32](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v32)
