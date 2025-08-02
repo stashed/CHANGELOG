@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.7.31",
-  "release_date": "2025-08-02T06:40:10.238226465Z",
+  "release_date": "2025-08-02T06:41:41.020913503Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.7.31",
   "kubernetes_version": "1.28+",
@@ -23,6 +23,20 @@
             {
               "SHA": "f559003d",
               "Subject": "Test against k8s 1.33 (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "65244b21",
+              "Subject": "Prepare for release v0.41.0 (#214)"
             }
           ]
         }

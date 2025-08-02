@@ -11,6 +11,14 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.41.0](https://github.com/stashed/cli/releases/tag/v0.41.0)
+
+- [65244b21](https://github.com/stashed/cli/commit/65244b21) Prepare for release v0.41.0 (#214)
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.41.0](https://github.com/stashed/enterprise/releases/tag/v0.41.0)
