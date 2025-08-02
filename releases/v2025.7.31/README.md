@@ -325,6 +325,12 @@
 - [a763c4d](https://github.com/stashed/redis/commit/a763c4d) [cherry-pick] Add Automatic Restic Unlock feature (#274) (#275)
 
 
+### [6.2.5-v25](https://github.com/stashed/redis/releases/tag/6.2.5-v25)
+
+- [7e2612c](https://github.com/stashed/redis/commit/7e2612c) Prepare for release 6.2.5-v25 (#279)
+- [c8e0f3a](https://github.com/stashed/redis/commit/c8e0f3a) [cherry-pick] Add Automatic Restic Unlock feature (#274) (#276)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
