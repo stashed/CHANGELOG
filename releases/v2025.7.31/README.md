@@ -63,6 +63,13 @@
 - [608c1265](https://github.com/stashed/elasticsearch/commit/608c1265) [cherry-pick] Test against k8s 1.33 (#1658) (#1664)
 
 
+### [7.2.0-v37](https://github.com/stashed/elasticsearch/releases/tag/7.2.0-v37)
+
+- [d3a1b472](https://github.com/stashed/elasticsearch/commit/d3a1b472) Prepare for release 7.2.0-v37 (#1687)
+- [05c4a81b](https://github.com/stashed/elasticsearch/commit/05c4a81b) [cherry-pick] Add Automatic Restic Unlock feature (#1669) (#1677)
+- [2834cafe](https://github.com/stashed/elasticsearch/commit/2834cafe) [cherry-pick] Test against k8s 1.33 (#1658) (#1666)
+
+
 ### [7.14.0-v23](https://github.com/stashed/elasticsearch/releases/tag/7.14.0-v23)
 
 - [a7fc36d8](https://github.com/stashed/elasticsearch/commit/a7fc36d8) Prepare for release 7.14.0-v23 (#1686)
