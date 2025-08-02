@@ -11,6 +11,16 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.41.0](https://github.com/stashed/enterprise/releases/tag/v0.41.0)
+
+- [3340f906](https://github.com/stashed/enterprise/commit/3340f9060) Prepare for release v0.41.0 (#274)
+- [3175fb7a](https://github.com/stashed/enterprise/commit/3175fb7a0) Failed BackupSession while Backup Pod not Exist (#272)
+- [7743fbf8](https://github.com/stashed/enterprise/commit/7743fbf8c) Add Automatic Restic Unlock feature (#273)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.41.0](https://github.com/stashed/stash/releases/tag/v0.41.0)

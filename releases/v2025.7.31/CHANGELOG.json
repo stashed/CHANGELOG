@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.7.31",
-  "release_date": "2025-08-02T06:02:34.2469512Z",
+  "release_date": "2025-08-02T06:34:17.221250715Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.7.31",
   "kubernetes_version": "1.28+",
@@ -23,6 +23,28 @@
             {
               "SHA": "f559003d",
               "Subject": "Test against k8s 1.33 (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "3340f9060",
+              "Subject": "Prepare for release v0.41.0 (#274)"
+            },
+            {
+              "SHA": "3175fb7a0",
+              "Subject": "Failed BackupSession while Backup Pod not Exist (#272)"
+            },
+            {
+              "SHA": "7743fbf8c",
+              "Subject": "Add Automatic Restic Unlock feature (#273)"
             }
           ]
         }
