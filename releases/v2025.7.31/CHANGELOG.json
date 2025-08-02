@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.7.31",
-  "release_date": "2025-08-02T07:31:29.988615508Z",
+  "release_date": "2025-08-02T07:37:53.807863632Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.7.31",
   "kubernetes_version": "1.28+",
@@ -589,6 +589,24 @@
             {
               "SHA": "6db9e608",
               "Subject": "[cherry-pick] Test against k8s 1.33 (#850) (#853)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v32",
+          "commits": [
+            {
+              "SHA": "088e2440",
+              "Subject": "Prepare for release 5.7-v32 (#352)"
+            },
+            {
+              "SHA": "f5f89038",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#348) (#349)"
             }
           ]
         }

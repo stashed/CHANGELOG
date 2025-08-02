@@ -251,6 +251,15 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v32](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v32)
+
+- [088e2440](https://github.com/stashed/percona-xtradb/commit/088e2440) Prepare for release 5.7-v32 (#352)
+- [f5f89038](https://github.com/stashed/percona-xtradb/commit/f5f89038) [cherry-pick] Add Automatic Restic Unlock feature (#348) (#349)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v36](https://github.com/stashed/postgres/releases/tag/9.6.19-v36)
