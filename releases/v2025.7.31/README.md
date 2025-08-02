@@ -102,6 +102,16 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.5.8-v31](https://github.com/stashed/mariadb/releases/tag/10.5.8-v31)
+
+- [45e36b53](https://github.com/stashed/mariadb/commit/45e36b53) Prepare for release 10.5.8-v31 (#275)
+- [b1ea0de3](https://github.com/stashed/mariadb/commit/b1ea0de3) [cherry-pick] Add Automatic Restic Unlock feature (#273) (#274)
+- [deb3097d](https://github.com/stashed/mariadb/commit/deb3097d) [cherry-pick] Test against k8s 1.33 (#271) (#272)
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v38](https://github.com/stashed/mongodb/releases/tag/3.4.17-v38)

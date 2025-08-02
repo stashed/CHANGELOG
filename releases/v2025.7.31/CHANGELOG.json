@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.7.31",
-  "release_date": "2025-08-02T07:18:57.850109528Z",
+  "release_date": "2025-08-02T07:25:06.027125509Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.7.31",
   "kubernetes_version": "1.28+",
@@ -234,6 +234,28 @@
             {
               "SHA": "7743fbf8c",
               "Subject": "Add Automatic Restic Unlock feature (#273)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v31",
+          "commits": [
+            {
+              "SHA": "45e36b53",
+              "Subject": "Prepare for release 10.5.8-v31 (#275)"
+            },
+            {
+              "SHA": "b1ea0de3",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#273) (#274)"
+            },
+            {
+              "SHA": "deb3097d",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#271) (#272)"
             }
           ]
         }
