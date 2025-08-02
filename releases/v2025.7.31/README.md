@@ -226,6 +226,13 @@
 - [64c58e41](https://github.com/stashed/mysql/commit/64c58e41) [cherry-pick] Test against k8s 1.33 (#850) (#852)
 
 
+### [8.0.21-v31](https://github.com/stashed/mysql/releases/tag/8.0.21-v31)
+
+- [c0853e70](https://github.com/stashed/mysql/commit/c0853e70) Prepare for release 8.0.21-v31 (#862)
+- [4bcfbf8a](https://github.com/stashed/mysql/commit/4bcfbf8a) [cherry-pick] Add Automatic Restic Unlock feature (#855) (#858)
+- [6db9e608](https://github.com/stashed/mysql/commit/6db9e608) [cherry-pick] Test against k8s 1.33 (#850) (#853)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
