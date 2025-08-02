@@ -80,6 +80,13 @@
 - [bbd94b15](https://github.com/stashed/postgres/commit/bbd94b15) [cherry-pick] Test against k8s 1.33 (#1455) (#1462)
 
 
+### [17.2-v4](https://github.com/stashed/postgres/releases/tag/17.2-v4)
+
+- [faa4de60](https://github.com/stashed/postgres/commit/faa4de60) Prepare for release 17.2-v4 (#1482)
+- [ba815b65](https://github.com/stashed/postgres/commit/ba815b65) [cherry-pick] Add Automatic Restic Unlock feature (#1465) (#1473)
+- [56b5d976](https://github.com/stashed/postgres/commit/56b5d976) [cherry-pick] Test against k8s 1.33 (#1455) (#1463)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
