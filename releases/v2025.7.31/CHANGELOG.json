@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.7.31",
-  "release_date": "2025-08-02T07:11:51.61491826Z",
+  "release_date": "2025-08-02T07:11:53.137097479Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.7.31",
   "kubernetes_version": "1.28+",
@@ -358,6 +358,23 @@
             {
               "SHA": "801ded00",
               "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2397)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v38",
+          "commits": [
+            {
+              "SHA": "d4d2cffc",
+              "Subject": "Prepare for release 4.1.13-v38 (#2431)"
+            },
+            {
+              "SHA": "1900d32f",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2416)"
+            },
+            {
+              "SHA": "16ffd473",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2400)"
             }
           ]
         }
