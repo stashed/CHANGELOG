@@ -11,3 +11,13 @@
 
 
 
+## [stashed/stash](https://github.com/stashed/stash)
+
+### [v0.41.0](https://github.com/stashed/stash/releases/tag/v0.41.0)
+
+- [8d84b02e](https://github.com/stashed/stash/commit/8d84b02ed) Prepare for release v0.41.0 (#1603)
+- [c7f4eb8e](https://github.com/stashed/stash/commit/c7f4eb8ef) Test against k8s 1.33 (#1602)
+- [4ddb96f4](https://github.com/stashed/stash/commit/4ddb96f4e) Update deps
+
+
+
