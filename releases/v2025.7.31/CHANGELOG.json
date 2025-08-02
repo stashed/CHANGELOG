@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.7.31",
-  "release_date": "2025-08-02T08:05:12.084159818Z",
+  "release_date": "2025-08-02T08:34:28.560563677Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.7.31",
   "kubernetes_version": "1.28+",
@@ -252,6 +252,56 @@
             {
               "SHA": "570dd4a",
               "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#122) (#123)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "db4260e3",
+              "Subject": "Prepare for release v2025.7.31 (#499)"
+            },
+            {
+              "SHA": "657ea944",
+              "Subject": "Update cve report (#498)"
+            },
+            {
+              "SHA": "1931c98f",
+              "Subject": "Update cve report (#497)"
+            },
+            {
+              "SHA": "64cd7a2b",
+              "Subject": "Update cve report (#496)"
+            },
+            {
+              "SHA": "5468a08f",
+              "Subject": "Fix templating for taskqueue (#495)"
+            },
+            {
+              "SHA": "f948f2dd",
+              "Subject": "Update cve report (#494)"
+            },
+            {
+              "SHA": "10cac523",
+              "Subject": "Update cve report (#493)"
+            },
+            {
+              "SHA": "f5682560",
+              "Subject": "Update cve report (#492)"
+            },
+            {
+              "SHA": "b427908a",
+              "Subject": "Update cve report (#491)"
+            },
+            {
+              "SHA": "836e6788",
+              "Subject": "Update cve report (#490)"
             }
           ]
         }

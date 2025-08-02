@@ -111,6 +111,23 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2025.7.31](https://github.com/stashed/installer/releases/tag/v2025.7.31)
+
+- [db4260e3](https://github.com/stashed/installer/commit/db4260e3) Prepare for release v2025.7.31 (#499)
+- [657ea944](https://github.com/stashed/installer/commit/657ea944) Update cve report (#498)
+- [1931c98f](https://github.com/stashed/installer/commit/1931c98f) Update cve report (#497)
+- [64cd7a2b](https://github.com/stashed/installer/commit/64cd7a2b) Update cve report (#496)
+- [5468a08f](https://github.com/stashed/installer/commit/5468a08f) Fix templating for taskqueue (#495)
+- [f948f2dd](https://github.com/stashed/installer/commit/f948f2dd) Update cve report (#494)
+- [10cac523](https://github.com/stashed/installer/commit/10cac523) Update cve report (#493)
+- [f5682560](https://github.com/stashed/installer/commit/f5682560) Update cve report (#492)
+- [b427908a](https://github.com/stashed/installer/commit/b427908a) Update cve report (#491)
+- [836e6788](https://github.com/stashed/installer/commit/836e6788) Update cve report (#490)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.2.0-v5](https://github.com/stashed/kubedump/releases/tag/0.2.0-v5)
