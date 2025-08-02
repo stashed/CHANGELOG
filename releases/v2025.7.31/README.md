@@ -19,6 +19,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2025.7.31](https://github.com/stashed/docs/releases/tag/v2025.7.31)
+
+- [c48c4b0](https://github.com/stashed/docs/commit/c48c4b0) Prepare for release v2025.7.31 (#313)
+- [8591fa1](https://github.com/stashed/docs/commit/8591fa1) Test against k8s 1.33 (#312)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v37](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v37)
