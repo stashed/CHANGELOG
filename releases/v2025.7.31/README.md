@@ -111,6 +111,13 @@
 - [5c6bad5f](https://github.com/stashed/mongodb/commit/5c6bad5f) [cherry-pick] Test against k8s 1.33 (#2392) (#2393)
 
 
+### [3.4.22-v38](https://github.com/stashed/mongodb/releases/tag/3.4.22-v38)
+
+- [b634b435](https://github.com/stashed/mongodb/commit/b634b435) Prepare for release 3.4.22-v38 (#2425)
+- [9921031a](https://github.com/stashed/mongodb/commit/9921031a) [cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2410)
+- [00f5166f](https://github.com/stashed/mongodb/commit/00f5166f) [cherry-pick] Test against k8s 1.33 (#2392) (#2394)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
