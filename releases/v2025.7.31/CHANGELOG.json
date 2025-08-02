@@ -1,0 +1,1003 @@
+{
+  "product_line": "Stash",
+  "release": "v2025.7.31",
+  "release_date": "2025-08-02T08:48:46.681831572Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2025.7.31",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "f9825ca2",
+              "Subject": "Show restic command ouput (#243)"
+            },
+            {
+              "SHA": "3cc491bb",
+              "Subject": "Add Automatic Restic Unlock feature (#242)"
+            },
+            {
+              "SHA": "f559003d",
+              "Subject": "Test against k8s 1.33 (#241)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "65244b21",
+              "Subject": "Prepare for release v0.41.0 (#214)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/docs",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "c48c4b0",
+              "Subject": "Prepare for release v2025.7.31 (#313)"
+            },
+            {
+              "SHA": "8591fa1",
+              "Subject": "Test against k8s 1.33 (#312)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/elasticsearch",
+      "releases": [
+        {
+          "tag": "5.6.4-v37",
+          "commits": [
+            {
+              "SHA": "5ac7d42e",
+              "Subject": "Prepare for release 5.6.4-v37 (#1680)"
+            },
+            {
+              "SHA": "8a5050c7",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1669) (#1670)"
+            },
+            {
+              "SHA": "f1051318",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1658) (#1659)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.4-v37",
+          "commits": [
+            {
+              "SHA": "ef32fa2c",
+              "Subject": "Prepare for release 6.2.4-v37 (#1681)"
+            },
+            {
+              "SHA": "65ddcd33",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1669) (#1671)"
+            },
+            {
+              "SHA": "2c9f7bf2",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1658) (#1660)"
+            }
+          ]
+        },
+        {
+          "tag": "6.3.0-v37",
+          "commits": [
+            {
+              "SHA": "91d2b37a",
+              "Subject": "Prepare for release 6.3.0-v37 (#1682)"
+            },
+            {
+              "SHA": "e9e6ae83",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1669) (#1672)"
+            },
+            {
+              "SHA": "914f1d25",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1658) (#1661)"
+            }
+          ]
+        },
+        {
+          "tag": "6.4.0-v37",
+          "commits": [
+            {
+              "SHA": "d4c66ee8",
+              "Subject": "Prepare for release 6.4.0-v37 (#1683)"
+            },
+            {
+              "SHA": "3ca6254e",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1669) (#1673)"
+            },
+            {
+              "SHA": "67fd31ab",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1658) (#1662)"
+            }
+          ]
+        },
+        {
+          "tag": "6.5.3-v37",
+          "commits": [
+            {
+              "SHA": "d61926b6",
+              "Subject": "Prepare for release 6.5.3-v37 (#1684)"
+            },
+            {
+              "SHA": "fba47b2d",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1669) (#1674)"
+            },
+            {
+              "SHA": "9080f7e4",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1658) (#1663)"
+            }
+          ]
+        },
+        {
+          "tag": "6.8.0-v37",
+          "commits": [
+            {
+              "SHA": "d76d0168",
+              "Subject": "Prepare for release 6.8.0-v37 (#1685)"
+            },
+            {
+              "SHA": "77b620af",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1669) (#1675)"
+            },
+            {
+              "SHA": "608c1265",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1658) (#1664)"
+            }
+          ]
+        },
+        {
+          "tag": "7.2.0-v37",
+          "commits": [
+            {
+              "SHA": "d3a1b472",
+              "Subject": "Prepare for release 7.2.0-v37 (#1687)"
+            },
+            {
+              "SHA": "05c4a81b",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1669) (#1677)"
+            },
+            {
+              "SHA": "2834cafe",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1658) (#1666)"
+            }
+          ]
+        },
+        {
+          "tag": "7.3.2-v37",
+          "commits": [
+            {
+              "SHA": "517164d9",
+              "Subject": "Prepare for release 7.3.2-v37 (#1688)"
+            },
+            {
+              "SHA": "7e63f7c0",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1669) (#1678)"
+            },
+            {
+              "SHA": "58ddb68c",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1658) (#1667)"
+            }
+          ]
+        },
+        {
+          "tag": "7.14.0-v23",
+          "commits": [
+            {
+              "SHA": "a7fc36d8",
+              "Subject": "Prepare for release 7.14.0-v23 (#1686)"
+            },
+            {
+              "SHA": "0601cb67",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1669) (#1676)"
+            },
+            {
+              "SHA": "7ba3213d",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1658) (#1665)"
+            }
+          ]
+        },
+        {
+          "tag": "8.2.0-v20",
+          "commits": [
+            {
+              "SHA": "d579eb34",
+              "Subject": "Prepare for release 8.2.0-v20 (#1689)"
+            },
+            {
+              "SHA": "c3ace5fe",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1669) (#1679)"
+            },
+            {
+              "SHA": "34f99bfc",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1658) (#1668)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/enterprise",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "3340f9060",
+              "Subject": "Prepare for release v0.41.0 (#274)"
+            },
+            {
+              "SHA": "3175fb7a0",
+              "Subject": "Failed BackupSession while Backup Pod not Exist (#272)"
+            },
+            {
+              "SHA": "7743fbf8c",
+              "Subject": "Add Automatic Restic Unlock feature (#273)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/etcd",
+      "releases": [
+        {
+          "tag": "3.5.0-v24",
+          "commits": [
+            {
+              "SHA": "191a495",
+              "Subject": "Prepare for release 3.5.0-v24 (#124)"
+            },
+            {
+              "SHA": "570dd4a",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#122) (#123)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2025.7.31",
+          "commits": [
+            {
+              "SHA": "db4260e3",
+              "Subject": "Prepare for release v2025.7.31 (#499)"
+            },
+            {
+              "SHA": "657ea944",
+              "Subject": "Update cve report (#498)"
+            },
+            {
+              "SHA": "1931c98f",
+              "Subject": "Update cve report (#497)"
+            },
+            {
+              "SHA": "64cd7a2b",
+              "Subject": "Update cve report (#496)"
+            },
+            {
+              "SHA": "5468a08f",
+              "Subject": "Fix templating for taskqueue (#495)"
+            },
+            {
+              "SHA": "f948f2dd",
+              "Subject": "Update cve report (#494)"
+            },
+            {
+              "SHA": "10cac523",
+              "Subject": "Update cve report (#493)"
+            },
+            {
+              "SHA": "f5682560",
+              "Subject": "Update cve report (#492)"
+            },
+            {
+              "SHA": "b427908a",
+              "Subject": "Update cve report (#491)"
+            },
+            {
+              "SHA": "836e6788",
+              "Subject": "Update cve report (#490)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/kubedump",
+      "releases": [
+        {
+          "tag": "0.2.0-v5",
+          "commits": [
+            {
+              "SHA": "b9af442",
+              "Subject": "Prepare for release 0.2.0-v5 (#95)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.5.8-v31",
+          "commits": [
+            {
+              "SHA": "45e36b53",
+              "Subject": "Prepare for release 10.5.8-v31 (#275)"
+            },
+            {
+              "SHA": "b1ea0de3",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#273) (#274)"
+            },
+            {
+              "SHA": "deb3097d",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#271) (#272)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mongodb",
+      "releases": [
+        {
+          "tag": "3.4.17-v38",
+          "commits": [
+            {
+              "SHA": "5fd93dcc",
+              "Subject": "Prepare for release 3.4.17-v38 (#2424)"
+            },
+            {
+              "SHA": "54c06081",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2409)"
+            },
+            {
+              "SHA": "5c6bad5f",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2393)"
+            }
+          ]
+        },
+        {
+          "tag": "3.4.22-v38",
+          "commits": [
+            {
+              "SHA": "b634b435",
+              "Subject": "Prepare for release 3.4.22-v38 (#2425)"
+            },
+            {
+              "SHA": "9921031a",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2410)"
+            },
+            {
+              "SHA": "00f5166f",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2394)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.8-v38",
+          "commits": [
+            {
+              "SHA": "717fab40",
+              "Subject": "Prepare for release 3.6.8-v38 (#2427)"
+            },
+            {
+              "SHA": "d3b2f64d",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2412)"
+            },
+            {
+              "SHA": "362bf7f8",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2396)"
+            }
+          ]
+        },
+        {
+          "tag": "3.6.13-v38",
+          "commits": [
+            {
+              "SHA": "a5aafa55",
+              "Subject": "Prepare for release 3.6.13-v38 (#2426)"
+            },
+            {
+              "SHA": "97df90c6",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2411)"
+            },
+            {
+              "SHA": "be480770",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2395)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.3-v38",
+          "commits": [
+            {
+              "SHA": "f48ce49d",
+              "Subject": "Prepare for release 4.0.3-v38 (#2429)"
+            },
+            {
+              "SHA": "5cfc3fe1",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2414)"
+            },
+            {
+              "SHA": "8fda5d46",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2398)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.5-v38",
+          "commits": [
+            {
+              "SHA": "d4f809ae",
+              "Subject": "Prepare for release 4.0.5-v38 (#2430)"
+            },
+            {
+              "SHA": "af158f7e",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2415)"
+            },
+            {
+              "SHA": "9c5c6b45",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2399)"
+            }
+          ]
+        },
+        {
+          "tag": "4.0.11-v38",
+          "commits": [
+            {
+              "SHA": "cc90e881",
+              "Subject": "Prepare for release 4.0.11-v38 (#2428)"
+            },
+            {
+              "SHA": "f051bfcb",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2413)"
+            },
+            {
+              "SHA": "801ded00",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2397)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.4-v38",
+          "commits": [
+            {
+              "SHA": "d32ae4fa",
+              "Subject": "Prepare for release 4.1.4-v38 (#2432)"
+            },
+            {
+              "SHA": "c05ed731",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2417)"
+            },
+            {
+              "SHA": "3fcdb4dc",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2401)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.7-v38",
+          "commits": [
+            {
+              "SHA": "ee842555",
+              "Subject": "Prepare for release 4.1.7-v38 (#2433)"
+            },
+            {
+              "SHA": "5006ae67",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2418)"
+            },
+            {
+              "SHA": "5493889d",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2402)"
+            }
+          ]
+        },
+        {
+          "tag": "4.1.13-v38",
+          "commits": [
+            {
+              "SHA": "d4d2cffc",
+              "Subject": "Prepare for release 4.1.13-v38 (#2431)"
+            },
+            {
+              "SHA": "1900d32f",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2416)"
+            },
+            {
+              "SHA": "16ffd473",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2400)"
+            }
+          ]
+        },
+        {
+          "tag": "4.2.3-v38",
+          "commits": [
+            {
+              "SHA": "9068b19c",
+              "Subject": "Prepare for release 4.2.3-v38 (#2434)"
+            },
+            {
+              "SHA": "ad3f7ac7",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2419)"
+            },
+            {
+              "SHA": "0758484f",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2403)"
+            }
+          ]
+        },
+        {
+          "tag": "4.4.6-v29",
+          "commits": [
+            {
+              "SHA": "9bb5b20d",
+              "Subject": "Prepare for release 4.4.6-v29 (#2435)"
+            },
+            {
+              "SHA": "aea85f5a",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2420)"
+            },
+            {
+              "SHA": "08e4450b",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2404)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.3-v26",
+          "commits": [
+            {
+              "SHA": "b485166b",
+              "Subject": "Prepare for release 5.0.3-v26 (#2437)"
+            },
+            {
+              "SHA": "19568660",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2422)"
+            },
+            {
+              "SHA": "a33d2f46",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2406)"
+            }
+          ]
+        },
+        {
+          "tag": "5.0.15-v11",
+          "commits": [
+            {
+              "SHA": "e1a668d7",
+              "Subject": "Prepare for release 5.0.15-v11 (#2436)"
+            },
+            {
+              "SHA": "cfea0124",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2421)"
+            },
+            {
+              "SHA": "b71013a1",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2405)"
+            }
+          ]
+        },
+        {
+          "tag": "6.0.5-v14",
+          "commits": [
+            {
+              "SHA": "027dcaf1",
+              "Subject": "Prepare for release 6.0.5-v14 (#2438)"
+            },
+            {
+              "SHA": "da676383",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#2408) (#2423)"
+            },
+            {
+              "SHA": "3f646642",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#2392) (#2407)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mysql",
+      "releases": [
+        {
+          "tag": "5.7.25-v38",
+          "commits": [
+            {
+              "SHA": "a22a6292",
+              "Subject": "Prepare for release 5.7.25-v38 (#860)"
+            },
+            {
+              "SHA": "ab38d1b4",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#855) (#856)"
+            },
+            {
+              "SHA": "d021f40f",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#850) (#851)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.3-v37",
+          "commits": [
+            {
+              "SHA": "79006a2f",
+              "Subject": "Prepare for release 8.0.3-v37 (#863)"
+            },
+            {
+              "SHA": "567fe445",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#855) (#859)"
+            },
+            {
+              "SHA": "6b8c1e15",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#850) (#854)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.14-v37",
+          "commits": [
+            {
+              "SHA": "474d39c9",
+              "Subject": "Prepare for release 8.0.14-v37 (#861)"
+            },
+            {
+              "SHA": "5d35512a",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#855) (#857)"
+            },
+            {
+              "SHA": "64c58e41",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#850) (#852)"
+            }
+          ]
+        },
+        {
+          "tag": "8.0.21-v31",
+          "commits": [
+            {
+              "SHA": "c0853e70",
+              "Subject": "Prepare for release 8.0.21-v31 (#862)"
+            },
+            {
+              "SHA": "4bcfbf8a",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#855) (#858)"
+            },
+            {
+              "SHA": "6db9e608",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#850) (#853)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/nats",
+      "releases": [
+        {
+          "tag": "2.6.1-v25",
+          "commits": [
+            {
+              "SHA": "45e2aa1",
+              "Subject": "Prepare for release 2.6.1-v25 (#186)"
+            },
+            {
+              "SHA": "87770a8",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#183) (#184)"
+            }
+          ]
+        },
+        {
+          "tag": "2.8.2-v20",
+          "commits": [
+            {
+              "SHA": "36e03a7",
+              "Subject": "Prepare for release 2.8.2-v20 (#187)"
+            },
+            {
+              "SHA": "4bbda6f",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#183) (#185)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/percona-xtradb",
+      "releases": [
+        {
+          "tag": "5.7-v32",
+          "commits": [
+            {
+              "SHA": "088e2440",
+              "Subject": "Prepare for release 5.7-v32 (#352)"
+            },
+            {
+              "SHA": "f5f89038",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#348) (#349)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/postgres",
+      "releases": [
+        {
+          "tag": "9.6.19-v36",
+          "commits": [
+            {
+              "SHA": "b9955e5f",
+              "Subject": "Prepare for release 9.6.19-v36 (#1483)"
+            },
+            {
+              "SHA": "70678d01",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1465) (#1474)"
+            },
+            {
+              "SHA": "868f7b56",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1455) (#1464)"
+            }
+          ]
+        },
+        {
+          "tag": "10.14-v36",
+          "commits": [
+            {
+              "SHA": "c410bfb6",
+              "Subject": "Prepare for release 10.14-v36 (#1475)"
+            },
+            {
+              "SHA": "876248ac",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1465) (#1466)"
+            },
+            {
+              "SHA": "e1e1e29e",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1455) (#1456)"
+            }
+          ]
+        },
+        {
+          "tag": "11.9-v36",
+          "commits": [
+            {
+              "SHA": "274f7bd3",
+              "Subject": "Prepare for release 11.9-v36 (#1476)"
+            },
+            {
+              "SHA": "c0e66cfe",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1465) (#1467)"
+            },
+            {
+              "SHA": "b4f995fa",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1455) (#1457)"
+            }
+          ]
+        },
+        {
+          "tag": "12.4-v36",
+          "commits": [
+            {
+              "SHA": "e6503dc0",
+              "Subject": "Prepare for release 12.4-v36 (#1477)"
+            },
+            {
+              "SHA": "13d9d0aa",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1465) (#1468)"
+            },
+            {
+              "SHA": "25acefea",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1455) (#1458)"
+            }
+          ]
+        },
+        {
+          "tag": "13.1-v33",
+          "commits": [
+            {
+              "SHA": "3c56301c",
+              "Subject": "Prepare for release 13.1-v33 (#1478)"
+            },
+            {
+              "SHA": "d0449b8c",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1465) (#1469)"
+            },
+            {
+              "SHA": "bd1355d5",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1455) (#1459)"
+            }
+          ]
+        },
+        {
+          "tag": "14.0-v25",
+          "commits": [
+            {
+              "SHA": "e290734d",
+              "Subject": "Prepare for release 14.0-v25 (#1479)"
+            },
+            {
+              "SHA": "c1685df0",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1465) (#1470)"
+            },
+            {
+              "SHA": "3b48c729",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1455) (#1460)"
+            }
+          ]
+        },
+        {
+          "tag": "15.1-v17",
+          "commits": [
+            {
+              "SHA": "8236834a",
+              "Subject": "Prepare for release 15.1-v17 (#1480)"
+            },
+            {
+              "SHA": "8df26136",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1465) (#1471)"
+            },
+            {
+              "SHA": "4fec04a1",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1455) (#1461)"
+            }
+          ]
+        },
+        {
+          "tag": "16.1-v6",
+          "commits": [
+            {
+              "SHA": "d3ab8046",
+              "Subject": "Prepare for release 16.1-v6 (#1481)"
+            },
+            {
+              "SHA": "6675c7da",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1465) (#1472)"
+            },
+            {
+              "SHA": "bbd94b15",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1455) (#1462)"
+            }
+          ]
+        },
+        {
+          "tag": "17.2-v4",
+          "commits": [
+            {
+              "SHA": "faa4de60",
+              "Subject": "Prepare for release 17.2-v4 (#1482)"
+            },
+            {
+              "SHA": "ba815b65",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#1465) (#1473)"
+            },
+            {
+              "SHA": "56b5d976",
+              "Subject": "[cherry-pick] Test against k8s 1.33 (#1455) (#1463)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/redis",
+      "releases": [
+        {
+          "tag": "5.0.13-v25",
+          "commits": [
+            {
+              "SHA": "9446cbf",
+              "Subject": "Prepare for release 5.0.13-v25 (#278)"
+            },
+            {
+              "SHA": "a763c4d",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#274) (#275)"
+            }
+          ]
+        },
+        {
+          "tag": "6.2.5-v25",
+          "commits": [
+            {
+              "SHA": "7e2612c",
+              "Subject": "Prepare for release 6.2.5-v25 (#279)"
+            },
+            {
+              "SHA": "c8e0f3a",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#274) (#276)"
+            }
+          ]
+        },
+        {
+          "tag": "7.0.5-v18",
+          "commits": [
+            {
+              "SHA": "350c04f",
+              "Subject": "Prepare for release 7.0.5-v18 (#280)"
+            },
+            {
+              "SHA": "6c43bbd",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#274) (#277)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/stash",
+      "releases": [
+        {
+          "tag": "v0.41.0",
+          "commits": [
+            {
+              "SHA": "8d84b02ed",
+              "Subject": "Prepare for release v0.41.0 (#1603)"
+            },
+            {
+              "SHA": "c7f4eb8ef",
+              "Subject": "Test against k8s 1.33 (#1602)"
+            },
+            {
+              "SHA": "4ddb96f4e",
+              "Subject": "Update deps"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/ui-server",
+      "releases": [
+        {
+          "tag": "v0.22.0",
+          "commits": [
+            {
+              "SHA": "ca7d9a52",
+              "Subject": "Prepare for release v0.22.0 (#51)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v17",
+          "commits": [
+            {
+              "SHA": "1bb529e9",
+              "Subject": "Prepare for release 1.10.3-v17 (#65)"
+            },
+            {
+              "SHA": "8113127b",
+              "Subject": "[cherry-pick] Add Automatic Restic Unlock feature (#63) (#64)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
