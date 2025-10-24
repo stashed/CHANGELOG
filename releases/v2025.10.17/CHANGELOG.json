@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.10.17",
-  "release_date": "2025-10-24T06:17:00.600853144Z",
+  "release_date": "2025-10-24T06:21:39.940662184Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.10.17",
   "kubernetes_version": "1.28+",
@@ -29,6 +29,15 @@
               "Subject": "Test against k8s 1.33.2 (#244)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/cli",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": null
         }
       ]
     },

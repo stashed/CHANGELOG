@@ -12,6 +12,13 @@
 
 
 
+## [stashed/cli](https://github.com/stashed/cli)
+
+### [v0.42.0](https://github.com/stashed/cli/releases/tag/v0.42.0)
+
+
+
+
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
 ### [v0.42.0](https://github.com/stashed/enterprise/releases/tag/v0.42.0)
