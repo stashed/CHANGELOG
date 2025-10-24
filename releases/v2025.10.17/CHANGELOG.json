@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.10.17",
-  "release_date": "2025-10-24T15:04:28.458315667Z",
+  "release_date": "2025-10-24T15:11:21.330602832Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.10.17",
   "kubernetes_version": "1.28+",
@@ -195,6 +195,15 @@
               "Subject": "Use Go 1.25 (#275)"
             }
           ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/mariadb",
+      "releases": [
+        {
+          "tag": "10.6.24",
+          "commits": null
         }
       ]
     },

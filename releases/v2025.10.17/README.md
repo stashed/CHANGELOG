@@ -92,6 +92,13 @@
 
 
 
+## [stashed/mariadb](https://github.com/stashed/mariadb)
+
+### [10.6.24](https://github.com/stashed/mariadb/releases/tag/10.6.24)
+
+
+
+
 ## [stashed/mongodb](https://github.com/stashed/mongodb)
 
 ### [3.4.17-v39](https://github.com/stashed/mongodb/releases/tag/3.4.17-v39)
