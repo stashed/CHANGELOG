@@ -160,6 +160,12 @@
 - [1b46a131](https://github.com/stashed/mongodb/commit/1b46a131) [cherry-pick] Use Go 1.25 (#2440) (#2451)
 
 
+### [4.4.6-v30](https://github.com/stashed/mongodb/releases/tag/4.4.6-v30)
+
+- [5d0d90cf](https://github.com/stashed/mongodb/commit/5d0d90cf) Prepare for release 4.4.6-v30 (#2467)
+- [b1a7b66d](https://github.com/stashed/mongodb/commit/b1a7b66d) [cherry-pick] Use Go 1.25 (#2440) (#2452)
+
+
 
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
