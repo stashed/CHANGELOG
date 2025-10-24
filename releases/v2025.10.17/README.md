@@ -101,6 +101,15 @@
 
 
 
+## [stashed/kubedump](https://github.com/stashed/kubedump)
+
+### [0.2.0-v6](https://github.com/stashed/kubedump/releases/tag/0.2.0-v6)
+
+- [c69b4ba](https://github.com/stashed/kubedump/commit/c69b4ba) Prepare for release 0.2.0-v6 (#100)
+- [c885a68](https://github.com/stashed/kubedump/commit/c885a68) [cherry-pick] Use Go 1.25 (#97) (#99)
+
+
+
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
 ### [10.6.24](https://github.com/stashed/mariadb/releases/tag/10.6.24)
