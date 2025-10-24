@@ -19,6 +19,15 @@
 
 
 
+## [stashed/docs](https://github.com/stashed/docs)
+
+### [v2025.10.17](https://github.com/stashed/docs/releases/tag/v2025.10.17)
+
+- [c43b05a](https://github.com/stashed/docs/commit/c43b05a) Prepare for release v2025.10.17 (#319)
+- [90871f3](https://github.com/stashed/docs/commit/90871f3) Use Go 1.25 (#315)
+
+
+
 ## [stashed/elasticsearch](https://github.com/stashed/elasticsearch)
 
 ### [5.6.4-v38](https://github.com/stashed/elasticsearch/releases/tag/5.6.4-v38)
