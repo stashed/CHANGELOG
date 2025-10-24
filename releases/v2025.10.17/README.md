@@ -67,6 +67,12 @@
 - [95e5d2c3](https://github.com/stashed/postgres/commit/95e5d2c3) [cherry-pick] Use Go 1.25 (#1485) (#1491)
 
 
+### [16.1-v7](https://github.com/stashed/postgres/releases/tag/16.1-v7)
+
+- [e9a2dcc5](https://github.com/stashed/postgres/commit/e9a2dcc5) Prepare for release 16.1-v7 (#1501)
+- [a8e43594](https://github.com/stashed/postgres/commit/a8e43594) [cherry-pick] Use Go 1.25 (#1485) (#1492)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
