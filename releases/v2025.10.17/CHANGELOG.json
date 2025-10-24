@@ -1,0 +1,36 @@
+{
+  "product_line": "Stash",
+  "release": "v2025.10.17",
+  "release_date": "2025-10-24T05:15:41.397900303Z",
+  "release_project_url": "https://github.com/stashed/CHANGELOG",
+  "docs_url": "https://stash.run/docs/v2025.10.17",
+  "kubernetes_version": "1.28+",
+  "projects": [
+    {
+      "url": "github.com/stashed/apimachinery",
+      "releases": [
+        {
+          "tag": "v0.42.0",
+          "commits": [
+            {
+              "SHA": "46651bfb",
+              "Subject": "Update deps"
+            },
+            {
+              "SHA": "99478c27",
+              "Subject": "Test against k8s 1.34 (#246)"
+            },
+            {
+              "SHA": "c4f6d787",
+              "Subject": "Use Go 1.25 (#245)"
+            },
+            {
+              "SHA": "033eab70",
+              "Subject": "Test against k8s 1.33.2 (#244)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
