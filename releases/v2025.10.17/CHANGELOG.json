@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.10.17",
-  "release_date": "2025-10-24T15:55:44.423633168Z",
+  "release_date": "2025-10-24T16:42:53.81880659Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.10.17",
   "kubernetes_version": "1.28+",
@@ -237,6 +237,10 @@
     {
       "url": "github.com/stashed/mariadb",
       "releases": [
+        {
+          "tag": "10.6.23-v1",
+          "commits": null
+        },
         {
           "tag": "10.6.24",
           "commits": null

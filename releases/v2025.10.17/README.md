@@ -112,6 +112,10 @@
 
 ## [stashed/mariadb](https://github.com/stashed/mariadb)
 
+### [10.6.23-v1](https://github.com/stashed/mariadb/releases/tag/10.6.23-v1)
+
+
+
 ### [10.6.24](https://github.com/stashed/mariadb/releases/tag/10.6.24)
 
 
