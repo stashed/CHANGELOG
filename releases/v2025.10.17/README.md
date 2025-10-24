@@ -219,6 +219,15 @@
 
 
 
+## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
+
+### [5.7-v33](https://github.com/stashed/percona-xtradb/releases/tag/5.7-v33)
+
+- [ef785e28](https://github.com/stashed/percona-xtradb/commit/ef785e28) Prepare for release 5.7-v33 (#358)
+- [a2544748](https://github.com/stashed/percona-xtradb/commit/a2544748) [cherry-pick] Use Go 1.25 (#354) (#355)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v37](https://github.com/stashed/postgres/releases/tag/9.6.19-v37)
