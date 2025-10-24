@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.10.17",
-  "release_date": "2025-10-24T16:42:53.81880659Z",
+  "release_date": "2025-10-24T18:01:26.291145621Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.10.17",
   "kubernetes_version": "1.28+",
@@ -211,6 +211,152 @@
             {
               "SHA": "ec04d18",
               "Subject": "[cherry-pick] Use Go 1.25 (#126) (#127)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/installer",
+      "releases": [
+        {
+          "tag": "v2025.10.17",
+          "commits": [
+            {
+              "SHA": "8e25dbe5",
+              "Subject": "Prepare for release v2025.10.17 (#532)"
+            },
+            {
+              "SHA": "5a5ad14b",
+              "Subject": "Update cve report (#533)"
+            },
+            {
+              "SHA": "c39d7b4d",
+              "Subject": "Fix mariadb 10.6.23 plugin (#531)"
+            },
+            {
+              "SHA": "3d06ccc6",
+              "Subject": "Fix make file (#530)"
+            },
+            {
+              "SHA": "eb05dc25",
+              "Subject": "Update cve report (#529)"
+            },
+            {
+              "SHA": "7da7c0f0",
+              "Subject": "Update cve report (#528)"
+            },
+            {
+              "SHA": "70b0f586",
+              "Subject": "Update cve report (#527)"
+            },
+            {
+              "SHA": "7aedbdd5",
+              "Subject": "Update cve report (#526)"
+            },
+            {
+              "SHA": "cf64b013",
+              "Subject": "Update cve report (#525)"
+            },
+            {
+              "SHA": "038a2464",
+              "Subject": "Update cve report (#524)"
+            },
+            {
+              "SHA": "b47c6239",
+              "Subject": "Update cve report (#523)"
+            },
+            {
+              "SHA": "9c6eddfe",
+              "Subject": "Update cve report (#522)"
+            },
+            {
+              "SHA": "66bdc8d6",
+              "Subject": "Update cve report (#521)"
+            },
+            {
+              "SHA": "109c5887",
+              "Subject": "Update cve report (#520)"
+            },
+            {
+              "SHA": "50ac2b45",
+              "Subject": "Update cve report (#519)"
+            },
+            {
+              "SHA": "49b064bf",
+              "Subject": "Update cve report (#518)"
+            },
+            {
+              "SHA": "29af9a00",
+              "Subject": "Update cve report (#517)"
+            },
+            {
+              "SHA": "3ced4e50",
+              "Subject": "Update cve report (#516)"
+            },
+            {
+              "SHA": "cb1224e5",
+              "Subject": "Update cve report (#515)"
+            },
+            {
+              "SHA": "a2d7de82",
+              "Subject": "Test against k8s 1.34 (#514)"
+            },
+            {
+              "SHA": "c91dd354",
+              "Subject": "Update cve report (#513)"
+            },
+            {
+              "SHA": "3f1de0c7",
+              "Subject": "Update cve report (#512)"
+            },
+            {
+              "SHA": "eb5233d1",
+              "Subject": "Update cve report (#511)"
+            },
+            {
+              "SHA": "f01dc083",
+              "Subject": "Update cve report (#510)"
+            },
+            {
+              "SHA": "1f039f13",
+              "Subject": "Update cve report (#509)"
+            },
+            {
+              "SHA": "ae2ca9f7",
+              "Subject": "Update cve report (#505)"
+            },
+            {
+              "SHA": "7d0b2c58",
+              "Subject": "Use Go 1.25 (#508)"
+            },
+            {
+              "SHA": "0d087208",
+              "Subject": "Test against k8s 1.33.2 (#507)"
+            },
+            {
+              "SHA": "75b19ee0",
+              "Subject": "Test against k8s 1.33.2 (#506)"
+            },
+            {
+              "SHA": "b9252af8",
+              "Subject": "Update cve report (#504)"
+            },
+            {
+              "SHA": "21e2ceae",
+              "Subject": "Update cve report (#503)"
+            },
+            {
+              "SHA": "f5fddd81",
+              "Subject": "Update cve report (#502)"
+            },
+            {
+              "SHA": "4b285b95",
+              "Subject": "Update cve report (#501)"
+            },
+            {
+              "SHA": "450b8969",
+              "Subject": "Update cve report (#500)"
             }
           ]
         }

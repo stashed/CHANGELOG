@@ -101,6 +101,47 @@
 
 
 
+## [stashed/installer](https://github.com/stashed/installer)
+
+### [v2025.10.17](https://github.com/stashed/installer/releases/tag/v2025.10.17)
+
+- [8e25dbe5](https://github.com/stashed/installer/commit/8e25dbe5) Prepare for release v2025.10.17 (#532)
+- [5a5ad14b](https://github.com/stashed/installer/commit/5a5ad14b) Update cve report (#533)
+- [c39d7b4d](https://github.com/stashed/installer/commit/c39d7b4d) Fix mariadb 10.6.23 plugin (#531)
+- [3d06ccc6](https://github.com/stashed/installer/commit/3d06ccc6) Fix make file (#530)
+- [eb05dc25](https://github.com/stashed/installer/commit/eb05dc25) Update cve report (#529)
+- [7da7c0f0](https://github.com/stashed/installer/commit/7da7c0f0) Update cve report (#528)
+- [70b0f586](https://github.com/stashed/installer/commit/70b0f586) Update cve report (#527)
+- [7aedbdd5](https://github.com/stashed/installer/commit/7aedbdd5) Update cve report (#526)
+- [cf64b013](https://github.com/stashed/installer/commit/cf64b013) Update cve report (#525)
+- [038a2464](https://github.com/stashed/installer/commit/038a2464) Update cve report (#524)
+- [b47c6239](https://github.com/stashed/installer/commit/b47c6239) Update cve report (#523)
+- [9c6eddfe](https://github.com/stashed/installer/commit/9c6eddfe) Update cve report (#522)
+- [66bdc8d6](https://github.com/stashed/installer/commit/66bdc8d6) Update cve report (#521)
+- [109c5887](https://github.com/stashed/installer/commit/109c5887) Update cve report (#520)
+- [50ac2b45](https://github.com/stashed/installer/commit/50ac2b45) Update cve report (#519)
+- [49b064bf](https://github.com/stashed/installer/commit/49b064bf) Update cve report (#518)
+- [29af9a00](https://github.com/stashed/installer/commit/29af9a00) Update cve report (#517)
+- [3ced4e50](https://github.com/stashed/installer/commit/3ced4e50) Update cve report (#516)
+- [cb1224e5](https://github.com/stashed/installer/commit/cb1224e5) Update cve report (#515)
+- [a2d7de82](https://github.com/stashed/installer/commit/a2d7de82) Test against k8s 1.34 (#514)
+- [c91dd354](https://github.com/stashed/installer/commit/c91dd354) Update cve report (#513)
+- [3f1de0c7](https://github.com/stashed/installer/commit/3f1de0c7) Update cve report (#512)
+- [eb5233d1](https://github.com/stashed/installer/commit/eb5233d1) Update cve report (#511)
+- [f01dc083](https://github.com/stashed/installer/commit/f01dc083) Update cve report (#510)
+- [1f039f13](https://github.com/stashed/installer/commit/1f039f13) Update cve report (#509)
+- [ae2ca9f7](https://github.com/stashed/installer/commit/ae2ca9f7) Update cve report (#505)
+- [7d0b2c58](https://github.com/stashed/installer/commit/7d0b2c58) Use Go 1.25 (#508)
+- [0d087208](https://github.com/stashed/installer/commit/0d087208) Test against k8s 1.33.2 (#507)
+- [75b19ee0](https://github.com/stashed/installer/commit/75b19ee0) Test against k8s 1.33.2 (#506)
+- [b9252af8](https://github.com/stashed/installer/commit/b9252af8) Update cve report (#504)
+- [21e2ceae](https://github.com/stashed/installer/commit/21e2ceae) Update cve report (#503)
+- [f5fddd81](https://github.com/stashed/installer/commit/f5fddd81) Update cve report (#502)
+- [4b285b95](https://github.com/stashed/installer/commit/4b285b95) Update cve report (#501)
+- [450b8969](https://github.com/stashed/installer/commit/450b8969) Update cve report (#500)
+
+
+
 ## [stashed/kubedump](https://github.com/stashed/kubedump)
 
 ### [0.2.0-v6](https://github.com/stashed/kubedump/releases/tag/0.2.0-v6)
