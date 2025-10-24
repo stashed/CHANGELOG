@@ -12,6 +12,16 @@
 
 
 
+## [stashed/enterprise](https://github.com/stashed/enterprise)
+
+### [v0.42.0](https://github.com/stashed/enterprise/releases/tag/v0.42.0)
+
+- [041ec14e](https://github.com/stashed/enterprise/commit/041ec14e6) Prepare for release v0.42.0 (#276)
+- [9ee6fb4c](https://github.com/stashed/enterprise/commit/9ee6fb4ca) Update deps
+- [54be8099](https://github.com/stashed/enterprise/commit/54be80998) Use Go 1.25 (#275)
+
+
+
 ## [stashed/stash](https://github.com/stashed/stash)
 
 ### [v0.42.0](https://github.com/stashed/stash/releases/tag/v0.42.0)
