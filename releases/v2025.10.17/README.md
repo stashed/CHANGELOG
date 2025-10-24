@@ -284,6 +284,12 @@
 - [4563762](https://github.com/stashed/redis/commit/4563762) [cherry-pick] Use Go 1.25 (#282) (#283)
 
 
+### [6.2.5-v26](https://github.com/stashed/redis/releases/tag/6.2.5-v26)
+
+- [c5a2aae](https://github.com/stashed/redis/commit/c5a2aae) Prepare for release 6.2.5-v26 (#287)
+- [0d0eae2](https://github.com/stashed/redis/commit/0d0eae2) [cherry-pick] Use Go 1.25 (#282) (#284)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
