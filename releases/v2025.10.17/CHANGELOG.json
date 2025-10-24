@@ -1,7 +1,7 @@
 {
   "product_line": "Stash",
   "release": "v2025.10.17",
-  "release_date": "2025-10-24T15:47:32.599758618Z",
+  "release_date": "2025-10-24T15:55:44.423633168Z",
   "release_project_url": "https://github.com/stashed/CHANGELOG",
   "docs_url": "https://stash.run/docs/v2025.10.17",
   "kubernetes_version": "1.28+",
@@ -758,6 +758,24 @@
             {
               "SHA": "d7145e60",
               "Subject": "Use Go 1.25 (#52)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "github.com/stashed/vault",
+      "releases": [
+        {
+          "tag": "1.10.3-v18",
+          "commits": [
+            {
+              "SHA": "b4d3da40",
+              "Subject": "Prepare for release 1.10.3-v18 (#69)"
+            },
+            {
+              "SHA": "5ebfd8f7",
+              "Subject": "[cherry-pick] Use Go 1.25 (#67) (#68)"
             }
           ]
         }

@@ -360,3 +360,12 @@
 
 
 
+## [stashed/vault](https://github.com/stashed/vault)
+
+### [1.10.3-v18](https://github.com/stashed/vault/releases/tag/1.10.3-v18)
+
+- [b4d3da40](https://github.com/stashed/vault/commit/b4d3da40) Prepare for release 1.10.3-v18 (#69)
+- [5ebfd8f7](https://github.com/stashed/vault/commit/5ebfd8f7) [cherry-pick] Use Go 1.25 (#67) (#68)
+
+
+
