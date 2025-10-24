@@ -92,6 +92,15 @@
 
 
 
+## [stashed/mongodb](https://github.com/stashed/mongodb)
+
+### [3.4.17-v39](https://github.com/stashed/mongodb/releases/tag/3.4.17-v39)
+
+- [ab3fec8a](https://github.com/stashed/mongodb/commit/ab3fec8a) Prepare for release 3.4.17-v39 (#2456)
+- [33c15fc5](https://github.com/stashed/mongodb/commit/33c15fc5) [cherry-pick] Use Go 1.25 (#2440) (#2441)
+
+
+
 ## [stashed/postgres](https://github.com/stashed/postgres)
 
 ### [9.6.19-v37](https://github.com/stashed/postgres/releases/tag/9.6.19-v37)
