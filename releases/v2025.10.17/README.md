@@ -43,6 +43,12 @@
 - [3f7c3442](https://github.com/stashed/postgres/commit/3f7c3442) [cherry-pick] Use Go 1.25 (#1485) (#1487)
 
 
+### [12.4-v37](https://github.com/stashed/postgres/releases/tag/12.4-v37)
+
+- [9c43a62f](https://github.com/stashed/postgres/commit/9c43a62f) Prepare for release 12.4-v37 (#1497)
+- [c8f43f91](https://github.com/stashed/postgres/commit/c8f43f91) [cherry-pick] Use Go 1.25 (#1485) (#1488)
+
+
 
 ## [stashed/stash](https://github.com/stashed/stash)
 
