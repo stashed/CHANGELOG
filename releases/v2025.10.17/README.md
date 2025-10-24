@@ -227,6 +227,12 @@
 - [e418799](https://github.com/stashed/nats/commit/e418799) [cherry-pick] Use Go 1.25 (#189) (#190)
 
 
+### [2.8.2-v21](https://github.com/stashed/nats/releases/tag/2.8.2-v21)
+
+- [ac63cdf](https://github.com/stashed/nats/commit/ac63cdf) Prepare for release 2.8.2-v21 (#193)
+- [8320954](https://github.com/stashed/nats/commit/8320954) [cherry-pick] Use Go 1.25 (#189) (#191)
+
+
 
 ## [stashed/percona-xtradb](https://github.com/stashed/percona-xtradb)
 
