@@ -2,6 +2,7 @@
 
 | Stash Version | Release Date | User Guide | Changelog | Kubernetes Version |
 |--------------------------- | ------------ | ---------- | --------- | ------------------ |
+| [v2025.10.17](https:/github.com/stashed/CHANGELOG/releases/tag/v2025.10.17) | 2025-10-24 | [User Guide](https://stash.run/docs/v2025.10.17) | [CHANGELOG](/releases/v2025.10.17/README.md) | 1.28+ |
 | [v2025.7.31](https:/github.com/stashed/CHANGELOG/releases/tag/v2025.7.31) | 2025-08-02 | [User Guide](https://stash.run/docs/v2025.7.31) | [CHANGELOG](/releases/v2025.7.31/README.md) | 1.28+ |
 | [v2025.6.30](https:/github.com/stashed/CHANGELOG/releases/tag/v2025.6.30) | 2025-06-27 | [User Guide](https://stash.run/docs/v2025.6.30) | [CHANGELOG](/releases/v2025.6.30/README.md) | 1.26+ |
 | [v2025.2.10](https:/github.com/stashed/CHANGELOG/releases/tag/v2025.2.10) | 2025-02-07 | [User Guide](https://stash.run/docs/v2025.2.10) | [CHANGELOG](/releases/v2025.2.10/README.md) | 1.26+ |
