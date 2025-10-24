@@ -118,6 +118,12 @@
 - [171b79ab](https://github.com/stashed/mongodb/commit/171b79ab) [cherry-pick] Use Go 1.25 (#2440) (#2443)
 
 
+### [4.0.3-v39](https://github.com/stashed/mongodb/releases/tag/4.0.3-v39)
+
+- [7e54cf2f](https://github.com/stashed/mongodb/commit/7e54cf2f) Prepare for release 4.0.3-v39 (#2461)
+- [3043d9cf](https://github.com/stashed/mongodb/commit/3043d9cf) [cherry-pick] Use Go 1.25 (#2440) (#2446)
+
+
 ### [4.0.11-v39](https://github.com/stashed/mongodb/releases/tag/4.0.11-v39)
 
 - [ddb6afec](https://github.com/stashed/mongodb/commit/ddb6afec) Prepare for release 4.0.11-v39 (#2460)
