@@ -75,6 +75,12 @@
 - [399de5e2](https://github.com/stashed/elasticsearch/commit/399de5e2) [cherry-pick] Use Go 1.25 (#1691) (#1698)
 
 
+### [8.2.0-v21](https://github.com/stashed/elasticsearch/releases/tag/8.2.0-v21)
+
+- [76bcf9cd](https://github.com/stashed/elasticsearch/commit/76bcf9cd) Prepare for release 8.2.0-v21 (#1711)
+- [a2a26934](https://github.com/stashed/elasticsearch/commit/a2a26934) [cherry-pick] Use Go 1.25 (#1691) (#1701)
+
+
 
 ## [stashed/enterprise](https://github.com/stashed/enterprise)
 
