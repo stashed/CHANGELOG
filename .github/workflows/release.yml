@@ -14,16 +14,28 @@ jobs:
       github.event.issue.pull_request != null &&
       startsWith(github.event.issue.title, 'Release:') &&
       !contains(github.event.issue.labels.*.name, 'locked') &&
-      contains(fromJSON('["OWNER", "MEMBER"]'), github.event.comment.author_association)
+      (
+        contains(fromJSON('["OWNER", "MEMBER"]'), github.event.comment.author_association) ||
+        github.event.comment.user.login == '1gtm-app[bot]'
+      )
     runs-on: ubuntu-22.04
-    permissions:
-      contents: write
-      issues: write
-      pull-requests: write
 
 
     steps:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+        with:
+          persist-credentials: false
+
+      - name: Generate LGTM App token
+        id: lgtm-app-token
+        uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
+        with:
+          client-id: ${{ secrets.LGTM_APP_CLIENT_ID }}
+          private-key: ${{ secrets.LGTM_APP_PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
+          permission-contents: write
+          permission-issues: write
+          permission-pull-requests: write
 
       - name: Set up Go 1.25
         uses: actions/setup-go@40f1582b2485089dde7abd97c1529aa768e1baff # v5.6.0
@@ -76,16 +88,18 @@ jobs:
 
       - name: Prepare git
         env:
-          GITHUB_USER: ${{ github.actor }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ steps.lgtm-app-token.outputs.token }}
         run: |
-          git config --global user.name "1gtm"
-          git config --global user.email "1gtm@appscode.com"
-          git remote set-url origin "https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git config --global user.name "1gtm-app[bot]"
+          git config --global user.email "3686661+1gtm-app[bot]@users.noreply.github.com"
+          git config --global \
+            url."https://x-access-token:${GITHUB_TOKEN}@github.com".insteadOf \
+            "https://github.com"
+          # git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 
       - name: Verify PR is from same repo (not a fork)
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ steps.lgtm-app-token.outputs.token }}
         run: |
           head_repo=$(gh pr view ${{ github.event.issue.number }} \
             --json headRepositoryOwner,headRepository \
@@ -97,8 +111,8 @@ jobs:
 
       - name: Release
         env:
-          GITHUB_USER: ${{ github.actor }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: x-access-token
+          GITHUB_TOKEN: ${{ steps.lgtm-app-token.outputs.token }}
           RELEASE_TRACKER: ${{ github.event.issue.html_url }}
           PR_TITLE: ${{ github.event.issue.title }}
         run: |
