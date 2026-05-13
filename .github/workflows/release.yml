@@ -94,7 +94,7 @@ jobs:
               exit 0
           }
 
-          hub pr checkout ${{ github.event.issue.number }}
+          gh pr checkout ${{ github.event.issue.number }}
 
           release-automaton release run \
             --release-tracker=${{ github.event.issue.html_url }} \
