@@ -62,11 +62,6 @@ jobs:
         run: |
           curl https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash
 
-      - name: Install GitHub CLI
-        run: |
-          curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.1
-          sudo mv bin/hub /usr/local/bin
-
       - name: Prepare git
         env:
           GITHUB_USER: ${{ github.actor }}
