@@ -3,12 +3,24 @@ name: Release
 on:
   issue_comment:
     types: [created]
-  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   build:
     name: Build
+    if: |
+      github.event.issue.pull_request != null &&
+      startsWith(github.event.issue.title, 'Release:') &&
+      !contains(github.event.issue.labels.*.name, 'locked') &&
+      contains(fromJSON('["OWNER", "MEMBER"]'), github.event.comment.author_association)
     runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+
 
     steps:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
@@ -67,13 +79,23 @@ jobs:
           GITHUB_USER: ${{ github.actor }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          set -x
           git config --global user.name "1gtm"
           git config --global user.email "1gtm@appscode.com"
           git remote set-url origin https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
 
+      - name: Verify PR is from same repo (not a fork)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          head_repo=$(gh pr view ${{ github.event.issue.number }} \
+            --json headRepositoryOwner,headRepository \
+            --jq '.headRepositoryOwner.login + "/" + .headRepository.name')
+          if [ "$head_repo" != "${{ github.repository }}" ]; then
+            echo "::error::PR head is $head_repo (fork); refusing to run release automation."
+            exit 1
+          fi
+
       - name: Release
-        if: startsWith(github.event.issue.title, 'Release:') && contains(github.event.issue.html_url, '/pull/') && contains(github.event.issue.labels, 'locked') == false
         env:
           GITHUB_USER: ${{ github.actor }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
