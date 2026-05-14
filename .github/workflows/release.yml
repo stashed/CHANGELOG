@@ -19,6 +19,8 @@ jobs:
         github.event.comment.user.login == '1gtm-app[bot]'
       )
     runs-on: ubuntu-22.04
+    permissions:
+      contents: write
 
 
     steps:
