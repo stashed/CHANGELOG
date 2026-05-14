@@ -4,9 +4,6 @@ on:
   issue_comment:
     types: [created]
 
-permissions:
-  contents: read
-
 jobs:
   build:
     name: Build
@@ -14,34 +11,18 @@ jobs:
       github.event.issue.pull_request != null &&
       startsWith(github.event.issue.title, 'Release:') &&
       !contains(github.event.issue.labels.*.name, 'locked') &&
-      (
-        contains(fromJSON('["OWNER", "MEMBER"]'), github.event.comment.author_association) ||
-        github.event.comment.user.login == '1gtm-app[bot]'
-      )
-    runs-on: ubuntu-22.04
-    permissions:
-      contents: write
-
-
+      contains(fromJSON('["OWNER", "MEMBER"]'), github.event.comment.author_association)
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
         with:
           persist-credentials: false
 
-      - name: Generate LGTM App token
-        id: lgtm-app-token
-        uses: actions/create-github-app-token@bcd2ba49218906704ab6c1aa796996da409d3eb1 # v3.2.0
-        with:
-          client-id: ${{ secrets.LGTM_APP_CLIENT_ID }}
-          private-key: ${{ secrets.LGTM_APP_PRIVATE_KEY }}
-          owner: ${{ github.repository_owner }}
-          permission-contents: write
-          permission-pull-requests: write
-
       - name: Set up Go 1.25
         uses: actions/setup-go@40f1582b2485089dde7abd97c1529aa768e1baff # v5.6.0
         with:
           go-version: '1.25'
+          cache: false
         id: go
 
       - name: Install yq
@@ -89,17 +70,18 @@ jobs:
 
       - name: Prepare git
         env:
-          GITHUB_TOKEN: ${{ steps.lgtm-app-token.outputs.token }}
+          GITHUB_USER: 1gtm
+          GITHUB_TOKEN: ${{ secrets.LGTM_GITHUB_TOKEN }}
         run: |
           git config --global user.name "1gtm"
           git config --global user.email "1gtm@appscode.com"
           git config --global \
-            url."https://x-access-token:${GITHUB_TOKEN}@github.com".insteadOf \
+            url."https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com".insteadOf \
             "https://github.com"
 
       - name: Verify PR is from same repo (not a fork)
         env:
-          GH_TOKEN: ${{ steps.lgtm-app-token.outputs.token }}
+          GH_TOKEN: ${{ secrets.LGTM_GITHUB_TOKEN }}
         run: |
           head_repo=$(gh pr view ${{ github.event.issue.number }} \
             --json headRepositoryOwner,headRepository \
@@ -111,8 +93,8 @@ jobs:
 
       - name: Release
         env:
-          GITHUB_USER: x-access-token
-          GITHUB_TOKEN: ${{ steps.lgtm-app-token.outputs.token }}
+          GITHUB_USER: 1gtm
+          GITHUB_TOKEN: ${{ secrets.LGTM_GITHUB_TOKEN }}
           RELEASE_TRACKER: ${{ github.event.issue.html_url }}
           PR_TITLE: ${{ github.event.issue.title }}
         run: |
