@@ -34,7 +34,6 @@ jobs:
           private-key: ${{ secrets.LGTM_APP_PRIVATE_KEY }}
           owner: ${{ github.repository_owner }}
           permission-contents: write
-          permission-issues: write
           permission-pull-requests: write
 
       - name: Set up Go 1.25
@@ -90,12 +89,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ steps.lgtm-app-token.outputs.token }}
         run: |
-          git config --global user.name "1gtm-app[bot]"
-          git config --global user.email "3686661+1gtm-app[bot]@users.noreply.github.com"
+          git config --global user.name "1gtm"
+          git config --global user.email "1gtm@appscode.com"
           git config --global \
             url."https://x-access-token:${GITHUB_TOKEN}@github.com".insteadOf \
             "https://github.com"
-          # git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 
       - name: Verify PR is from same repo (not a fork)
         env:
