@@ -3,20 +3,26 @@ name: Release
 on:
   issue_comment:
     types: [created]
-  workflow_dispatch:
 
 jobs:
   build:
     name: Build
-    runs-on: ubuntu-22.04
-
+    if: |
+      github.event.issue.pull_request != null &&
+      startsWith(github.event.issue.title, 'Release:') &&
+      !contains(github.event.issue.labels.*.name, 'locked') &&
+      contains(fromJSON('["OWNER", "MEMBER"]'), github.event.comment.author_association)
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+        with:
+          persist-credentials: false
 
       - name: Set up Go 1.25
-        uses: actions/setup-go@v5
+        uses: actions/setup-go@40f1582b2485089dde7abd97c1529aa768e1baff # v5.6.0
         with:
           go-version: '1.25'
+          cache: false
         id: go
 
       - name: Install yq
@@ -62,30 +68,37 @@ jobs:
         run: |
           curl https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3 | bash
 
-      - name: Install GitHub CLI
-        run: |
-          curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.1
-          sudo mv bin/hub /usr/local/bin
-
       - name: Prepare git
         env:
           GITHUB_USER: 1gtm
           GITHUB_TOKEN: ${{ secrets.LGTM_GITHUB_TOKEN }}
         run: |
-          set -x
           git config --global user.name "1gtm"
           git config --global user.email "1gtm@appscode.com"
-          git remote set-url origin https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          git config --global \
+            url."https://${GITHUB_USER}:${GITHUB_TOKEN}@github.com".insteadOf \
+            "https://github.com"
+
+      - name: Verify PR is from same repo (not a fork)
+        env:
+          GH_TOKEN: ${{ secrets.LGTM_GITHUB_TOKEN }}
+        run: |
+          head_repo=$(gh pr view ${{ github.event.issue.number }} \
+            --json headRepositoryOwner,headRepository \
+            --jq '.headRepositoryOwner.login + "/" + .headRepository.name')
+          if [ "$head_repo" != "${{ github.repository }}" ]; then
+            echo "::error::PR head is $head_repo (fork); refusing to run release automation."
+            exit 1
+          fi
 
       - name: Release
-        if: startsWith(github.event.issue.title, 'Release:') && contains(github.event.issue.html_url, '/pull/') && contains(github.event.issue.labels, 'locked') == false
         env:
           GITHUB_USER: 1gtm
           GITHUB_TOKEN: ${{ secrets.LGTM_GITHUB_TOKEN }}
           RELEASE_TRACKER: ${{ github.event.issue.html_url }}
           PR_TITLE: ${{ github.event.issue.title }}
         run: |
-          title="${{ github.event.issue.title }}"
+          title="$PR_TITLE"
           while IFS=$': \r\t' read -r marker v ignored; do
               case $marker in
                   Release)
@@ -99,7 +112,7 @@ jobs:
               exit 0
           }
 
-          hub pr checkout ${{ github.event.issue.number }}
+          gh pr checkout ${{ github.event.issue.number }}
 
           release-automaton release run \
             --release-tracker=${{ github.event.issue.html_url }} \
